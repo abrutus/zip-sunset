@@ -1,0 +1,488 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Paoli',
+    1 => 'PA',
+    2 => '40.04',
+    3 => '-75.49',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  10 => 
+  array (
+    0 => 'Atglen',
+    1 => 'PA',
+    2 => '39.94',
+    3 => '-75.97',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  11 => 
+  array (
+    0 => 'Avondale',
+    1 => 'PA',
+    2 => '39.82',
+    3 => '-75.78',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  12 => 
+  array (
+    0 => 'Berwyn',
+    1 => 'PA',
+    2 => '40.03',
+    3 => '-75.44',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  16 => 
+  array (
+    0 => 'Brandamore',
+    1 => 'PA',
+    2 => '39.96',
+    3 => '-75.82',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  17 => 
+  array (
+    0 => 'Chadds Ford',
+    1 => 'PA',
+    2 => '39.86',
+    3 => '-75.59',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  18 => 
+  array (
+    0 => 'Chatham',
+    1 => 'PA',
+    2 => '39.83',
+    3 => '-75.83',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  19 => 
+  array (
+    0 => 'Cheyney',
+    1 => 'PA',
+    2 => '39.92',
+    3 => '-75.52',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  20 => 
+  array (
+    0 => 'Coatesville',
+    1 => 'PA',
+    2 => '39.98',
+    3 => '-75.81',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  30 => 
+  array (
+    0 => 'Cochranville',
+    1 => 'PA',
+    2 => '39.87',
+    3 => '-75.92',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  31 => 
+  array (
+    0 => 'Concordville',
+    1 => 'PA',
+    2 => '39.88',
+    3 => '-75.52',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  33 => 
+  array (
+    0 => 'Devon',
+    1 => 'PA',
+    2 => '40.04',
+    3 => '-75.42',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  35 => 
+  array (
+    0 => 'Downingtown',
+    1 => 'PA',
+    2 => '40',
+    3 => '-75.7',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  39 => 
+  array (
+    0 => 'Concordville',
+    1 => 'PA',
+    2 => '39.88',
+    3 => '-75.52',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  40 => 
+  array (
+    0 => 'Concordville',
+    1 => 'PA',
+    2 => '39.88',
+    3 => '-75.52',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  41 => 
+  array (
+    0 => 'Exton',
+    1 => 'PA',
+    2 => '40.03',
+    3 => '-75.63',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  42 => 
+  array (
+    0 => 'Glen Mills',
+    1 => 'PA',
+    2 => '39.89',
+    3 => '-75.5',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  43 => 
+  array (
+    0 => 'Glenmoore',
+    1 => 'PA',
+    2 => '40.09',
+    3 => '-75.77',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  44 => 
+  array (
+    0 => 'Honey Brook',
+    1 => 'PA',
+    2 => '40.09',
+    3 => '-75.91',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  45 => 
+  array (
+    0 => 'Immaculata',
+    1 => 'PA',
+    2 => '40.04',
+    3 => '-75.52',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  46 => 
+  array (
+    0 => 'Kelton',
+    1 => 'PA',
+    2 => '39.79',
+    3 => '-75.87',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  47 => 
+  array (
+    0 => 'Kemblesville',
+    1 => 'PA',
+    2 => '39.76',
+    3 => '-75.79',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  48 => 
+  array (
+    0 => 'Kennett Square',
+    1 => 'PA',
+    2 => '39.84',
+    3 => '-75.71',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  50 => 
+  array (
+    0 => 'Landenberg',
+    1 => 'PA',
+    2 => '39.76',
+    3 => '-75.78',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  51 => 
+  array (
+    0 => 'Lewisville',
+    1 => 'PA',
+    2 => '39.72',
+    3 => '-75.86',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  52 => 
+  array (
+    0 => 'Lincoln University',
+    1 => 'PA',
+    2 => '39.78',
+    3 => '-75.88',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  53 => 
+  array (
+    0 => 'Lionville',
+    1 => 'PA',
+    2 => '40.04',
+    3 => '-75.62',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  54 => 
+  array (
+    0 => 'Lyndell',
+    1 => 'PA',
+    2 => '40.02',
+    3 => '-75.71',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  55 => 
+  array (
+    0 => 'Malvern',
+    1 => 'PA',
+    2 => '40.03',
+    3 => '-75.51',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  57 => 
+  array (
+    0 => 'Mendenhall',
+    1 => 'PA',
+    2 => '39.86',
+    3 => '-75.71',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  58 => 
+  array (
+    0 => 'Modena',
+    1 => 'PA',
+    2 => '39.96',
+    3 => '-75.8',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  60 => 
+  array (
+    0 => 'New London',
+    1 => 'PA',
+    2 => '39.77',
+    3 => '-75.88',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  62 => 
+  array (
+    0 => 'Nottingham',
+    1 => 'PA',
+    2 => '39.74',
+    3 => '-76.04',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  63 => 
+  array (
+    0 => 'Oxford',
+    1 => 'PA',
+    2 => '39.78',
+    3 => '-75.98',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  65 => 
+  array (
+    0 => 'Parkesburg',
+    1 => 'PA',
+    2 => '39.95',
+    3 => '-75.91',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  66 => 
+  array (
+    0 => 'Pocopson',
+    1 => 'PA',
+    2 => '39.9',
+    3 => '-75.62',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  67 => 
+  array (
+    0 => 'Pomeroy',
+    1 => 'PA',
+    2 => '39.96',
+    3 => '-75.92',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  69 => 
+  array (
+    0 => 'Sadsburyville',
+    1 => 'PA',
+    2 => '39.96',
+    3 => '-75.92',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  71 => 
+  array (
+    0 => 'Suplee',
+    1 => 'PA',
+    2 => '40.07',
+    3 => '-75.88',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  72 => 
+  array (
+    0 => 'Thorndale',
+    1 => 'PA',
+    2 => '39.99',
+    3 => '-75.75',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  73 => 
+  array (
+    0 => 'Thornton',
+    1 => 'PA',
+    2 => '39.89',
+    3 => '-75.53',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  74 => 
+  array (
+    0 => 'Toughkenamon',
+    1 => 'PA',
+    2 => '39.83',
+    3 => '-75.75',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  75 => 
+  array (
+    0 => 'Unionville',
+    1 => 'PA',
+    2 => '39.89',
+    3 => '-75.73',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  76 => 
+  array (
+    0 => 'Wagontown',
+    1 => 'PA',
+    2 => '39.96',
+    3 => '-75.82',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  80 => 
+  array (
+    0 => 'West Chester',
+    1 => 'PA',
+    2 => '39.95',
+    3 => '-75.6',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  81 => 
+  array (
+    0 => 'West Chester',
+    1 => 'PA',
+    2 => '39.95',
+    3 => '-75.6',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  82 => 
+  array (
+    0 => 'West Chester',
+    1 => 'PA',
+    2 => '39.95',
+    3 => '-75.6',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  83 => 
+  array (
+    0 => 'West Chester',
+    1 => 'PA',
+    2 => '39.95',
+    3 => '-75.6',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  88 => 
+  array (
+    0 => 'West Chester',
+    1 => 'PA',
+    2 => '39.96',
+    3 => '-75.61',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  90 => 
+  array (
+    0 => 'West Grove',
+    1 => 'PA',
+    2 => '39.82',
+    3 => '-75.82',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  95 => 
+  array (
+    0 => 'Westtown',
+    1 => 'PA',
+    2 => '39.93',
+    3 => '-75.55',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  97 => 
+  array (
+    0 => 'Southeastern',
+    1 => 'PA',
+    2 => '40.05',
+    3 => '-75.41',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  98 => 
+  array (
+    0 => 'Southeastern',
+    1 => 'PA',
+    2 => '40.05',
+    3 => '-75.41',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  99 => 
+  array (
+    0 => 'Southeastern',
+    1 => 'PA',
+    2 => '40.05',
+    3 => '-75.41',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

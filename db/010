@@ -1,0 +1,632 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Agawam',
+    1 => 'MA',
+    2 => '42.06',
+    3 => '-72.61',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '02' => 
+  array (
+    0 => 'Amherst',
+    1 => 'MA',
+    2 => '42.37',
+    3 => '-72.52',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '03' => 
+  array (
+    0 => 'Amherst',
+    1 => 'MA',
+    2 => '42.37',
+    3 => '-72.52',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '04' => 
+  array (
+    0 => 'Amherst',
+    1 => 'MA',
+    2 => '42.37',
+    3 => '-72.52',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '05' => 
+  array (
+    0 => 'Barre',
+    1 => 'MA',
+    2 => '42.42',
+    3 => '-72.1',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '07' => 
+  array (
+    0 => 'Belchertown',
+    1 => 'MA',
+    2 => '42.27',
+    3 => '-72.4',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '08' => 
+  array (
+    0 => 'Blandford',
+    1 => 'MA',
+    2 => '42.18',
+    3 => '-72.93',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '09' => 
+  array (
+    0 => 'Bondsville',
+    1 => 'MA',
+    2 => '42.2',
+    3 => '-72.34',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  10 => 
+  array (
+    0 => 'Brimfield',
+    1 => 'MA',
+    2 => '42.11',
+    3 => '-72.2',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  11 => 
+  array (
+    0 => 'Chester',
+    1 => 'MA',
+    2 => '42.28',
+    3 => '-72.98',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  12 => 
+  array (
+    0 => 'Chesterfield',
+    1 => 'MA',
+    2 => '42.4',
+    3 => '-72.85',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  13 => 
+  array (
+    0 => 'Chicopee',
+    1 => 'MA',
+    2 => '42.17',
+    3 => '-72.57',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  14 => 
+  array (
+    0 => 'Chicopee',
+    1 => 'MA',
+    2 => '42.17',
+    3 => '-72.57',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  20 => 
+  array (
+    0 => 'Chicopee',
+    1 => 'MA',
+    2 => '42.17',
+    3 => '-72.57',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  21 => 
+  array (
+    0 => 'Chicopee',
+    1 => 'MA',
+    2 => '42.17',
+    3 => '-72.57',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  22 => 
+  array (
+    0 => 'Chicopee',
+    1 => 'MA',
+    2 => '42.17',
+    3 => '-72.57',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  26 => 
+  array (
+    0 => 'Cummington',
+    1 => 'MA',
+    2 => '42.46',
+    3 => '-72.9',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  27 => 
+  array (
+    0 => 'Easthampton',
+    1 => 'MA',
+    2 => '42.26',
+    3 => '-72.68',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  28 => 
+  array (
+    0 => 'East Longmeadow',
+    1 => 'MA',
+    2 => '42.06',
+    3 => '-72.51',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  29 => 
+  array (
+    0 => 'East Otis',
+    1 => 'MA',
+    2 => '42.17',
+    3 => '-73.03',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  30 => 
+  array (
+    0 => 'Feeding Hills',
+    1 => 'MA',
+    2 => '42.06',
+    3 => '-72.67',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  31 => 
+  array (
+    0 => 'Gilbertville',
+    1 => 'MA',
+    2 => '42.35',
+    3 => '-72.21',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  32 => 
+  array (
+    0 => 'Goshen',
+    1 => 'MA',
+    2 => '42.43',
+    3 => '-72.8',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  33 => 
+  array (
+    0 => 'Granby',
+    1 => 'MA',
+    2 => '42.26',
+    3 => '-72.52',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  34 => 
+  array (
+    0 => 'Granville',
+    1 => 'MA',
+    2 => '42.06',
+    3 => '-72.86',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  35 => 
+  array (
+    0 => 'Hadley',
+    1 => 'MA',
+    2 => '42.35',
+    3 => '-72.58',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  36 => 
+  array (
+    0 => 'Hampden',
+    1 => 'MA',
+    2 => '42.06',
+    3 => '-72.41',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  37 => 
+  array (
+    0 => 'Hardwick',
+    1 => 'MA',
+    2 => '42.35',
+    3 => '-72.2',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  38 => 
+  array (
+    0 => 'Hatfield',
+    1 => 'MA',
+    2 => '42.37',
+    3 => '-72.6',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  39 => 
+  array (
+    0 => 'Haydenville',
+    1 => 'MA',
+    2 => '42.39',
+    3 => '-72.7',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  40 => 
+  array (
+    0 => 'Holyoke',
+    1 => 'MA',
+    2 => '42.21',
+    3 => '-72.64',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  41 => 
+  array (
+    0 => 'Holyoke',
+    1 => 'MA',
+    2 => '42.21',
+    3 => '-72.64',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  50 => 
+  array (
+    0 => 'Huntington',
+    1 => 'MA',
+    2 => '42.23',
+    3 => '-72.88',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  53 => 
+  array (
+    0 => 'Leeds',
+    1 => 'MA',
+    2 => '42.35',
+    3 => '-72.71',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  54 => 
+  array (
+    0 => 'Leverett',
+    1 => 'MA',
+    2 => '42.45',
+    3 => '-72.5',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  56 => 
+  array (
+    0 => 'Ludlow',
+    1 => 'MA',
+    2 => '42.16',
+    3 => '-72.48',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  57 => 
+  array (
+    0 => 'Monson',
+    1 => 'MA',
+    2 => '42.09',
+    3 => '-72.31',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  59 => 
+  array (
+    0 => 'North Amherst',
+    1 => 'MA',
+    2 => '42.4',
+    3 => '-72.52',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  60 => 
+  array (
+    0 => 'Northampton',
+    1 => 'MA',
+    2 => '42.32',
+    3 => '-72.67',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  61 => 
+  array (
+    0 => 'Northampton',
+    1 => 'MA',
+    2 => '42.32',
+    3 => '-72.67',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  62 => 
+  array (
+    0 => 'Florence',
+    1 => 'MA',
+    2 => '42.32',
+    3 => '-72.67',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  63 => 
+  array (
+    0 => 'Northampton',
+    1 => 'MA',
+    2 => '42.32',
+    3 => '-72.67',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  66 => 
+  array (
+    0 => 'North Hatfield',
+    1 => 'MA',
+    2 => '42.4',
+    3 => '-72.6',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  68 => 
+  array (
+    0 => 'Oakham',
+    1 => 'MA',
+    2 => '42.35',
+    3 => '-72.05',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  69 => 
+  array (
+    0 => 'Palmer',
+    1 => 'MA',
+    2 => '42.16',
+    3 => '-72.32',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  70 => 
+  array (
+    0 => 'Plainfield',
+    1 => 'MA',
+    2 => '42.51',
+    3 => '-72.91',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  71 => 
+  array (
+    0 => 'Russell',
+    1 => 'MA',
+    2 => '42.18',
+    3 => '-72.85',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  72 => 
+  array (
+    0 => 'Shutesbury',
+    1 => 'MA',
+    2 => '42.45',
+    3 => '-72.4',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  73 => 
+  array (
+    0 => 'Southampton',
+    1 => 'MA',
+    2 => '42.23',
+    3 => '-72.73',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  74 => 
+  array (
+    0 => 'South Barre',
+    1 => 'MA',
+    2 => '42.38',
+    3 => '-72.09',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  75 => 
+  array (
+    0 => 'South Hadley',
+    1 => 'MA',
+    2 => '42.26',
+    3 => '-72.56',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  77 => 
+  array (
+    0 => 'Southwick',
+    1 => 'MA',
+    2 => '42.05',
+    3 => '-72.76',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  79 => 
+  array (
+    0 => 'Thorndike',
+    1 => 'MA',
+    2 => '42.18',
+    3 => '-72.33',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  80 => 
+  array (
+    0 => 'Three Rivers',
+    1 => 'MA',
+    2 => '42.18',
+    3 => '-72.37',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  81 => 
+  array (
+    0 => 'Wales',
+    1 => 'MA',
+    2 => '42.06',
+    3 => '-72.21',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  82 => 
+  array (
+    0 => 'Ware',
+    1 => 'MA',
+    2 => '42.25',
+    3 => '-72.24',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  83 => 
+  array (
+    0 => 'Warren',
+    1 => 'MA',
+    2 => '42.21',
+    3 => '-72.19',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  84 => 
+  array (
+    0 => 'West Chesterfield',
+    1 => 'MA',
+    2 => '42.41',
+    3 => '-72.87',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  85 => 
+  array (
+    0 => 'Westfield',
+    1 => 'MA',
+    2 => '42.13',
+    3 => '-72.75',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  86 => 
+  array (
+    0 => 'Westfield',
+    1 => 'MA',
+    2 => '42.13',
+    3 => '-72.75',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  88 => 
+  array (
+    0 => 'West Hatfield',
+    1 => 'MA',
+    2 => '42.39',
+    3 => '-72.64',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  89 => 
+  array (
+    0 => 'West Springfield',
+    1 => 'MA',
+    2 => '42.12',
+    3 => '-72.65',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  90 => 
+  array (
+    0 => 'West Springfield',
+    1 => 'MA',
+    2 => '42.12',
+    3 => '-72.65',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  92 => 
+  array (
+    0 => 'West Warren',
+    1 => 'MA',
+    2 => '42.2',
+    3 => '-72.2',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  93 => 
+  array (
+    0 => 'Whately',
+    1 => 'MA',
+    2 => '42.45',
+    3 => '-72.61',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  94 => 
+  array (
+    0 => 'Wheelwright',
+    1 => 'MA',
+    2 => '42.35',
+    3 => '-72.14',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  95 => 
+  array (
+    0 => 'Wilbraham',
+    1 => 'MA',
+    2 => '42.13',
+    3 => '-72.43',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  96 => 
+  array (
+    0 => 'Williamsburg',
+    1 => 'MA',
+    2 => '42.4',
+    3 => '-72.71',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  97 => 
+  array (
+    0 => 'Woronoco',
+    1 => 'MA',
+    2 => '42.19',
+    3 => '-72.82',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  98 => 
+  array (
+    0 => 'Worthington',
+    1 => 'MA',
+    2 => '42.41',
+    3 => '-72.93',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

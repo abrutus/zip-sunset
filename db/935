@@ -1,0 +1,488 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Mojave',
+    1 => 'CA',
+    2 => '35.09',
+    3 => '-118.13',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '02' => 
+  array (
+    0 => 'Mojave',
+    1 => 'CA',
+    2 => '35.05',
+    3 => '-118.17',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '04' => 
+  array (
+    0 => 'California City',
+    1 => 'CA',
+    2 => '35.14',
+    3 => '-118.01',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '05' => 
+  array (
+    0 => 'California City',
+    1 => 'CA',
+    2 => '35.15',
+    3 => '-117.92',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  10 => 
+  array (
+    0 => 'Acton',
+    1 => 'CA',
+    2 => '34.49',
+    3 => '-118.22',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  12 => 
+  array (
+    0 => 'Benton',
+    1 => 'CA',
+    2 => '37.87',
+    3 => '-118.54',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  13 => 
+  array (
+    0 => 'Big Pine',
+    1 => 'CA',
+    2 => '37.18',
+    3 => '-118.18',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  14 => 
+  array (
+    0 => 'Bishop',
+    1 => 'CA',
+    2 => '37.5',
+    3 => '-118.31',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  15 => 
+  array (
+    0 => 'Bishop',
+    1 => 'CA',
+    2 => '37.36',
+    3 => '-118.4',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  16 => 
+  array (
+    0 => 'Boron',
+    1 => 'CA',
+    2 => '34.96',
+    3 => '-117.67',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  17 => 
+  array (
+    0 => 'Bridgeport',
+    1 => 'CA',
+    2 => '38.27',
+    3 => '-119.33',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  18 => 
+  array (
+    0 => 'Caliente',
+    1 => 'CA',
+    2 => '35.4',
+    3 => '-118.51',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  19 => 
+  array (
+    0 => 'Cantil',
+    1 => 'CA',
+    2 => '35.3',
+    3 => '-117.95',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  22 => 
+  array (
+    0 => 'Darwin',
+    1 => 'CA',
+    2 => '36.3',
+    3 => '-117.59',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  23 => 
+  array (
+    0 => 'Edwards',
+    1 => 'CA',
+    2 => '34.96',
+    3 => '-117.87',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  24 => 
+  array (
+    0 => 'Edwards',
+    1 => 'CA',
+    2 => '34.92',
+    3 => '-117.94',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  26 => 
+  array (
+    0 => 'Independence',
+    1 => 'CA',
+    2 => '36.83',
+    3 => '-118.24',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  27 => 
+  array (
+    0 => 'Inyokern',
+    1 => 'CA',
+    2 => '35.88',
+    3 => '-118.15',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  28 => 
+  array (
+    0 => 'Johannesburg',
+    1 => 'CA',
+    2 => '35.36',
+    3 => '-117.64',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  29 => 
+  array (
+    0 => 'June Lake',
+    1 => 'CA',
+    2 => '37.77',
+    3 => '-119.06',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  30 => 
+  array (
+    0 => 'Keeler',
+    1 => 'CA',
+    2 => '36.48',
+    3 => '-117.86',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  31 => 
+  array (
+    0 => 'Keene',
+    1 => 'CA',
+    2 => '35.23',
+    3 => '-118.62',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  32 => 
+  array (
+    0 => 'Lake Hughes',
+    1 => 'CA',
+    2 => '34.69',
+    3 => '-118.52',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  34 => 
+  array (
+    0 => 'Lancaster',
+    1 => 'CA',
+    2 => '34.72',
+    3 => '-118.15',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  35 => 
+  array (
+    0 => 'Lancaster',
+    1 => 'CA',
+    2 => '34.69',
+    3 => '-117.9',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  36 => 
+  array (
+    0 => 'Lancaster',
+    1 => 'CA',
+    2 => '34.72',
+    3 => '-118.48',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  39 => 
+  array (
+    0 => 'Lancaster',
+    1 => 'CA',
+    2 => '34.68',
+    3 => '-118.12',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  41 => 
+  array (
+    0 => 'Lee Vining',
+    1 => 'CA',
+    2 => '38.03',
+    3 => '-118.82',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  42 => 
+  array (
+    0 => 'Little Lake',
+    1 => 'CA',
+    2 => '35.93',
+    3 => '-117.9',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  43 => 
+  array (
+    0 => 'Littlerock',
+    1 => 'CA',
+    2 => '34.48',
+    3 => '-117.92',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  44 => 
+  array (
+    0 => 'Llano',
+    1 => 'CA',
+    2 => '34.49',
+    3 => '-117.77',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  45 => 
+  array (
+    0 => 'Lone Pine',
+    1 => 'CA',
+    2 => '36.56',
+    3 => '-118.18',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  46 => 
+  array (
+    0 => 'Mammoth Lakes',
+    1 => 'CA',
+    2 => '37.58',
+    3 => '-118.84',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  49 => 
+  array (
+    0 => 'Olancha',
+    1 => 'CA',
+    2 => '36.26',
+    3 => '-117.95',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  50 => 
+  array (
+    0 => 'Palmdale',
+    1 => 'CA',
+    2 => '34.52',
+    3 => '-118.08',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  51 => 
+  array (
+    0 => 'Palmdale',
+    1 => 'CA',
+    2 => '34.61',
+    3 => '-118.27',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  52 => 
+  array (
+    0 => 'Palmdale',
+    1 => 'CA',
+    2 => '34.5',
+    3 => '-118.01',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  53 => 
+  array (
+    0 => 'Pearblossom',
+    1 => 'CA',
+    2 => '34.48',
+    3 => '-117.88',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  54 => 
+  array (
+    0 => 'Randsburg',
+    1 => 'CA',
+    2 => '35.39',
+    3 => '-117.73',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  55 => 
+  array (
+    0 => 'Ridgecrest',
+    1 => 'CA',
+    2 => '35.55',
+    3 => '-117.67',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  56 => 
+  array (
+    0 => 'Ridgecrest',
+    1 => 'CA',
+    2 => '35.62',
+    3 => '-117.67',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  58 => 
+  array (
+    0 => 'Red Mountain',
+    1 => 'CA',
+    2 => '35.35',
+    3 => '-117.62',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  60 => 
+  array (
+    0 => 'Rosamond',
+    1 => 'CA',
+    2 => '34.92',
+    3 => '-118.4',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  61 => 
+  array (
+    0 => 'Tehachapi',
+    1 => 'CA',
+    2 => '35.12',
+    3 => '-118.51',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  62 => 
+  array (
+    0 => 'Trona',
+    1 => 'CA',
+    2 => '35.73',
+    3 => '-117.36',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  63 => 
+  array (
+    0 => 'Valyermo',
+    1 => 'CA',
+    2 => '34.39',
+    3 => '-117.74',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  81 => 
+  array (
+    0 => 'Tehachapi',
+    1 => 'CA',
+    2 => '35.13',
+    3 => '-118.44',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  84 => 
+  array (
+    0 => 'Lancaster',
+    1 => 'CA',
+    2 => '34.69',
+    3 => '-118.13',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  86 => 
+  array (
+    0 => 'Lancaster',
+    1 => 'CA',
+    2 => '34.64',
+    3 => '-118.21',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  90 => 
+  array (
+    0 => 'Palmdale',
+    1 => 'CA',
+    2 => '34.57',
+    3 => '-118.08',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  91 => 
+  array (
+    0 => 'Palmdale',
+    1 => 'CA',
+    2 => '34.61',
+    3 => '-117.81',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  92 => 
+  array (
+    0 => 'Trona',
+    1 => 'CA',
+    2 => '35.76',
+    3 => '-117.37',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  96 => 
+  array (
+    0 => 'Boron',
+    1 => 'CA',
+    2 => '35',
+    3 => '-117.65',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  99 => 
+  array (
+    0 => 'Palmdale',
+    1 => 'CA',
+    2 => '34.57',
+    3 => '-118.11',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+);

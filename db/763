@@ -1,0 +1,263 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Wichita Falls',
+    1 => 'TX',
+    2 => '33.89',
+    3 => '-98.51',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '02' => 
+  array (
+    0 => 'Wichita Falls',
+    1 => 'TX',
+    2 => '33.89',
+    3 => '-98.51',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '05' => 
+  array (
+    0 => 'Wichita Falls',
+    1 => 'TX',
+    2 => '33.89',
+    3 => '-98.51',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '06' => 
+  array (
+    0 => 'Wichita Falls',
+    1 => 'TX',
+    2 => '33.89',
+    3 => '-98.51',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '07' => 
+  array (
+    0 => 'Wichita Falls',
+    1 => 'TX',
+    2 => '33.89',
+    3 => '-98.51',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '08' => 
+  array (
+    0 => 'Wichita Falls',
+    1 => 'TX',
+    2 => '33.89',
+    3 => '-98.51',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '09' => 
+  array (
+    0 => 'Wichita Falls',
+    1 => 'TX',
+    2 => '33.89',
+    3 => '-98.51',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  10 => 
+  array (
+    0 => 'Wichita Falls',
+    1 => 'TX',
+    2 => '33.89',
+    3 => '-98.51',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  11 => 
+  array (
+    0 => 'Sheppard Afb',
+    1 => 'TX',
+    2 => '33.98',
+    3 => '-98.5',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  51 => 
+  array (
+    0 => 'Archer City',
+    1 => 'TX',
+    2 => '33.59',
+    3 => '-98.62',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  52 => 
+  array (
+    0 => 'Bluegrove',
+    1 => 'TX',
+    2 => '33.67',
+    3 => '-98.25',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  54 => 
+  array (
+    0 => 'Burkburnett',
+    1 => 'TX',
+    2 => '34.07',
+    3 => '-98.56',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  57 => 
+  array (
+    0 => 'Byers',
+    1 => 'TX',
+    2 => '34.07',
+    3 => '-98.19',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  63 => 
+  array (
+    0 => 'Goree',
+    1 => 'TX',
+    2 => '33.46',
+    3 => '-99.52',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  64 => 
+  array (
+    0 => 'Harrold',
+    1 => 'TX',
+    2 => '34.08',
+    3 => '-99.03',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  65 => 
+  array (
+    0 => 'Henrietta',
+    1 => 'TX',
+    2 => '33.81',
+    3 => '-98.19',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  66 => 
+  array (
+    0 => 'Holliday',
+    1 => 'TX',
+    2 => '33.81',
+    3 => '-98.68',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  67 => 
+  array (
+    0 => 'Iowa Park',
+    1 => 'TX',
+    2 => '33.95',
+    3 => '-98.68',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  69 => 
+  array (
+    0 => 'Kamay',
+    1 => 'TX',
+    2 => '33.85',
+    3 => '-98.82',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  70 => 
+  array (
+    0 => 'Megargel',
+    1 => 'TX',
+    2 => '33.45',
+    3 => '-98.92',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  71 => 
+  array (
+    0 => 'Munday',
+    1 => 'TX',
+    2 => '33.44',
+    3 => '-99.62',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  73 => 
+  array (
+    0 => 'Oklaunion',
+    1 => 'TX',
+    2 => '34.13',
+    3 => '-99.13',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  74 => 
+  array (
+    0 => 'Olney',
+    1 => 'TX',
+    2 => '33.36',
+    3 => '-98.75',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  77 => 
+  array (
+    0 => 'Petrolia',
+    1 => 'TX',
+    2 => '34.01',
+    3 => '-98.23',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  79 => 
+  array (
+    0 => 'Scotland',
+    1 => 'TX',
+    2 => '33.64',
+    3 => '-98.45',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  84 => 
+  array (
+    0 => 'Vernon',
+    1 => 'TX',
+    2 => '34.14',
+    3 => '-99.3',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  85 => 
+  array (
+    0 => 'Vernon',
+    1 => 'TX',
+    2 => '34.14',
+    3 => '-99.3',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  88 => 
+  array (
+    0 => 'Weinert',
+    1 => 'TX',
+    2 => '33.32',
+    3 => '-99.67',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  89 => 
+  array (
+    0 => 'Windthorst',
+    1 => 'TX',
+    2 => '33.57',
+    3 => '-98.43',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+);

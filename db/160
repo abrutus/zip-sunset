@@ -1,0 +1,380 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Butler',
+    1 => 'PA',
+    2 => '40.86',
+    3 => '-79.89',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '02' => 
+  array (
+    0 => 'Butler',
+    1 => 'PA',
+    2 => '40.86',
+    3 => '-79.89',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '03' => 
+  array (
+    0 => 'Butler',
+    1 => 'PA',
+    2 => '40.86',
+    3 => '-79.89',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  16 => 
+  array (
+    0 => 'Boyers',
+    1 => 'PA',
+    2 => '41.11',
+    3 => '-79.9',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  17 => 
+  array (
+    0 => 'Boyers',
+    1 => 'PA',
+    2 => '41.11',
+    3 => '-79.9',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  18 => 
+  array (
+    0 => 'Boyers',
+    1 => 'PA',
+    2 => '41.11',
+    3 => '-79.9',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  20 => 
+  array (
+    0 => 'Boyers',
+    1 => 'PA',
+    2 => '41.11',
+    3 => '-79.9',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  21 => 
+  array (
+    0 => 'Branchton',
+    1 => 'PA',
+    2 => '41.08',
+    3 => '-79.97',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  22 => 
+  array (
+    0 => 'Bruin',
+    1 => 'PA',
+    2 => '41.05',
+    3 => '-79.72',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  23 => 
+  array (
+    0 => 'Cabot',
+    1 => 'PA',
+    2 => '40.78',
+    3 => '-79.75',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  24 => 
+  array (
+    0 => 'Callery',
+    1 => 'PA',
+    2 => '40.73',
+    3 => '-80.03',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  25 => 
+  array (
+    0 => 'Chicora',
+    1 => 'PA',
+    2 => '40.94',
+    3 => '-79.74',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  27 => 
+  array (
+    0 => 'Connoquenessing',
+    1 => 'PA',
+    2 => '40.81',
+    3 => '-80.01',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  28 => 
+  array (
+    0 => 'East Brady',
+    1 => 'PA',
+    2 => '40.98',
+    3 => '-79.61',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  29 => 
+  array (
+    0 => 'East Butler',
+    1 => 'PA',
+    2 => '40.87',
+    3 => '-79.84',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  30 => 
+  array (
+    0 => 'Eau Claire',
+    1 => 'PA',
+    2 => '41.13',
+    3 => '-79.79',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  33 => 
+  array (
+    0 => 'Evans City',
+    1 => 'PA',
+    2 => '40.76',
+    3 => '-80.05',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  34 => 
+  array (
+    0 => 'Fenelton',
+    1 => 'PA',
+    2 => '40.85',
+    3 => '-79.75',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  35 => 
+  array (
+    0 => 'Forestville',
+    1 => 'PA',
+    2 => '41.11',
+    3 => '-79.98',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  36 => 
+  array (
+    0 => 'Foxburg',
+    1 => 'PA',
+    2 => '41.14',
+    3 => '-79.68',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  37 => 
+  array (
+    0 => 'Harmony',
+    1 => 'PA',
+    2 => '40.8',
+    3 => '-80.12',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  38 => 
+  array (
+    0 => 'Harrisville',
+    1 => 'PA',
+    2 => '41.13',
+    3 => '-80.01',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  39 => 
+  array (
+    0 => 'Herman',
+    1 => 'PA',
+    2 => '40.83',
+    3 => '-79.79',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  40 => 
+  array (
+    0 => 'Hilliards',
+    1 => 'PA',
+    2 => '41.1',
+    3 => '-79.83',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  41 => 
+  array (
+    0 => 'Karns City',
+    1 => 'PA',
+    2 => '40.99',
+    3 => '-79.72',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  45 => 
+  array (
+    0 => 'Lyndora',
+    1 => 'PA',
+    2 => '40.85',
+    3 => '-79.92',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  46 => 
+  array (
+    0 => 'Mars',
+    1 => 'PA',
+    2 => '40.69',
+    3 => '-80.01',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  48 => 
+  array (
+    0 => 'North Washington',
+    1 => 'PA',
+    2 => '40.53',
+    3 => '-79.6',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  49 => 
+  array (
+    0 => 'Parker',
+    1 => 'PA',
+    2 => '41.09',
+    3 => '-79.68',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  50 => 
+  array (
+    0 => 'Petrolia',
+    1 => 'PA',
+    2 => '41.02',
+    3 => '-79.71',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  51 => 
+  array (
+    0 => 'Portersville',
+    1 => 'PA',
+    2 => '40.92',
+    3 => '-80.14',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  52 => 
+  array (
+    0 => 'Prospect',
+    1 => 'PA',
+    2 => '40.9',
+    3 => '-80.04',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  53 => 
+  array (
+    0 => 'Renfrew',
+    1 => 'PA',
+    2 => '40.8',
+    3 => '-79.98',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  54 => 
+  array (
+    0 => 'Saint Petersburg',
+    1 => 'PA',
+    2 => '41.16',
+    3 => '-79.65',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  55 => 
+  array (
+    0 => 'Sarver',
+    1 => 'PA',
+    2 => '40.73',
+    3 => '-79.73',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  56 => 
+  array (
+    0 => 'Saxonburg',
+    1 => 'PA',
+    2 => '40.75',
+    3 => '-79.81',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  57 => 
+  array (
+    0 => 'Slippery Rock',
+    1 => 'PA',
+    2 => '41.07',
+    3 => '-80.06',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  58 => 
+  array (
+    0 => 'Turkey City',
+    1 => 'PA',
+    2 => '41.18',
+    3 => '-79.61',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  59 => 
+  array (
+    0 => 'Valencia',
+    1 => 'PA',
+    2 => '40.67',
+    3 => '-79.98',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  61 => 
+  array (
+    0 => 'West Sunbury',
+    1 => 'PA',
+    2 => '41',
+    3 => '-79.89',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  63 => 
+  array (
+    0 => 'Zelienople',
+    1 => 'PA',
+    2 => '40.78',
+    3 => '-80.14',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  66 => 
+  array (
+    0 => 'Cranberry Twp',
+    1 => 'PA',
+    2 => '40.71',
+    3 => '-80.1',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

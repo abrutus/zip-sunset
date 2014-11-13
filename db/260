@@ -1,0 +1,218 @@
+<?php $db= array (
+  '03' => 
+  array (
+    0 => 'Wheeling',
+    1 => 'WV',
+    2 => '40.07',
+    3 => '-80.69',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  30 => 
+  array (
+    0 => 'Beech Bottom',
+    1 => 'WV',
+    2 => '40.22',
+    3 => '-80.65',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  31 => 
+  array (
+    0 => 'Benwood',
+    1 => 'WV',
+    2 => '40.01',
+    3 => '-80.73',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  32 => 
+  array (
+    0 => 'Bethany',
+    1 => 'WV',
+    2 => '40.2',
+    3 => '-80.56',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  33 => 
+  array (
+    0 => 'Cameron',
+    1 => 'WV',
+    2 => '39.82',
+    3 => '-80.57',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  34 => 
+  array (
+    0 => 'Chester',
+    1 => 'WV',
+    2 => '40.61',
+    3 => '-80.56',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  35 => 
+  array (
+    0 => 'Colliers',
+    1 => 'WV',
+    2 => '40.34',
+    3 => '-80.55',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  36 => 
+  array (
+    0 => 'Dallas',
+    1 => 'WV',
+    2 => '39.96',
+    3 => '-80.55',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  37 => 
+  array (
+    0 => 'Follansbee',
+    1 => 'WV',
+    2 => '40.33',
+    3 => '-80.59',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  38 => 
+  array (
+    0 => 'Glen Dale',
+    1 => 'WV',
+    2 => '39.94',
+    3 => '-80.75',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  39 => 
+  array (
+    0 => 'Glen Easton',
+    1 => 'WV',
+    2 => '39.83',
+    3 => '-80.66',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  40 => 
+  array (
+    0 => 'Mcmechen',
+    1 => 'WV',
+    2 => '39.98',
+    3 => '-80.73',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  41 => 
+  array (
+    0 => 'Moundsville',
+    1 => 'WV',
+    2 => '39.92',
+    3 => '-80.74',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  47 => 
+  array (
+    0 => 'New Cumberland',
+    1 => 'WV',
+    2 => '40.49',
+    3 => '-80.6',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  50 => 
+  array (
+    0 => 'Newell',
+    1 => 'WV',
+    2 => '40.61',
+    3 => '-80.6',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  55 => 
+  array (
+    0 => 'Proctor',
+    1 => 'WV',
+    2 => '39.72',
+    3 => '-80.75',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  56 => 
+  array (
+    0 => 'New Manchester',
+    1 => 'WV',
+    2 => '40.57',
+    3 => '-80.55',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  58 => 
+  array (
+    0 => 'Short Creek',
+    1 => 'WV',
+    2 => '40.22',
+    3 => '-80.58',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  59 => 
+  array (
+    0 => 'Triadelphia',
+    1 => 'WV',
+    2 => '40.05',
+    3 => '-80.62',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  60 => 
+  array (
+    0 => 'Valley Grove',
+    1 => 'WV',
+    2 => '40.09',
+    3 => '-80.57',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  62 => 
+  array (
+    0 => 'Weirton',
+    1 => 'WV',
+    2 => '40.4',
+    3 => '-80.56',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  70 => 
+  array (
+    0 => 'Wellsburg',
+    1 => 'WV',
+    2 => '40.28',
+    3 => '-80.6',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  74 => 
+  array (
+    0 => 'West Liberty',
+    1 => 'WV',
+    2 => '40.16',
+    3 => '-80.59',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  75 => 
+  array (
+    0 => 'Windsor Heights',
+    1 => 'WV',
+    2 => '40.22',
+    3 => '-80.58',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

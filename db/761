@@ -1,0 +1,533 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Fort Worth',
+    1 => 'TX',
+    2 => '32.75',
+    3 => '-97.33',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '02' => 
+  array (
+    0 => 'Fort Worth',
+    1 => 'TX',
+    2 => '32.75',
+    3 => '-97.33',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '03' => 
+  array (
+    0 => 'Fort Worth',
+    1 => 'TX',
+    2 => '32.75',
+    3 => '-97.33',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '04' => 
+  array (
+    0 => 'Fort Worth',
+    1 => 'TX',
+    2 => '32.75',
+    3 => '-97.33',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '05' => 
+  array (
+    0 => 'Fort Worth',
+    1 => 'TX',
+    2 => '32.75',
+    3 => '-97.33',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '06' => 
+  array (
+    0 => 'Fort Worth',
+    1 => 'TX',
+    2 => '32.75',
+    3 => '-97.33',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '07' => 
+  array (
+    0 => 'Fort Worth',
+    1 => 'TX',
+    2 => '32.75',
+    3 => '-97.33',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '08' => 
+  array (
+    0 => 'Fort Worth',
+    1 => 'TX',
+    2 => '32.75',
+    3 => '-97.33',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '09' => 
+  array (
+    0 => 'Fort Worth',
+    1 => 'TX',
+    2 => '32.75',
+    3 => '-97.33',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  10 => 
+  array (
+    0 => 'Fort Worth',
+    1 => 'TX',
+    2 => '32.75',
+    3 => '-97.33',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  11 => 
+  array (
+    0 => 'Fort Worth',
+    1 => 'TX',
+    2 => '32.75',
+    3 => '-97.33',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  12 => 
+  array (
+    0 => 'Fort Worth',
+    1 => 'TX',
+    2 => '32.75',
+    3 => '-97.33',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  13 => 
+  array (
+    0 => 'Fort Worth',
+    1 => 'TX',
+    2 => '32.75',
+    3 => '-97.33',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  14 => 
+  array (
+    0 => 'Fort Worth',
+    1 => 'TX',
+    2 => '32.75',
+    3 => '-97.33',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  15 => 
+  array (
+    0 => 'Fort Worth',
+    1 => 'TX',
+    2 => '32.75',
+    3 => '-97.33',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  16 => 
+  array (
+    0 => 'Fort Worth',
+    1 => 'TX',
+    2 => '32.75',
+    3 => '-97.33',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  17 => 
+  array (
+    0 => 'Haltom City',
+    1 => 'TX',
+    2 => '32.81',
+    3 => '-97.27',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  18 => 
+  array (
+    0 => 'Fort Worth',
+    1 => 'TX',
+    2 => '32.75',
+    3 => '-97.33',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  19 => 
+  array (
+    0 => 'Fort Worth',
+    1 => 'TX',
+    2 => '32.75',
+    3 => '-97.33',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  20 => 
+  array (
+    0 => 'Fort Worth',
+    1 => 'TX',
+    2 => '32.75',
+    3 => '-97.33',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  21 => 
+  array (
+    0 => 'Fort Worth',
+    1 => 'TX',
+    2 => '32.75',
+    3 => '-97.33',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  22 => 
+  array (
+    0 => 'Fort Worth',
+    1 => 'TX',
+    2 => '32.75',
+    3 => '-97.33',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  23 => 
+  array (
+    0 => 'Fort Worth',
+    1 => 'TX',
+    2 => '32.75',
+    3 => '-97.33',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  24 => 
+  array (
+    0 => 'Fort Worth',
+    1 => 'TX',
+    2 => '32.75',
+    3 => '-97.33',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  26 => 
+  array (
+    0 => 'Fort Worth',
+    1 => 'TX',
+    2 => '32.75',
+    3 => '-97.33',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  27 => 
+  array (
+    0 => 'Naval Air Station/ Jrb',
+    1 => 'TX',
+    2 => '32.77',
+    3 => '-97.43',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  29 => 
+  array (
+    0 => 'Fort Worth',
+    1 => 'TX',
+    2 => '32.75',
+    3 => '-97.33',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  30 => 
+  array (
+    0 => 'Fort Worth',
+    1 => 'TX',
+    2 => '32.75',
+    3 => '-97.33',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  31 => 
+  array (
+    0 => 'Fort Worth',
+    1 => 'TX',
+    2 => '32.75',
+    3 => '-97.33',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  32 => 
+  array (
+    0 => 'Fort Worth',
+    1 => 'TX',
+    2 => '32.75',
+    3 => '-97.33',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  33 => 
+  array (
+    0 => 'Fort Worth',
+    1 => 'TX',
+    2 => '32.75',
+    3 => '-97.33',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  34 => 
+  array (
+    0 => 'Fort Worth',
+    1 => 'TX',
+    2 => '32.75',
+    3 => '-97.33',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  35 => 
+  array (
+    0 => 'Fort Worth',
+    1 => 'TX',
+    2 => '32.75',
+    3 => '-97.33',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  36 => 
+  array (
+    0 => 'Fort Worth',
+    1 => 'TX',
+    2 => '32.75',
+    3 => '-97.33',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  37 => 
+  array (
+    0 => 'Fort Worth',
+    1 => 'TX',
+    2 => '32.75',
+    3 => '-97.33',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  40 => 
+  array (
+    0 => 'Fort Worth',
+    1 => 'TX',
+    2 => '32.75',
+    3 => '-97.33',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  47 => 
+  array (
+    0 => 'Fort Worth',
+    1 => 'TX',
+    2 => '32.75',
+    3 => '-97.33',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  48 => 
+  array (
+    0 => 'Fort Worth',
+    1 => 'TX',
+    2 => '32.75',
+    3 => '-97.33',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  50 => 
+  array (
+    0 => 'Fort Worth',
+    1 => 'TX',
+    2 => '32.75',
+    3 => '-97.33',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  55 => 
+  array (
+    0 => 'Fort Worth',
+    1 => 'TX',
+    2 => '32.75',
+    3 => '-97.33',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  61 => 
+  array (
+    0 => 'Fort Worth',
+    1 => 'TX',
+    2 => '32.75',
+    3 => '-97.33',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  62 => 
+  array (
+    0 => 'Fort Worth',
+    1 => 'TX',
+    2 => '32.75',
+    3 => '-97.33',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  63 => 
+  array (
+    0 => 'Fort Worth',
+    1 => 'TX',
+    2 => '32.75',
+    3 => '-97.33',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  64 => 
+  array (
+    0 => 'Fort Worth',
+    1 => 'TX',
+    2 => '32.75',
+    3 => '-97.33',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  66 => 
+  array (
+    0 => 'Fort Worth',
+    1 => 'TX',
+    2 => '32.72',
+    3 => '-97.31',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  77 => 
+  array (
+    0 => 'Fort Worth',
+    1 => 'TX',
+    2 => '32.75',
+    3 => '-97.33',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  79 => 
+  array (
+    0 => 'Fort Worth',
+    1 => 'TX',
+    2 => '32.75',
+    3 => '-97.33',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  80 => 
+  array (
+    0 => 'North Richland Hills',
+    1 => 'TX',
+    2 => '32.86',
+    3 => '-97.21',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  81 => 
+  array (
+    0 => 'Fort Worth',
+    1 => 'TX',
+    2 => '32.75',
+    3 => '-97.33',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  82 => 
+  array (
+    0 => 'North Richland Hills',
+    1 => 'TX',
+    2 => '32.86',
+    3 => '-97.21',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  85 => 
+  array (
+    0 => 'Fort Worth',
+    1 => 'TX',
+    2 => '32.75',
+    3 => '-97.33',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  91 => 
+  array (
+    0 => 'Fort Worth',
+    1 => 'TX',
+    2 => '32.75',
+    3 => '-97.33',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  92 => 
+  array (
+    0 => 'Fort Worth',
+    1 => 'TX',
+    2 => '32.75',
+    3 => '-97.33',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  93 => 
+  array (
+    0 => 'Fort Worth',
+    1 => 'TX',
+    2 => '32.75',
+    3 => '-97.33',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  95 => 
+  array (
+    0 => 'Fort Worth',
+    1 => 'TX',
+    2 => '32.75',
+    3 => '-97.33',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  96 => 
+  array (
+    0 => 'Fort Worth',
+    1 => 'TX',
+    2 => '32.75',
+    3 => '-97.33',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  97 => 
+  array (
+    0 => 'Fort Worth',
+    1 => 'TX',
+    2 => '32.75',
+    3 => '-97.33',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  98 => 
+  array (
+    0 => 'Fort Worth',
+    1 => 'TX',
+    2 => '32.75',
+    3 => '-97.33',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  99 => 
+  array (
+    0 => 'Fort Worth',
+    1 => 'TX',
+    2 => '32.75',
+    3 => '-97.33',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+);

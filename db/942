@@ -1,0 +1,542 @@
+<?php $db= array (
+  '03' => 
+  array (
+    0 => 'Sacramento',
+    1 => 'CA',
+    2 => '38.58',
+    3 => '-121.49',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '04' => 
+  array (
+    0 => 'Sacramento',
+    1 => 'CA',
+    2 => '38.6',
+    3 => '-121.44',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '05' => 
+  array (
+    0 => 'Sacramento',
+    1 => 'CA',
+    2 => '38.47',
+    3 => '-121.44',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '06' => 
+  array (
+    0 => 'Sacramento',
+    1 => 'CA',
+    2 => '38.49',
+    3 => '-121.45',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '07' => 
+  array (
+    0 => 'Sacramento',
+    1 => 'CA',
+    2 => '38.58',
+    3 => '-121.49',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '08' => 
+  array (
+    0 => 'Sacramento',
+    1 => 'CA',
+    2 => '38.58',
+    3 => '-121.49',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '09' => 
+  array (
+    0 => 'Sacramento',
+    1 => 'CA',
+    2 => '38.58',
+    3 => '-121.49',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  11 => 
+  array (
+    0 => 'Sacramento',
+    1 => 'CA',
+    2 => '38.58',
+    3 => '-121.49',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  29 => 
+  array (
+    0 => 'Sacramento',
+    1 => 'CA',
+    2 => '38.58',
+    3 => '-121.49',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  30 => 
+  array (
+    0 => 'Sacramento',
+    1 => 'CA',
+    2 => '38.47',
+    3 => '-121.44',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  32 => 
+  array (
+    0 => 'Sacramento',
+    1 => 'CA',
+    2 => '38.55',
+    3 => '-121.49',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  34 => 
+  array (
+    0 => 'Sacramento',
+    1 => 'CA',
+    2 => '38.58',
+    3 => '-121.49',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  35 => 
+  array (
+    0 => 'Sacramento',
+    1 => 'CA',
+    2 => '38.58',
+    3 => '-121.49',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  36 => 
+  array (
+    0 => 'Sacramento',
+    1 => 'CA',
+    2 => '38.58',
+    3 => '-121.49',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  37 => 
+  array (
+    0 => 'Sacramento',
+    1 => 'CA',
+    2 => '38.58',
+    3 => '-121.49',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  39 => 
+  array (
+    0 => 'Sacramento',
+    1 => 'CA',
+    2 => '38.55',
+    3 => '-121.49',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  40 => 
+  array (
+    0 => 'Sacramento',
+    1 => 'CA',
+    2 => '38.58',
+    3 => '-121.49',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  44 => 
+  array (
+    0 => 'Sacramento',
+    1 => 'CA',
+    2 => '38.58',
+    3 => '-121.49',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  45 => 
+  array (
+    0 => 'Sacramento',
+    1 => 'CA',
+    2 => '38.58',
+    3 => '-121.49',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  46 => 
+  array (
+    0 => 'Sacramento',
+    1 => 'CA',
+    2 => '38.58',
+    3 => '-121.49',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  47 => 
+  array (
+    0 => 'Sacramento',
+    1 => 'CA',
+    2 => '38.58',
+    3 => '-121.49',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  48 => 
+  array (
+    0 => 'Sacramento',
+    1 => 'CA',
+    2 => '38.58',
+    3 => '-121.49',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  49 => 
+  array (
+    0 => 'Sacramento',
+    1 => 'CA',
+    2 => '38.57',
+    3 => '-121.46',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  50 => 
+  array (
+    0 => 'Sacramento',
+    1 => 'CA',
+    2 => '38.58',
+    3 => '-121.49',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  52 => 
+  array (
+    0 => 'Sacramento',
+    1 => 'CA',
+    2 => '38.58',
+    3 => '-121.49',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  54 => 
+  array (
+    0 => 'Sacramento',
+    1 => 'CA',
+    2 => '38.58',
+    3 => '-121.49',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  56 => 
+  array (
+    0 => 'Sacramento',
+    1 => 'CA',
+    2 => '38.58',
+    3 => '-121.49',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  57 => 
+  array (
+    0 => 'Sacramento',
+    1 => 'CA',
+    2 => '38.58',
+    3 => '-121.49',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  58 => 
+  array (
+    0 => 'Sacramento',
+    1 => 'CA',
+    2 => '38.58',
+    3 => '-121.49',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  59 => 
+  array (
+    0 => 'Sacramento',
+    1 => 'CA',
+    2 => '38.55',
+    3 => '-121.49',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  61 => 
+  array (
+    0 => 'Sacramento',
+    1 => 'CA',
+    2 => '38.58',
+    3 => '-121.49',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  62 => 
+  array (
+    0 => 'Sacramento',
+    1 => 'CA',
+    2 => '38.58',
+    3 => '-121.49',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  63 => 
+  array (
+    0 => 'Sacramento',
+    1 => 'CA',
+    2 => '38.58',
+    3 => '-121.49',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  67 => 
+  array (
+    0 => 'Sacramento',
+    1 => 'CA',
+    2 => '38.58',
+    3 => '-121.49',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  68 => 
+  array (
+    0 => 'Sacramento',
+    1 => 'CA',
+    2 => '38.58',
+    3 => '-121.49',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  69 => 
+  array (
+    0 => 'Sacramento',
+    1 => 'CA',
+    2 => '38.55',
+    3 => '-121.49',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  71 => 
+  array (
+    0 => 'Sacramento',
+    1 => 'CA',
+    2 => '38.58',
+    3 => '-121.49',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  73 => 
+  array (
+    0 => 'Sacramento',
+    1 => 'CA',
+    2 => '38.58',
+    3 => '-121.49',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  74 => 
+  array (
+    0 => 'Sacramento',
+    1 => 'CA',
+    2 => '38.58',
+    3 => '-121.49',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  77 => 
+  array (
+    0 => 'Sacramento',
+    1 => 'CA',
+    2 => '38.58',
+    3 => '-121.49',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  78 => 
+  array (
+    0 => 'Sacramento',
+    1 => 'CA',
+    2 => '38.57',
+    3 => '-121.46',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  79 => 
+  array (
+    0 => 'Sacramento',
+    1 => 'CA',
+    2 => '38.58',
+    3 => '-121.49',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  80 => 
+  array (
+    0 => 'Sacramento',
+    1 => 'CA',
+    2 => '38.58',
+    3 => '-121.49',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  82 => 
+  array (
+    0 => 'Sacramento',
+    1 => 'CA',
+    2 => '38.58',
+    3 => '-121.49',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  83 => 
+  array (
+    0 => 'Sacramento',
+    1 => 'CA',
+    2 => '38.47',
+    3 => '-121.44',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  84 => 
+  array (
+    0 => 'Sacramento',
+    1 => 'CA',
+    2 => '38.55',
+    3 => '-121.49',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  85 => 
+  array (
+    0 => 'Sacramento',
+    1 => 'CA',
+    2 => '38.55',
+    3 => '-121.49',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  86 => 
+  array (
+    0 => 'Sacramento',
+    1 => 'CA',
+    2 => '38.55',
+    3 => '-121.49',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  87 => 
+  array (
+    0 => 'Sacramento',
+    1 => 'CA',
+    2 => '38.58',
+    3 => '-121.49',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  88 => 
+  array (
+    0 => 'Sacramento',
+    1 => 'CA',
+    2 => '38.58',
+    3 => '-121.49',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  89 => 
+  array (
+    0 => 'Sacramento',
+    1 => 'CA',
+    2 => '38.58',
+    3 => '-121.49',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  90 => 
+  array (
+    0 => 'Sacramento',
+    1 => 'CA',
+    2 => '38.55',
+    3 => '-121.49',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  91 => 
+  array (
+    0 => 'Sacramento',
+    1 => 'CA',
+    2 => '38.55',
+    3 => '-121.49',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  93 => 
+  array (
+    0 => 'Sacramento',
+    1 => 'CA',
+    2 => '38.55',
+    3 => '-121.49',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  94 => 
+  array (
+    0 => 'Sacramento',
+    1 => 'CA',
+    2 => '38.55',
+    3 => '-121.49',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  95 => 
+  array (
+    0 => 'Sacramento',
+    1 => 'CA',
+    2 => '38.58',
+    3 => '-121.49',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  96 => 
+  array (
+    0 => 'Sacramento',
+    1 => 'CA',
+    2 => '38.57',
+    3 => '-121.5',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  97 => 
+  array (
+    0 => 'Sacramento',
+    1 => 'CA',
+    2 => '38.55',
+    3 => '-121.49',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  98 => 
+  array (
+    0 => 'Sacramento',
+    1 => 'CA',
+    2 => '38.58',
+    3 => '-121.49',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  99 => 
+  array (
+    0 => 'Sacramento',
+    1 => 'CA',
+    2 => '38.56',
+    3 => '-121.46',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+);

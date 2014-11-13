@@ -1,0 +1,614 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Rancho Cucamonga',
+    1 => 'CA',
+    2 => '34.14',
+    3 => '-117.61',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '02' => 
+  array (
+    0 => 'Azusa',
+    1 => 'CA',
+    2 => '34.17',
+    3 => '-117.87',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '06' => 
+  array (
+    0 => 'Baldwin Park',
+    1 => 'CA',
+    2 => '34.09',
+    3 => '-117.96',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '08' => 
+  array (
+    0 => 'Chino',
+    1 => 'CA',
+    2 => '34.02',
+    3 => '-117.68',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '09' => 
+  array (
+    0 => 'Chino Hills',
+    1 => 'CA',
+    2 => '33.94',
+    3 => '-117.72',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  10 => 
+  array (
+    0 => 'Chino',
+    1 => 'CA',
+    2 => '33.98',
+    3 => '-117.65',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  11 => 
+  array (
+    0 => 'Claremont',
+    1 => 'CA',
+    2 => '34.12',
+    3 => '-117.71',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  14 => 
+  array (
+    0 => 'City Of Industry',
+    1 => 'CA',
+    2 => '34.01',
+    3 => '-117.95',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  15 => 
+  array (
+    0 => 'City Of Industry',
+    1 => 'CA',
+    2 => '34.01',
+    3 => '-117.97',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  16 => 
+  array (
+    0 => 'City Of Industry',
+    1 => 'CA',
+    2 => '34',
+    3 => '-117.97',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  22 => 
+  array (
+    0 => 'Covina',
+    1 => 'CA',
+    2 => '34.09',
+    3 => '-117.9',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  23 => 
+  array (
+    0 => 'Covina',
+    1 => 'CA',
+    2 => '34.08',
+    3 => '-117.88',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  24 => 
+  array (
+    0 => 'Covina',
+    1 => 'CA',
+    2 => '34.07',
+    3 => '-117.84',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  29 => 
+  array (
+    0 => 'Rancho Cucamonga',
+    1 => 'CA',
+    2 => '34.09',
+    3 => '-117.56',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  30 => 
+  array (
+    0 => 'Rancho Cucamonga',
+    1 => 'CA',
+    2 => '34.09',
+    3 => '-117.58',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  31 => 
+  array (
+    0 => 'El Monte',
+    1 => 'CA',
+    2 => '34.08',
+    3 => '-118.03',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  32 => 
+  array (
+    0 => 'El Monte',
+    1 => 'CA',
+    2 => '34.07',
+    3 => '-118.01',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  33 => 
+  array (
+    0 => 'South El Monte',
+    1 => 'CA',
+    2 => '34.04',
+    3 => '-118.04',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  34 => 
+  array (
+    0 => 'El Monte',
+    1 => 'CA',
+    2 => '34.07',
+    3 => '-118.03',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  35 => 
+  array (
+    0 => 'El Monte',
+    1 => 'CA',
+    2 => '34.07',
+    3 => '-118.02',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  37 => 
+  array (
+    0 => 'Rancho Cucamonga',
+    1 => 'CA',
+    2 => '34.19',
+    3 => '-117.61',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  39 => 
+  array (
+    0 => 'Rancho Cucamonga',
+    1 => 'CA',
+    2 => '34.14',
+    3 => '-117.51',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  40 => 
+  array (
+    0 => 'Glendora',
+    1 => 'CA',
+    2 => '34.11',
+    3 => '-117.85',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  41 => 
+  array (
+    0 => 'Glendora',
+    1 => 'CA',
+    2 => '34.14',
+    3 => '-117.85',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  43 => 
+  array (
+    0 => 'Guasti',
+    1 => 'CA',
+    2 => '34.06',
+    3 => '-117.58',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  44 => 
+  array (
+    0 => 'La Puente',
+    1 => 'CA',
+    2 => '34.02',
+    3 => '-117.93',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  45 => 
+  array (
+    0 => 'Hacienda Heights',
+    1 => 'CA',
+    2 => '34',
+    3 => '-117.97',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  46 => 
+  array (
+    0 => 'La Puente',
+    1 => 'CA',
+    2 => '34.04',
+    3 => '-117.98',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  47 => 
+  array (
+    0 => 'La Puente',
+    1 => 'CA',
+    2 => '34.02',
+    3 => '-117.94',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  48 => 
+  array (
+    0 => 'Rowland Heights',
+    1 => 'CA',
+    2 => '33.97',
+    3 => '-117.9',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  49 => 
+  array (
+    0 => 'La Puente',
+    1 => 'CA',
+    2 => '34.03',
+    3 => '-117.95',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  50 => 
+  array (
+    0 => 'La Verne',
+    1 => 'CA',
+    2 => '34.15',
+    3 => '-117.76',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  52 => 
+  array (
+    0 => 'Mira Loma',
+    1 => 'CA',
+    2 => '33.99',
+    3 => '-117.53',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  54 => 
+  array (
+    0 => 'Monterey Park',
+    1 => 'CA',
+    2 => '34.05',
+    3 => '-118.14',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  55 => 
+  array (
+    0 => 'Monterey Park',
+    1 => 'CA',
+    2 => '34.05',
+    3 => '-118.11',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  56 => 
+  array (
+    0 => 'Monterey Park',
+    1 => 'CA',
+    2 => '34.04',
+    3 => '-118.13',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  58 => 
+  array (
+    0 => 'Ontario',
+    1 => 'CA',
+    2 => '34.05',
+    3 => '-117.6',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  59 => 
+  array (
+    0 => 'Mt Baldy',
+    1 => 'CA',
+    2 => '34.2',
+    3 => '-117.7',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  61 => 
+  array (
+    0 => 'Ontario',
+    1 => 'CA',
+    2 => '34.02',
+    3 => '-117.58',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  62 => 
+  array (
+    0 => 'Ontario',
+    1 => 'CA',
+    2 => '34.04',
+    3 => '-117.67',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  63 => 
+  array (
+    0 => 'Montclair',
+    1 => 'CA',
+    2 => '34.07',
+    3 => '-117.7',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  64 => 
+  array (
+    0 => 'Ontario',
+    1 => 'CA',
+    2 => '34.07',
+    3 => '-117.62',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  65 => 
+  array (
+    0 => 'Diamond Bar',
+    1 => 'CA',
+    2 => '33.99',
+    3 => '-117.81',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  66 => 
+  array (
+    0 => 'Pomona',
+    1 => 'CA',
+    2 => '34.03',
+    3 => '-117.75',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  67 => 
+  array (
+    0 => 'Pomona',
+    1 => 'CA',
+    2 => '34.08',
+    3 => '-117.73',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  68 => 
+  array (
+    0 => 'Pomona',
+    1 => 'CA',
+    2 => '34.06',
+    3 => '-117.79',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  69 => 
+  array (
+    0 => 'Pomona',
+    1 => 'CA',
+    2 => '34.06',
+    3 => '-117.75',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  70 => 
+  array (
+    0 => 'Rosemead',
+    1 => 'CA',
+    2 => '34.06',
+    3 => '-118.08',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  71 => 
+  array (
+    0 => 'Rosemead',
+    1 => 'CA',
+    2 => '34.06',
+    3 => '-118.08',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  72 => 
+  array (
+    0 => 'Rosemead',
+    1 => 'CA',
+    2 => '34.06',
+    3 => '-118.08',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  73 => 
+  array (
+    0 => 'San Dimas',
+    1 => 'CA',
+    2 => '34.1',
+    3 => '-117.81',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  75 => 
+  array (
+    0 => 'San Gabriel',
+    1 => 'CA',
+    2 => '34.11',
+    3 => '-118.08',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  76 => 
+  array (
+    0 => 'San Gabriel',
+    1 => 'CA',
+    2 => '34.08',
+    3 => '-118.09',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  78 => 
+  array (
+    0 => 'San Gabriel',
+    1 => 'CA',
+    2 => '34.1',
+    3 => '-118.1',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  80 => 
+  array (
+    0 => 'Temple City',
+    1 => 'CA',
+    2 => '34.1',
+    3 => '-118.05',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  84 => 
+  array (
+    0 => 'Upland',
+    1 => 'CA',
+    2 => '34.14',
+    3 => '-117.65',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  85 => 
+  array (
+    0 => 'Upland',
+    1 => 'CA',
+    2 => '34.09',
+    3 => '-117.64',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  86 => 
+  array (
+    0 => 'Upland',
+    1 => 'CA',
+    2 => '34.1',
+    3 => '-117.66',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  88 => 
+  array (
+    0 => 'Walnut',
+    1 => 'CA',
+    2 => '34.01',
+    3 => '-117.86',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  89 => 
+  array (
+    0 => 'Walnut',
+    1 => 'CA',
+    2 => '34.01',
+    3 => '-117.85',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  90 => 
+  array (
+    0 => 'West Covina',
+    1 => 'CA',
+    2 => '34.06',
+    3 => '-117.94',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  91 => 
+  array (
+    0 => 'West Covina',
+    1 => 'CA',
+    2 => '34.06',
+    3 => '-117.89',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  92 => 
+  array (
+    0 => 'West Covina',
+    1 => 'CA',
+    2 => '34.02',
+    3 => '-117.89',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  93 => 
+  array (
+    0 => 'West Covina',
+    1 => 'CA',
+    2 => '34.06',
+    3 => '-117.92',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  95 => 
+  array (
+    0 => 'Walnut',
+    1 => 'CA',
+    2 => '34.02',
+    3 => '-117.85',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  97 => 
+  array (
+    0 => 'Pomona',
+    1 => 'CA',
+    2 => '34.08',
+    3 => '-117.96',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  98 => 
+  array (
+    0 => 'Ontario',
+    1 => 'CA',
+    2 => '34.06',
+    3 => '-117.61',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  99 => 
+  array (
+    0 => 'Pomona',
+    1 => 'CA',
+    2 => '34.05',
+    3 => '-117.75',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+);

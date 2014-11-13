@@ -1,0 +1,578 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Metairie',
+    1 => 'LA',
+    2 => '29.99',
+    3 => '-90.17',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '02' => 
+  array (
+    0 => 'Metairie',
+    1 => 'LA',
+    2 => '29.99',
+    3 => '-90.17',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '03' => 
+  array (
+    0 => 'Metairie',
+    1 => 'LA',
+    2 => '29.99',
+    3 => '-90.17',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '04' => 
+  array (
+    0 => 'Metairie',
+    1 => 'LA',
+    2 => '29.99',
+    3 => '-90.17',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '05' => 
+  array (
+    0 => 'Metairie',
+    1 => 'LA',
+    2 => '29.99',
+    3 => '-90.17',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '06' => 
+  array (
+    0 => 'Metairie',
+    1 => 'LA',
+    2 => '29.99',
+    3 => '-90.17',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '09' => 
+  array (
+    0 => 'Metairie',
+    1 => 'LA',
+    2 => '29.99',
+    3 => '-90.17',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  10 => 
+  array (
+    0 => 'Metairie',
+    1 => 'LA',
+    2 => '29.99',
+    3 => '-90.17',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  11 => 
+  array (
+    0 => 'Metairie',
+    1 => 'LA',
+    2 => '29.99',
+    3 => '-90.17',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  30 => 
+  array (
+    0 => 'Des Allemands',
+    1 => 'LA',
+    2 => '29.8',
+    3 => '-90.48',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  31 => 
+  array (
+    0 => 'Ama',
+    1 => 'LA',
+    2 => '29.85',
+    3 => '-90.28',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  32 => 
+  array (
+    0 => 'Arabi',
+    1 => 'LA',
+    2 => '29.95',
+    3 => '-89.99',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  33 => 
+  array (
+    0 => 'Metairie',
+    1 => 'LA',
+    2 => '29.99',
+    3 => '-90.17',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  36 => 
+  array (
+    0 => 'Barataria',
+    1 => 'LA',
+    2 => '29.71',
+    3 => '-90.12',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  37 => 
+  array (
+    0 => 'Belle Chasse',
+    1 => 'LA',
+    2 => '29.84',
+    3 => '-90',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  38 => 
+  array (
+    0 => 'Boothville',
+    1 => 'LA',
+    2 => '29.32',
+    3 => '-89.39',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  39 => 
+  array (
+    0 => 'Boutte',
+    1 => 'LA',
+    2 => '29.89',
+    3 => '-90.39',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  40 => 
+  array (
+    0 => 'Braithwaite',
+    1 => 'LA',
+    2 => '29.62',
+    3 => '-89.78',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  41 => 
+  array (
+    0 => 'Buras',
+    1 => 'LA',
+    2 => '29.34',
+    3 => '-89.49',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  43 => 
+  array (
+    0 => 'Chalmette',
+    1 => 'LA',
+    2 => '29.94',
+    3 => '-89.96',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  44 => 
+  array (
+    0 => 'Chalmette',
+    1 => 'LA',
+    2 => '29.94',
+    3 => '-89.96',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  47 => 
+  array (
+    0 => 'Destrehan',
+    1 => 'LA',
+    2 => '29.96',
+    3 => '-90.36',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  49 => 
+  array (
+    0 => 'Edgard',
+    1 => 'LA',
+    2 => '30.02',
+    3 => '-90.55',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  50 => 
+  array (
+    0 => 'Empire',
+    1 => 'LA',
+    2 => '29.41',
+    3 => '-89.61',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  51 => 
+  array (
+    0 => 'Garyville',
+    1 => 'LA',
+    2 => '30.07',
+    3 => '-90.62',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  52 => 
+  array (
+    0 => 'Gramercy',
+    1 => 'LA',
+    2 => '30.05',
+    3 => '-90.69',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  53 => 
+  array (
+    0 => 'Gretna',
+    1 => 'LA',
+    2 => '29.91',
+    3 => '-90.05',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  54 => 
+  array (
+    0 => 'Gretna',
+    1 => 'LA',
+    2 => '29.91',
+    3 => '-90.05',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  55 => 
+  array (
+    0 => 'Metairie',
+    1 => 'LA',
+    2 => '29.99',
+    3 => '-90.17',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  56 => 
+  array (
+    0 => 'Gretna',
+    1 => 'LA',
+    2 => '29.91',
+    3 => '-90.05',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  57 => 
+  array (
+    0 => 'Hahnville',
+    1 => 'LA',
+    2 => '29.97',
+    3 => '-90.42',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  58 => 
+  array (
+    0 => 'Harvey',
+    1 => 'LA',
+    2 => '29.88',
+    3 => '-90.06',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  59 => 
+  array (
+    0 => 'Harvey',
+    1 => 'LA',
+    2 => '29.88',
+    3 => '-90.06',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  60 => 
+  array (
+    0 => 'Metairie',
+    1 => 'LA',
+    2 => '29.99',
+    3 => '-90.17',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  62 => 
+  array (
+    0 => 'Kenner',
+    1 => 'LA',
+    2 => '29.99',
+    3 => '-90.24',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  63 => 
+  array (
+    0 => 'Kenner',
+    1 => 'LA',
+    2 => '29.99',
+    3 => '-90.24',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  64 => 
+  array (
+    0 => 'Kenner',
+    1 => 'LA',
+    2 => '29.99',
+    3 => '-90.24',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  65 => 
+  array (
+    0 => 'Kenner',
+    1 => 'LA',
+    2 => '29.99',
+    3 => '-90.24',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  67 => 
+  array (
+    0 => 'Lafitte',
+    1 => 'LA',
+    2 => '29.68',
+    3 => '-90.09',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  68 => 
+  array (
+    0 => 'La Place',
+    1 => 'LA',
+    2 => '30.12',
+    3 => '-90.46',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  69 => 
+  array (
+    0 => 'La Place',
+    1 => 'LA',
+    2 => '30.12',
+    3 => '-90.46',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  70 => 
+  array (
+    0 => 'Luling',
+    1 => 'LA',
+    2 => '29.92',
+    3 => '-90.36',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  71 => 
+  array (
+    0 => 'Lutcher',
+    1 => 'LA',
+    2 => '30.06',
+    3 => '-90.71',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  72 => 
+  array (
+    0 => 'Marrero',
+    1 => 'LA',
+    2 => '29.88',
+    3 => '-90.11',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  73 => 
+  array (
+    0 => 'Marrero',
+    1 => 'LA',
+    2 => '29.88',
+    3 => '-90.11',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  75 => 
+  array (
+    0 => 'Meraux',
+    1 => 'LA',
+    2 => '29.92',
+    3 => '-89.91',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  76 => 
+  array (
+    0 => 'Mount Airy',
+    1 => 'LA',
+    2 => '30.06',
+    3 => '-90.64',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  78 => 
+  array (
+    0 => 'New Sarpy',
+    1 => 'LA',
+    2 => '29.97',
+    3 => '-90.38',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  79 => 
+  array (
+    0 => 'Norco',
+    1 => 'LA',
+    2 => '30',
+    3 => '-90.4',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  80 => 
+  array (
+    0 => 'Paradis',
+    1 => 'LA',
+    2 => '29.87',
+    3 => '-90.44',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  81 => 
+  array (
+    0 => 'Pilottown',
+    1 => 'LA',
+    2 => '29.3',
+    3 => '-89.3',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  82 => 
+  array (
+    0 => 'Pointe A La Hache',
+    1 => 'LA',
+    2 => '29.57',
+    3 => '-89.79',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  83 => 
+  array (
+    0 => 'Port Sulphur',
+    1 => 'LA',
+    2 => '29.49',
+    3 => '-89.7',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  84 => 
+  array (
+    0 => 'Reserve',
+    1 => 'LA',
+    2 => '30.07',
+    3 => '-90.56',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  85 => 
+  array (
+    0 => 'Saint Bernard',
+    1 => 'LA',
+    2 => '29.88',
+    3 => '-89.51',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  86 => 
+  array (
+    0 => 'Saint James',
+    1 => 'LA',
+    2 => '29.98',
+    3 => '-90.87',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  87 => 
+  array (
+    0 => 'Saint Rose',
+    1 => 'LA',
+    2 => '29.95',
+    3 => '-90.31',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  90 => 
+  array (
+    0 => 'Vacherie',
+    1 => 'LA',
+    2 => '29.96',
+    3 => '-90.71',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  91 => 
+  array (
+    0 => 'Venice',
+    1 => 'LA',
+    2 => '29.27',
+    3 => '-89.35',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  92 => 
+  array (
+    0 => 'Violet',
+    1 => 'LA',
+    2 => '29.89',
+    3 => '-89.89',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  93 => 
+  array (
+    0 => 'Belle Chasse',
+    1 => 'LA',
+    2 => '29.85',
+    3 => '-89.99',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  94 => 
+  array (
+    0 => 'Westwego',
+    1 => 'LA',
+    2 => '29.9',
+    3 => '-90.14',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  96 => 
+  array (
+    0 => 'Westwego',
+    1 => 'LA',
+    2 => '29.9',
+    3 => '-90.14',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  97 => 
+  array (
+    0 => 'Kenner',
+    1 => 'LA',
+    2 => '30.03',
+    3 => '-90.24',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+);

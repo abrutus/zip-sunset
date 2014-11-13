@@ -1,0 +1,578 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'New York',
+    1 => 'NY',
+    2 => '40.71',
+    3 => '-73.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '02' => 
+  array (
+    0 => 'New York',
+    1 => 'NY',
+    2 => '40.71',
+    3 => '-73.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '03' => 
+  array (
+    0 => 'New York',
+    1 => 'NY',
+    2 => '40.71',
+    3 => '-73.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '04' => 
+  array (
+    0 => 'New York',
+    1 => 'NY',
+    2 => '40.71',
+    3 => '-73.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '05' => 
+  array (
+    0 => 'New York',
+    1 => 'NY',
+    2 => '40.71',
+    3 => '-73.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '06' => 
+  array (
+    0 => 'New York',
+    1 => 'NY',
+    2 => '40.71',
+    3 => '-73.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '07' => 
+  array (
+    0 => 'New York',
+    1 => 'NY',
+    2 => '40.71',
+    3 => '-73.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '08' => 
+  array (
+    0 => 'New York',
+    1 => 'NY',
+    2 => '40.71',
+    3 => '-73.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '09' => 
+  array (
+    0 => 'New York',
+    1 => 'NY',
+    2 => '40.71',
+    3 => '-73.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  10 => 
+  array (
+    0 => 'New York',
+    1 => 'NY',
+    2 => '40.71',
+    3 => '-73.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  11 => 
+  array (
+    0 => 'New York',
+    1 => 'NY',
+    2 => '40.71',
+    3 => '-73.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  12 => 
+  array (
+    0 => 'New York',
+    1 => 'NY',
+    2 => '40.71',
+    3 => '-73.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  13 => 
+  array (
+    0 => 'New York',
+    1 => 'NY',
+    2 => '40.71',
+    3 => '-73.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  14 => 
+  array (
+    0 => 'New York',
+    1 => 'NY',
+    2 => '40.71',
+    3 => '-73.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  15 => 
+  array (
+    0 => 'New York',
+    1 => 'NY',
+    2 => '40.71',
+    3 => '-74',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  16 => 
+  array (
+    0 => 'New York',
+    1 => 'NY',
+    2 => '40.71',
+    3 => '-73.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  17 => 
+  array (
+    0 => 'New York',
+    1 => 'NY',
+    2 => '40.71',
+    3 => '-73.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  18 => 
+  array (
+    0 => 'New York',
+    1 => 'NY',
+    2 => '40.71',
+    3 => '-73.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  19 => 
+  array (
+    0 => 'New York',
+    1 => 'NY',
+    2 => '40.71',
+    3 => '-73.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  20 => 
+  array (
+    0 => 'New York',
+    1 => 'NY',
+    2 => '40.71',
+    3 => '-73.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  21 => 
+  array (
+    0 => 'New York',
+    1 => 'NY',
+    2 => '40.77',
+    3 => '-73.95',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  22 => 
+  array (
+    0 => 'New York',
+    1 => 'NY',
+    2 => '40.71',
+    3 => '-73.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  23 => 
+  array (
+    0 => 'New York',
+    1 => 'NY',
+    2 => '40.71',
+    3 => '-73.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  24 => 
+  array (
+    0 => 'New York',
+    1 => 'NY',
+    2 => '40.71',
+    3 => '-73.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  25 => 
+  array (
+    0 => 'New York',
+    1 => 'NY',
+    2 => '40.71',
+    3 => '-73.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  26 => 
+  array (
+    0 => 'New York',
+    1 => 'NY',
+    2 => '40.71',
+    3 => '-73.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  27 => 
+  array (
+    0 => 'New York',
+    1 => 'NY',
+    2 => '40.71',
+    3 => '-73.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  28 => 
+  array (
+    0 => 'New York',
+    1 => 'NY',
+    2 => '40.71',
+    3 => '-73.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  29 => 
+  array (
+    0 => 'New York',
+    1 => 'NY',
+    2 => '40.71',
+    3 => '-73.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  30 => 
+  array (
+    0 => 'New York',
+    1 => 'NY',
+    2 => '40.71',
+    3 => '-73.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  31 => 
+  array (
+    0 => 'New York',
+    1 => 'NY',
+    2 => '40.71',
+    3 => '-73.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  32 => 
+  array (
+    0 => 'New York',
+    1 => 'NY',
+    2 => '40.71',
+    3 => '-73.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  33 => 
+  array (
+    0 => 'New York',
+    1 => 'NY',
+    2 => '40.71',
+    3 => '-73.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  34 => 
+  array (
+    0 => 'New York',
+    1 => 'NY',
+    2 => '40.71',
+    3 => '-73.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  35 => 
+  array (
+    0 => 'New York',
+    1 => 'NY',
+    2 => '40.71',
+    3 => '-73.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  36 => 
+  array (
+    0 => 'New York',
+    1 => 'NY',
+    2 => '40.71',
+    3 => '-73.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  37 => 
+  array (
+    0 => 'New York',
+    1 => 'NY',
+    2 => '40.71',
+    3 => '-73.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  38 => 
+  array (
+    0 => 'New York',
+    1 => 'NY',
+    2 => '40.71',
+    3 => '-73.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  39 => 
+  array (
+    0 => 'New York',
+    1 => 'NY',
+    2 => '40.71',
+    3 => '-73.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  40 => 
+  array (
+    0 => 'New York',
+    1 => 'NY',
+    2 => '40.71',
+    3 => '-73.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  41 => 
+  array (
+    0 => 'New York',
+    1 => 'NY',
+    2 => '40.71',
+    3 => '-73.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  43 => 
+  array (
+    0 => 'New York',
+    1 => 'NY',
+    2 => '40.71',
+    3 => '-73.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  44 => 
+  array (
+    0 => 'New York',
+    1 => 'NY',
+    2 => '40.71',
+    3 => '-73.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  45 => 
+  array (
+    0 => 'New York',
+    1 => 'NY',
+    2 => '40.71',
+    3 => '-73.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  46 => 
+  array (
+    0 => 'New York',
+    1 => 'NY',
+    2 => '40.71',
+    3 => '-74.01',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  47 => 
+  array (
+    0 => 'New York',
+    1 => 'NY',
+    2 => '40.71',
+    3 => '-74.01',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  48 => 
+  array (
+    0 => 'New York',
+    1 => 'NY',
+    2 => '40.71',
+    3 => '-74.01',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  55 => 
+  array (
+    0 => 'New York',
+    1 => 'NY',
+    2 => '40.71',
+    3 => '-73.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  60 => 
+  array (
+    0 => 'New York',
+    1 => 'NY',
+    2 => '40.71',
+    3 => '-73.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  65 => 
+  array (
+    0 => 'New York',
+    1 => 'NY',
+    2 => '40.76',
+    3 => '-73.96',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  69 => 
+  array (
+    0 => 'New York',
+    1 => 'NY',
+    2 => '40.71',
+    3 => '-73.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  72 => 
+  array (
+    0 => 'New York',
+    1 => 'NY',
+    2 => '40.75',
+    3 => '-73.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  75 => 
+  array (
+    0 => 'New York',
+    1 => 'NY',
+    2 => '40.77',
+    3 => '-73.95',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  79 => 
+  array (
+    0 => 'New York',
+    1 => 'NY',
+    2 => '40.71',
+    3 => '-74',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  80 => 
+  array (
+    0 => 'New York',
+    1 => 'NY',
+    2 => '40.71',
+    3 => '-73.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  81 => 
+  array (
+    0 => 'New York',
+    1 => 'NY',
+    2 => '40.71',
+    3 => '-73.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  82 => 
+  array (
+    0 => 'New York',
+    1 => 'NY',
+    2 => '40.77',
+    3 => '-73.98',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  87 => 
+  array (
+    0 => 'New York',
+    1 => 'NY',
+    2 => '40.71',
+    3 => '-73.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  90 => 
+  array (
+    0 => 'New York',
+    1 => 'NY',
+    2 => '40.71',
+    3 => '-73.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  94 => 
+  array (
+    0 => 'New York',
+    1 => 'NY',
+    2 => '40.71',
+    3 => '-74',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  95 => 
+  array (
+    0 => 'New York',
+    1 => 'NY',
+    2 => '40.71',
+    3 => '-73.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  96 => 
+  array (
+    0 => 'New York',
+    1 => 'NY',
+    2 => '40.71',
+    3 => '-74',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  98 => 
+  array (
+    0 => 'New York',
+    1 => 'NY',
+    2 => '40.75',
+    3 => '-73.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  99 => 
+  array (
+    0 => 'New York',
+    1 => 'NY',
+    2 => '40.71',
+    3 => '-74',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

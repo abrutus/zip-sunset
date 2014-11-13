@@ -1,0 +1,146 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Adrian',
+    1 => 'OR',
+    2 => '43.59',
+    3 => '-117.1',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '02' => 
+  array (
+    0 => 'Arock',
+    1 => 'OR',
+    2 => '42.91',
+    3 => '-117.48',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '03' => 
+  array (
+    0 => 'Brogan',
+    1 => 'OR',
+    2 => '44.15',
+    3 => '-117.67',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '04' => 
+  array (
+    0 => 'Drewsey',
+    1 => 'OR',
+    2 => '43.81',
+    3 => '-118.49',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '05' => 
+  array (
+    0 => 'Durkee',
+    1 => 'OR',
+    2 => '44.6',
+    3 => '-117.37',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '06' => 
+  array (
+    0 => 'Harper',
+    1 => 'OR',
+    2 => '43.86',
+    3 => '-117.64',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '07' => 
+  array (
+    0 => 'Huntington',
+    1 => 'OR',
+    2 => '44.45',
+    3 => '-117.38',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '08' => 
+  array (
+    0 => 'Ironside',
+    1 => 'OR',
+    2 => '44.32',
+    3 => '-117.83',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '09' => 
+  array (
+    0 => 'Jamieson',
+    1 => 'OR',
+    2 => '44.24',
+    3 => '-117.43',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  10 => 
+  array (
+    0 => 'Jordan Valley',
+    1 => 'OR',
+    2 => '42.96',
+    3 => '-117.36',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  11 => 
+  array (
+    0 => 'Juntura',
+    1 => 'OR',
+    2 => '43.72',
+    3 => '-118.02',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  13 => 
+  array (
+    0 => 'Nyssa',
+    1 => 'OR',
+    2 => '43.73',
+    3 => '-117.15',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  14 => 
+  array (
+    0 => 'Ontario',
+    1 => 'OR',
+    2 => '44.08',
+    3 => '-117.01',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  17 => 
+  array (
+    0 => 'Riverside',
+    1 => 'OR',
+    2 => '43.5',
+    3 => '-118.09',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  18 => 
+  array (
+    0 => 'Vale',
+    1 => 'OR',
+    2 => '44.03',
+    3 => '-117.38',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  20 => 
+  array (
+    0 => 'Westfall',
+    1 => 'OR',
+    2 => '44.03',
+    3 => '-117.71',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+);

@@ -1,0 +1,146 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Columbus',
+    1 => 'GA',
+    2 => '32.51',
+    3 => '-84.87',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '02' => 
+  array (
+    0 => 'Columbus',
+    1 => 'GA',
+    2 => '32.51',
+    3 => '-84.87',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '03' => 
+  array (
+    0 => 'Columbus',
+    1 => 'GA',
+    2 => '32.51',
+    3 => '-84.87',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '04' => 
+  array (
+    0 => 'Columbus',
+    1 => 'GA',
+    2 => '32.51',
+    3 => '-84.87',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '05' => 
+  array (
+    0 => 'Fort Benning',
+    1 => 'GA',
+    2 => '32.39',
+    3 => '-84.87',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '06' => 
+  array (
+    0 => 'Columbus',
+    1 => 'GA',
+    2 => '32.51',
+    3 => '-84.87',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '07' => 
+  array (
+    0 => 'Columbus',
+    1 => 'GA',
+    2 => '32.51',
+    3 => '-84.87',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '08' => 
+  array (
+    0 => 'Columbus',
+    1 => 'GA',
+    2 => '32.51',
+    3 => '-84.87',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '09' => 
+  array (
+    0 => 'Columbus',
+    1 => 'GA',
+    2 => '32.51',
+    3 => '-84.87',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  14 => 
+  array (
+    0 => 'Columbus',
+    1 => 'GA',
+    2 => '32.51',
+    3 => '-84.87',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  17 => 
+  array (
+    0 => 'Columbus',
+    1 => 'GA',
+    2 => '32.51',
+    3 => '-84.87',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  93 => 
+  array (
+    0 => 'Columbus',
+    1 => 'GA',
+    2 => '32.51',
+    3 => '-84.87',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  95 => 
+  array (
+    0 => 'Fort Benning',
+    1 => 'GA',
+    2 => '32.39',
+    3 => '-84.87',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  97 => 
+  array (
+    0 => 'Columbus',
+    1 => 'GA',
+    2 => '32.51',
+    3 => '-84.87',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  98 => 
+  array (
+    0 => 'Columbus',
+    1 => 'GA',
+    2 => '32.51',
+    3 => '-84.87',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  99 => 
+  array (
+    0 => 'Columbus',
+    1 => 'GA',
+    2 => '32.51',
+    3 => '-84.87',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

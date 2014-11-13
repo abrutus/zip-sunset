@@ -1,0 +1,596 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'San Francisco',
+    1 => 'CA',
+    2 => '37.77',
+    3 => '-122.41',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '02' => 
+  array (
+    0 => 'San Francisco',
+    1 => 'CA',
+    2 => '37.77',
+    3 => '-122.41',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '03' => 
+  array (
+    0 => 'San Francisco',
+    1 => 'CA',
+    2 => '37.77',
+    3 => '-122.41',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '04' => 
+  array (
+    0 => 'San Francisco',
+    1 => 'CA',
+    2 => '37.79',
+    3 => '-122.4',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '05' => 
+  array (
+    0 => 'San Francisco',
+    1 => 'CA',
+    2 => '37.78',
+    3 => '-122.39',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '06' => 
+  array (
+    0 => 'San Francisco',
+    1 => 'CA',
+    2 => '37.77',
+    3 => '-122.41',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '07' => 
+  array (
+    0 => 'San Francisco',
+    1 => 'CA',
+    2 => '37.76',
+    3 => '-122.39',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '08' => 
+  array (
+    0 => 'San Francisco',
+    1 => 'CA',
+    2 => '37.79',
+    3 => '-122.4',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '09' => 
+  array (
+    0 => 'San Francisco',
+    1 => 'CA',
+    2 => '37.79',
+    3 => '-122.42',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  10 => 
+  array (
+    0 => 'San Francisco',
+    1 => 'CA',
+    2 => '37.74',
+    3 => '-122.41',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  11 => 
+  array (
+    0 => 'San Francisco',
+    1 => 'CA',
+    2 => '37.79',
+    3 => '-122.39',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  12 => 
+  array (
+    0 => 'San Francisco',
+    1 => 'CA',
+    2 => '37.72',
+    3 => '-122.44',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  14 => 
+  array (
+    0 => 'San Francisco',
+    1 => 'CA',
+    2 => '37.75',
+    3 => '-122.43',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  15 => 
+  array (
+    0 => 'San Francisco',
+    1 => 'CA',
+    2 => '37.78',
+    3 => '-122.43',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  16 => 
+  array (
+    0 => 'San Francisco',
+    1 => 'CA',
+    2 => '37.74',
+    3 => '-122.48',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  17 => 
+  array (
+    0 => 'San Francisco',
+    1 => 'CA',
+    2 => '37.76',
+    3 => '-122.44',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  18 => 
+  array (
+    0 => 'San Francisco',
+    1 => 'CA',
+    2 => '37.78',
+    3 => '-122.46',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  19 => 
+  array (
+    0 => 'San Francisco',
+    1 => 'CA',
+    2 => '37.78',
+    3 => '-122.45',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  20 => 
+  array (
+    0 => 'San Francisco',
+    1 => 'CA',
+    2 => '37.79',
+    3 => '-122.4',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  21 => 
+  array (
+    0 => 'San Francisco',
+    1 => 'CA',
+    2 => '37.77',
+    3 => '-122.49',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  22 => 
+  array (
+    0 => 'San Francisco',
+    1 => 'CA',
+    2 => '37.76',
+    3 => '-122.48',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  23 => 
+  array (
+    0 => 'San Francisco',
+    1 => 'CA',
+    2 => '37.8',
+    3 => '-122.43',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  24 => 
+  array (
+    0 => 'San Francisco',
+    1 => 'CA',
+    2 => '37.73',
+    3 => '-122.38',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  25 => 
+  array (
+    0 => 'San Francisco',
+    1 => 'CA',
+    2 => '37.73',
+    3 => '-122.38',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  26 => 
+  array (
+    0 => 'San Francisco',
+    1 => 'CA',
+    2 => '37.79',
+    3 => '-122.39',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  27 => 
+  array (
+    0 => 'San Francisco',
+    1 => 'CA',
+    2 => '37.73',
+    3 => '-122.45',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  28 => 
+  array (
+    0 => 'San Francisco',
+    1 => 'CA',
+    2 => '37.61',
+    3 => '-122.38',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  29 => 
+  array (
+    0 => 'San Francisco',
+    1 => 'CA',
+    2 => '37.79',
+    3 => '-122.46',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  30 => 
+  array (
+    0 => 'San Francisco',
+    1 => 'CA',
+    2 => '37.81',
+    3 => '-122.36',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  31 => 
+  array (
+    0 => 'San Francisco',
+    1 => 'CA',
+    2 => '37.74',
+    3 => '-122.44',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  32 => 
+  array (
+    0 => 'San Francisco',
+    1 => 'CA',
+    2 => '37.72',
+    3 => '-122.48',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  33 => 
+  array (
+    0 => 'San Francisco',
+    1 => 'CA',
+    2 => '37.8',
+    3 => '-122.41',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  34 => 
+  array (
+    0 => 'San Francisco',
+    1 => 'CA',
+    2 => '37.72',
+    3 => '-122.41',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  35 => 
+  array (
+    0 => 'San Francisco',
+    1 => 'CA',
+    2 => '37.77',
+    3 => '-122.41',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  36 => 
+  array (
+    0 => 'San Francisco',
+    1 => 'CA',
+    2 => '37.77',
+    3 => '-122.41',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  37 => 
+  array (
+    0 => 'San Francisco',
+    1 => 'CA',
+    2 => '37.79',
+    3 => '-122.4',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  38 => 
+  array (
+    0 => 'San Francisco',
+    1 => 'CA',
+    2 => '37.79',
+    3 => '-122.4',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  39 => 
+  array (
+    0 => 'San Francisco',
+    1 => 'CA',
+    2 => '37.79',
+    3 => '-122.4',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  40 => 
+  array (
+    0 => 'San Francisco',
+    1 => 'CA',
+    2 => '37.75',
+    3 => '-122.41',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  41 => 
+  array (
+    0 => 'San Francisco',
+    1 => 'CA',
+    2 => '37.76',
+    3 => '-122.41',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  42 => 
+  array (
+    0 => 'San Francisco',
+    1 => 'CA',
+    2 => '37.78',
+    3 => '-122.41',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  43 => 
+  array (
+    0 => 'San Francisco',
+    1 => 'CA',
+    2 => '37.76',
+    3 => '-122.45',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  44 => 
+  array (
+    0 => 'San Francisco',
+    1 => 'CA',
+    2 => '37.78',
+    3 => '-122.46',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  45 => 
+  array (
+    0 => 'San Francisco',
+    1 => 'CA',
+    2 => '37.79',
+    3 => '-122.4',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  46 => 
+  array (
+    0 => 'San Francisco',
+    1 => 'CA',
+    2 => '37.75',
+    3 => '-122.43',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  47 => 
+  array (
+    0 => 'San Francisco',
+    1 => 'CA',
+    2 => '37.8',
+    3 => '-122.43',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  50 => 
+  array (
+    0 => 'San Francisco',
+    1 => 'CA',
+    2 => '37.77',
+    3 => '-122.41',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  51 => 
+  array (
+    0 => 'San Francisco',
+    1 => 'CA',
+    2 => '37.79',
+    3 => '-122.39',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  52 => 
+  array (
+    0 => 'San Francisco',
+    1 => 'CA',
+    2 => '37.77',
+    3 => '-122.41',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  53 => 
+  array (
+    0 => 'San Francisco',
+    1 => 'CA',
+    2 => '37.77',
+    3 => '-122.41',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  54 => 
+  array (
+    0 => 'San Francisco',
+    1 => 'CA',
+    2 => '37.77',
+    3 => '-122.41',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  55 => 
+  array (
+    0 => 'San Francisco',
+    1 => 'CA',
+    2 => '37.77',
+    3 => '-122.41',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  56 => 
+  array (
+    0 => 'San Francisco',
+    1 => 'CA',
+    2 => '37.78',
+    3 => '-122.4',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  58 => 
+  array (
+    0 => 'San Francisco',
+    1 => 'CA',
+    2 => '37.76',
+    3 => '-122.39',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  59 => 
+  array (
+    0 => 'San Francisco',
+    1 => 'CA',
+    2 => '37.78',
+    3 => '-122.45',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  60 => 
+  array (
+    0 => 'San Francisco',
+    1 => 'CA',
+    2 => '37.71',
+    3 => '-122.4',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  61 => 
+  array (
+    0 => 'San Francisco',
+    1 => 'CA',
+    2 => '37.79',
+    3 => '-122.4',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  62 => 
+  array (
+    0 => 'San Francisco',
+    1 => 'CA',
+    2 => '37.78',
+    3 => '-122.4',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  63 => 
+  array (
+    0 => 'San Francisco',
+    1 => 'CA',
+    2 => '37.78',
+    3 => '-122.4',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  64 => 
+  array (
+    0 => 'San Francisco',
+    1 => 'CA',
+    2 => '37.78',
+    3 => '-122.42',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  71 => 
+  array (
+    0 => 'San Francisco',
+    1 => 'CA',
+    2 => '37.77',
+    3 => '-122.41',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  72 => 
+  array (
+    0 => 'San Francisco',
+    1 => 'CA',
+    2 => '37.76',
+    3 => '-122.48',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  75 => 
+  array (
+    0 => 'San Francisco',
+    1 => 'CA',
+    2 => '37.77',
+    3 => '-122.41',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  77 => 
+  array (
+    0 => 'San Francisco',
+    1 => 'CA',
+    2 => '37.79',
+    3 => '-122.39',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  88 => 
+  array (
+    0 => 'San Francisco',
+    1 => 'CA',
+    2 => '37.74',
+    3 => '-122.38',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  99 => 
+  array (
+    0 => 'San Francisco',
+    1 => 'CA',
+    2 => '37.77',
+    3 => '-122.41',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+);

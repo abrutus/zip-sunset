@@ -1,0 +1,380 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Oak Hill',
+    1 => 'WV',
+    2 => '37.98',
+    3 => '-81.14',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '02' => 
+  array (
+    0 => 'Odd',
+    1 => 'WV',
+    2 => '37.56',
+    3 => '-81.23',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '04' => 
+  array (
+    0 => 'Pax',
+    1 => 'WV',
+    2 => '37.9',
+    3 => '-81.26',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '06' => 
+  array (
+    0 => 'Piney View',
+    1 => 'WV',
+    2 => '37.84',
+    3 => '-81.13',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '07' => 
+  array (
+    0 => 'Prince',
+    1 => 'WV',
+    2 => '37.87',
+    3 => '-81.03',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '08' => 
+  array (
+    0 => 'Princewick',
+    1 => 'WV',
+    2 => '37.65',
+    3 => '-81.23',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '09' => 
+  array (
+    0 => 'Prosperity',
+    1 => 'WV',
+    2 => '37.83',
+    3 => '-81.2',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  11 => 
+  array (
+    0 => 'Raleigh',
+    1 => 'WV',
+    2 => '37.75',
+    3 => '-81.16',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  13 => 
+  array (
+    0 => 'Ravencliff',
+    1 => 'WV',
+    2 => '37.69',
+    3 => '-81.49',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  15 => 
+  array (
+    0 => 'Rhodell',
+    1 => 'WV',
+    2 => '37.6',
+    3 => '-81.3',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  16 => 
+  array (
+    0 => 'Sabine',
+    1 => 'WV',
+    2 => '37.67',
+    3 => '-81.49',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  17 => 
+  array (
+    0 => 'Scarbro',
+    1 => 'WV',
+    2 => '37.95',
+    3 => '-81.24',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  18 => 
+  array (
+    0 => 'Shady Spring',
+    1 => 'WV',
+    2 => '37.7',
+    3 => '-81.09',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  19 => 
+  array (
+    0 => 'Skelton',
+    1 => 'WV',
+    2 => '37.8',
+    3 => '-81.19',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  20 => 
+  array (
+    0 => 'Slab Fork',
+    1 => 'WV',
+    2 => '37.68',
+    3 => '-81.28',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  21 => 
+  array (
+    0 => 'Sophia',
+    1 => 'WV',
+    2 => '37.7',
+    3 => '-81.25',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  22 => 
+  array (
+    0 => 'Spanishburg',
+    1 => 'WV',
+    2 => '37.45',
+    3 => '-81.11',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  26 => 
+  array (
+    0 => 'Beckley',
+    1 => 'WV',
+    2 => '37.79',
+    3 => '-81.18',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  27 => 
+  array (
+    0 => 'Stanaford',
+    1 => 'WV',
+    2 => '37.81',
+    3 => '-81.15',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  28 => 
+  array (
+    0 => 'Stephenson',
+    1 => 'WV',
+    2 => '37.57',
+    3 => '-81.33',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  32 => 
+  array (
+    0 => 'Surveyor',
+    1 => 'WV',
+    2 => '37.73',
+    3 => '-81.34',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  36 => 
+  array (
+    0 => 'Thurmond',
+    1 => 'WV',
+    2 => '37.96',
+    3 => '-81.08',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  38 => 
+  array (
+    0 => 'Victor',
+    1 => 'WV',
+    2 => '38.14',
+    3 => '-81.03',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  42 => 
+  array (
+    0 => 'Winona',
+    1 => 'WV',
+    2 => '38.02',
+    3 => '-80.96',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  43 => 
+  array (
+    0 => 'Wyco',
+    1 => 'WV',
+    2 => '37.61',
+    3 => '-81.34',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  51 => 
+  array (
+    0 => 'Hinton',
+    1 => 'WV',
+    2 => '37.66',
+    3 => '-80.88',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  58 => 
+  array (
+    0 => 'Charmco',
+    1 => 'WV',
+    2 => '37.99',
+    3 => '-80.69',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  62 => 
+  array (
+    0 => 'Rainelle',
+    1 => 'WV',
+    2 => '37.96',
+    3 => '-80.77',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  65 => 
+  array (
+    0 => 'Elton',
+    1 => 'WV',
+    2 => '37.83',
+    3 => '-80.78',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  66 => 
+  array (
+    0 => 'Green Sulphur Springs',
+    1 => 'WV',
+    2 => '37.79',
+    3 => '-80.83',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  69 => 
+  array (
+    0 => 'Jumping Branch',
+    1 => 'WV',
+    2 => '37.65',
+    3 => '-80.98',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  71 => 
+  array (
+    0 => 'Lerona',
+    1 => 'WV',
+    2 => '37.5',
+    3 => '-80.98',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  72 => 
+  array (
+    0 => 'Leslie',
+    1 => 'WV',
+    2 => '38.03',
+    3 => '-80.74',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  76 => 
+  array (
+    0 => 'Meadow Bridge',
+    1 => 'WV',
+    2 => '37.86',
+    3 => '-80.85',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  77 => 
+  array (
+    0 => 'Meadow Creek',
+    1 => 'WV',
+    2 => '37.8',
+    3 => '-80.91',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  78 => 
+  array (
+    0 => 'Nimitz',
+    1 => 'WV',
+    2 => '37.62',
+    3 => '-80.93',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  79 => 
+  array (
+    0 => 'Pipestem',
+    1 => 'WV',
+    2 => '37.53',
+    3 => '-80.96',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  81 => 
+  array (
+    0 => 'Quinwood',
+    1 => 'WV',
+    2 => '38.05',
+    3 => '-80.7',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  84 => 
+  array (
+    0 => 'Rupert',
+    1 => 'WV',
+    2 => '37.96',
+    3 => '-80.68',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  85 => 
+  array (
+    0 => 'Sandstone',
+    1 => 'WV',
+    2 => '37.76',
+    3 => '-80.88',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  86 => 
+  array (
+    0 => 'Spring Dale',
+    1 => 'WV',
+    2 => '37.87',
+    3 => '-80.81',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  89 => 
+  array (
+    0 => 'White Oak',
+    1 => 'WV',
+    2 => '37.68',
+    3 => '-81.03',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

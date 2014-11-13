@@ -1,0 +1,263 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Rolla',
+    1 => 'MO',
+    2 => '37.94',
+    3 => '-91.76',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '02' => 
+  array (
+    0 => 'Rolla',
+    1 => 'MO',
+    2 => '37.94',
+    3 => '-91.76',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '09' => 
+  array (
+    0 => 'Rolla',
+    1 => 'MO',
+    2 => '37.94',
+    3 => '-91.76',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  36 => 
+  array (
+    0 => 'Beulah',
+    1 => 'MO',
+    2 => '37.62',
+    3 => '-91.91',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  38 => 
+  array (
+    0 => 'Birch Tree',
+    1 => 'MO',
+    2 => '36.99',
+    3 => '-91.49',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  39 => 
+  array (
+    0 => 'Bixby',
+    1 => 'MO',
+    2 => '37.66',
+    3 => '-91.08',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  40 => 
+  array (
+    0 => 'Boss',
+    1 => 'MO',
+    2 => '37.64',
+    3 => '-91.18',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  41 => 
+  array (
+    0 => 'Bourbon',
+    1 => 'MO',
+    2 => '38.15',
+    3 => '-91.24',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  43 => 
+  array (
+    0 => 'Brinktown',
+    1 => 'MO',
+    2 => '38.12',
+    3 => '-92.07',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  44 => 
+  array (
+    0 => 'Bucyrus',
+    1 => 'MO',
+    2 => '37.34',
+    3 => '-92.01',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  46 => 
+  array (
+    0 => 'Cherryville',
+    1 => 'MO',
+    2 => '37.85',
+    3 => '-91.28',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  49 => 
+  array (
+    0 => 'Cook Sta',
+    1 => 'MO',
+    2 => '37.81',
+    3 => '-91.43',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  52 => 
+  array (
+    0 => 'Crocker',
+    1 => 'MO',
+    2 => '37.94',
+    3 => '-92.26',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  53 => 
+  array (
+    0 => 'Cuba',
+    1 => 'MO',
+    2 => '38.06',
+    3 => '-91.39',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  56 => 
+  array (
+    0 => 'Davisville',
+    1 => 'MO',
+    2 => '37.8',
+    3 => '-91.18',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  57 => 
+  array (
+    0 => 'Devils Elbow',
+    1 => 'MO',
+    2 => '37.82',
+    3 => '-92.06',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  59 => 
+  array (
+    0 => 'Dixon',
+    1 => 'MO',
+    2 => '37.99',
+    3 => '-92.09',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  61 => 
+  array (
+    0 => 'Duke',
+    1 => 'MO',
+    2 => '37.65',
+    3 => '-91.98',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  62 => 
+  array (
+    0 => 'Edgar Springs',
+    1 => 'MO',
+    2 => '37.7',
+    3 => '-91.86',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  63 => 
+  array (
+    0 => 'Eldridge',
+    1 => 'MO',
+    2 => '37.82',
+    3 => '-92.74',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  64 => 
+  array (
+    0 => 'Elk Creek',
+    1 => 'MO',
+    2 => '37.18',
+    3 => '-91.99',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  66 => 
+  array (
+    0 => 'Eminence',
+    1 => 'MO',
+    2 => '37.14',
+    3 => '-91.35',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  68 => 
+  array (
+    0 => 'Eunice',
+    1 => 'MO',
+    2 => '37.24',
+    3 => '-91.77',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  70 => 
+  array (
+    0 => 'Falcon',
+    1 => 'MO',
+    2 => '37.6',
+    3 => '-92.37',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  73 => 
+  array (
+    0 => 'Fort Leonard Wood',
+    1 => 'MO',
+    2 => '37.7',
+    3 => '-92.15',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  79 => 
+  array (
+    0 => 'Hartshorn',
+    1 => 'MO',
+    2 => '37.26',
+    3 => '-91.67',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  83 => 
+  array (
+    0 => 'Houston',
+    1 => 'MO',
+    2 => '37.32',
+    3 => '-91.95',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  84 => 
+  array (
+    0 => 'Huggins',
+    1 => 'MO',
+    2 => '37.31',
+    3 => '-92.19',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  86 => 
+  array (
+    0 => 'Iberia',
+    1 => 'MO',
+    2 => '38.08',
+    3 => '-92.29',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+);

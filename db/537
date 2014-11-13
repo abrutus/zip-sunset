@@ -1,0 +1,317 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Madison',
+    1 => 'WI',
+    2 => '43.07',
+    3 => '-89.38',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '02' => 
+  array (
+    0 => 'Madison',
+    1 => 'WI',
+    2 => '43.07',
+    3 => '-89.38',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '03' => 
+  array (
+    0 => 'Madison',
+    1 => 'WI',
+    2 => '43.07',
+    3 => '-89.38',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '04' => 
+  array (
+    0 => 'Madison',
+    1 => 'WI',
+    2 => '43.07',
+    3 => '-89.38',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '05' => 
+  array (
+    0 => 'Madison',
+    1 => 'WI',
+    2 => '43.07',
+    3 => '-89.38',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '06' => 
+  array (
+    0 => 'Madison',
+    1 => 'WI',
+    2 => '43.07',
+    3 => '-89.38',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '07' => 
+  array (
+    0 => 'Madison',
+    1 => 'WI',
+    2 => '43.07',
+    3 => '-89.38',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '08' => 
+  array (
+    0 => 'Madison',
+    1 => 'WI',
+    2 => '43.07',
+    3 => '-89.38',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  11 => 
+  array (
+    0 => 'Madison',
+    1 => 'WI',
+    2 => '43.07',
+    3 => '-89.38',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  13 => 
+  array (
+    0 => 'Madison',
+    1 => 'WI',
+    2 => '43.07',
+    3 => '-89.38',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  14 => 
+  array (
+    0 => 'Madison',
+    1 => 'WI',
+    2 => '43.07',
+    3 => '-89.38',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  15 => 
+  array (
+    0 => 'Madison',
+    1 => 'WI',
+    2 => '43.07',
+    3 => '-89.38',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  16 => 
+  array (
+    0 => 'Madison',
+    1 => 'WI',
+    2 => '43.07',
+    3 => '-89.38',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  17 => 
+  array (
+    0 => 'Madison',
+    1 => 'WI',
+    2 => '43.07',
+    3 => '-89.38',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  18 => 
+  array (
+    0 => 'Madison',
+    1 => 'WI',
+    2 => '43.07',
+    3 => '-89.38',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  19 => 
+  array (
+    0 => 'Madison',
+    1 => 'WI',
+    2 => '43.07',
+    3 => '-89.38',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  25 => 
+  array (
+    0 => 'Madison',
+    1 => 'WI',
+    2 => '43.07',
+    3 => '-89.38',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  26 => 
+  array (
+    0 => 'Madison',
+    1 => 'WI',
+    2 => '43.07',
+    3 => '-89.38',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  44 => 
+  array (
+    0 => 'Madison',
+    1 => 'WI',
+    2 => '43.07',
+    3 => '-89.38',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  74 => 
+  array (
+    0 => 'Madison',
+    1 => 'WI',
+    2 => '43.07',
+    3 => '-89.4',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  77 => 
+  array (
+    0 => 'Madison',
+    1 => 'WI',
+    2 => '43.07',
+    3 => '-89.38',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  78 => 
+  array (
+    0 => 'Madison',
+    1 => 'WI',
+    2 => '43.07',
+    3 => '-89.38',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  79 => 
+  array (
+    0 => 'Madison',
+    1 => 'WI',
+    2 => '43.07',
+    3 => '-89.38',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  82 => 
+  array (
+    0 => 'Madison',
+    1 => 'WI',
+    2 => '43.07',
+    3 => '-89.38',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  83 => 
+  array (
+    0 => 'Madison',
+    1 => 'WI',
+    2 => '43.07',
+    3 => '-89.38',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  84 => 
+  array (
+    0 => 'Madison',
+    1 => 'WI',
+    2 => '43.07',
+    3 => '-89.38',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  85 => 
+  array (
+    0 => 'Madison',
+    1 => 'WI',
+    2 => '43.07',
+    3 => '-89.38',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  86 => 
+  array (
+    0 => 'Madison',
+    1 => 'WI',
+    2 => '43.07',
+    3 => '-89.38',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  88 => 
+  array (
+    0 => 'Madison',
+    1 => 'WI',
+    2 => '43.07',
+    3 => '-89.38',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  89 => 
+  array (
+    0 => 'Madison',
+    1 => 'WI',
+    2 => '43.07',
+    3 => '-89.38',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  90 => 
+  array (
+    0 => 'Madison',
+    1 => 'WI',
+    2 => '43.07',
+    3 => '-89.38',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  91 => 
+  array (
+    0 => 'Madison',
+    1 => 'WI',
+    2 => '43.07',
+    3 => '-89.38',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  92 => 
+  array (
+    0 => 'Madison',
+    1 => 'WI',
+    2 => '43.07',
+    3 => '-89.38',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  93 => 
+  array (
+    0 => 'Madison',
+    1 => 'WI',
+    2 => '43.07',
+    3 => '-89.38',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  94 => 
+  array (
+    0 => 'Madison',
+    1 => 'WI',
+    2 => '43.07',
+    3 => '-89.38',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+);

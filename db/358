@@ -1,0 +1,218 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Huntsville',
+    1 => 'AL',
+    2 => '34.7',
+    3 => '-86.62',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '02' => 
+  array (
+    0 => 'Huntsville',
+    1 => 'AL',
+    2 => '34.7',
+    3 => '-86.62',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '03' => 
+  array (
+    0 => 'Huntsville',
+    1 => 'AL',
+    2 => '34.7',
+    3 => '-86.62',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '04' => 
+  array (
+    0 => 'Huntsville',
+    1 => 'AL',
+    2 => '34.7',
+    3 => '-86.62',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '05' => 
+  array (
+    0 => 'Huntsville',
+    1 => 'AL',
+    2 => '34.7',
+    3 => '-86.62',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '06' => 
+  array (
+    0 => 'Huntsville',
+    1 => 'AL',
+    2 => '34.7',
+    3 => '-86.62',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '07' => 
+  array (
+    0 => 'Huntsville',
+    1 => 'AL',
+    2 => '34.7',
+    3 => '-86.62',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '08' => 
+  array (
+    0 => 'Huntsville',
+    1 => 'AL',
+    2 => '34.7',
+    3 => '-86.62',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '09' => 
+  array (
+    0 => 'Huntsville',
+    1 => 'AL',
+    2 => '34.7',
+    3 => '-86.62',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  10 => 
+  array (
+    0 => 'Huntsville',
+    1 => 'AL',
+    2 => '34.7',
+    3 => '-86.62',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  11 => 
+  array (
+    0 => 'Huntsville',
+    1 => 'AL',
+    2 => '34.7',
+    3 => '-86.62',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  12 => 
+  array (
+    0 => 'Huntsville',
+    1 => 'AL',
+    2 => '34.7',
+    3 => '-86.62',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  13 => 
+  array (
+    0 => 'Huntsville',
+    1 => 'AL',
+    2 => '34.7',
+    3 => '-86.62',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  14 => 
+  array (
+    0 => 'Huntsville',
+    1 => 'AL',
+    2 => '34.7',
+    3 => '-86.62',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  15 => 
+  array (
+    0 => 'Huntsville',
+    1 => 'AL',
+    2 => '34.7',
+    3 => '-86.62',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  16 => 
+  array (
+    0 => 'Huntsville',
+    1 => 'AL',
+    2 => '34.7',
+    3 => '-86.62',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  24 => 
+  array (
+    0 => 'Huntsville',
+    1 => 'AL',
+    2 => '34.7',
+    3 => '-86.62',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  93 => 
+  array (
+    0 => 'Huntsville',
+    1 => 'AL',
+    2 => '34.7',
+    3 => '-86.62',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  94 => 
+  array (
+    0 => 'Huntsville',
+    1 => 'AL',
+    2 => '34.7',
+    3 => '-86.62',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  95 => 
+  array (
+    0 => 'Huntsville',
+    1 => 'AL',
+    2 => '34.7',
+    3 => '-86.62',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  96 => 
+  array (
+    0 => 'Huntsville',
+    1 => 'AL',
+    2 => '34.7',
+    3 => '-86.62',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  97 => 
+  array (
+    0 => 'Huntsville',
+    1 => 'AL',
+    2 => '34.7',
+    3 => '-86.62',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  98 => 
+  array (
+    0 => 'Huntsville',
+    1 => 'AL',
+    2 => '34.7',
+    3 => '-86.62',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  99 => 
+  array (
+    0 => 'Huntsville',
+    1 => 'AL',
+    2 => '34.7',
+    3 => '-86.62',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+);

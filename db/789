@@ -1,0 +1,191 @@
+<?php $db= array (
+  31 => 
+  array (
+    0 => 'Bleiblerville',
+    1 => 'TX',
+    2 => '30.02',
+    3 => '-96.44',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  32 => 
+  array (
+    0 => 'Carmine',
+    1 => 'TX',
+    2 => '30.14',
+    3 => '-96.68',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  34 => 
+  array (
+    0 => 'Columbus',
+    1 => 'TX',
+    2 => '29.7',
+    3 => '-96.55',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  35 => 
+  array (
+    0 => 'Alleyton',
+    1 => 'TX',
+    2 => '29.74',
+    3 => '-96.46',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  38 => 
+  array (
+    0 => 'Ellinger',
+    1 => 'TX',
+    2 => '29.83',
+    3 => '-96.7',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  41 => 
+  array (
+    0 => 'Flatonia',
+    1 => 'TX',
+    2 => '29.68',
+    3 => '-97.1',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  42 => 
+  array (
+    0 => 'Giddings',
+    1 => 'TX',
+    2 => '30.18',
+    3 => '-96.92',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  43 => 
+  array (
+    0 => 'Glidden',
+    1 => 'TX',
+    2 => '29.67',
+    3 => '-96.54',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  44 => 
+  array (
+    0 => 'Industry',
+    1 => 'TX',
+    2 => '29.99',
+    3 => '-96.49',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  45 => 
+  array (
+    0 => 'La Grange',
+    1 => 'TX',
+    2 => '29.9',
+    3 => '-96.87',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  47 => 
+  array (
+    0 => 'Lexington',
+    1 => 'TX',
+    2 => '30.41',
+    3 => '-97',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  48 => 
+  array (
+    0 => 'Lincoln',
+    1 => 'TX',
+    2 => '30.31',
+    3 => '-96.97',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  49 => 
+  array (
+    0 => 'Muldoon',
+    1 => 'TX',
+    2 => '29.81',
+    3 => '-97.06',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  51 => 
+  array (
+    0 => 'Oakland',
+    1 => 'TX',
+    2 => '29.62',
+    3 => '-96.8',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  52 => 
+  array (
+    0 => 'Plum',
+    1 => 'TX',
+    2 => '29.92',
+    3 => '-96.95',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  54 => 
+  array (
+    0 => 'Round Top',
+    1 => 'TX',
+    2 => '30.06',
+    3 => '-96.69',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  57 => 
+  array (
+    0 => 'Smithville',
+    1 => 'TX',
+    2 => '30',
+    3 => '-97.15',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  60 => 
+  array (
+    0 => 'Warda',
+    1 => 'TX',
+    2 => '30.05',
+    3 => '-96.92',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  61 => 
+  array (
+    0 => 'Warrenton',
+    1 => 'TX',
+    2 => '30.06',
+    3 => '-96.69',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  62 => 
+  array (
+    0 => 'Weimar',
+    1 => 'TX',
+    2 => '29.7',
+    3 => '-96.77',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  63 => 
+  array (
+    0 => 'West Point',
+    1 => 'TX',
+    2 => '29.96',
+    3 => '-97.03',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+);

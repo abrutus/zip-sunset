@@ -1,0 +1,299 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Emporia',
+    1 => 'KS',
+    2 => '38.41',
+    3 => '-96.19',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  30 => 
+  array (
+    0 => 'Admire',
+    1 => 'KS',
+    2 => '38.64',
+    3 => '-96.1',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  33 => 
+  array (
+    0 => 'Allen',
+    1 => 'KS',
+    2 => '38.65',
+    3 => '-96.16',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  34 => 
+  array (
+    0 => 'Alta Vista',
+    1 => 'KS',
+    2 => '38.86',
+    3 => '-96.48',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  35 => 
+  array (
+    0 => 'Americus',
+    1 => 'KS',
+    2 => '38.5',
+    3 => '-96.26',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  38 => 
+  array (
+    0 => 'Burdick',
+    1 => 'KS',
+    2 => '38.57',
+    3 => '-96.83',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  39 => 
+  array (
+    0 => 'Burlington',
+    1 => 'KS',
+    2 => '38.19',
+    3 => '-95.74',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  42 => 
+  array (
+    0 => 'Cassoday',
+    1 => 'KS',
+    2 => '38.03',
+    3 => '-96.63',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  43 => 
+  array (
+    0 => 'Cedar Point',
+    1 => 'KS',
+    2 => '38.25',
+    3 => '-96.82',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  45 => 
+  array (
+    0 => 'Cottonwood Falls',
+    1 => 'KS',
+    2 => '38.36',
+    3 => '-96.54',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  46 => 
+  array (
+    0 => 'Council Grove',
+    1 => 'KS',
+    2 => '38.66',
+    3 => '-96.48',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  49 => 
+  array (
+    0 => 'Dwight',
+    1 => 'KS',
+    2 => '38.84',
+    3 => '-96.59',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  50 => 
+  array (
+    0 => 'Elmdale',
+    1 => 'KS',
+    2 => '38.37',
+    3 => '-96.64',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  51 => 
+  array (
+    0 => 'Florence',
+    1 => 'KS',
+    2 => '38.24',
+    3 => '-96.92',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  52 => 
+  array (
+    0 => 'Gridley',
+    1 => 'KS',
+    2 => '38.09',
+    3 => '-95.88',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  53 => 
+  array (
+    0 => 'Hamilton',
+    1 => 'KS',
+    2 => '37.98',
+    3 => '-96.16',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  55 => 
+  array (
+    0 => 'Lamont',
+    1 => 'KS',
+    2 => '38.11',
+    3 => '-96.02',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  57 => 
+  array (
+    0 => 'Le Roy',
+    1 => 'KS',
+    2 => '38.08',
+    3 => '-95.63',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  58 => 
+  array (
+    0 => 'Lincolnville',
+    1 => 'KS',
+    2 => '38.49',
+    3 => '-96.96',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  59 => 
+  array (
+    0 => 'Lost Springs',
+    1 => 'KS',
+    2 => '38.56',
+    3 => '-96.96',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  60 => 
+  array (
+    0 => 'Madison',
+    1 => 'KS',
+    2 => '38.13',
+    3 => '-96.13',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  61 => 
+  array (
+    0 => 'Marion',
+    1 => 'KS',
+    2 => '38.34',
+    3 => '-97.01',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  62 => 
+  array (
+    0 => 'Matfield Green',
+    1 => 'KS',
+    2 => '38.15',
+    3 => '-96.56',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  63 => 
+  array (
+    0 => 'Neal',
+    1 => 'KS',
+    2 => '37.86',
+    3 => '-96.04',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  64 => 
+  array (
+    0 => 'Neosho Rapids',
+    1 => 'KS',
+    2 => '38.36',
+    3 => '-95.99',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  65 => 
+  array (
+    0 => 'Olpe',
+    1 => 'KS',
+    2 => '38.26',
+    3 => '-96.16',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  66 => 
+  array (
+    0 => 'Peabody',
+    1 => 'KS',
+    2 => '38.16',
+    3 => '-97.1',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  68 => 
+  array (
+    0 => 'Reading',
+    1 => 'KS',
+    2 => '38.51',
+    3 => '-95.95',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  69 => 
+  array (
+    0 => 'Strong City',
+    1 => 'KS',
+    2 => '38.39',
+    3 => '-96.53',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  70 => 
+  array (
+    0 => 'Virgil',
+    1 => 'KS',
+    2 => '37.98',
+    3 => '-96.01',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  71 => 
+  array (
+    0 => 'Waverly',
+    1 => 'KS',
+    2 => '38.39',
+    3 => '-95.6',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  72 => 
+  array (
+    0 => 'White City',
+    1 => 'KS',
+    2 => '38.79',
+    3 => '-96.73',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  73 => 
+  array (
+    0 => 'Wilsey',
+    1 => 'KS',
+    2 => '38.63',
+    3 => '-96.67',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+);

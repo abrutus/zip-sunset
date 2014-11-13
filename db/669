@@ -1,0 +1,299 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Concordia',
+    1 => 'KS',
+    2 => '39.57',
+    3 => '-97.66',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  30 => 
+  array (
+    0 => 'Agenda',
+    1 => 'KS',
+    2 => '39.7',
+    3 => '-97.43',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  32 => 
+  array (
+    0 => 'Athol',
+    1 => 'KS',
+    2 => '39.76',
+    3 => '-98.91',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  33 => 
+  array (
+    0 => 'Barnes',
+    1 => 'KS',
+    2 => '39.71',
+    3 => '-96.87',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  35 => 
+  array (
+    0 => 'Belleville',
+    1 => 'KS',
+    2 => '39.82',
+    3 => '-97.63',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  36 => 
+  array (
+    0 => 'Burr Oak',
+    1 => 'KS',
+    2 => '39.87',
+    3 => '-98.3',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  37 => 
+  array (
+    0 => 'Clifton',
+    1 => 'KS',
+    2 => '39.56',
+    3 => '-97.27',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  38 => 
+  array (
+    0 => 'Clyde',
+    1 => 'KS',
+    2 => '39.59',
+    3 => '-97.39',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  39 => 
+  array (
+    0 => 'Courtland',
+    1 => 'KS',
+    2 => '39.78',
+    3 => '-97.89',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  40 => 
+  array (
+    0 => 'Cuba',
+    1 => 'KS',
+    2 => '39.8',
+    3 => '-97.45',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  42 => 
+  array (
+    0 => 'Formoso',
+    1 => 'KS',
+    2 => '39.77',
+    3 => '-97.99',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  43 => 
+  array (
+    0 => 'Greenleaf',
+    1 => 'KS',
+    2 => '39.72',
+    3 => '-96.97',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  44 => 
+  array (
+    0 => 'Haddam',
+    1 => 'KS',
+    2 => '39.85',
+    3 => '-97.3',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  45 => 
+  array (
+    0 => 'Hanover',
+    1 => 'KS',
+    2 => '39.89',
+    3 => '-96.87',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  46 => 
+  array (
+    0 => 'Hollenberg',
+    1 => 'KS',
+    2 => '39.98',
+    3 => '-96.99',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  48 => 
+  array (
+    0 => 'Jamestown',
+    1 => 'KS',
+    2 => '39.59',
+    3 => '-97.86',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  49 => 
+  array (
+    0 => 'Jewell',
+    1 => 'KS',
+    2 => '39.67',
+    3 => '-98.15',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  51 => 
+  array (
+    0 => 'Kensington',
+    1 => 'KS',
+    2 => '39.76',
+    3 => '-99.03',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  52 => 
+  array (
+    0 => 'Lebanon',
+    1 => 'KS',
+    2 => '39.81',
+    3 => '-98.55',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  53 => 
+  array (
+    0 => 'Linn',
+    1 => 'KS',
+    2 => '39.67',
+    3 => '-97.08',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  55 => 
+  array (
+    0 => 'Mahaska',
+    1 => 'KS',
+    2 => '39.98',
+    3 => '-97.35',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  56 => 
+  array (
+    0 => 'Mankato',
+    1 => 'KS',
+    2 => '39.78',
+    3 => '-98.2',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  58 => 
+  array (
+    0 => 'Morrowville',
+    1 => 'KS',
+    2 => '39.84',
+    3 => '-97.17',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  59 => 
+  array (
+    0 => 'Munden',
+    1 => 'KS',
+    2 => '39.91',
+    3 => '-97.53',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  60 => 
+  array (
+    0 => 'Narka',
+    1 => 'KS',
+    2 => '39.96',
+    3 => '-97.42',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  61 => 
+  array (
+    0 => 'Norway',
+    1 => 'KS',
+    2 => '39.69',
+    3 => '-97.77',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  62 => 
+  array (
+    0 => 'Palmer',
+    1 => 'KS',
+    2 => '39.63',
+    3 => '-97.13',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  63 => 
+  array (
+    0 => 'Randall',
+    1 => 'KS',
+    2 => '39.64',
+    3 => '-98.04',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  64 => 
+  array (
+    0 => 'Republic',
+    1 => 'KS',
+    2 => '39.92',
+    3 => '-97.82',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  66 => 
+  array (
+    0 => 'Scandia',
+    1 => 'KS',
+    2 => '39.79',
+    3 => '-97.78',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  67 => 
+  array (
+    0 => 'Smith Center',
+    1 => 'KS',
+    2 => '39.77',
+    3 => '-98.78',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  68 => 
+  array (
+    0 => 'Washington',
+    1 => 'KS',
+    2 => '39.81',
+    3 => '-97.05',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  70 => 
+  array (
+    0 => 'Webber',
+    1 => 'KS',
+    2 => '39.93',
+    3 => '-98.03',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+);

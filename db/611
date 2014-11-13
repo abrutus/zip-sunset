@@ -1,0 +1,173 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Rockford',
+    1 => 'IL',
+    2 => '42.27',
+    3 => '-89.06',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '02' => 
+  array (
+    0 => 'Rockford',
+    1 => 'IL',
+    2 => '42.27',
+    3 => '-89.06',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '03' => 
+  array (
+    0 => 'Rockford',
+    1 => 'IL',
+    2 => '42.27',
+    3 => '-89.06',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '04' => 
+  array (
+    0 => 'Rockford',
+    1 => 'IL',
+    2 => '42.27',
+    3 => '-89.06',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '05' => 
+  array (
+    0 => 'Rockford',
+    1 => 'IL',
+    2 => '42.27',
+    3 => '-89.06',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '06' => 
+  array (
+    0 => 'Rockford',
+    1 => 'IL',
+    2 => '42.27',
+    3 => '-89.06',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '07' => 
+  array (
+    0 => 'Rockford',
+    1 => 'IL',
+    2 => '42.27',
+    3 => '-89.06',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '08' => 
+  array (
+    0 => 'Rockford',
+    1 => 'IL',
+    2 => '42.27',
+    3 => '-89.06',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '09' => 
+  array (
+    0 => 'Rockford',
+    1 => 'IL',
+    2 => '42.27',
+    3 => '-89.06',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  10 => 
+  array (
+    0 => 'Rockford',
+    1 => 'IL',
+    2 => '42.27',
+    3 => '-89.06',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  11 => 
+  array (
+    0 => 'Loves Park',
+    1 => 'IL',
+    2 => '42.33',
+    3 => '-89.01',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  12 => 
+  array (
+    0 => 'Rockford',
+    1 => 'IL',
+    2 => '42.27',
+    3 => '-89.06',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  14 => 
+  array (
+    0 => 'Rockford',
+    1 => 'IL',
+    2 => '42.27',
+    3 => '-89.06',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  15 => 
+  array (
+    0 => 'Machesney Park',
+    1 => 'IL',
+    2 => '42.36',
+    3 => '-89.03',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  25 => 
+  array (
+    0 => 'Rockford',
+    1 => 'IL',
+    2 => '42.27',
+    3 => '-89.06',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  26 => 
+  array (
+    0 => 'Rockford',
+    1 => 'IL',
+    2 => '42.27',
+    3 => '-89.06',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  30 => 
+  array (
+    0 => 'Loves Park',
+    1 => 'IL',
+    2 => '42.33',
+    3 => '-89.01',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  31 => 
+  array (
+    0 => 'Loves Park',
+    1 => 'IL',
+    2 => '42.33',
+    3 => '-89.01',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  32 => 
+  array (
+    0 => 'Loves Park',
+    1 => 'IL',
+    2 => '42.33',
+    3 => '-89.01',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+);

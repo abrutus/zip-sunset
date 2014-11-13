@@ -1,0 +1,74 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Saint Joseph',
+    1 => 'MO',
+    2 => '39.76',
+    3 => '-94.85',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '02' => 
+  array (
+    0 => 'Saint Joseph',
+    1 => 'MO',
+    2 => '39.76',
+    3 => '-94.85',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '03' => 
+  array (
+    0 => 'Saint Joseph',
+    1 => 'MO',
+    2 => '39.76',
+    3 => '-94.85',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '04' => 
+  array (
+    0 => 'Saint Joseph',
+    1 => 'MO',
+    2 => '39.76',
+    3 => '-94.85',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '05' => 
+  array (
+    0 => 'Saint Joseph',
+    1 => 'MO',
+    2 => '39.76',
+    3 => '-94.85',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '06' => 
+  array (
+    0 => 'Saint Joseph',
+    1 => 'MO',
+    2 => '39.76',
+    3 => '-94.85',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '07' => 
+  array (
+    0 => 'Saint Joseph',
+    1 => 'MO',
+    2 => '39.76',
+    3 => '-94.85',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '08' => 
+  array (
+    0 => 'Saint Joseph',
+    1 => 'MO',
+    2 => '39.76',
+    3 => '-94.85',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+);

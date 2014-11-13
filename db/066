@@ -1,0 +1,137 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Bridgeport',
+    1 => 'CT',
+    2 => '41.18',
+    3 => '-73.19',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '02' => 
+  array (
+    0 => 'Bridgeport',
+    1 => 'CT',
+    2 => '41.18',
+    3 => '-73.19',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '04' => 
+  array (
+    0 => 'Bridgeport',
+    1 => 'CT',
+    2 => '41.18',
+    3 => '-73.19',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '05' => 
+  array (
+    0 => 'Bridgeport',
+    1 => 'CT',
+    2 => '41.18',
+    3 => '-73.19',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '06' => 
+  array (
+    0 => 'Bridgeport',
+    1 => 'CT',
+    2 => '41.18',
+    3 => '-73.19',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '07' => 
+  array (
+    0 => 'Bridgeport',
+    1 => 'CT',
+    2 => '41.18',
+    3 => '-73.19',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '08' => 
+  array (
+    0 => 'Bridgeport',
+    1 => 'CT',
+    2 => '41.18',
+    3 => '-73.19',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  10 => 
+  array (
+    0 => 'Bridgeport',
+    1 => 'CT',
+    2 => '41.18',
+    3 => '-73.19',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  11 => 
+  array (
+    0 => 'Trumbull',
+    1 => 'CT',
+    2 => '41.25',
+    3 => '-73.2',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  12 => 
+  array (
+    0 => 'Easton',
+    1 => 'CT',
+    2 => '41.24',
+    3 => '-73.31',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  14 => 
+  array (
+    0 => 'Stratford',
+    1 => 'CT',
+    2 => '41.2',
+    3 => '-73.13',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  15 => 
+  array (
+    0 => 'Stratford',
+    1 => 'CT',
+    2 => '41.2',
+    3 => '-73.13',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  50 => 
+  array (
+    0 => 'Bridgeport',
+    1 => 'CT',
+    2 => '41.18',
+    3 => '-73.19',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  73 => 
+  array (
+    0 => 'Bridgeport',
+    1 => 'CT',
+    2 => '41.18',
+    3 => '-73.19',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  99 => 
+  array (
+    0 => 'Bridgeport',
+    1 => 'CT',
+    2 => '41.18',
+    3 => '-73.19',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

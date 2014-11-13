@@ -1,0 +1,110 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Truth Or Consequences',
+    1 => 'NM',
+    2 => '33.13',
+    3 => '-107.24',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  30 => 
+  array (
+    0 => 'Arrey',
+    1 => 'NM',
+    2 => '32.84',
+    3 => '-107.31',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  31 => 
+  array (
+    0 => 'Caballo',
+    1 => 'NM',
+    2 => '32.97',
+    3 => '-107.3',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  33 => 
+  array (
+    0 => 'Derry',
+    1 => 'NM',
+    2 => '32.78',
+    3 => '-107.28',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  35 => 
+  array (
+    0 => 'Elephant Butte',
+    1 => 'NM',
+    2 => '33.12',
+    3 => '-107.25',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  36 => 
+  array (
+    0 => 'Garfield',
+    1 => 'NM',
+    2 => '32.75',
+    3 => '-107.26',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  37 => 
+  array (
+    0 => 'Hatch',
+    1 => 'NM',
+    2 => '32.66',
+    3 => '-107.15',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  39 => 
+  array (
+    0 => 'Monticello',
+    1 => 'NM',
+    2 => '33.39',
+    3 => '-107.45',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  40 => 
+  array (
+    0 => 'Rincon',
+    1 => 'NM',
+    2 => '32.67',
+    3 => '-107.06',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  41 => 
+  array (
+    0 => 'Salem',
+    1 => 'NM',
+    2 => '32.7',
+    3 => '-107.21',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  42 => 
+  array (
+    0 => 'Williamsburg',
+    1 => 'NM',
+    2 => '33.11',
+    3 => '-107.29',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  43 => 
+  array (
+    0 => 'Winston',
+    1 => 'NM',
+    2 => '33.34',
+    3 => '-107.51',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+);

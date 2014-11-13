@@ -1,0 +1,731 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Glendale',
+    1 => 'AZ',
+    2 => '33.53',
+    3 => '-112.18',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  '02' => 
+  array (
+    0 => 'Glendale',
+    1 => 'AZ',
+    2 => '33.57',
+    3 => '-112.18',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  '03' => 
+  array (
+    0 => 'Glendale',
+    1 => 'AZ',
+    2 => '33.53',
+    3 => '-112.22',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  '04' => 
+  array (
+    0 => 'Glendale',
+    1 => 'AZ',
+    2 => '33.59',
+    3 => '-112.17',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  '05' => 
+  array (
+    0 => 'Glendale',
+    1 => 'AZ',
+    2 => '33.53',
+    3 => '-112.26',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  '06' => 
+  array (
+    0 => 'Glendale',
+    1 => 'AZ',
+    2 => '33.62',
+    3 => '-112.17',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  '07' => 
+  array (
+    0 => 'Glendale',
+    1 => 'AZ',
+    2 => '33.53',
+    3 => '-112.31',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  '08' => 
+  array (
+    0 => 'Glendale',
+    1 => 'AZ',
+    2 => '33.66',
+    3 => '-112.18',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  '09' => 
+  array (
+    0 => 'Glendale Luke Afb',
+    1 => 'AZ',
+    2 => '33.53',
+    3 => '-112.38',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  10 => 
+  array (
+    0 => 'Glendale',
+    1 => 'AZ',
+    2 => '33.71',
+    3 => '-112.17',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  11 => 
+  array (
+    0 => 'Glendale',
+    1 => 'AZ',
+    2 => '33.53',
+    3 => '-112.17',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  12 => 
+  array (
+    0 => 'Glendale',
+    1 => 'AZ',
+    2 => '33.62',
+    3 => '-112.18',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  13 => 
+  array (
+    0 => 'Glendale',
+    1 => 'AZ',
+    2 => '33.6',
+    3 => '-112.16',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  18 => 
+  array (
+    0 => 'Glendale',
+    1 => 'AZ',
+    2 => '33.66',
+    3 => '-112.18',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  20 => 
+  array (
+    0 => 'Aguila',
+    1 => 'AZ',
+    2 => '33.81',
+    3 => '-113.18',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  21 => 
+  array (
+    0 => 'Ajo',
+    1 => 'AZ',
+    2 => '32.15',
+    3 => '-112.62',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  22 => 
+  array (
+    0 => 'Arlington',
+    1 => 'AZ',
+    2 => '33.18',
+    3 => '-112.79',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  23 => 
+  array (
+    0 => 'Avondale',
+    1 => 'AZ',
+    2 => '33.44',
+    3 => '-112.31',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  24 => 
+  array (
+    0 => 'Black Canyon City',
+    1 => 'AZ',
+    2 => '34.13',
+    3 => '-112.13',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  25 => 
+  array (
+    0 => 'Bouse',
+    1 => 'AZ',
+    2 => '33.93',
+    3 => '-113.86',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  26 => 
+  array (
+    0 => 'Buckeye',
+    1 => 'AZ',
+    2 => '33.38',
+    3 => '-112.55',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  27 => 
+  array (
+    0 => 'Cave Creek',
+    1 => 'AZ',
+    2 => '33.82',
+    3 => '-111.96',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  28 => 
+  array (
+    0 => 'Cibola',
+    1 => 'AZ',
+    2 => '33.32',
+    3 => '-114.64',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  29 => 
+  array (
+    0 => 'Cashion',
+    1 => 'AZ',
+    2 => '33.43',
+    3 => '-112.29',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  31 => 
+  array (
+    0 => 'Cave Creek',
+    1 => 'AZ',
+    2 => '33.8',
+    3 => '-111.93',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  32 => 
+  array (
+    0 => 'Congress',
+    1 => 'AZ',
+    2 => '34.21',
+    3 => '-112.97',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  33 => 
+  array (
+    0 => 'Dateland',
+    1 => 'AZ',
+    2 => '32.94',
+    3 => '-113.34',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  34 => 
+  array (
+    0 => 'Ehrenberg',
+    1 => 'AZ',
+    2 => '33.64',
+    3 => '-114.44',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  35 => 
+  array (
+    0 => 'El Mirage',
+    1 => 'AZ',
+    2 => '33.59',
+    3 => '-112.33',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  36 => 
+  array (
+    0 => 'Gadsden',
+    1 => 'AZ',
+    2 => '32.53',
+    3 => '-114.76',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  37 => 
+  array (
+    0 => 'Gila Bend',
+    1 => 'AZ',
+    2 => '32.99',
+    3 => '-112.9',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  38 => 
+  array (
+    0 => 'Goodyear',
+    1 => 'AZ',
+    2 => '33.37',
+    3 => '-112.38',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  39 => 
+  array (
+    0 => 'Laveen',
+    1 => 'AZ',
+    2 => '33.3',
+    3 => '-112.2',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  40 => 
+  array (
+    0 => 'Litchfield Park',
+    1 => 'AZ',
+    2 => '33.51',
+    3 => '-112.36',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  41 => 
+  array (
+    0 => 'Lukeville',
+    1 => 'AZ',
+    2 => '32',
+    3 => '-112.75',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  42 => 
+  array (
+    0 => 'Morristown',
+    1 => 'AZ',
+    2 => '33.98',
+    3 => '-112.44',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  43 => 
+  array (
+    0 => 'Palo Verde',
+    1 => 'AZ',
+    2 => '33.32',
+    3 => '-112.7',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  44 => 
+  array (
+    0 => 'Parker',
+    1 => 'AZ',
+    2 => '33.99',
+    3 => '-114.23',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  45 => 
+  array (
+    0 => 'Peoria',
+    1 => 'AZ',
+    2 => '33.57',
+    3 => '-112.25',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  46 => 
+  array (
+    0 => 'Quartzsite',
+    1 => 'AZ',
+    2 => '33.66',
+    3 => '-114.23',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  47 => 
+  array (
+    0 => 'Roll',
+    1 => 'AZ',
+    2 => '32.76',
+    3 => '-113.87',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  48 => 
+  array (
+    0 => 'Salome',
+    1 => 'AZ',
+    2 => '33.72',
+    3 => '-113.65',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  49 => 
+  array (
+    0 => 'San Luis',
+    1 => 'AZ',
+    2 => '32.49',
+    3 => '-114.77',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  50 => 
+  array (
+    0 => 'Somerton',
+    1 => 'AZ',
+    2 => '32.53',
+    3 => '-114.71',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  51 => 
+  array (
+    0 => 'Sun City',
+    1 => 'AZ',
+    2 => '33.6',
+    3 => '-112.28',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  52 => 
+  array (
+    0 => 'Tacna',
+    1 => 'AZ',
+    2 => '32.68',
+    3 => '-113.97',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  53 => 
+  array (
+    0 => 'Tolleson',
+    1 => 'AZ',
+    2 => '33.42',
+    3 => '-112.27',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  54 => 
+  array (
+    0 => 'Tonopah',
+    1 => 'AZ',
+    2 => '33.57',
+    3 => '-113.02',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  55 => 
+  array (
+    0 => 'Waddell',
+    1 => 'AZ',
+    2 => '33.55',
+    3 => '-112.43',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  57 => 
+  array (
+    0 => 'Wenden',
+    1 => 'AZ',
+    2 => '34.06',
+    3 => '-113.51',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  58 => 
+  array (
+    0 => 'Wickenburg',
+    1 => 'AZ',
+    2 => '33.96',
+    3 => '-112.74',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  59 => 
+  array (
+    0 => 'Quartzsite',
+    1 => 'AZ',
+    2 => '33.68',
+    3 => '-114.22',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  60 => 
+  array (
+    0 => 'Wikieup',
+    1 => 'AZ',
+    2 => '34.79',
+    3 => '-113.37',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  61 => 
+  array (
+    0 => 'Wittmann',
+    1 => 'AZ',
+    2 => '33.72',
+    3 => '-112.65',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  62 => 
+  array (
+    0 => 'Yarnell',
+    1 => 'AZ',
+    2 => '34.26',
+    3 => '-112.78',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  63 => 
+  array (
+    0 => 'Youngtown',
+    1 => 'AZ',
+    2 => '33.58',
+    3 => '-112.3',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  64 => 
+  array (
+    0 => 'Yuma',
+    1 => 'AZ',
+    2 => '32.68',
+    3 => '-114.66',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  65 => 
+  array (
+    0 => 'Yuma',
+    1 => 'AZ',
+    2 => '32.72',
+    3 => '-114.51',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  66 => 
+  array (
+    0 => 'Yuma',
+    1 => 'AZ',
+    2 => '32.68',
+    3 => '-114.59',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  67 => 
+  array (
+    0 => 'Yuma',
+    1 => 'AZ',
+    2 => '32.68',
+    3 => '-114.38',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  69 => 
+  array (
+    0 => 'Yuma',
+    1 => 'AZ',
+    2 => '32.69',
+    3 => '-114.67',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  71 => 
+  array (
+    0 => 'Poston',
+    1 => 'AZ',
+    2 => '34',
+    3 => '-114.4',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  72 => 
+  array (
+    0 => 'Sun City',
+    1 => 'AZ',
+    2 => '33.61',
+    3 => '-112.28',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  73 => 
+  array (
+    0 => 'Sun City',
+    1 => 'AZ',
+    2 => '33.68',
+    3 => '-112.31',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  74 => 
+  array (
+    0 => 'Surprise',
+    1 => 'AZ',
+    2 => '33.64',
+    3 => '-112.38',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  75 => 
+  array (
+    0 => 'Sun City West',
+    1 => 'AZ',
+    2 => '33.67',
+    3 => '-112.36',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  76 => 
+  array (
+    0 => 'Sun City West',
+    1 => 'AZ',
+    2 => '33.66',
+    3 => '-112.35',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  77 => 
+  array (
+    0 => 'Carefree',
+    1 => 'AZ',
+    2 => '33.82',
+    3 => '-111.9',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  78 => 
+  array (
+    0 => 'Surprise',
+    1 => 'AZ',
+    2 => '33.63',
+    3 => '-112.34',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  79 => 
+  array (
+    0 => 'Surprise',
+    1 => 'AZ',
+    2 => '33.6',
+    3 => '-112.37',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  80 => 
+  array (
+    0 => 'Peoria',
+    1 => 'AZ',
+    2 => '33.68',
+    3 => '-112.24',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  81 => 
+  array (
+    0 => 'Peoria',
+    1 => 'AZ',
+    2 => '33.61',
+    3 => '-112.23',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  82 => 
+  array (
+    0 => 'Peoria',
+    1 => 'AZ',
+    2 => '33.65',
+    3 => '-112.24',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  83 => 
+  array (
+    0 => 'Peoria',
+    1 => 'AZ',
+    2 => '33.76',
+    3 => '-112.24',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  85 => 
+  array (
+    0 => 'Peoria',
+    1 => 'AZ',
+    2 => '33.61',
+    3 => '-112.23',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  87 => 
+  array (
+    0 => 'Surprise',
+    1 => 'AZ',
+    2 => '33.71',
+    3 => '-112.4',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  88 => 
+  array (
+    0 => 'Surprise',
+    1 => 'AZ',
+    2 => '33.61',
+    3 => '-112.46',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  90 => 
+  array (
+    0 => 'Wickenburg',
+    1 => 'AZ',
+    2 => '33.9',
+    3 => '-112.9',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  92 => 
+  array (
+    0 => 'Avondale',
+    1 => 'AZ',
+    2 => '33.47',
+    3 => '-112.29',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  95 => 
+  array (
+    0 => 'Goodyear',
+    1 => 'AZ',
+    2 => '33.47',
+    3 => '-112.39',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  96 => 
+  array (
+    0 => 'Buckeye',
+    1 => 'AZ',
+    2 => '33.56',
+    3 => '-112.57',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+);

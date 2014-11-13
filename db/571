@@ -1,0 +1,191 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Sioux Falls',
+    1 => 'SD',
+    2 => '43.54',
+    3 => '-96.73',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '03' => 
+  array (
+    0 => 'Sioux Falls',
+    1 => 'SD',
+    2 => '43.54',
+    3 => '-96.73',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '04' => 
+  array (
+    0 => 'Sioux Falls',
+    1 => 'SD',
+    2 => '43.54',
+    3 => '-96.73',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '05' => 
+  array (
+    0 => 'Sioux Falls',
+    1 => 'SD',
+    2 => '43.54',
+    3 => '-96.73',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '06' => 
+  array (
+    0 => 'Sioux Falls',
+    1 => 'SD',
+    2 => '43.54',
+    3 => '-96.73',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '07' => 
+  array (
+    0 => 'Sioux Falls',
+    1 => 'SD',
+    2 => '43.54',
+    3 => '-96.73',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '08' => 
+  array (
+    0 => 'Sioux Falls',
+    1 => 'SD',
+    2 => '43.54',
+    3 => '-96.73',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '09' => 
+  array (
+    0 => 'Sioux Falls',
+    1 => 'SD',
+    2 => '43.54',
+    3 => '-96.73',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  10 => 
+  array (
+    0 => 'Sioux Falls',
+    1 => 'SD',
+    2 => '43.54',
+    3 => '-96.73',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  17 => 
+  array (
+    0 => 'Sioux Falls',
+    1 => 'SD',
+    2 => '43.54',
+    3 => '-96.73',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  18 => 
+  array (
+    0 => 'Sioux Falls',
+    1 => 'SD',
+    2 => '43.54',
+    3 => '-96.73',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  86 => 
+  array (
+    0 => 'Sioux Falls',
+    1 => 'SD',
+    2 => '43.55',
+    3 => '-96.7',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  88 => 
+  array (
+    0 => 'Sioux Falls',
+    1 => 'SD',
+    2 => '43.6',
+    3 => '-96.7',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  89 => 
+  array (
+    0 => 'Sioux Falls',
+    1 => 'SD',
+    2 => '43.6',
+    3 => '-96.7',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  92 => 
+  array (
+    0 => 'Sioux Falls',
+    1 => 'SD',
+    2 => '43.6',
+    3 => '-96.7',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  93 => 
+  array (
+    0 => 'Sioux Falls',
+    1 => 'SD',
+    2 => '43.54',
+    3 => '-96.73',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  94 => 
+  array (
+    0 => 'Sioux Falls',
+    1 => 'SD',
+    2 => '43.6',
+    3 => '-96.7',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  95 => 
+  array (
+    0 => 'Sioux Falls',
+    1 => 'SD',
+    2 => '43.6',
+    3 => '-96.7',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  96 => 
+  array (
+    0 => 'Sioux Falls',
+    1 => 'SD',
+    2 => '43.54',
+    3 => '-96.72',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  97 => 
+  array (
+    0 => 'Sioux Falls',
+    1 => 'SD',
+    2 => '43.54',
+    3 => '-96.73',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  98 => 
+  array (
+    0 => 'Sioux Falls',
+    1 => 'SD',
+    2 => '43.54',
+    3 => '-96.73',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+);

@@ -1,0 +1,560 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Cleveland',
+    1 => 'OH',
+    2 => '41.47',
+    3 => '-81.67',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '02' => 
+  array (
+    0 => 'Cleveland',
+    1 => 'OH',
+    2 => '41.47',
+    3 => '-81.67',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '03' => 
+  array (
+    0 => 'Cleveland',
+    1 => 'OH',
+    2 => '41.47',
+    3 => '-81.67',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '04' => 
+  array (
+    0 => 'Cleveland',
+    1 => 'OH',
+    2 => '41.47',
+    3 => '-81.67',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '05' => 
+  array (
+    0 => 'Cleveland',
+    1 => 'OH',
+    2 => '41.47',
+    3 => '-81.67',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '06' => 
+  array (
+    0 => 'Cleveland',
+    1 => 'OH',
+    2 => '41.47',
+    3 => '-81.67',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '07' => 
+  array (
+    0 => 'Lakewood',
+    1 => 'OH',
+    2 => '41.48',
+    3 => '-81.8',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '08' => 
+  array (
+    0 => 'Cleveland',
+    1 => 'OH',
+    2 => '41.47',
+    3 => '-81.67',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '09' => 
+  array (
+    0 => 'Cleveland',
+    1 => 'OH',
+    2 => '41.47',
+    3 => '-81.67',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  10 => 
+  array (
+    0 => 'Cleveland',
+    1 => 'OH',
+    2 => '41.47',
+    3 => '-81.67',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  11 => 
+  array (
+    0 => 'Cleveland',
+    1 => 'OH',
+    2 => '41.47',
+    3 => '-81.67',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  12 => 
+  array (
+    0 => 'Cleveland',
+    1 => 'OH',
+    2 => '41.47',
+    3 => '-81.67',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  13 => 
+  array (
+    0 => 'Cleveland',
+    1 => 'OH',
+    2 => '41.47',
+    3 => '-81.67',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  14 => 
+  array (
+    0 => 'Cleveland',
+    1 => 'OH',
+    2 => '41.47',
+    3 => '-81.67',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  15 => 
+  array (
+    0 => 'Cleveland',
+    1 => 'OH',
+    2 => '41.47',
+    3 => '-81.67',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  16 => 
+  array (
+    0 => 'Rocky River',
+    1 => 'OH',
+    2 => '41.47',
+    3 => '-81.85',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  17 => 
+  array (
+    0 => 'Euclid',
+    1 => 'OH',
+    2 => '41.59',
+    3 => '-81.51',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  18 => 
+  array (
+    0 => 'Cleveland',
+    1 => 'OH',
+    2 => '41.47',
+    3 => '-81.67',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  19 => 
+  array (
+    0 => 'Cleveland',
+    1 => 'OH',
+    2 => '41.47',
+    3 => '-81.67',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  20 => 
+  array (
+    0 => 'Cleveland',
+    1 => 'OH',
+    2 => '41.47',
+    3 => '-81.67',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  21 => 
+  array (
+    0 => 'Cleveland',
+    1 => 'OH',
+    2 => '41.47',
+    3 => '-81.67',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  22 => 
+  array (
+    0 => 'Beachwood',
+    1 => 'OH',
+    2 => '41.47',
+    3 => '-81.5',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  23 => 
+  array (
+    0 => 'Euclid',
+    1 => 'OH',
+    2 => '41.59',
+    3 => '-81.51',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  24 => 
+  array (
+    0 => 'Cleveland',
+    1 => 'OH',
+    2 => '41.47',
+    3 => '-81.67',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  25 => 
+  array (
+    0 => 'Cleveland',
+    1 => 'OH',
+    2 => '41.47',
+    3 => '-81.67',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  26 => 
+  array (
+    0 => 'Cleveland',
+    1 => 'OH',
+    2 => '41.47',
+    3 => '-81.67',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  27 => 
+  array (
+    0 => 'Cleveland',
+    1 => 'OH',
+    2 => '41.47',
+    3 => '-81.67',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  28 => 
+  array (
+    0 => 'Cleveland',
+    1 => 'OH',
+    2 => '41.47',
+    3 => '-81.67',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  29 => 
+  array (
+    0 => 'Cleveland',
+    1 => 'OH',
+    2 => '41.47',
+    3 => '-81.67',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  30 => 
+  array (
+    0 => 'Cleveland',
+    1 => 'OH',
+    2 => '41.47',
+    3 => '-81.67',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  31 => 
+  array (
+    0 => 'Independence',
+    1 => 'OH',
+    2 => '41.38',
+    3 => '-81.64',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  32 => 
+  array (
+    0 => 'Euclid',
+    1 => 'OH',
+    2 => '41.59',
+    3 => '-81.51',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  33 => 
+  array (
+    0 => 'North Royalton',
+    1 => 'OH',
+    2 => '41.31',
+    3 => '-81.74',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  34 => 
+  array (
+    0 => 'Cleveland',
+    1 => 'OH',
+    2 => '41.47',
+    3 => '-81.67',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  35 => 
+  array (
+    0 => 'Cleveland',
+    1 => 'OH',
+    2 => '41.47',
+    3 => '-81.67',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  36 => 
+  array (
+    0 => 'Strongsville',
+    1 => 'OH',
+    2 => '41.31',
+    3 => '-81.83',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  37 => 
+  array (
+    0 => 'Maple Heights',
+    1 => 'OH',
+    2 => '41.4',
+    3 => '-81.56',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  38 => 
+  array (
+    0 => 'Olmsted Falls',
+    1 => 'OH',
+    2 => '41.36',
+    3 => '-81.9',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  39 => 
+  array (
+    0 => 'Solon',
+    1 => 'OH',
+    2 => '41.38',
+    3 => '-81.44',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  40 => 
+  array (
+    0 => 'Bay Village',
+    1 => 'OH',
+    2 => '41.48',
+    3 => '-81.92',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  41 => 
+  array (
+    0 => 'Brecksville',
+    1 => 'OH',
+    2 => '41.3',
+    3 => '-81.61',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  42 => 
+  array (
+    0 => 'Brookpark',
+    1 => 'OH',
+    2 => '41.4',
+    3 => '-81.82',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  43 => 
+  array (
+    0 => 'Cleveland',
+    1 => 'OH',
+    2 => '41.47',
+    3 => '-81.67',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  44 => 
+  array (
+    0 => 'Cleveland',
+    1 => 'OH',
+    2 => '41.47',
+    3 => '-81.67',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  45 => 
+  array (
+    0 => 'Westlake',
+    1 => 'OH',
+    2 => '41.45',
+    3 => '-81.92',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  46 => 
+  array (
+    0 => 'Bedford',
+    1 => 'OH',
+    2 => '41.39',
+    3 => '-81.53',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  47 => 
+  array (
+    0 => 'Broadview Heights',
+    1 => 'OH',
+    2 => '41.31',
+    3 => '-81.67',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  49 => 
+  array (
+    0 => 'Strongsville',
+    1 => 'OH',
+    2 => '41.31',
+    3 => '-81.85',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  78 => 
+  array (
+    0 => 'Cleveland',
+    1 => 'OH',
+    2 => '41.49',
+    3 => '-81.69',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  81 => 
+  array (
+    0 => 'Cleveland',
+    1 => 'OH',
+    2 => '41.47',
+    3 => '-81.67',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  85 => 
+  array (
+    0 => 'Cleveland',
+    1 => 'OH',
+    2 => '41.49',
+    3 => '-81.67',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  88 => 
+  array (
+    0 => 'Cleveland',
+    1 => 'OH',
+    2 => '41.47',
+    3 => '-81.67',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  89 => 
+  array (
+    0 => 'Cleveland',
+    1 => 'OH',
+    2 => '41.49',
+    3 => '-81.67',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  90 => 
+  array (
+    0 => 'Cleveland',
+    1 => 'OH',
+    2 => '41.47',
+    3 => '-81.67',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  91 => 
+  array (
+    0 => 'Cleveland',
+    1 => 'OH',
+    2 => '41.47',
+    3 => '-81.67',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  92 => 
+  array (
+    0 => 'Cleveland',
+    1 => 'OH',
+    2 => '41.47',
+    3 => '-81.67',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  93 => 
+  array (
+    0 => 'Cleveland',
+    1 => 'OH',
+    2 => '41.47',
+    3 => '-81.67',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  94 => 
+  array (
+    0 => 'Cleveland',
+    1 => 'OH',
+    2 => '41.47',
+    3 => '-81.67',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  95 => 
+  array (
+    0 => 'Cleveland',
+    1 => 'OH',
+    2 => '41.47',
+    3 => '-81.67',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  97 => 
+  array (
+    0 => 'Cleveland',
+    1 => 'OH',
+    2 => '41.47',
+    3 => '-81.67',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  98 => 
+  array (
+    0 => 'Cleveland',
+    1 => 'OH',
+    2 => '41.47',
+    3 => '-81.67',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  99 => 
+  array (
+    0 => 'Cleveland',
+    1 => 'OH',
+    2 => '41.47',
+    3 => '-81.67',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

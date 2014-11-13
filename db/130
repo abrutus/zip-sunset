@@ -1,0 +1,506 @@
+<?php $db= array (
+  20 => 
+  array (
+    0 => 'Apulia Station',
+    1 => 'NY',
+    2 => '42.81',
+    3 => '-76.07',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  21 => 
+  array (
+    0 => 'Auburn',
+    1 => 'NY',
+    2 => '42.93',
+    3 => '-76.56',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  22 => 
+  array (
+    0 => 'Auburn',
+    1 => 'NY',
+    2 => '42.93',
+    3 => '-76.56',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  24 => 
+  array (
+    0 => 'Auburn',
+    1 => 'NY',
+    2 => '42.93',
+    3 => '-76.56',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  26 => 
+  array (
+    0 => 'Aurora',
+    1 => 'NY',
+    2 => '42.75',
+    3 => '-76.7',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  27 => 
+  array (
+    0 => 'Baldwinsville',
+    1 => 'NY',
+    2 => '43.15',
+    3 => '-76.33',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  28 => 
+  array (
+    0 => 'Bernhards Bay',
+    1 => 'NY',
+    2 => '43.29',
+    3 => '-75.93',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  29 => 
+  array (
+    0 => 'Brewerton',
+    1 => 'NY',
+    2 => '43.23',
+    3 => '-76.14',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  30 => 
+  array (
+    0 => 'Bridgeport',
+    1 => 'NY',
+    2 => '42.91',
+    3 => '-76.75',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  31 => 
+  array (
+    0 => 'Camillus',
+    1 => 'NY',
+    2 => '43.03',
+    3 => '-76.3',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  32 => 
+  array (
+    0 => 'Canastota',
+    1 => 'NY',
+    2 => '43.08',
+    3 => '-75.75',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  33 => 
+  array (
+    0 => 'Cato',
+    1 => 'NY',
+    2 => '43.16',
+    3 => '-76.57',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  34 => 
+  array (
+    0 => 'Cayuga',
+    1 => 'NY',
+    2 => '42.91',
+    3 => '-76.72',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  35 => 
+  array (
+    0 => 'Cazenovia',
+    1 => 'NY',
+    2 => '42.92',
+    3 => '-75.85',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  36 => 
+  array (
+    0 => 'Central Square',
+    1 => 'NY',
+    2 => '43.28',
+    3 => '-76.14',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  37 => 
+  array (
+    0 => 'Chittenango',
+    1 => 'NY',
+    2 => '43.04',
+    3 => '-75.87',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  39 => 
+  array (
+    0 => 'Cicero',
+    1 => 'NY',
+    2 => '43.17',
+    3 => '-76.11',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  40 => 
+  array (
+    0 => 'Cincinnatus',
+    1 => 'NY',
+    2 => '42.54',
+    3 => '-75.89',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  41 => 
+  array (
+    0 => 'Clay',
+    1 => 'NY',
+    2 => '43.18',
+    3 => '-76.17',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  42 => 
+  array (
+    0 => 'Cleveland',
+    1 => 'NY',
+    2 => '43.23',
+    3 => '-75.88',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  43 => 
+  array (
+    0 => 'Clockville',
+    1 => 'NY',
+    2 => '43.04',
+    3 => '-75.74',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  44 => 
+  array (
+    0 => 'Constantia',
+    1 => 'NY',
+    2 => '43.25',
+    3 => '-76',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  45 => 
+  array (
+    0 => 'Cortland',
+    1 => 'NY',
+    2 => '42.6',
+    3 => '-76.18',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  51 => 
+  array (
+    0 => 'Delphi Falls',
+    1 => 'NY',
+    2 => '42.87',
+    3 => '-75.91',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  52 => 
+  array (
+    0 => 'De Ruyter',
+    1 => 'NY',
+    2 => '42.75',
+    3 => '-75.86',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  53 => 
+  array (
+    0 => 'Dryden',
+    1 => 'NY',
+    2 => '42.49',
+    3 => '-76.29',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  54 => 
+  array (
+    0 => 'Durhamville',
+    1 => 'NY',
+    2 => '43.12',
+    3 => '-75.67',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  56 => 
+  array (
+    0 => 'East Homer',
+    1 => 'NY',
+    2 => '42.66',
+    3 => '-76.1',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  57 => 
+  array (
+    0 => 'East Syracuse',
+    1 => 'NY',
+    2 => '43.06',
+    3 => '-76.07',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  60 => 
+  array (
+    0 => 'Elbridge',
+    1 => 'NY',
+    2 => '43.03',
+    3 => '-76.44',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  61 => 
+  array (
+    0 => 'Erieville',
+    1 => 'NY',
+    2 => '42.85',
+    3 => '-75.75',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  62 => 
+  array (
+    0 => 'Etna',
+    1 => 'NY',
+    2 => '42.48',
+    3 => '-76.38',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  63 => 
+  array (
+    0 => 'Fabius',
+    1 => 'NY',
+    2 => '42.83',
+    3 => '-75.98',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  64 => 
+  array (
+    0 => 'Fair Haven',
+    1 => 'NY',
+    2 => '43.32',
+    3 => '-76.7',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  65 => 
+  array (
+    0 => 'Fayette',
+    1 => 'NY',
+    2 => '42.81',
+    3 => '-76.8',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  66 => 
+  array (
+    0 => 'Fayetteville',
+    1 => 'NY',
+    2 => '43.02',
+    3 => '-76',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  68 => 
+  array (
+    0 => 'Freeville',
+    1 => 'NY',
+    2 => '42.51',
+    3 => '-76.34',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  69 => 
+  array (
+    0 => 'Fulton',
+    1 => 'NY',
+    2 => '43.31',
+    3 => '-76.41',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  71 => 
+  array (
+    0 => 'Genoa',
+    1 => 'NY',
+    2 => '42.66',
+    3 => '-76.53',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  72 => 
+  array (
+    0 => 'Georgetown',
+    1 => 'NY',
+    2 => '42.61',
+    3 => '-75.81',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  73 => 
+  array (
+    0 => 'Groton',
+    1 => 'NY',
+    2 => '42.58',
+    3 => '-76.36',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  74 => 
+  array (
+    0 => 'Hannibal',
+    1 => 'NY',
+    2 => '43.31',
+    3 => '-76.57',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  76 => 
+  array (
+    0 => 'Hastings',
+    1 => 'NY',
+    2 => '43.35',
+    3 => '-76.15',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  77 => 
+  array (
+    0 => 'Homer',
+    1 => 'NY',
+    2 => '42.63',
+    3 => '-76.18',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  78 => 
+  array (
+    0 => 'Jamesville',
+    1 => 'NY',
+    2 => '42.99',
+    3 => '-76.07',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  80 => 
+  array (
+    0 => 'Jordan',
+    1 => 'NY',
+    2 => '43.06',
+    3 => '-76.47',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  81 => 
+  array (
+    0 => 'King Ferry',
+    1 => 'NY',
+    2 => '42.66',
+    3 => '-76.61',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  82 => 
+  array (
+    0 => 'Kirkville',
+    1 => 'NY',
+    2 => '43.07',
+    3 => '-75.95',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  83 => 
+  array (
+    0 => 'Lacona',
+    1 => 'NY',
+    2 => '43.64',
+    3 => '-76.06',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  84 => 
+  array (
+    0 => 'La Fayette',
+    1 => 'NY',
+    2 => '42.88',
+    3 => '-76.1',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  87 => 
+  array (
+    0 => 'Little York',
+    1 => 'NY',
+    2 => '42.69',
+    3 => '-76.16',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  88 => 
+  array (
+    0 => 'Liverpool',
+    1 => 'NY',
+    2 => '43.1',
+    3 => '-76.21',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  89 => 
+  array (
+    0 => 'Liverpool',
+    1 => 'NY',
+    2 => '43.1',
+    3 => '-76.21',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  90 => 
+  array (
+    0 => 'Liverpool',
+    1 => 'NY',
+    2 => '43.1',
+    3 => '-76.21',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  92 => 
+  array (
+    0 => 'Locke',
+    1 => 'NY',
+    2 => '42.66',
+    3 => '-76.43',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  93 => 
+  array (
+    0 => 'Lycoming',
+    1 => 'NY',
+    2 => '43.49',
+    3 => '-76.39',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

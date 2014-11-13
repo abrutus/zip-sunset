@@ -1,0 +1,335 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Bismarck',
+    1 => 'ND',
+    2 => '46.8',
+    3 => '-100.76',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '02' => 
+  array (
+    0 => 'Bismarck',
+    1 => 'ND',
+    2 => '46.8',
+    3 => '-100.76',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '03' => 
+  array (
+    0 => 'Bismarck',
+    1 => 'ND',
+    2 => '46.91',
+    3 => '-100.75',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '04' => 
+  array (
+    0 => 'Bismarck',
+    1 => 'ND',
+    2 => '46.8',
+    3 => '-100.76',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '05' => 
+  array (
+    0 => 'Bismarck',
+    1 => 'ND',
+    2 => '46.8',
+    3 => '-100.76',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '06' => 
+  array (
+    0 => 'Bismarck',
+    1 => 'ND',
+    2 => '46.8',
+    3 => '-100.76',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '07' => 
+  array (
+    0 => 'Bismarck',
+    1 => 'ND',
+    2 => '46.8',
+    3 => '-100.76',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  21 => 
+  array (
+    0 => 'Baldwin',
+    1 => 'ND',
+    2 => '46.97',
+    3 => '-100.75',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  23 => 
+  array (
+    0 => 'Beulah',
+    1 => 'ND',
+    2 => '47.26',
+    3 => '-101.77',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  24 => 
+  array (
+    0 => 'Braddock',
+    1 => 'ND',
+    2 => '46.56',
+    3 => '-100.08',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  29 => 
+  array (
+    0 => 'Carson',
+    1 => 'ND',
+    2 => '46.42',
+    3 => '-101.57',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  30 => 
+  array (
+    0 => 'Center',
+    1 => 'ND',
+    2 => '47.11',
+    3 => '-101.29',
+    4 => -6,
+    5 => 'America/North_Dakota/Center',
+  ),
+  31 => 
+  array (
+    0 => 'Coleharbor',
+    1 => 'ND',
+    2 => '47.54',
+    3 => '-101.22',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  32 => 
+  array (
+    0 => 'Driscoll',
+    1 => 'ND',
+    2 => '46.85',
+    3 => '-100.13',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  33 => 
+  array (
+    0 => 'Elgin',
+    1 => 'ND',
+    2 => '46.4',
+    3 => '-101.84',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  40 => 
+  array (
+    0 => 'Garrison',
+    1 => 'ND',
+    2 => '47.65',
+    3 => '-101.42',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  41 => 
+  array (
+    0 => 'Golden Valley',
+    1 => 'ND',
+    2 => '47.29',
+    3 => '-102.06',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  42 => 
+  array (
+    0 => 'Hague',
+    1 => 'ND',
+    2 => '46.02',
+    3 => '-99.99',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  44 => 
+  array (
+    0 => 'Hazelton',
+    1 => 'ND',
+    2 => '46.48',
+    3 => '-100.27',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  45 => 
+  array (
+    0 => 'Hazen',
+    1 => 'ND',
+    2 => '47.29',
+    3 => '-101.62',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  49 => 
+  array (
+    0 => 'Kintyre',
+    1 => 'ND',
+    2 => '46.55',
+    3 => '-99.95',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  52 => 
+  array (
+    0 => 'Linton',
+    1 => 'ND',
+    2 => '46.26',
+    3 => '-100.23',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  58 => 
+  array (
+    0 => 'Menoken',
+    1 => 'ND',
+    2 => '46.81',
+    3 => '-100.51',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  59 => 
+  array (
+    0 => 'Mercer',
+    1 => 'ND',
+    2 => '47.49',
+    3 => '-100.71',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  60 => 
+  array (
+    0 => 'Moffit',
+    1 => 'ND',
+    2 => '46.68',
+    3 => '-100.28',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  61 => 
+  array (
+    0 => 'Napoleon',
+    1 => 'ND',
+    2 => '46.5',
+    3 => '-99.76',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  62 => 
+  array (
+    0 => 'New Leipzig',
+    1 => 'ND',
+    2 => '46.37',
+    3 => '-101.95',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  64 => 
+  array (
+    0 => 'Raleigh',
+    1 => 'ND',
+    2 => '46.36',
+    3 => '-101.3',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  69 => 
+  array (
+    0 => 'Shields',
+    1 => 'ND',
+    2 => '46.23',
+    3 => '-101.13',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  71 => 
+  array (
+    0 => 'Stanton',
+    1 => 'ND',
+    2 => '47.31',
+    3 => '-101.38',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  72 => 
+  array (
+    0 => 'Sterling',
+    1 => 'ND',
+    2 => '46.81',
+    3 => '-100.28',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  73 => 
+  array (
+    0 => 'Strasburg',
+    1 => 'ND',
+    2 => '46.13',
+    3 => '-100.16',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  75 => 
+  array (
+    0 => 'Turtle Lake',
+    1 => 'ND',
+    2 => '47.52',
+    3 => '-100.89',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  76 => 
+  array (
+    0 => 'Underwood',
+    1 => 'ND',
+    2 => '47.45',
+    3 => '-101.14',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  77 => 
+  array (
+    0 => 'Washburn',
+    1 => 'ND',
+    2 => '47.29',
+    3 => '-101.02',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  80 => 
+  array (
+    0 => 'Zap',
+    1 => 'ND',
+    2 => '47.28',
+    3 => '-101.92',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  81 => 
+  array (
+    0 => 'Zeeland',
+    1 => 'ND',
+    2 => '45.97',
+    3 => '-99.83',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+);

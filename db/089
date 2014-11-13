@@ -1,0 +1,92 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'New Brunswick',
+    1 => 'NJ',
+    2 => '40.48',
+    3 => '-74.44',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '02' => 
+  array (
+    0 => 'North Brunswick',
+    1 => 'NJ',
+    2 => '40.45',
+    3 => '-74.48',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '03' => 
+  array (
+    0 => 'New Brunswick',
+    1 => 'NJ',
+    2 => '40.48',
+    3 => '-74.44',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '04' => 
+  array (
+    0 => 'Highland Park',
+    1 => 'NJ',
+    2 => '40.5',
+    3 => '-74.42',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '05' => 
+  array (
+    0 => 'New Brunswick',
+    1 => 'NJ',
+    2 => '40.48',
+    3 => '-74.44',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '06' => 
+  array (
+    0 => 'New Brunswick',
+    1 => 'NJ',
+    2 => '40.48',
+    3 => '-74.44',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  22 => 
+  array (
+    0 => 'New Brunswick',
+    1 => 'NJ',
+    2 => '40.48',
+    3 => '-74.45',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  33 => 
+  array (
+    0 => 'New Brunswick',
+    1 => 'NJ',
+    2 => '40.48',
+    3 => '-74.44',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  88 => 
+  array (
+    0 => 'New Brunswick',
+    1 => 'NJ',
+    2 => '40.45',
+    3 => '-74.48',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  89 => 
+  array (
+    0 => 'New Brunswick',
+    1 => 'NJ',
+    2 => '40.48',
+    3 => '-74.44',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

@@ -1,0 +1,299 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Salida',
+    1 => 'CO',
+    2 => '38.53',
+    3 => '-106',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  10 => 
+  array (
+    0 => 'Almont',
+    1 => 'CO',
+    2 => '38.67',
+    3 => '-106.83',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  11 => 
+  array (
+    0 => 'Buena Vista',
+    1 => 'CO',
+    2 => '38.83',
+    3 => '-106.14',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  12 => 
+  array (
+    0 => 'Canon City',
+    1 => 'CO',
+    2 => '38.44',
+    3 => '-105.23',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  15 => 
+  array (
+    0 => 'Canon City',
+    1 => 'CO',
+    2 => '38.44',
+    3 => '-105.23',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  20 => 
+  array (
+    0 => 'Cimarron',
+    1 => 'CO',
+    2 => '38.37',
+    3 => '-107.5',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  21 => 
+  array (
+    0 => 'Coal Creek',
+    1 => 'CO',
+    2 => '38.35',
+    3 => '-105.14',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  22 => 
+  array (
+    0 => 'Coaldale',
+    1 => 'CO',
+    2 => '38.37',
+    3 => '-105.75',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  23 => 
+  array (
+    0 => 'Cotopaxi',
+    1 => 'CO',
+    2 => '38.37',
+    3 => '-105.68',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  24 => 
+  array (
+    0 => 'Crested Butte',
+    1 => 'CO',
+    2 => '38.87',
+    3 => '-106.98',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  25 => 
+  array (
+    0 => 'Crested Butte',
+    1 => 'CO',
+    2 => '38.87',
+    3 => '-106.98',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  26 => 
+  array (
+    0 => 'Florence',
+    1 => 'CO',
+    2 => '38.38',
+    3 => '-105.11',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  27 => 
+  array (
+    0 => 'Monarch',
+    1 => 'CO',
+    2 => '38.53',
+    3 => '-106.05',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  28 => 
+  array (
+    0 => 'Granite',
+    1 => 'CO',
+    2 => '39.05',
+    3 => '-106.27',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  30 => 
+  array (
+    0 => 'Gunnison',
+    1 => 'CO',
+    2 => '38.54',
+    3 => '-106.92',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  31 => 
+  array (
+    0 => 'Gunnison',
+    1 => 'CO',
+    2 => '38.54',
+    3 => '-106.92',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  32 => 
+  array (
+    0 => 'Hillside',
+    1 => 'CO',
+    2 => '38.27',
+    3 => '-105.6',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  33 => 
+  array (
+    0 => 'Howard',
+    1 => 'CO',
+    2 => '38.45',
+    3 => '-105.84',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  35 => 
+  array (
+    0 => 'Lake City',
+    1 => 'CO',
+    2 => '38.07',
+    3 => '-107.3',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  36 => 
+  array (
+    0 => 'Nathrop',
+    1 => 'CO',
+    2 => '38.73',
+    3 => '-106.08',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  37 => 
+  array (
+    0 => 'Ohio City',
+    1 => 'CO',
+    2 => '38.54',
+    3 => '-106.58',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  39 => 
+  array (
+    0 => 'Parlin',
+    1 => 'CO',
+    2 => '38.5',
+    3 => '-106.72',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  40 => 
+  array (
+    0 => 'Penrose',
+    1 => 'CO',
+    2 => '38.43',
+    3 => '-105.01',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  41 => 
+  array (
+    0 => 'Pitkin',
+    1 => 'CO',
+    2 => '38.6',
+    3 => '-106.51',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  42 => 
+  array (
+    0 => 'Poncha Springs',
+    1 => 'CO',
+    2 => '38.51',
+    3 => '-106.07',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  43 => 
+  array (
+    0 => 'Powderhorn',
+    1 => 'CO',
+    2 => '38.27',
+    3 => '-107.08',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  44 => 
+  array (
+    0 => 'Rockvale',
+    1 => 'CO',
+    2 => '38.36',
+    3 => '-105.16',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  47 => 
+  array (
+    0 => 'Gunnison',
+    1 => 'CO',
+    2 => '38.54',
+    3 => '-106.92',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  48 => 
+  array (
+    0 => 'Sargents',
+    1 => 'CO',
+    2 => '38.4',
+    3 => '-106.42',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  51 => 
+  array (
+    0 => 'Twin Lakes',
+    1 => 'CO',
+    2 => '39.1',
+    3 => '-106.47',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  52 => 
+  array (
+    0 => 'Westcliffe',
+    1 => 'CO',
+    2 => '38.13',
+    3 => '-105.46',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  53 => 
+  array (
+    0 => 'Wetmore',
+    1 => 'CO',
+    2 => '38.23',
+    3 => '-105.08',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  90 => 
+  array (
+    0 => 'Florence',
+    1 => 'CO',
+    2 => '38.38',
+    3 => '-105.11',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+);

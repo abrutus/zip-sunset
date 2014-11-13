@@ -1,0 +1,245 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Box Springs',
+    1 => 'GA',
+    2 => '32.58',
+    3 => '-84.61',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '03' => 
+  array (
+    0 => 'Buena Vista',
+    1 => 'GA',
+    2 => '32.31',
+    3 => '-84.51',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '04' => 
+  array (
+    0 => 'Cataula',
+    1 => 'GA',
+    2 => '32.66',
+    3 => '-84.88',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '05' => 
+  array (
+    0 => 'Cusseta',
+    1 => 'GA',
+    2 => '32.3',
+    3 => '-84.77',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '06' => 
+  array (
+    0 => 'Ellaville',
+    1 => 'GA',
+    2 => '32.23',
+    3 => '-84.3',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '07' => 
+  array (
+    0 => 'Ellerslie',
+    1 => 'GA',
+    2 => '32.64',
+    3 => '-84.79',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '08' => 
+  array (
+    0 => 'Fortson',
+    1 => 'GA',
+    2 => '32.63',
+    3 => '-84.98',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  10 => 
+  array (
+    0 => 'Geneva',
+    1 => 'GA',
+    2 => '32.57',
+    3 => '-84.55',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  11 => 
+  array (
+    0 => 'Hamilton',
+    1 => 'GA',
+    2 => '32.75',
+    3 => '-84.87',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  12 => 
+  array (
+    0 => 'Junction City',
+    1 => 'GA',
+    2 => '32.6',
+    3 => '-84.45',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  14 => 
+  array (
+    0 => 'Louvale',
+    1 => 'GA',
+    2 => '32.16',
+    3 => '-84.81',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  15 => 
+  array (
+    0 => 'Lumpkin',
+    1 => 'GA',
+    2 => '32.04',
+    3 => '-84.79',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  16 => 
+  array (
+    0 => 'Manchester',
+    1 => 'GA',
+    2 => '32.85',
+    3 => '-84.61',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  20 => 
+  array (
+    0 => 'Midland',
+    1 => 'GA',
+    2 => '32.58',
+    3 => '-84.84',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  21 => 
+  array (
+    0 => 'Omaha',
+    1 => 'GA',
+    2 => '32.14',
+    3 => '-85.01',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  22 => 
+  array (
+    0 => 'Pine Mountain',
+    1 => 'GA',
+    2 => '32.86',
+    3 => '-84.85',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  23 => 
+  array (
+    0 => 'Pine Mountain Valley',
+    1 => 'GA',
+    2 => '32.78',
+    3 => '-84.82',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  24 => 
+  array (
+    0 => 'Preston',
+    1 => 'GA',
+    2 => '32.06',
+    3 => '-84.54',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  25 => 
+  array (
+    0 => 'Richland',
+    1 => 'GA',
+    2 => '32.08',
+    3 => '-84.67',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  26 => 
+  array (
+    0 => 'Shiloh',
+    1 => 'GA',
+    2 => '32.81',
+    3 => '-84.69',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  27 => 
+  array (
+    0 => 'Talbotton',
+    1 => 'GA',
+    2 => '32.67',
+    3 => '-84.54',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  29 => 
+  array (
+    0 => 'Upatoi',
+    1 => 'GA',
+    2 => '32.56',
+    3 => '-84.74',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  30 => 
+  array (
+    0 => 'Warm Springs',
+    1 => 'GA',
+    2 => '32.88',
+    3 => '-84.67',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  31 => 
+  array (
+    0 => 'Waverly Hall',
+    1 => 'GA',
+    2 => '32.68',
+    3 => '-84.73',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  32 => 
+  array (
+    0 => 'Weston',
+    1 => 'GA',
+    2 => '31.97',
+    3 => '-84.61',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  33 => 
+  array (
+    0 => 'West Point',
+    1 => 'GA',
+    2 => '32.87',
+    3 => '-85.16',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  36 => 
+  array (
+    0 => 'Woodland',
+    1 => 'GA',
+    2 => '32.78',
+    3 => '-84.56',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

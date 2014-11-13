@@ -1,0 +1,263 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Naples',
+    1 => 'FL',
+    2 => '26.14',
+    3 => '-81.79',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '02' => 
+  array (
+    0 => 'Naples',
+    1 => 'FL',
+    2 => '26.14',
+    3 => '-81.79',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '03' => 
+  array (
+    0 => 'Naples',
+    1 => 'FL',
+    2 => '26.14',
+    3 => '-81.79',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '04' => 
+  array (
+    0 => 'Naples',
+    1 => 'FL',
+    2 => '26.14',
+    3 => '-81.79',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '05' => 
+  array (
+    0 => 'Naples',
+    1 => 'FL',
+    2 => '26.14',
+    3 => '-81.79',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '06' => 
+  array (
+    0 => 'Naples',
+    1 => 'FL',
+    2 => '26.14',
+    3 => '-81.79',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '07' => 
+  array (
+    0 => 'Naples',
+    1 => 'FL',
+    2 => '26.27',
+    3 => '-81.82',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '08' => 
+  array (
+    0 => 'Naples',
+    1 => 'FL',
+    2 => '26.14',
+    3 => '-81.79',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '09' => 
+  array (
+    0 => 'Naples',
+    1 => 'FL',
+    2 => '26.14',
+    3 => '-81.79',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  10 => 
+  array (
+    0 => 'Naples',
+    1 => 'FL',
+    2 => '26.14',
+    3 => '-81.79',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  12 => 
+  array (
+    0 => 'Naples',
+    1 => 'FL',
+    2 => '26.14',
+    3 => '-81.79',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  13 => 
+  array (
+    0 => 'Naples',
+    1 => 'FL',
+    2 => '26.14',
+    3 => '-81.79',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  14 => 
+  array (
+    0 => 'Naples',
+    1 => 'FL',
+    2 => '26.14',
+    3 => '-81.79',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  16 => 
+  array (
+    0 => 'Naples',
+    1 => 'FL',
+    2 => '26.14',
+    3 => '-81.79',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  17 => 
+  array (
+    0 => 'Naples',
+    1 => 'FL',
+    2 => '26.14',
+    3 => '-81.79',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  19 => 
+  array (
+    0 => 'Naples',
+    1 => 'FL',
+    2 => '26.14',
+    3 => '-81.79',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  20 => 
+  array (
+    0 => 'Naples',
+    1 => 'FL',
+    2 => '26.14',
+    3 => '-81.79',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  33 => 
+  array (
+    0 => 'Bonita Springs',
+    1 => 'FL',
+    2 => '26.34',
+    3 => '-81.78',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  34 => 
+  array (
+    0 => 'Bonita Springs',
+    1 => 'FL',
+    2 => '26.34',
+    3 => '-81.78',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  35 => 
+  array (
+    0 => 'Bonita Springs',
+    1 => 'FL',
+    2 => '26.34',
+    3 => '-81.78',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  36 => 
+  array (
+    0 => 'Bonita Springs',
+    1 => 'FL',
+    2 => '26.34',
+    3 => '-81.78',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  37 => 
+  array (
+    0 => 'Copeland',
+    1 => 'FL',
+    2 => '25.96',
+    3 => '-81.35',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  38 => 
+  array (
+    0 => 'Chokoloskee',
+    1 => 'FL',
+    2 => '25.83',
+    3 => '-81.35',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  39 => 
+  array (
+    0 => 'Everglades City',
+    1 => 'FL',
+    2 => '25.86',
+    3 => '-81.38',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  40 => 
+  array (
+    0 => 'Goodland',
+    1 => 'FL',
+    2 => '25.92',
+    3 => '-81.66',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  42 => 
+  array (
+    0 => 'Immokalee',
+    1 => 'FL',
+    2 => '26.41',
+    3 => '-81.42',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  43 => 
+  array (
+    0 => 'Immokalee',
+    1 => 'FL',
+    2 => '26.41',
+    3 => '-81.42',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  45 => 
+  array (
+    0 => 'Marco Island',
+    1 => 'FL',
+    2 => '25.94',
+    3 => '-81.73',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  46 => 
+  array (
+    0 => 'Marco Island',
+    1 => 'FL',
+    2 => '25.94',
+    3 => '-81.73',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

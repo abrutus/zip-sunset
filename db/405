@@ -1,0 +1,353 @@
+<?php $db= array (
+  '02' => 
+  array (
+    0 => 'Lexington',
+    1 => 'KY',
+    2 => '38.04',
+    3 => '-84.45',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  '03' => 
+  array (
+    0 => 'Lexington',
+    1 => 'KY',
+    2 => '38.04',
+    3 => '-84.45',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  '04' => 
+  array (
+    0 => 'Lexington',
+    1 => 'KY',
+    2 => '38.04',
+    3 => '-84.45',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  '05' => 
+  array (
+    0 => 'Lexington',
+    1 => 'KY',
+    2 => '38.04',
+    3 => '-84.45',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  '06' => 
+  array (
+    0 => 'Lexington',
+    1 => 'KY',
+    2 => '38.04',
+    3 => '-84.45',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  '07' => 
+  array (
+    0 => 'Lexington',
+    1 => 'KY',
+    2 => '38.04',
+    3 => '-84.45',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  '08' => 
+  array (
+    0 => 'Lexington',
+    1 => 'KY',
+    2 => '38.04',
+    3 => '-84.45',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  '09' => 
+  array (
+    0 => 'Lexington',
+    1 => 'KY',
+    2 => '38.04',
+    3 => '-84.45',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  10 => 
+  array (
+    0 => 'Lexington',
+    1 => 'KY',
+    2 => '38.04',
+    3 => '-84.45',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  11 => 
+  array (
+    0 => 'Lexington',
+    1 => 'KY',
+    2 => '38.04',
+    3 => '-84.45',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  12 => 
+  array (
+    0 => 'Lexington',
+    1 => 'KY',
+    2 => '38.04',
+    3 => '-84.45',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  13 => 
+  array (
+    0 => 'Lexington',
+    1 => 'KY',
+    2 => '38.04',
+    3 => '-84.45',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  14 => 
+  array (
+    0 => 'Lexington',
+    1 => 'KY',
+    2 => '38.04',
+    3 => '-84.45',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  15 => 
+  array (
+    0 => 'Lexington',
+    1 => 'KY',
+    2 => '38.04',
+    3 => '-84.45',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  16 => 
+  array (
+    0 => 'Lexington',
+    1 => 'KY',
+    2 => '38.04',
+    3 => '-84.45',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  17 => 
+  array (
+    0 => 'Lexington',
+    1 => 'KY',
+    2 => '38.04',
+    3 => '-84.45',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  22 => 
+  array (
+    0 => 'Lexington',
+    1 => 'KY',
+    2 => '38.04',
+    3 => '-84.45',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  23 => 
+  array (
+    0 => 'Lexington',
+    1 => 'KY',
+    2 => '38.04',
+    3 => '-84.45',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  24 => 
+  array (
+    0 => 'Lexington',
+    1 => 'KY',
+    2 => '38.04',
+    3 => '-84.45',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  26 => 
+  array (
+    0 => 'Lexington',
+    1 => 'KY',
+    2 => '38.04',
+    3 => '-84.45',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  33 => 
+  array (
+    0 => 'Lexington',
+    1 => 'KY',
+    2 => '38.04',
+    3 => '-84.45',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  36 => 
+  array (
+    0 => 'Lexington',
+    1 => 'KY',
+    2 => '38.04',
+    3 => '-84.45',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  44 => 
+  array (
+    0 => 'Lexington',
+    1 => 'KY',
+    2 => '38.04',
+    3 => '-84.45',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  46 => 
+  array (
+    0 => 'Lexington',
+    1 => 'KY',
+    2 => '38.04',
+    3 => '-84.45',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  50 => 
+  array (
+    0 => 'Lexington',
+    1 => 'KY',
+    2 => '38.04',
+    3 => '-84.45',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  55 => 
+  array (
+    0 => 'Lexington',
+    1 => 'KY',
+    2 => '38.04',
+    3 => '-84.45',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  74 => 
+  array (
+    0 => 'Lexington',
+    1 => 'KY',
+    2 => '38.04',
+    3 => '-84.45',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  75 => 
+  array (
+    0 => 'Lexington',
+    1 => 'KY',
+    2 => '38.04',
+    3 => '-84.45',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  76 => 
+  array (
+    0 => 'Lexington',
+    1 => 'KY',
+    2 => '38.04',
+    3 => '-84.45',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  77 => 
+  array (
+    0 => 'Lexington',
+    1 => 'KY',
+    2 => '38.04',
+    3 => '-84.45',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  78 => 
+  array (
+    0 => 'Lexington',
+    1 => 'KY',
+    2 => '38.04',
+    3 => '-84.45',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  79 => 
+  array (
+    0 => 'Lexington',
+    1 => 'KY',
+    2 => '38.04',
+    3 => '-84.45',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  80 => 
+  array (
+    0 => 'Lexington',
+    1 => 'KY',
+    2 => '38.04',
+    3 => '-84.45',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  81 => 
+  array (
+    0 => 'Lexington',
+    1 => 'KY',
+    2 => '38.04',
+    3 => '-84.45',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  82 => 
+  array (
+    0 => 'Lexington',
+    1 => 'KY',
+    2 => '38.04',
+    3 => '-84.45',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  83 => 
+  array (
+    0 => 'Lexington',
+    1 => 'KY',
+    2 => '38.04',
+    3 => '-84.45',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  88 => 
+  array (
+    0 => 'Lexington',
+    1 => 'KY',
+    2 => '38.04',
+    3 => '-84.45',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  91 => 
+  array (
+    0 => 'Lexington',
+    1 => 'KY',
+    2 => '38.04',
+    3 => '-84.45',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  98 => 
+  array (
+    0 => 'Lexington',
+    1 => 'KY',
+    2 => '38.05',
+    3 => '-84.5',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+);

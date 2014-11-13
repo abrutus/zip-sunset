@@ -1,0 +1,470 @@
+<?php $db= array (
+  '02' => 
+  array (
+    0 => 'Handley',
+    1 => 'WV',
+    2 => '38.18',
+    3 => '-81.36',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '03' => 
+  array (
+    0 => 'Hansford',
+    1 => 'WV',
+    2 => '38.11',
+    3 => '-81.37',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '06' => 
+  array (
+    0 => 'Henderson',
+    1 => 'WV',
+    2 => '38.83',
+    3 => '-82.13',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '07' => 
+  array (
+    0 => 'Hernshaw',
+    1 => 'WV',
+    2 => '38.2',
+    3 => '-81.61',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '08' => 
+  array (
+    0 => 'Hewett',
+    1 => 'WV',
+    2 => '37.96',
+    3 => '-81.85',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '09' => 
+  array (
+    0 => 'Hometown',
+    1 => 'WV',
+    2 => '38.56',
+    3 => '-81.87',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  10 => 
+  array (
+    0 => 'Hugheston',
+    1 => 'WV',
+    2 => '38.36',
+    3 => '-81.33',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  11 => 
+  array (
+    0 => 'Indore',
+    1 => 'WV',
+    2 => '38.35',
+    3 => '-81.16',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  12 => 
+  array (
+    0 => 'Institute',
+    1 => 'WV',
+    2 => '38.38',
+    3 => '-81.76',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  13 => 
+  array (
+    0 => 'Ivydale',
+    1 => 'WV',
+    2 => '38.52',
+    3 => '-81.02',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  14 => 
+  array (
+    0 => 'Jeffrey',
+    1 => 'WV',
+    2 => '37.94',
+    3 => '-81.78',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  15 => 
+  array (
+    0 => 'Kanawha Falls',
+    1 => 'WV',
+    2 => '38.11',
+    3 => '-81.15',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  18 => 
+  array (
+    0 => 'Kimberly',
+    1 => 'WV',
+    2 => '38.12',
+    3 => '-81.32',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  19 => 
+  array (
+    0 => 'Kincaid',
+    1 => 'WV',
+    2 => '38.02',
+    3 => '-81.26',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  21 => 
+  array (
+    0 => 'Lake',
+    1 => 'WV',
+    2 => '37.94',
+    3 => '-81.93',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  23 => 
+  array (
+    0 => 'Leon',
+    1 => 'WV',
+    2 => '38.74',
+    3 => '-81.95',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  24 => 
+  array (
+    0 => 'Liberty',
+    1 => 'WV',
+    2 => '38.63',
+    3 => '-81.76',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  25 => 
+  array (
+    0 => 'Lizemores',
+    1 => 'WV',
+    2 => '38.33',
+    3 => '-81.16',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  26 => 
+  array (
+    0 => 'London',
+    1 => 'WV',
+    2 => '38.36',
+    3 => '-81.33',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  30 => 
+  array (
+    0 => 'Madison',
+    1 => 'WV',
+    2 => '38.05',
+    3 => '-81.8',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  32 => 
+  array (
+    0 => 'Mammoth',
+    1 => 'WV',
+    2 => '38.25',
+    3 => '-81.37',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  33 => 
+  array (
+    0 => 'Maysel',
+    1 => 'WV',
+    2 => '38.48',
+    3 => '-81.12',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  34 => 
+  array (
+    0 => 'Miami',
+    1 => 'WV',
+    2 => '38.06',
+    3 => '-81.42',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  36 => 
+  array (
+    0 => 'Montgomery',
+    1 => 'WV',
+    2 => '38.17',
+    3 => '-81.31',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  39 => 
+  array (
+    0 => 'Mount Carbon',
+    1 => 'WV',
+    2 => '38.14',
+    3 => '-81.32',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  40 => 
+  array (
+    0 => 'Naoma',
+    1 => 'WV',
+    2 => '37.89',
+    3 => '-81.52',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  41 => 
+  array (
+    0 => 'Nebo',
+    1 => 'WV',
+    2 => '38.62',
+    3 => '-81.02',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  42 => 
+  array (
+    0 => 'Nellis',
+    1 => 'WV',
+    2 => '38.15',
+    3 => '-81.73',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  43 => 
+  array (
+    0 => 'Nitro',
+    1 => 'WV',
+    2 => '38.41',
+    3 => '-81.83',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  48 => 
+  array (
+    0 => 'Orgas',
+    1 => 'WV',
+    2 => '38.06',
+    3 => '-81.56',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  49 => 
+  array (
+    0 => 'Ottawa',
+    1 => 'WV',
+    2 => '37.96',
+    3 => '-81.82',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  52 => 
+  array (
+    0 => 'Page',
+    1 => 'WV',
+    2 => '38.05',
+    3 => '-81.23',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  54 => 
+  array (
+    0 => 'Peytona',
+    1 => 'WV',
+    2 => '38.12',
+    3 => '-81.7',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  56 => 
+  array (
+    0 => 'Pinch',
+    1 => 'WV',
+    2 => '38.4',
+    3 => '-81.47',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  59 => 
+  array (
+    0 => 'Poca',
+    1 => 'WV',
+    2 => '38.47',
+    3 => '-81.81',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  60 => 
+  array (
+    0 => 'Pond Gap',
+    1 => 'WV',
+    2 => '38.28',
+    3 => '-81.28',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  61 => 
+  array (
+    0 => 'Powellton',
+    1 => 'WV',
+    2 => '38.09',
+    3 => '-81.31',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  62 => 
+  array (
+    0 => 'Pratt',
+    1 => 'WV',
+    2 => '38.2',
+    3 => '-81.38',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  64 => 
+  array (
+    0 => 'Procious',
+    1 => 'WV',
+    2 => '38.47',
+    3 => '-81.22',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  65 => 
+  array (
+    0 => 'Racine',
+    1 => 'WV',
+    2 => '38.16',
+    3 => '-81.65',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  68 => 
+  array (
+    0 => 'Red House',
+    1 => 'WV',
+    2 => '38.55',
+    3 => '-81.89',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  69 => 
+  array (
+    0 => 'Ridgeview',
+    1 => 'WV',
+    2 => '38.15',
+    3 => '-81.78',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  73 => 
+  array (
+    0 => 'Robson',
+    1 => 'WV',
+    2 => '38.09',
+    3 => '-81.24',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  74 => 
+  array (
+    0 => 'Rock Creek',
+    1 => 'WV',
+    2 => '37.83',
+    3 => '-81.48',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  77 => 
+  array (
+    0 => 'Saint Albans',
+    1 => 'WV',
+    2 => '38.37',
+    3 => '-81.81',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  80 => 
+  array (
+    0 => 'Saxon',
+    1 => 'WV',
+    2 => '37.78',
+    3 => '-81.43',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  81 => 
+  array (
+    0 => 'Seth',
+    1 => 'WV',
+    2 => '38.09',
+    3 => '-81.64',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  83 => 
+  array (
+    0 => 'Sharples',
+    1 => 'WV',
+    2 => '37.89',
+    3 => '-81.82',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  85 => 
+  array (
+    0 => 'Mount Olive',
+    1 => 'WV',
+    2 => '38.09',
+    3 => '-81.26',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  86 => 
+  array (
+    0 => 'Smithers',
+    1 => 'WV',
+    2 => '38.17',
+    3 => '-81.3',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  87 => 
+  array (
+    0 => 'Southside',
+    1 => 'WV',
+    2 => '38.7',
+    3 => '-81.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  93 => 
+  array (
+    0 => 'Sylvester',
+    1 => 'WV',
+    2 => '38',
+    3 => '-81.56',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

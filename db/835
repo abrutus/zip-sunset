@@ -1,0 +1,191 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Lewiston',
+    1 => 'ID',
+    2 => '46.16',
+    3 => '-116.92',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  20 => 
+  array (
+    0 => 'Ahsahka',
+    1 => 'ID',
+    2 => '46.52',
+    3 => '-116.3',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  22 => 
+  array (
+    0 => 'Cottonwood',
+    1 => 'ID',
+    2 => '45.94',
+    3 => '-116.52',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  23 => 
+  array (
+    0 => 'Craigmont',
+    1 => 'ID',
+    2 => '46.23',
+    3 => '-116.48',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  25 => 
+  array (
+    0 => 'Elk City',
+    1 => 'ID',
+    2 => '45.9',
+    3 => '-115.22',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  26 => 
+  array (
+    0 => 'Ferdinand',
+    1 => 'ID',
+    2 => '46.14',
+    3 => '-116.41',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  30 => 
+  array (
+    0 => 'Grangeville',
+    1 => 'ID',
+    2 => '45.9',
+    3 => '-116.13',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  31 => 
+  array (
+    0 => 'Fenn',
+    1 => 'ID',
+    2 => '45.92',
+    3 => '-116.12',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  33 => 
+  array (
+    0 => 'Greencreek',
+    1 => 'ID',
+    2 => '46.11',
+    3 => '-116.26',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  39 => 
+  array (
+    0 => 'Kooskia',
+    1 => 'ID',
+    2 => '46.08',
+    3 => '-115.86',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  40 => 
+  array (
+    0 => 'Lapwai',
+    1 => 'ID',
+    2 => '46.32',
+    3 => '-116.78',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  42 => 
+  array (
+    0 => 'Lucile',
+    1 => 'ID',
+    2 => '45.54',
+    3 => '-116.24',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  43 => 
+  array (
+    0 => 'Nezperce',
+    1 => 'ID',
+    2 => '46.28',
+    3 => '-116.23',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  44 => 
+  array (
+    0 => 'Orofino',
+    1 => 'ID',
+    2 => '46.48',
+    3 => '-116.12',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  45 => 
+  array (
+    0 => 'Peck',
+    1 => 'ID',
+    2 => '46.42',
+    3 => '-116.46',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  46 => 
+  array (
+    0 => 'Pierce',
+    1 => 'ID',
+    2 => '46.56',
+    3 => '-115.81',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  49 => 
+  array (
+    0 => 'Riggins',
+    1 => 'ID',
+    2 => '45.39',
+    3 => '-116.47',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  52 => 
+  array (
+    0 => 'Stites',
+    1 => 'ID',
+    2 => '46.08',
+    3 => '-115.97',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  53 => 
+  array (
+    0 => 'Weippe',
+    1 => 'ID',
+    2 => '46.38',
+    3 => '-115.89',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  54 => 
+  array (
+    0 => 'White Bird',
+    1 => 'ID',
+    2 => '45.69',
+    3 => '-116.18',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  55 => 
+  array (
+    0 => 'Winchester',
+    1 => 'ID',
+    2 => '46.21',
+    3 => '-116.64',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+);

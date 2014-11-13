@@ -1,0 +1,542 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Burlington',
+    1 => 'VT',
+    2 => '44.48',
+    3 => '-73.22',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '02' => 
+  array (
+    0 => 'Burlington',
+    1 => 'VT',
+    2 => '44.48',
+    3 => '-73.22',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '03' => 
+  array (
+    0 => 'South Burlington',
+    1 => 'VT',
+    2 => '44.44',
+    3 => '-73.21',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '04' => 
+  array (
+    0 => 'Winooski',
+    1 => 'VT',
+    2 => '44.49',
+    3 => '-73.18',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '05' => 
+  array (
+    0 => 'Burlington',
+    1 => 'VT',
+    2 => '44.48',
+    3 => '-73.22',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '06' => 
+  array (
+    0 => 'Burlington',
+    1 => 'VT',
+    2 => '44.48',
+    3 => '-73.22',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '07' => 
+  array (
+    0 => 'South Burlington',
+    1 => 'VT',
+    2 => '44.44',
+    3 => '-73.21',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '08' => 
+  array (
+    0 => 'Burlington',
+    1 => 'VT',
+    2 => '44.48',
+    3 => '-73.27',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  39 => 
+  array (
+    0 => 'Colchester',
+    1 => 'VT',
+    2 => '44.53',
+    3 => '-73.15',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  40 => 
+  array (
+    0 => 'Alburgh',
+    1 => 'VT',
+    2 => '44.97',
+    3 => '-73.3',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  41 => 
+  array (
+    0 => 'Bakersfield',
+    1 => 'VT',
+    2 => '44.78',
+    3 => '-72.8',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  42 => 
+  array (
+    0 => 'Belvidere Center',
+    1 => 'VT',
+    2 => '44.75',
+    3 => '-72.68',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  43 => 
+  array (
+    0 => 'Bristol',
+    1 => 'VT',
+    2 => '44.13',
+    3 => '-73.08',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  44 => 
+  array (
+    0 => 'Cambridge',
+    1 => 'VT',
+    2 => '44.63',
+    3 => '-72.88',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  45 => 
+  array (
+    0 => 'Charlotte',
+    1 => 'VT',
+    2 => '44.3',
+    3 => '-73.25',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  46 => 
+  array (
+    0 => 'Colchester',
+    1 => 'VT',
+    2 => '44.53',
+    3 => '-73.15',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  47 => 
+  array (
+    0 => 'East Berkshire',
+    1 => 'VT',
+    2 => '44.92',
+    3 => '-72.7',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  48 => 
+  array (
+    0 => 'East Fairfield',
+    1 => 'VT',
+    2 => '44.8',
+    3 => '-72.91',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  49 => 
+  array (
+    0 => 'Colchester',
+    1 => 'VT',
+    2 => '44.53',
+    3 => '-73.15',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  50 => 
+  array (
+    0 => 'Enosburg Falls',
+    1 => 'VT',
+    2 => '44.9',
+    3 => '-72.8',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  51 => 
+  array (
+    0 => 'Essex',
+    1 => 'VT',
+    2 => '44.52',
+    3 => '-73.05',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  52 => 
+  array (
+    0 => 'Essex Junction',
+    1 => 'VT',
+    2 => '44.49',
+    3 => '-73.11',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  53 => 
+  array (
+    0 => 'Essex Junction',
+    1 => 'VT',
+    2 => '44.49',
+    3 => '-73.11',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  54 => 
+  array (
+    0 => 'Fairfax',
+    1 => 'VT',
+    2 => '44.67',
+    3 => '-73.02',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  55 => 
+  array (
+    0 => 'Fairfield',
+    1 => 'VT',
+    2 => '44.8',
+    3 => '-72.95',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  56 => 
+  array (
+    0 => 'Ferrisburgh',
+    1 => 'VT',
+    2 => '44.2',
+    3 => '-73.25',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  57 => 
+  array (
+    0 => 'Franklin',
+    1 => 'VT',
+    2 => '44.98',
+    3 => '-72.92',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  58 => 
+  array (
+    0 => 'Grand Isle',
+    1 => 'VT',
+    2 => '44.72',
+    3 => '-73.3',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  59 => 
+  array (
+    0 => 'Highgate Center',
+    1 => 'VT',
+    2 => '44.95',
+    3 => '-72.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  60 => 
+  array (
+    0 => 'Highgate Springs',
+    1 => 'VT',
+    2 => '44.97',
+    3 => '-73.1',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  61 => 
+  array (
+    0 => 'Hinesburg',
+    1 => 'VT',
+    2 => '44.33',
+    3 => '-73.12',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  62 => 
+  array (
+    0 => 'Huntington',
+    1 => 'VT',
+    2 => '44.33',
+    3 => '-72.98',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  63 => 
+  array (
+    0 => 'Isle La Motte',
+    1 => 'VT',
+    2 => '44.87',
+    3 => '-73.33',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  64 => 
+  array (
+    0 => 'Jeffersonville',
+    1 => 'VT',
+    2 => '44.64',
+    3 => '-72.82',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  65 => 
+  array (
+    0 => 'Jericho',
+    1 => 'VT',
+    2 => '44.5',
+    3 => '-72.98',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  66 => 
+  array (
+    0 => 'Jonesville',
+    1 => 'VT',
+    2 => '44.39',
+    3 => '-72.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  68 => 
+  array (
+    0 => 'Milton',
+    1 => 'VT',
+    2 => '44.63',
+    3 => '-73.11',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  69 => 
+  array (
+    0 => 'Monkton',
+    1 => 'VT',
+    2 => '44.23',
+    3 => '-73.15',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  70 => 
+  array (
+    0 => 'Montgomery',
+    1 => 'VT',
+    2 => '44.9',
+    3 => '-72.63',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  71 => 
+  array (
+    0 => 'Montgomery Center',
+    1 => 'VT',
+    2 => '44.86',
+    3 => '-72.59',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  72 => 
+  array (
+    0 => 'New Haven',
+    1 => 'VT',
+    2 => '44.12',
+    3 => '-73.15',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  73 => 
+  array (
+    0 => 'North Ferrisburgh',
+    1 => 'VT',
+    2 => '44.24',
+    3 => '-73.19',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  74 => 
+  array (
+    0 => 'North Hero',
+    1 => 'VT',
+    2 => '44.82',
+    3 => '-73.28',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  76 => 
+  array (
+    0 => 'Richford',
+    1 => 'VT',
+    2 => '44.99',
+    3 => '-72.67',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  77 => 
+  array (
+    0 => 'Richmond',
+    1 => 'VT',
+    2 => '44.4',
+    3 => '-73',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  78 => 
+  array (
+    0 => 'Saint Albans',
+    1 => 'VT',
+    2 => '44.81',
+    3 => '-73.08',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  79 => 
+  array (
+    0 => 'Saint Albans',
+    1 => 'VT',
+    2 => '44.81',
+    3 => '-73.08',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  81 => 
+  array (
+    0 => 'Saint Albans Bay',
+    1 => 'VT',
+    2 => '44.82',
+    3 => '-73.12',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  82 => 
+  array (
+    0 => 'Shelburne',
+    1 => 'VT',
+    2 => '44.38',
+    3 => '-73.23',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  83 => 
+  array (
+    0 => 'Sheldon',
+    1 => 'VT',
+    2 => '44.88',
+    3 => '-72.95',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  85 => 
+  array (
+    0 => 'Sheldon Springs',
+    1 => 'VT',
+    2 => '44.89',
+    3 => '-72.98',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  86 => 
+  array (
+    0 => 'South Hero',
+    1 => 'VT',
+    2 => '44.64',
+    3 => '-73.31',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  87 => 
+  array (
+    0 => 'Starksboro',
+    1 => 'VT',
+    2 => '44.22',
+    3 => '-72.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  88 => 
+  array (
+    0 => 'Swanton',
+    1 => 'VT',
+    2 => '44.92',
+    3 => '-73.12',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  89 => 
+  array (
+    0 => 'Underhill',
+    1 => 'VT',
+    2 => '44.53',
+    3 => '-72.97',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  90 => 
+  array (
+    0 => 'Underhill Center',
+    1 => 'VT',
+    2 => '44.52',
+    3 => '-72.89',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  91 => 
+  array (
+    0 => 'Vergennes',
+    1 => 'VT',
+    2 => '44.16',
+    3 => '-73.25',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  92 => 
+  array (
+    0 => 'Waterville',
+    1 => 'VT',
+    2 => '44.71',
+    3 => '-72.75',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  94 => 
+  array (
+    0 => 'Westford',
+    1 => 'VT',
+    2 => '44.62',
+    3 => '-73.02',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  95 => 
+  array (
+    0 => 'Williston',
+    1 => 'VT',
+    2 => '44.43',
+    3 => '-73.07',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

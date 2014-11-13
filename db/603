@@ -1,0 +1,56 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Oak Park',
+    1 => 'IL',
+    2 => '41.88',
+    3 => '-87.78',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '02' => 
+  array (
+    0 => 'Oak Park',
+    1 => 'IL',
+    2 => '41.88',
+    3 => '-87.78',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '03' => 
+  array (
+    0 => 'Oak Park',
+    1 => 'IL',
+    2 => '41.88',
+    3 => '-87.78',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '04' => 
+  array (
+    0 => 'Oak Park',
+    1 => 'IL',
+    2 => '41.88',
+    3 => '-87.78',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '05' => 
+  array (
+    0 => 'River Forest',
+    1 => 'IL',
+    2 => '41.89',
+    3 => '-87.81',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  99 => 
+  array (
+    0 => 'Wood Dale',
+    1 => 'IL',
+    2 => '41.96',
+    3 => '-87.94',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+);

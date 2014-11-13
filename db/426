@@ -1,0 +1,92 @@
+<?php $db= array (
+  '02' => 
+  array (
+    0 => 'Albany',
+    1 => 'KY',
+    2 => '36.69',
+    3 => '-85.13',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  29 => 
+  array (
+    0 => 'Jamestown',
+    1 => 'KY',
+    2 => '36.99',
+    3 => '-85.07',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  31 => 
+  array (
+    0 => 'Marshes Siding',
+    1 => 'KY',
+    2 => '36.74',
+    3 => '-84.48',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  33 => 
+  array (
+    0 => 'Monticello',
+    1 => 'KY',
+    2 => '36.84',
+    3 => '-84.84',
+    4 => -5,
+    5 => 'America/Kentucky/Monticello',
+  ),
+  34 => 
+  array (
+    0 => 'Parkers Lake',
+    1 => 'KY',
+    2 => '36.84',
+    3 => '-84.48',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  35 => 
+  array (
+    0 => 'Pine Knot',
+    1 => 'KY',
+    2 => '36.66',
+    3 => '-84.43',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  38 => 
+  array (
+    0 => 'Revelo',
+    1 => 'KY',
+    2 => '36.67',
+    3 => '-84.47',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  47 => 
+  array (
+    0 => 'Stearns',
+    1 => 'KY',
+    2 => '36.69',
+    3 => '-84.47',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  49 => 
+  array (
+    0 => 'Strunk',
+    1 => 'KY',
+    2 => '36.62',
+    3 => '-84.43',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  53 => 
+  array (
+    0 => 'Whitley City',
+    1 => 'KY',
+    2 => '36.72',
+    3 => '-84.47',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+);

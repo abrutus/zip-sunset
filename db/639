@@ -1,0 +1,299 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Poplar Bluff',
+    1 => 'MO',
+    2 => '36.76',
+    3 => '-90.4',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '02' => 
+  array (
+    0 => 'Poplar Bluff',
+    1 => 'MO',
+    2 => '36.76',
+    3 => '-90.4',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  31 => 
+  array (
+    0 => 'Briar',
+    1 => 'MO',
+    2 => '36.64',
+    3 => '-90.96',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  32 => 
+  array (
+    0 => 'Broseley',
+    1 => 'MO',
+    2 => '36.7',
+    3 => '-90.23',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  33 => 
+  array (
+    0 => 'Campbell',
+    1 => 'MO',
+    2 => '36.49',
+    3 => '-90.07',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  34 => 
+  array (
+    0 => 'Clubb',
+    1 => 'MO',
+    2 => '37.23',
+    3 => '-90.36',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  35 => 
+  array (
+    0 => 'Doniphan',
+    1 => 'MO',
+    2 => '36.62',
+    3 => '-90.82',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  36 => 
+  array (
+    0 => 'Dudley',
+    1 => 'MO',
+    2 => '36.78',
+    3 => '-90.09',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  37 => 
+  array (
+    0 => 'Ellsinore',
+    1 => 'MO',
+    2 => '36.93',
+    3 => '-90.74',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  38 => 
+  array (
+    0 => 'Fagus',
+    1 => 'MO',
+    2 => '36.56',
+    3 => '-90.26',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  39 => 
+  array (
+    0 => 'Fairdealing',
+    1 => 'MO',
+    2 => '36.67',
+    3 => '-90.64',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  40 => 
+  array (
+    0 => 'Fisk',
+    1 => 'MO',
+    2 => '36.78',
+    3 => '-90.2',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  41 => 
+  array (
+    0 => 'Fremont',
+    1 => 'MO',
+    2 => '36.9',
+    3 => '-91.16',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  42 => 
+  array (
+    0 => 'Gatewood',
+    1 => 'MO',
+    2 => '36.56',
+    3 => '-91.07',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  43 => 
+  array (
+    0 => 'Grandin',
+    1 => 'MO',
+    2 => '36.82',
+    3 => '-90.82',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  44 => 
+  array (
+    0 => 'Greenville',
+    1 => 'MO',
+    2 => '37.12',
+    3 => '-90.44',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  45 => 
+  array (
+    0 => 'Harviell',
+    1 => 'MO',
+    2 => '36.68',
+    3 => '-90.57',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  50 => 
+  array (
+    0 => 'Lodi',
+    1 => 'MO',
+    2 => '37.24',
+    3 => '-90.46',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  51 => 
+  array (
+    0 => 'Lowndes',
+    1 => 'MO',
+    2 => '37.13',
+    3 => '-90.25',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  52 => 
+  array (
+    0 => 'Mill Spring',
+    1 => 'MO',
+    2 => '37.06',
+    3 => '-90.68',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  53 => 
+  array (
+    0 => 'Naylor',
+    1 => 'MO',
+    2 => '36.57',
+    3 => '-90.6',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  54 => 
+  array (
+    0 => 'Neelyville',
+    1 => 'MO',
+    2 => '36.55',
+    3 => '-90.51',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  55 => 
+  array (
+    0 => 'Oxly',
+    1 => 'MO',
+    2 => '36.58',
+    3 => '-90.68',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  56 => 
+  array (
+    0 => 'Patterson',
+    1 => 'MO',
+    2 => '37.21',
+    3 => '-90.57',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  57 => 
+  array (
+    0 => 'Piedmont',
+    1 => 'MO',
+    2 => '37.14',
+    3 => '-90.69',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  60 => 
+  array (
+    0 => 'Puxico',
+    1 => 'MO',
+    2 => '36.95',
+    3 => '-90.15',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  61 => 
+  array (
+    0 => 'Qulin',
+    1 => 'MO',
+    2 => '36.59',
+    3 => '-90.24',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  62 => 
+  array (
+    0 => 'Rombauer',
+    1 => 'MO',
+    2 => '36.84',
+    3 => '-90.28',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  63 => 
+  array (
+    0 => 'Shook',
+    1 => 'MO',
+    2 => '37.07',
+    3 => '-90.32',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  64 => 
+  array (
+    0 => 'Silva',
+    1 => 'MO',
+    2 => '37.2',
+    3 => '-90.43',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  65 => 
+  array (
+    0 => 'Van Buren',
+    1 => 'MO',
+    2 => '37',
+    3 => '-91.01',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  66 => 
+  array (
+    0 => 'Wappapello',
+    1 => 'MO',
+    2 => '36.99',
+    3 => '-90.27',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  67 => 
+  array (
+    0 => 'Williamsville',
+    1 => 'MO',
+    2 => '36.97',
+    3 => '-90.54',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+);

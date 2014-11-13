@@ -1,0 +1,515 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Des Moines',
+    1 => 'IA',
+    2 => '41.57',
+    3 => '-93.61',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '02' => 
+  array (
+    0 => 'Des Moines',
+    1 => 'IA',
+    2 => '41.57',
+    3 => '-93.61',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '03' => 
+  array (
+    0 => 'Des Moines',
+    1 => 'IA',
+    2 => '41.57',
+    3 => '-93.61',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '04' => 
+  array (
+    0 => 'Des Moines',
+    1 => 'IA',
+    2 => '41.57',
+    3 => '-93.61',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '05' => 
+  array (
+    0 => 'Des Moines',
+    1 => 'IA',
+    2 => '41.57',
+    3 => '-93.61',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '06' => 
+  array (
+    0 => 'Des Moines',
+    1 => 'IA',
+    2 => '41.57',
+    3 => '-93.61',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '07' => 
+  array (
+    0 => 'Des Moines',
+    1 => 'IA',
+    2 => '41.57',
+    3 => '-93.61',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '08' => 
+  array (
+    0 => 'Des Moines',
+    1 => 'IA',
+    2 => '41.57',
+    3 => '-93.61',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '09' => 
+  array (
+    0 => 'Des Moines',
+    1 => 'IA',
+    2 => '41.57',
+    3 => '-93.61',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  10 => 
+  array (
+    0 => 'Des Moines',
+    1 => 'IA',
+    2 => '41.57',
+    3 => '-93.61',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  11 => 
+  array (
+    0 => 'Des Moines',
+    1 => 'IA',
+    2 => '41.57',
+    3 => '-93.61',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  12 => 
+  array (
+    0 => 'Des Moines',
+    1 => 'IA',
+    2 => '41.57',
+    3 => '-93.61',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  13 => 
+  array (
+    0 => 'Des Moines',
+    1 => 'IA',
+    2 => '41.57',
+    3 => '-93.61',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  14 => 
+  array (
+    0 => 'Des Moines',
+    1 => 'IA',
+    2 => '41.57',
+    3 => '-93.61',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  15 => 
+  array (
+    0 => 'Des Moines',
+    1 => 'IA',
+    2 => '41.57',
+    3 => '-93.61',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  16 => 
+  array (
+    0 => 'Des Moines',
+    1 => 'IA',
+    2 => '41.57',
+    3 => '-93.61',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  17 => 
+  array (
+    0 => 'Des Moines',
+    1 => 'IA',
+    2 => '41.57',
+    3 => '-93.61',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  18 => 
+  array (
+    0 => 'Des Moines',
+    1 => 'IA',
+    2 => '41.57',
+    3 => '-93.61',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  19 => 
+  array (
+    0 => 'Des Moines',
+    1 => 'IA',
+    2 => '41.57',
+    3 => '-93.61',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  20 => 
+  array (
+    0 => 'Des Moines',
+    1 => 'IA',
+    2 => '41.57',
+    3 => '-93.61',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  21 => 
+  array (
+    0 => 'Des Moines',
+    1 => 'IA',
+    2 => '41.57',
+    3 => '-93.61',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  22 => 
+  array (
+    0 => 'Urbandale',
+    1 => 'IA',
+    2 => '41.63',
+    3 => '-93.74',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  23 => 
+  array (
+    0 => 'Urbandale',
+    1 => 'IA',
+    2 => '41.63',
+    3 => '-93.74',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  24 => 
+  array (
+    0 => 'Windsor Heights',
+    1 => 'IA',
+    2 => '41.6',
+    3 => '-93.71',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  25 => 
+  array (
+    0 => 'Clive',
+    1 => 'IA',
+    2 => '41.6',
+    3 => '-93.76',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  27 => 
+  array (
+    0 => 'Pleasant Hill',
+    1 => 'IA',
+    2 => '41.58',
+    3 => '-93.49',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  28 => 
+  array (
+    0 => 'Des Moines',
+    1 => 'IA',
+    2 => '41.57',
+    3 => '-93.61',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  29 => 
+  array (
+    0 => 'Des Moines',
+    1 => 'IA',
+    2 => '41.57',
+    3 => '-93.61',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  30 => 
+  array (
+    0 => 'Des Moines',
+    1 => 'IA',
+    2 => '41.57',
+    3 => '-93.61',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  31 => 
+  array (
+    0 => 'Des Moines',
+    1 => 'IA',
+    2 => '41.57',
+    3 => '-93.61',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  32 => 
+  array (
+    0 => 'Des Moines',
+    1 => 'IA',
+    2 => '41.57',
+    3 => '-93.61',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  33 => 
+  array (
+    0 => 'Des Moines',
+    1 => 'IA',
+    2 => '41.57',
+    3 => '-93.61',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  34 => 
+  array (
+    0 => 'Des Moines',
+    1 => 'IA',
+    2 => '41.57',
+    3 => '-93.61',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  35 => 
+  array (
+    0 => 'Des Moines',
+    1 => 'IA',
+    2 => '41.57',
+    3 => '-93.61',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  36 => 
+  array (
+    0 => 'Des Moines',
+    1 => 'IA',
+    2 => '41.57',
+    3 => '-93.61',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  39 => 
+  array (
+    0 => 'Des Moines',
+    1 => 'IA',
+    2 => '41.57',
+    3 => '-93.61',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  40 => 
+  array (
+    0 => 'Des Moines',
+    1 => 'IA',
+    2 => '41.57',
+    3 => '-93.61',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  47 => 
+  array (
+    0 => 'Des Moines',
+    1 => 'IA',
+    2 => '41.6',
+    3 => '-93.6',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  59 => 
+  array (
+    0 => 'Des Moines',
+    1 => 'IA',
+    2 => '41.57',
+    3 => '-93.61',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  60 => 
+  array (
+    0 => 'Des Moines',
+    1 => 'IA',
+    2 => '41.57',
+    3 => '-93.61',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  61 => 
+  array (
+    0 => 'Des Moines',
+    1 => 'IA',
+    2 => '41.57',
+    3 => '-93.61',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  62 => 
+  array (
+    0 => 'Des Moines',
+    1 => 'IA',
+    2 => '41.57',
+    3 => '-93.61',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  63 => 
+  array (
+    0 => 'Des Moines',
+    1 => 'IA',
+    2 => '41.57',
+    3 => '-93.61',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  64 => 
+  array (
+    0 => 'Des Moines',
+    1 => 'IA',
+    2 => '41.57',
+    3 => '-93.61',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  67 => 
+  array (
+    0 => 'Des Moines',
+    1 => 'IA',
+    2 => '41.57',
+    3 => '-93.61',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  68 => 
+  array (
+    0 => 'Des Moines',
+    1 => 'IA',
+    2 => '41.57',
+    3 => '-93.61',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  69 => 
+  array (
+    0 => 'Des Moines',
+    1 => 'IA',
+    2 => '41.57',
+    3 => '-93.61',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  80 => 
+  array (
+    0 => 'Des Moines',
+    1 => 'IA',
+    2 => '41.57',
+    3 => '-93.61',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  81 => 
+  array (
+    0 => 'Des Moines',
+    1 => 'IA',
+    2 => '41.57',
+    3 => '-93.61',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  91 => 
+  array (
+    0 => 'Des Moines',
+    1 => 'IA',
+    2 => '41.57',
+    3 => '-93.61',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  92 => 
+  array (
+    0 => 'Des Moines',
+    1 => 'IA',
+    2 => '41.57',
+    3 => '-93.61',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  93 => 
+  array (
+    0 => 'Des Moines',
+    1 => 'IA',
+    2 => '41.57',
+    3 => '-93.61',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  94 => 
+  array (
+    0 => 'Des Moines',
+    1 => 'IA',
+    2 => '41.57',
+    3 => '-93.61',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  95 => 
+  array (
+    0 => 'Des Moines',
+    1 => 'IA',
+    2 => '41.57',
+    3 => '-93.61',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  96 => 
+  array (
+    0 => 'Des Moines',
+    1 => 'IA',
+    2 => '41.57',
+    3 => '-93.61',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  97 => 
+  array (
+    0 => 'Des Moines',
+    1 => 'IA',
+    2 => '41.6',
+    3 => '-93.6',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  98 => 
+  array (
+    0 => 'Urbandale',
+    1 => 'IA',
+    2 => '41.57',
+    3 => '-93.75',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+);

@@ -1,0 +1,254 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Amarillo',
+    1 => 'TX',
+    2 => '35.2',
+    3 => '-101.81',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '02' => 
+  array (
+    0 => 'Amarillo',
+    1 => 'TX',
+    2 => '35.2',
+    3 => '-101.81',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '03' => 
+  array (
+    0 => 'Amarillo',
+    1 => 'TX',
+    2 => '35.2',
+    3 => '-101.81',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '04' => 
+  array (
+    0 => 'Amarillo',
+    1 => 'TX',
+    2 => '35.2',
+    3 => '-101.81',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '05' => 
+  array (
+    0 => 'Amarillo',
+    1 => 'TX',
+    2 => '35.2',
+    3 => '-101.81',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '06' => 
+  array (
+    0 => 'Amarillo',
+    1 => 'TX',
+    2 => '35.2',
+    3 => '-101.81',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '07' => 
+  array (
+    0 => 'Amarillo',
+    1 => 'TX',
+    2 => '35.2',
+    3 => '-101.81',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '08' => 
+  array (
+    0 => 'Amarillo',
+    1 => 'TX',
+    2 => '35.2',
+    3 => '-101.81',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '09' => 
+  array (
+    0 => 'Amarillo',
+    1 => 'TX',
+    2 => '35.2',
+    3 => '-101.81',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  10 => 
+  array (
+    0 => 'Amarillo',
+    1 => 'TX',
+    2 => '35.2',
+    3 => '-101.81',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  11 => 
+  array (
+    0 => 'Amarillo',
+    1 => 'TX',
+    2 => '35.2',
+    3 => '-101.81',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  14 => 
+  array (
+    0 => 'Amarillo',
+    1 => 'TX',
+    2 => '35.2',
+    3 => '-101.81',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  16 => 
+  array (
+    0 => 'Amarillo',
+    1 => 'TX',
+    2 => '35.2',
+    3 => '-101.81',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  17 => 
+  array (
+    0 => 'Amarillo',
+    1 => 'TX',
+    2 => '35.2',
+    3 => '-101.81',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  18 => 
+  array (
+    0 => 'Amarillo',
+    1 => 'TX',
+    2 => '35.2',
+    3 => '-101.81',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  19 => 
+  array (
+    0 => 'Amarillo',
+    1 => 'TX',
+    2 => '35.2',
+    3 => '-101.81',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  20 => 
+  array (
+    0 => 'Amarillo',
+    1 => 'TX',
+    2 => '35.2',
+    3 => '-101.81',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  21 => 
+  array (
+    0 => 'Amarillo',
+    1 => 'TX',
+    2 => '35.2',
+    3 => '-101.81',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  24 => 
+  array (
+    0 => 'Amarillo',
+    1 => 'TX',
+    2 => '35.2',
+    3 => '-101.81',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  59 => 
+  array (
+    0 => 'Amarillo',
+    1 => 'TX',
+    2 => '35.2',
+    3 => '-101.81',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  66 => 
+  array (
+    0 => 'Amarillo',
+    1 => 'TX',
+    2 => '35.2',
+    3 => '-101.81',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  68 => 
+  array (
+    0 => 'Amarillo',
+    1 => 'TX',
+    2 => '35.2',
+    3 => '-101.81',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  72 => 
+  array (
+    0 => 'Amarillo',
+    1 => 'TX',
+    2 => '35.2',
+    3 => '-101.81',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  74 => 
+  array (
+    0 => 'Amarillo',
+    1 => 'TX',
+    2 => '35.2',
+    3 => '-101.81',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  78 => 
+  array (
+    0 => 'Amarillo',
+    1 => 'TX',
+    2 => '35.2',
+    3 => '-101.81',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  85 => 
+  array (
+    0 => 'Amarillo',
+    1 => 'TX',
+    2 => '35.2',
+    3 => '-101.81',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  87 => 
+  array (
+    0 => 'Amarillo',
+    1 => 'TX',
+    2 => '35.26',
+    3 => '-101.71',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  89 => 
+  array (
+    0 => 'Amarillo',
+    1 => 'TX',
+    2 => '35.2',
+    3 => '-101.81',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+);

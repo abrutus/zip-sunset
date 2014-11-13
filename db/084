@@ -1,0 +1,56 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Atlantic City',
+    1 => 'NJ',
+    2 => '39.36',
+    3 => '-74.42',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '02' => 
+  array (
+    0 => 'Margate City',
+    1 => 'NJ',
+    2 => '39.33',
+    3 => '-74.5',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '03' => 
+  array (
+    0 => 'Longport',
+    1 => 'NJ',
+    2 => '39.31',
+    3 => '-74.52',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '04' => 
+  array (
+    0 => 'Atlantic City',
+    1 => 'NJ',
+    2 => '39.36',
+    3 => '-74.42',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '05' => 
+  array (
+    0 => 'Atlantic City',
+    1 => 'NJ',
+    2 => '39.36',
+    3 => '-74.42',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '06' => 
+  array (
+    0 => 'Ventnor City',
+    1 => 'NJ',
+    2 => '39.34',
+    3 => '-74.48',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

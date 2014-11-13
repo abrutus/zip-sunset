@@ -1,0 +1,173 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Savannah',
+    1 => 'GA',
+    2 => '32.08',
+    3 => '-81.1',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '02' => 
+  array (
+    0 => 'Savannah',
+    1 => 'GA',
+    2 => '32.08',
+    3 => '-81.1',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '03' => 
+  array (
+    0 => 'Savannah',
+    1 => 'GA',
+    2 => '32.08',
+    3 => '-81.1',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '04' => 
+  array (
+    0 => 'Savannah',
+    1 => 'GA',
+    2 => '32.08',
+    3 => '-81.1',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '05' => 
+  array (
+    0 => 'Savannah',
+    1 => 'GA',
+    2 => '32.08',
+    3 => '-81.1',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '06' => 
+  array (
+    0 => 'Savannah',
+    1 => 'GA',
+    2 => '32.08',
+    3 => '-81.1',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '07' => 
+  array (
+    0 => 'Savannah',
+    1 => 'GA',
+    2 => '32.08',
+    3 => '-81.1',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '08' => 
+  array (
+    0 => 'Savannah',
+    1 => 'GA',
+    2 => '32.08',
+    3 => '-81.1',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '09' => 
+  array (
+    0 => 'Savannah',
+    1 => 'GA',
+    2 => '32.08',
+    3 => '-81.1',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  10 => 
+  array (
+    0 => 'Savannah',
+    1 => 'GA',
+    2 => '32.08',
+    3 => '-81.1',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  11 => 
+  array (
+    0 => 'Savannah',
+    1 => 'GA',
+    2 => '32.08',
+    3 => '-81.1',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  12 => 
+  array (
+    0 => 'Savannah',
+    1 => 'GA',
+    2 => '32.08',
+    3 => '-81.1',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  14 => 
+  array (
+    0 => 'Savannah',
+    1 => 'GA',
+    2 => '32.08',
+    3 => '-81.1',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  15 => 
+  array (
+    0 => 'Savannah',
+    1 => 'GA',
+    2 => '32.08',
+    3 => '-81.1',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  16 => 
+  array (
+    0 => 'Savannah',
+    1 => 'GA',
+    2 => '32.08',
+    3 => '-81.1',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  18 => 
+  array (
+    0 => 'Savannah',
+    1 => 'GA',
+    2 => '32.08',
+    3 => '-81.1',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  19 => 
+  array (
+    0 => 'Savannah',
+    1 => 'GA',
+    2 => '32.08',
+    3 => '-81.1',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  20 => 
+  array (
+    0 => 'Savannah',
+    1 => 'GA',
+    2 => '32.08',
+    3 => '-81.1',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  21 => 
+  array (
+    0 => 'Savannah',
+    1 => 'GA',
+    2 => '32.08',
+    3 => '-81.1',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

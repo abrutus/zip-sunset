@@ -1,0 +1,92 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Richmond',
+    1 => 'CA',
+    2 => '37.96',
+    3 => '-122.38',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '02' => 
+  array (
+    0 => 'Richmond',
+    1 => 'CA',
+    2 => '37.93',
+    3 => '-122.35',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '03' => 
+  array (
+    0 => 'El Sobrante',
+    1 => 'CA',
+    2 => '37.95',
+    3 => '-122.26',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '04' => 
+  array (
+    0 => 'Richmond',
+    1 => 'CA',
+    2 => '37.92',
+    3 => '-122.34',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '05' => 
+  array (
+    0 => 'Richmond',
+    1 => 'CA',
+    2 => '37.94',
+    3 => '-122.31',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '06' => 
+  array (
+    0 => 'San Pablo',
+    1 => 'CA',
+    2 => '37.98',
+    3 => '-122.33',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '07' => 
+  array (
+    0 => 'Richmond',
+    1 => 'CA',
+    2 => '37.92',
+    3 => '-122.35',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '08' => 
+  array (
+    0 => 'Richmond',
+    1 => 'CA',
+    2 => '37.93',
+    3 => '-122.34',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  20 => 
+  array (
+    0 => 'El Sobrante',
+    1 => 'CA',
+    2 => '37.97',
+    3 => '-122.29',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  50 => 
+  array (
+    0 => 'Richmond',
+    1 => 'CA',
+    2 => '37.94',
+    3 => '-122.38',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+);

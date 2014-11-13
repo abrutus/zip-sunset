@@ -1,0 +1,29 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Anatone',
+    1 => 'WA',
+    2 => '46.08',
+    3 => '-117.27',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '02' => 
+  array (
+    0 => 'Asotin',
+    1 => 'WA',
+    2 => '46.17',
+    3 => '-117.16',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '03' => 
+  array (
+    0 => 'Clarkston',
+    1 => 'WA',
+    2 => '46.36',
+    3 => '-117.22',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+);

@@ -1,0 +1,614 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Lakeland',
+    1 => 'FL',
+    2 => '28.04',
+    3 => '-81.96',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '02' => 
+  array (
+    0 => 'Lakeland',
+    1 => 'FL',
+    2 => '28.04',
+    3 => '-81.96',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '03' => 
+  array (
+    0 => 'Lakeland',
+    1 => 'FL',
+    2 => '28.04',
+    3 => '-81.96',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '04' => 
+  array (
+    0 => 'Lakeland',
+    1 => 'FL',
+    2 => '28.04',
+    3 => '-81.96',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '05' => 
+  array (
+    0 => 'Lakeland',
+    1 => 'FL',
+    2 => '28.04',
+    3 => '-81.96',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '06' => 
+  array (
+    0 => 'Lakeland',
+    1 => 'FL',
+    2 => '28.04',
+    3 => '-81.96',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '07' => 
+  array (
+    0 => 'Lakeland',
+    1 => 'FL',
+    2 => '28.04',
+    3 => '-81.96',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '09' => 
+  array (
+    0 => 'Lakeland',
+    1 => 'FL',
+    2 => '28.04',
+    3 => '-81.96',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  10 => 
+  array (
+    0 => 'Lakeland',
+    1 => 'FL',
+    2 => '28.04',
+    3 => '-81.96',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  11 => 
+  array (
+    0 => 'Lakeland',
+    1 => 'FL',
+    2 => '28.04',
+    3 => '-81.96',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  12 => 
+  array (
+    0 => 'Lakeland',
+    1 => 'FL',
+    2 => '27.97',
+    3 => '-81.89',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  13 => 
+  array (
+    0 => 'Lakeland',
+    1 => 'FL',
+    2 => '28.04',
+    3 => '-81.96',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  15 => 
+  array (
+    0 => 'Lakeland',
+    1 => 'FL',
+    2 => '28.04',
+    3 => '-81.96',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  20 => 
+  array (
+    0 => 'Alturas',
+    1 => 'FL',
+    2 => '27.79',
+    3 => '-81.85',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  23 => 
+  array (
+    0 => 'Auburndale',
+    1 => 'FL',
+    2 => '28.07',
+    3 => '-81.79',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  25 => 
+  array (
+    0 => 'Avon Park',
+    1 => 'FL',
+    2 => '27.59',
+    3 => '-81.5',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  26 => 
+  array (
+    0 => 'Avon Park',
+    1 => 'FL',
+    2 => '27.59',
+    3 => '-81.5',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  27 => 
+  array (
+    0 => 'Babson Park',
+    1 => 'FL',
+    2 => '27.83',
+    3 => '-81.52',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  30 => 
+  array (
+    0 => 'Bartow',
+    1 => 'FL',
+    2 => '27.89',
+    3 => '-81.84',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  31 => 
+  array (
+    0 => 'Bartow',
+    1 => 'FL',
+    2 => '27.89',
+    3 => '-81.84',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  35 => 
+  array (
+    0 => 'Bradley',
+    1 => 'FL',
+    2 => '27.79',
+    3 => '-81.85',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  36 => 
+  array (
+    0 => 'Davenport',
+    1 => 'FL',
+    2 => '28.16',
+    3 => '-81.6',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  37 => 
+  array (
+    0 => 'Davenport',
+    1 => 'FL',
+    2 => '28.16',
+    3 => '-81.6',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  38 => 
+  array (
+    0 => 'Dundee',
+    1 => 'FL',
+    2 => '28.02',
+    3 => '-81.62',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  39 => 
+  array (
+    0 => 'Eagle Lake',
+    1 => 'FL',
+    2 => '27.97',
+    3 => '-81.75',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  40 => 
+  array (
+    0 => 'Eaton Park',
+    1 => 'FL',
+    2 => '28.2',
+    3 => '-81.91',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  41 => 
+  array (
+    0 => 'Fort Meade',
+    1 => 'FL',
+    2 => '27.75',
+    3 => '-81.79',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  43 => 
+  array (
+    0 => 'Frostproof',
+    1 => 'FL',
+    2 => '27.74',
+    3 => '-81.53',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  44 => 
+  array (
+    0 => 'Haines City',
+    1 => 'FL',
+    2 => '28.1',
+    3 => '-81.62',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  45 => 
+  array (
+    0 => 'Haines City',
+    1 => 'FL',
+    2 => '28.1',
+    3 => '-81.62',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  46 => 
+  array (
+    0 => 'Highland City',
+    1 => 'FL',
+    2 => '27.96',
+    3 => '-81.87',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  47 => 
+  array (
+    0 => 'Homeland',
+    1 => 'FL',
+    2 => '27.79',
+    3 => '-81.85',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  48 => 
+  array (
+    0 => 'Intercession City',
+    1 => 'FL',
+    2 => '28.26',
+    3 => '-81.5',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  49 => 
+  array (
+    0 => 'Kathleen',
+    1 => 'FL',
+    2 => '28.11',
+    3 => '-82.02',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  50 => 
+  array (
+    0 => 'Lake Alfred',
+    1 => 'FL',
+    2 => '28.09',
+    3 => '-81.72',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  51 => 
+  array (
+    0 => 'Lake Hamilton',
+    1 => 'FL',
+    2 => '28.04',
+    3 => '-81.62',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  52 => 
+  array (
+    0 => 'Lake Placid',
+    1 => 'FL',
+    2 => '27.29',
+    3 => '-81.36',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  53 => 
+  array (
+    0 => 'Lake Wales',
+    1 => 'FL',
+    2 => '27.9',
+    3 => '-81.58',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  54 => 
+  array (
+    0 => 'Lakeshore',
+    1 => 'FL',
+    2 => '27.87',
+    3 => '-81.47',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  55 => 
+  array (
+    0 => 'Indian Lake Estates',
+    1 => 'FL',
+    2 => '27.87',
+    3 => '-81.47',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  56 => 
+  array (
+    0 => 'Nalcrest',
+    1 => 'FL',
+    2 => '27.87',
+    3 => '-81.47',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  57 => 
+  array (
+    0 => 'Lorida',
+    1 => 'FL',
+    2 => '27.45',
+    3 => '-81.26',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  58 => 
+  array (
+    0 => 'Loughman',
+    1 => 'FL',
+    2 => '28.23',
+    3 => '-81.57',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  59 => 
+  array (
+    0 => 'Lake Wales',
+    1 => 'FL',
+    2 => '27.9',
+    3 => '-81.58',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  60 => 
+  array (
+    0 => 'Mulberry',
+    1 => 'FL',
+    2 => '27.9',
+    3 => '-81.97',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  62 => 
+  array (
+    0 => 'Lake Placid',
+    1 => 'FL',
+    2 => '27.29',
+    3 => '-81.36',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  63 => 
+  array (
+    0 => 'Nichols',
+    1 => 'FL',
+    2 => '27.79',
+    3 => '-81.85',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  65 => 
+  array (
+    0 => 'Ona',
+    1 => 'FL',
+    2 => '27.49',
+    3 => '-81.92',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  67 => 
+  array (
+    0 => 'River Ranch',
+    1 => 'FL',
+    2 => '27.88',
+    3 => '-81.47',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  68 => 
+  array (
+    0 => 'Polk City',
+    1 => 'FL',
+    2 => '28.18',
+    3 => '-81.82',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  70 => 
+  array (
+    0 => 'Sebring',
+    1 => 'FL',
+    2 => '27.49',
+    3 => '-81.45',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  71 => 
+  array (
+    0 => 'Sebring',
+    1 => 'FL',
+    2 => '27.49',
+    3 => '-81.45',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  72 => 
+  array (
+    0 => 'Sebring',
+    1 => 'FL',
+    2 => '27.49',
+    3 => '-81.45',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  73 => 
+  array (
+    0 => 'Wauchula',
+    1 => 'FL',
+    2 => '27.54',
+    3 => '-81.8',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  75 => 
+  array (
+    0 => 'Sebring',
+    1 => 'FL',
+    2 => '27.41',
+    3 => '-81.48',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  76 => 
+  array (
+    0 => 'Sebring',
+    1 => 'FL',
+    2 => '27.42',
+    3 => '-81.34',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  77 => 
+  array (
+    0 => 'Waverly',
+    1 => 'FL',
+    2 => '27.96',
+    3 => '-81.61',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  80 => 
+  array (
+    0 => 'Winter Haven',
+    1 => 'FL',
+    2 => '28.04',
+    3 => '-81.72',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  81 => 
+  array (
+    0 => 'Winter Haven',
+    1 => 'FL',
+    2 => '28.04',
+    3 => '-81.72',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  82 => 
+  array (
+    0 => 'Winter Haven',
+    1 => 'FL',
+    2 => '28.04',
+    3 => '-81.72',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  83 => 
+  array (
+    0 => 'Winter Haven',
+    1 => 'FL',
+    2 => '28.04',
+    3 => '-81.72',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  84 => 
+  array (
+    0 => 'Winter Haven',
+    1 => 'FL',
+    2 => '28.04',
+    3 => '-81.72',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  85 => 
+  array (
+    0 => 'Winter Haven',
+    1 => 'FL',
+    2 => '28.04',
+    3 => '-81.72',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  88 => 
+  array (
+    0 => 'Winter Haven',
+    1 => 'FL',
+    2 => '28.04',
+    3 => '-81.72',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  90 => 
+  array (
+    0 => 'Zolfo Springs',
+    1 => 'FL',
+    2 => '27.49',
+    3 => '-81.79',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  96 => 
+  array (
+    0 => 'Davenport',
+    1 => 'FL',
+    2 => '28.16',
+    3 => '-81.6',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  97 => 
+  array (
+    0 => 'Davenport',
+    1 => 'FL',
+    2 => '28.16',
+    3 => '-81.6',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  98 => 
+  array (
+    0 => 'Lake Wales',
+    1 => 'FL',
+    2 => '27.9',
+    3 => '-81.58',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

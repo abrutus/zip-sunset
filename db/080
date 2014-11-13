@@ -1,0 +1,821 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Alloway',
+    1 => 'NJ',
+    2 => '39.56',
+    3 => '-75.34',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '02' => 
+  array (
+    0 => 'Cherry Hill',
+    1 => 'NJ',
+    2 => '39.9',
+    3 => '-74.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '03' => 
+  array (
+    0 => 'Cherry Hill',
+    1 => 'NJ',
+    2 => '39.9',
+    3 => '-74.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '04' => 
+  array (
+    0 => 'Atco',
+    1 => 'NJ',
+    2 => '39.76',
+    3 => '-74.85',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '05' => 
+  array (
+    0 => 'Barnegat',
+    1 => 'NJ',
+    2 => '39.75',
+    3 => '-74.22',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '06' => 
+  array (
+    0 => 'Barnegat Light',
+    1 => 'NJ',
+    2 => '39.75',
+    3 => '-74.11',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '07' => 
+  array (
+    0 => 'Barrington',
+    1 => 'NJ',
+    2 => '39.87',
+    3 => '-75.05',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '08' => 
+  array (
+    0 => 'Beach Haven',
+    1 => 'NJ',
+    2 => '39.55',
+    3 => '-74.24',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '09' => 
+  array (
+    0 => 'Berlin',
+    1 => 'NJ',
+    2 => '39.79',
+    3 => '-74.93',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  10 => 
+  array (
+    0 => 'Beverly',
+    1 => 'NJ',
+    2 => '40.06',
+    3 => '-74.92',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  11 => 
+  array (
+    0 => 'Birmingham',
+    1 => 'NJ',
+    2 => '39.92',
+    3 => '-74.53',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  12 => 
+  array (
+    0 => 'Blackwood',
+    1 => 'NJ',
+    2 => '39.79',
+    3 => '-75.06',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  14 => 
+  array (
+    0 => 'Bridgeport',
+    1 => 'NJ',
+    2 => '39.8',
+    3 => '-75.34',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  15 => 
+  array (
+    0 => 'Browns Mills',
+    1 => 'NJ',
+    2 => '39.95',
+    3 => '-74.55',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  16 => 
+  array (
+    0 => 'Burlington',
+    1 => 'NJ',
+    2 => '40.07',
+    3 => '-74.85',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  18 => 
+  array (
+    0 => 'Cedar Brook',
+    1 => 'NJ',
+    2 => '39.72',
+    3 => '-74.9',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  19 => 
+  array (
+    0 => 'Chatsworth',
+    1 => 'NJ',
+    2 => '39.75',
+    3 => '-74.46',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  20 => 
+  array (
+    0 => 'Clarksboro',
+    1 => 'NJ',
+    2 => '39.8',
+    3 => '-75.22',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  21 => 
+  array (
+    0 => 'Clementon',
+    1 => 'NJ',
+    2 => '39.8',
+    3 => '-74.98',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  22 => 
+  array (
+    0 => 'Columbus',
+    1 => 'NJ',
+    2 => '40.06',
+    3 => '-74.68',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  23 => 
+  array (
+    0 => 'Deepwater',
+    1 => 'NJ',
+    2 => '39.62',
+    3 => '-75.51',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  25 => 
+  array (
+    0 => 'Ewan',
+    1 => 'NJ',
+    2 => '39.71',
+    3 => '-75.23',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  26 => 
+  array (
+    0 => 'Gibbsboro',
+    1 => 'NJ',
+    2 => '39.83',
+    3 => '-74.96',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  27 => 
+  array (
+    0 => 'Gibbstown',
+    1 => 'NJ',
+    2 => '39.82',
+    3 => '-75.27',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  28 => 
+  array (
+    0 => 'Glassboro',
+    1 => 'NJ',
+    2 => '39.7',
+    3 => '-75.11',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  29 => 
+  array (
+    0 => 'Glendora',
+    1 => 'NJ',
+    2 => '39.84',
+    3 => '-75.06',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  30 => 
+  array (
+    0 => 'Gloucester City',
+    1 => 'NJ',
+    2 => '39.89',
+    3 => '-75.11',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  31 => 
+  array (
+    0 => 'Bellmawr',
+    1 => 'NJ',
+    2 => '39.86',
+    3 => '-75.09',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  32 => 
+  array (
+    0 => 'Grenloch',
+    1 => 'NJ',
+    2 => '39.77',
+    3 => '-75.05',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  33 => 
+  array (
+    0 => 'Haddonfield',
+    1 => 'NJ',
+    2 => '39.89',
+    3 => '-75.03',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  34 => 
+  array (
+    0 => 'Cherry Hill',
+    1 => 'NJ',
+    2 => '39.9',
+    3 => '-74.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  35 => 
+  array (
+    0 => 'Haddon Heights',
+    1 => 'NJ',
+    2 => '39.87',
+    3 => '-75.06',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  36 => 
+  array (
+    0 => 'Hainesport',
+    1 => 'NJ',
+    2 => '39.98',
+    3 => '-74.82',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  37 => 
+  array (
+    0 => 'Hammonton',
+    1 => 'NJ',
+    2 => '39.65',
+    3 => '-74.77',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  38 => 
+  array (
+    0 => 'Hancocks Bridge',
+    1 => 'NJ',
+    2 => '39.47',
+    3 => '-75.45',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  39 => 
+  array (
+    0 => 'Harrisonville',
+    1 => 'NJ',
+    2 => '39.73',
+    3 => '-75.32',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  41 => 
+  array (
+    0 => 'Jobstown',
+    1 => 'NJ',
+    2 => '40.03',
+    3 => '-74.68',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  42 => 
+  array (
+    0 => 'Juliustown',
+    1 => 'NJ',
+    2 => '39.95',
+    3 => '-74.66',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  43 => 
+  array (
+    0 => 'Voorhees',
+    1 => 'NJ',
+    2 => '39.84',
+    3 => '-74.95',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  45 => 
+  array (
+    0 => 'Lawnside',
+    1 => 'NJ',
+    2 => '39.86',
+    3 => '-75.03',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  46 => 
+  array (
+    0 => 'Willingboro',
+    1 => 'NJ',
+    2 => '40.02',
+    3 => '-74.88',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  48 => 
+  array (
+    0 => 'Lumberton',
+    1 => 'NJ',
+    2 => '39.96',
+    3 => '-74.8',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  49 => 
+  array (
+    0 => 'Magnolia',
+    1 => 'NJ',
+    2 => '39.85',
+    3 => '-75.03',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  50 => 
+  array (
+    0 => 'Manahawkin',
+    1 => 'NJ',
+    2 => '39.69',
+    3 => '-74.25',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  51 => 
+  array (
+    0 => 'Mantua',
+    1 => 'NJ',
+    2 => '39.78',
+    3 => '-75.17',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  52 => 
+  array (
+    0 => 'Maple Shade',
+    1 => 'NJ',
+    2 => '39.95',
+    3 => '-74.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  53 => 
+  array (
+    0 => 'Marlton',
+    1 => 'NJ',
+    2 => '39.9',
+    3 => '-74.92',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  54 => 
+  array (
+    0 => 'Mount Laurel',
+    1 => 'NJ',
+    2 => '39.94',
+    3 => '-74.9',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  55 => 
+  array (
+    0 => 'Medford',
+    1 => 'NJ',
+    2 => '39.86',
+    3 => '-74.82',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  56 => 
+  array (
+    0 => 'Mickleton',
+    1 => 'NJ',
+    2 => '39.78',
+    3 => '-75.25',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  57 => 
+  array (
+    0 => 'Moorestown',
+    1 => 'NJ',
+    2 => '39.97',
+    3 => '-74.94',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  59 => 
+  array (
+    0 => 'Mount Ephraim',
+    1 => 'NJ',
+    2 => '39.88',
+    3 => '-75.09',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  60 => 
+  array (
+    0 => 'Mount Holly',
+    1 => 'NJ',
+    2 => '39.99',
+    3 => '-74.78',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  61 => 
+  array (
+    0 => 'Mount Royal',
+    1 => 'NJ',
+    2 => '39.81',
+    3 => '-75.2',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  62 => 
+  array (
+    0 => 'Mullica Hill',
+    1 => 'NJ',
+    2 => '39.73',
+    3 => '-75.22',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  63 => 
+  array (
+    0 => 'National Park',
+    1 => 'NJ',
+    2 => '39.86',
+    3 => '-75.18',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  64 => 
+  array (
+    0 => 'New Lisbon',
+    1 => 'NJ',
+    2 => '39.92',
+    3 => '-74.53',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  65 => 
+  array (
+    0 => 'Palmyra',
+    1 => 'NJ',
+    2 => '40',
+    3 => '-75.03',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  66 => 
+  array (
+    0 => 'Paulsboro',
+    1 => 'NJ',
+    2 => '39.83',
+    3 => '-75.24',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  67 => 
+  array (
+    0 => 'Pedricktown',
+    1 => 'NJ',
+    2 => '39.73',
+    3 => '-75.4',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  68 => 
+  array (
+    0 => 'Pemberton',
+    1 => 'NJ',
+    2 => '39.97',
+    3 => '-74.68',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  69 => 
+  array (
+    0 => 'Penns Grove',
+    1 => 'NJ',
+    2 => '39.72',
+    3 => '-75.46',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  70 => 
+  array (
+    0 => 'Pennsville',
+    1 => 'NJ',
+    2 => '39.65',
+    3 => '-75.51',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  71 => 
+  array (
+    0 => 'Pitman',
+    1 => 'NJ',
+    2 => '39.73',
+    3 => '-75.13',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  72 => 
+  array (
+    0 => 'Quinton',
+    1 => 'NJ',
+    2 => '39.52',
+    3 => '-75.38',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  73 => 
+  array (
+    0 => 'Rancocas',
+    1 => 'NJ',
+    2 => '40.02',
+    3 => '-74.88',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  74 => 
+  array (
+    0 => 'Richwood',
+    1 => 'NJ',
+    2 => '39.71',
+    3 => '-75.23',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  75 => 
+  array (
+    0 => 'Riverside',
+    1 => 'NJ',
+    2 => '40.03',
+    3 => '-74.95',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  76 => 
+  array (
+    0 => 'Riverton',
+    1 => 'NJ',
+    2 => '40.01',
+    3 => '-75.01',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  77 => 
+  array (
+    0 => 'Riverton',
+    1 => 'NJ',
+    2 => '40.01',
+    3 => '-75.01',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  78 => 
+  array (
+    0 => 'Runnemede',
+    1 => 'NJ',
+    2 => '39.85',
+    3 => '-75.07',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  79 => 
+  array (
+    0 => 'Salem',
+    1 => 'NJ',
+    2 => '39.56',
+    3 => '-75.47',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  80 => 
+  array (
+    0 => 'Sewell',
+    1 => 'NJ',
+    2 => '39.75',
+    3 => '-75.09',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  81 => 
+  array (
+    0 => 'Sicklerville',
+    1 => 'NJ',
+    2 => '39.73',
+    3 => '-74.98',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  83 => 
+  array (
+    0 => 'Somerdale',
+    1 => 'NJ',
+    2 => '39.84',
+    3 => '-75.02',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  84 => 
+  array (
+    0 => 'Stratford',
+    1 => 'NJ',
+    2 => '39.82',
+    3 => '-75.01',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  85 => 
+  array (
+    0 => 'Swedesboro',
+    1 => 'NJ',
+    2 => '39.74',
+    3 => '-75.31',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  86 => 
+  array (
+    0 => 'Thorofare',
+    1 => 'NJ',
+    2 => '39.85',
+    3 => '-75.18',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  87 => 
+  array (
+    0 => 'Tuckerton',
+    1 => 'NJ',
+    2 => '39.59',
+    3 => '-74.32',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  88 => 
+  array (
+    0 => 'Vincentown',
+    1 => 'NJ',
+    2 => '39.8',
+    3 => '-74.62',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  89 => 
+  array (
+    0 => 'Waterford Works',
+    1 => 'NJ',
+    2 => '39.71',
+    3 => '-74.81',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  90 => 
+  array (
+    0 => 'Wenonah',
+    1 => 'NJ',
+    2 => '39.79',
+    3 => '-75.14',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  91 => 
+  array (
+    0 => 'West Berlin',
+    1 => 'NJ',
+    2 => '39.8',
+    3 => '-74.93',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  92 => 
+  array (
+    0 => 'West Creek',
+    1 => 'NJ',
+    2 => '39.65',
+    3 => '-74.28',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  93 => 
+  array (
+    0 => 'Westville',
+    1 => 'NJ',
+    2 => '39.86',
+    3 => '-75.13',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  94 => 
+  array (
+    0 => 'Williamstown',
+    1 => 'NJ',
+    2 => '39.68',
+    3 => '-74.98',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  95 => 
+  array (
+    0 => 'Winslow',
+    1 => 'NJ',
+    2 => '39.65',
+    3 => '-74.86',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  96 => 
+  array (
+    0 => 'West Deptford',
+    1 => 'NJ',
+    2 => '39.83',
+    3 => '-75.15',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  97 => 
+  array (
+    0 => 'Woodbury Heights',
+    1 => 'NJ',
+    2 => '39.81',
+    3 => '-75.15',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  98 => 
+  array (
+    0 => 'Woodstown',
+    1 => 'NJ',
+    2 => '39.65',
+    3 => '-75.32',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  99 => 
+  array (
+    0 => 'Bellmawr',
+    1 => 'NJ',
+    2 => '39.86',
+    3 => '-75.09',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

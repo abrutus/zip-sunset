@@ -1,0 +1,254 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Texarkana',
+    1 => 'TX',
+    2 => '33.44',
+    3 => '-94.07',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '03' => 
+  array (
+    0 => 'Texarkana',
+    1 => 'TX',
+    2 => '33.44',
+    3 => '-94.07',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '04' => 
+  array (
+    0 => 'Texarkana',
+    1 => 'TX',
+    2 => '33.44',
+    3 => '-94.07',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '05' => 
+  array (
+    0 => 'Texarkana',
+    1 => 'TX',
+    2 => '33.44',
+    3 => '-94.07',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '07' => 
+  array (
+    0 => 'Texarkana',
+    1 => 'TX',
+    2 => '33.44',
+    3 => '-94.07',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  50 => 
+  array (
+    0 => 'Annona',
+    1 => 'TX',
+    2 => '33.58',
+    3 => '-94.91',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  51 => 
+  array (
+    0 => 'Atlanta',
+    1 => 'TX',
+    2 => '33.11',
+    3 => '-94.16',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  54 => 
+  array (
+    0 => 'Avery',
+    1 => 'TX',
+    2 => '33.55',
+    3 => '-94.77',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  55 => 
+  array (
+    0 => 'Bivins',
+    1 => 'TX',
+    2 => '32.95',
+    3 => '-94.14',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  56 => 
+  array (
+    0 => 'Bloomburg',
+    1 => 'TX',
+    2 => '33.13',
+    3 => '-94.05',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  58 => 
+  array (
+    0 => 'Cookville',
+    1 => 'TX',
+    2 => '33.18',
+    3 => '-94.86',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  59 => 
+  array (
+    0 => 'De Kalb',
+    1 => 'TX',
+    2 => '33.5',
+    3 => '-94.61',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  60 => 
+  array (
+    0 => 'Douglassville',
+    1 => 'TX',
+    2 => '33.19',
+    3 => '-94.35',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  61 => 
+  array (
+    0 => 'Hooks',
+    1 => 'TX',
+    2 => '33.46',
+    3 => '-94.28',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  62 => 
+  array (
+    0 => 'Kildare',
+    1 => 'TX',
+    2 => '32.94',
+    3 => '-94.2',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  63 => 
+  array (
+    0 => 'Linden',
+    1 => 'TX',
+    2 => '33.01',
+    3 => '-94.36',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  64 => 
+  array (
+    0 => 'Lodi',
+    1 => 'TX',
+    2 => '32.86',
+    3 => '-94.3',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  65 => 
+  array (
+    0 => 'Mc Leod',
+    1 => 'TX',
+    2 => '32.95',
+    3 => '-94.07',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  66 => 
+  array (
+    0 => 'Marietta',
+    1 => 'TX',
+    2 => '33.17',
+    3 => '-94.54',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  67 => 
+  array (
+    0 => 'Maud',
+    1 => 'TX',
+    2 => '33.33',
+    3 => '-94.34',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  68 => 
+  array (
+    0 => 'Naples',
+    1 => 'TX',
+    2 => '33.2',
+    3 => '-94.67',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  69 => 
+  array (
+    0 => 'Nash',
+    1 => 'TX',
+    2 => '33.44',
+    3 => '-94.12',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  70 => 
+  array (
+    0 => 'New Boston',
+    1 => 'TX',
+    2 => '33.46',
+    3 => '-94.41',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  71 => 
+  array (
+    0 => 'Omaha',
+    1 => 'TX',
+    2 => '33.17',
+    3 => '-94.74',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  72 => 
+  array (
+    0 => 'Queen City',
+    1 => 'TX',
+    2 => '33.14',
+    3 => '-94.15',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  73 => 
+  array (
+    0 => 'Redwater',
+    1 => 'TX',
+    2 => '33.35',
+    3 => '-94.25',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  74 => 
+  array (
+    0 => 'Simms',
+    1 => 'TX',
+    2 => '33.35',
+    3 => '-94.5',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  99 => 
+  array (
+    0 => 'Texarkana',
+    1 => 'TX',
+    2 => '33.44',
+    3 => '-94.07',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+);

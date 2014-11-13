@@ -1,0 +1,173 @@
+<?php $db= array (
+  '07' => 
+  array (
+    0 => 'Athol',
+    1 => 'KY',
+    2 => '37.55',
+    3 => '-83.57',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  10 => 
+  array (
+    0 => 'Bays',
+    1 => 'KY',
+    2 => '37.64',
+    3 => '-83.24',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  13 => 
+  array (
+    0 => 'Bethany',
+    1 => 'KY',
+    2 => '37.74',
+    3 => '-83.5',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  17 => 
+  array (
+    0 => 'Clayhole',
+    1 => 'KY',
+    2 => '37.46',
+    3 => '-83.29',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  33 => 
+  array (
+    0 => 'Heidelberg',
+    1 => 'KY',
+    2 => '37.55',
+    3 => '-83.77',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  38 => 
+  array (
+    0 => 'Island City',
+    1 => 'KY',
+    2 => '37.36',
+    3 => '-83.76',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  47 => 
+  array (
+    0 => 'Lone',
+    1 => 'KY',
+    2 => '37.53',
+    3 => '-83.6',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  48 => 
+  array (
+    0 => 'Lost Creek',
+    1 => 'KY',
+    2 => '37.48',
+    3 => '-83.32',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  51 => 
+  array (
+    0 => 'Mistletoe',
+    1 => 'KY',
+    2 => '37.31',
+    3 => '-83.59',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  52 => 
+  array (
+    0 => 'Mize',
+    1 => 'KY',
+    2 => '37.86',
+    3 => '-83.37',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  60 => 
+  array (
+    0 => 'Pine Ridge',
+    1 => 'KY',
+    2 => '37.76',
+    3 => '-83.61',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  62 => 
+  array (
+    0 => 'Primrose',
+    1 => 'KY',
+    2 => '37.6',
+    3 => '-83.6',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  64 => 
+  array (
+    0 => 'Ricetown',
+    1 => 'KY',
+    2 => '37.39',
+    3 => '-83.62',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  66 => 
+  array (
+    0 => 'Rousseau',
+    1 => 'KY',
+    2 => '37.59',
+    3 => '-83.23',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  67 => 
+  array (
+    0 => 'Rowdy',
+    1 => 'KY',
+    2 => '37.41',
+    3 => '-83.2',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  68 => 
+  array (
+    0 => 'Saint Helens',
+    1 => 'KY',
+    2 => '37.57',
+    3 => '-83.65',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  85 => 
+  array (
+    0 => 'Vancleve',
+    1 => 'KY',
+    2 => '37.62',
+    3 => '-83.41',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  90 => 
+  array (
+    0 => 'Whick',
+    1 => 'KY',
+    2 => '37.42',
+    3 => '-83.37',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  97 => 
+  array (
+    0 => 'Zoe',
+    1 => 'KY',
+    2 => '37.68',
+    3 => '-83.68',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+);

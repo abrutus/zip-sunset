@@ -1,0 +1,488 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Pendleton',
+    1 => 'OR',
+    2 => '45.73',
+    3 => '-118.79',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  10 => 
+  array (
+    0 => 'Adams',
+    1 => 'OR',
+    2 => '45.71',
+    3 => '-118.48',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  12 => 
+  array (
+    0 => 'Arlington',
+    1 => 'OR',
+    2 => '45.55',
+    3 => '-120.32',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  13 => 
+  array (
+    0 => 'Athena',
+    1 => 'OR',
+    2 => '45.83',
+    3 => '-118.51',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  14 => 
+  array (
+    0 => 'Baker City',
+    1 => 'OR',
+    2 => '44.81',
+    3 => '-117.74',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  17 => 
+  array (
+    0 => 'Bates',
+    1 => 'OR',
+    2 => '44.7',
+    3 => '-118.79',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  18 => 
+  array (
+    0 => 'Boardman',
+    1 => 'OR',
+    2 => '45.77',
+    3 => '-119.52',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  19 => 
+  array (
+    0 => 'Bridgeport',
+    1 => 'OR',
+    2 => '44.5',
+    3 => '-117.65',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  20 => 
+  array (
+    0 => 'Canyon City',
+    1 => 'OR',
+    2 => '44.22',
+    3 => '-119.13',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  23 => 
+  array (
+    0 => 'Condon',
+    1 => 'OR',
+    2 => '45.28',
+    3 => '-120.15',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  24 => 
+  array (
+    0 => 'Cove',
+    1 => 'OR',
+    2 => '45.35',
+    3 => '-117.84',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  25 => 
+  array (
+    0 => 'Dayville',
+    1 => 'OR',
+    2 => '44.46',
+    3 => '-119.5',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  26 => 
+  array (
+    0 => 'Echo',
+    1 => 'OR',
+    2 => '45.66',
+    3 => '-119.23',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  27 => 
+  array (
+    0 => 'Elgin',
+    1 => 'OR',
+    2 => '45.61',
+    3 => '-117.89',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  28 => 
+  array (
+    0 => 'Enterprise',
+    1 => 'OR',
+    2 => '45.67',
+    3 => '-117.03',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  30 => 
+  array (
+    0 => 'Fossil',
+    1 => 'OR',
+    2 => '44.9',
+    3 => '-120.12',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  33 => 
+  array (
+    0 => 'Haines',
+    1 => 'OR',
+    2 => '44.94',
+    3 => '-117.97',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  34 => 
+  array (
+    0 => 'Halfway',
+    1 => 'OR',
+    2 => '44.94',
+    3 => '-117.1',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  35 => 
+  array (
+    0 => 'Helix',
+    1 => 'OR',
+    2 => '45.9',
+    3 => '-118.77',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  36 => 
+  array (
+    0 => 'Heppner',
+    1 => 'OR',
+    2 => '45.31',
+    3 => '-119.58',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  37 => 
+  array (
+    0 => 'Hereford',
+    1 => 'OR',
+    2 => '44.52',
+    3 => '-118.02',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  38 => 
+  array (
+    0 => 'Hermiston',
+    1 => 'OR',
+    2 => '45.85',
+    3 => '-119.21',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  39 => 
+  array (
+    0 => 'Lexington',
+    1 => 'OR',
+    2 => '45.57',
+    3 => '-119.6',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  40 => 
+  array (
+    0 => 'Oxbow',
+    1 => 'OR',
+    2 => '44.99',
+    3 => '-116.87',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  41 => 
+  array (
+    0 => 'Imbler',
+    1 => 'OR',
+    2 => '45.47',
+    3 => '-117.96',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  42 => 
+  array (
+    0 => 'Imnaha',
+    1 => 'OR',
+    2 => '45.46',
+    3 => '-116.75',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  43 => 
+  array (
+    0 => 'Ione',
+    1 => 'OR',
+    2 => '45.49',
+    3 => '-119.83',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  44 => 
+  array (
+    0 => 'Irrigon',
+    1 => 'OR',
+    2 => '45.86',
+    3 => '-119.54',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  45 => 
+  array (
+    0 => 'John Day',
+    1 => 'OR',
+    2 => '44.42',
+    3 => '-118.94',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  46 => 
+  array (
+    0 => 'Joseph',
+    1 => 'OR',
+    2 => '45.3',
+    3 => '-117.09',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  48 => 
+  array (
+    0 => 'Kimberly',
+    1 => 'OR',
+    2 => '44.69',
+    3 => '-119.54',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  50 => 
+  array (
+    0 => 'La Grande',
+    1 => 'OR',
+    2 => '45.32',
+    3 => '-118.2',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  56 => 
+  array (
+    0 => 'Long Creek',
+    1 => 'OR',
+    2 => '44.8',
+    3 => '-119.13',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  57 => 
+  array (
+    0 => 'Lostine',
+    1 => 'OR',
+    2 => '45.37',
+    3 => '-117.52',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  59 => 
+  array (
+    0 => 'Meacham',
+    1 => 'OR',
+    2 => '45.52',
+    3 => '-118.44',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  61 => 
+  array (
+    0 => 'Mikkalo',
+    1 => 'OR',
+    2 => '45.71',
+    3 => '-120.2',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  62 => 
+  array (
+    0 => 'Milton Freewater',
+    1 => 'OR',
+    2 => '45.9',
+    3 => '-118.34',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  64 => 
+  array (
+    0 => 'Monument',
+    1 => 'OR',
+    2 => '44.81',
+    3 => '-119.43',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  65 => 
+  array (
+    0 => 'Mount Vernon',
+    1 => 'OR',
+    2 => '44.44',
+    3 => '-119.16',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  67 => 
+  array (
+    0 => 'North Powder',
+    1 => 'OR',
+    2 => '45.05',
+    3 => '-118.01',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  68 => 
+  array (
+    0 => 'Pilot Rock',
+    1 => 'OR',
+    2 => '45.39',
+    3 => '-118.78',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  69 => 
+  array (
+    0 => 'Prairie City',
+    1 => 'OR',
+    2 => '44.38',
+    3 => '-118.64',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  70 => 
+  array (
+    0 => 'Richland',
+    1 => 'OR',
+    2 => '44.79',
+    3 => '-117.23',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  73 => 
+  array (
+    0 => 'Seneca',
+    1 => 'OR',
+    2 => '44.12',
+    3 => '-118.94',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  74 => 
+  array (
+    0 => 'Spray',
+    1 => 'OR',
+    2 => '44.77',
+    3 => '-119.9',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  75 => 
+  array (
+    0 => 'Stanfield',
+    1 => 'OR',
+    2 => '45.8',
+    3 => '-119.17',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  76 => 
+  array (
+    0 => 'Summerville',
+    1 => 'OR',
+    2 => '45.52',
+    3 => '-118.02',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  77 => 
+  array (
+    0 => 'Sumpter',
+    1 => 'OR',
+    2 => '44.75',
+    3 => '-118.2',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  80 => 
+  array (
+    0 => 'Ukiah',
+    1 => 'OR',
+    2 => '45.09',
+    3 => '-118.89',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  82 => 
+  array (
+    0 => 'Umatilla',
+    1 => 'OR',
+    2 => '45.9',
+    3 => '-119.33',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  83 => 
+  array (
+    0 => 'Union',
+    1 => 'OR',
+    2 => '45.15',
+    3 => '-117.77',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  84 => 
+  array (
+    0 => 'Unity',
+    1 => 'OR',
+    2 => '44.47',
+    3 => '-118.22',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  85 => 
+  array (
+    0 => 'Wallowa',
+    1 => 'OR',
+    2 => '45.56',
+    3 => '-117.5',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  86 => 
+  array (
+    0 => 'Weston',
+    1 => 'OR',
+    2 => '45.8',
+    3 => '-118.26',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+);

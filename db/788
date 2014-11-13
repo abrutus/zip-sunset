@@ -1,0 +1,317 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Uvalde',
+    1 => 'TX',
+    2 => '29.21',
+    3 => '-99.78',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '02' => 
+  array (
+    0 => 'Uvalde',
+    1 => 'TX',
+    2 => '29.21',
+    3 => '-99.78',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  27 => 
+  array (
+    0 => 'Asherton',
+    1 => 'TX',
+    2 => '28.44',
+    3 => '-99.76',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  28 => 
+  array (
+    0 => 'Barksdale',
+    1 => 'TX',
+    2 => '29.7',
+    3 => '-100.03',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  29 => 
+  array (
+    0 => 'Batesville',
+    1 => 'TX',
+    2 => '28.94',
+    3 => '-99.61',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  30 => 
+  array (
+    0 => 'Big Wells',
+    1 => 'TX',
+    2 => '28.56',
+    3 => '-99.57',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  32 => 
+  array (
+    0 => 'Brackettville',
+    1 => 'TX',
+    2 => '29.31',
+    3 => '-100.41',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  33 => 
+  array (
+    0 => 'Camp Wood',
+    1 => 'TX',
+    2 => '29.66',
+    3 => '-100.01',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  34 => 
+  array (
+    0 => 'Carrizo Springs',
+    1 => 'TX',
+    2 => '28.52',
+    3 => '-99.85',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  36 => 
+  array (
+    0 => 'Catarina',
+    1 => 'TX',
+    2 => '28.35',
+    3 => '-99.61',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  37 => 
+  array (
+    0 => 'Comstock',
+    1 => 'TX',
+    2 => '29.68',
+    3 => '-101.16',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  38 => 
+  array (
+    0 => 'Concan',
+    1 => 'TX',
+    2 => '29.51',
+    3 => '-99.73',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  40 => 
+  array (
+    0 => 'Del Rio',
+    1 => 'TX',
+    2 => '29.37',
+    3 => '-100.89',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  41 => 
+  array (
+    0 => 'Del Rio',
+    1 => 'TX',
+    2 => '29.37',
+    3 => '-100.89',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  42 => 
+  array (
+    0 => 'Del Rio',
+    1 => 'TX',
+    2 => '29.37',
+    3 => '-100.89',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  43 => 
+  array (
+    0 => 'Laughlin A F B',
+    1 => 'TX',
+    2 => '29.35',
+    3 => '-100.78',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  47 => 
+  array (
+    0 => 'Del Rio',
+    1 => 'TX',
+    2 => '29.37',
+    3 => '-100.89',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  50 => 
+  array (
+    0 => 'D Hanis',
+    1 => 'TX',
+    2 => '29.35',
+    3 => '-99.31',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  51 => 
+  array (
+    0 => 'Dryden',
+    1 => 'TX',
+    2 => '30.05',
+    3 => '-102.12',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  52 => 
+  array (
+    0 => 'Eagle Pass',
+    1 => 'TX',
+    2 => '28.7',
+    3 => '-100.49',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  53 => 
+  array (
+    0 => 'Eagle Pass',
+    1 => 'TX',
+    2 => '28.7',
+    3 => '-100.49',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  60 => 
+  array (
+    0 => 'El Indio',
+    1 => 'TX',
+    2 => '28.51',
+    3 => '-100.31',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  61 => 
+  array (
+    0 => 'Hondo',
+    1 => 'TX',
+    2 => '29.35',
+    3 => '-99.15',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  70 => 
+  array (
+    0 => 'Knippa',
+    1 => 'TX',
+    2 => '29.3',
+    3 => '-99.63',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  71 => 
+  array (
+    0 => 'Langtry',
+    1 => 'TX',
+    2 => '29.81',
+    3 => '-101.56',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  72 => 
+  array (
+    0 => 'La Pryor',
+    1 => 'TX',
+    2 => '28.94',
+    3 => '-99.84',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  73 => 
+  array (
+    0 => 'Leakey',
+    1 => 'TX',
+    2 => '29.72',
+    3 => '-99.76',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  77 => 
+  array (
+    0 => 'Quemado',
+    1 => 'TX',
+    2 => '28.95',
+    3 => '-100.63',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  79 => 
+  array (
+    0 => 'Rio Frio',
+    1 => 'TX',
+    2 => '29.63',
+    3 => '-99.73',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  80 => 
+  array (
+    0 => 'Rocksprings',
+    1 => 'TX',
+    2 => '30.01',
+    3 => '-100.21',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  81 => 
+  array (
+    0 => 'Sabinal',
+    1 => 'TX',
+    2 => '29.32',
+    3 => '-99.46',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  83 => 
+  array (
+    0 => 'Tarpley',
+    1 => 'TX',
+    2 => '29.63',
+    3 => '-99.28',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  84 => 
+  array (
+    0 => 'Utopia',
+    1 => 'TX',
+    2 => '29.61',
+    3 => '-99.53',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  85 => 
+  array (
+    0 => 'Vanderpool',
+    1 => 'TX',
+    2 => '29.73',
+    3 => '-99.55',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  86 => 
+  array (
+    0 => 'Yancey',
+    1 => 'TX',
+    2 => '29.15',
+    3 => '-99.13',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+);

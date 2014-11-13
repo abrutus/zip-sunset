@@ -1,0 +1,704 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Acton',
+    1 => 'ME',
+    2 => '43.53',
+    3 => '-70.91',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '02' => 
+  array (
+    0 => 'Alfred',
+    1 => 'ME',
+    2 => '43.47',
+    3 => '-70.71',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '03' => 
+  array (
+    0 => 'Bailey Island',
+    1 => 'ME',
+    2 => '43.73',
+    3 => '-69.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '04' => 
+  array (
+    0 => 'Bar Mills',
+    1 => 'ME',
+    2 => '43.61',
+    3 => '-70.54',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '05' => 
+  array (
+    0 => 'Biddeford',
+    1 => 'ME',
+    2 => '43.46',
+    3 => '-70.44',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '06' => 
+  array (
+    0 => 'Biddeford Pool',
+    1 => 'ME',
+    2 => '43.44',
+    3 => '-70.34',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '07' => 
+  array (
+    0 => 'Biddeford',
+    1 => 'ME',
+    2 => '43.46',
+    3 => '-70.44',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '08' => 
+  array (
+    0 => 'Bowdoinham',
+    1 => 'ME',
+    2 => '44.01',
+    3 => '-69.89',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '09' => 
+  array (
+    0 => 'Bridgton',
+    1 => 'ME',
+    2 => '44.06',
+    3 => '-70.72',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  10 => 
+  array (
+    0 => 'Brownfield',
+    1 => 'ME',
+    2 => '43.93',
+    3 => '-70.9',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  11 => 
+  array (
+    0 => 'Brunswick',
+    1 => 'ME',
+    2 => '43.91',
+    3 => '-69.96',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  13 => 
+  array (
+    0 => 'Bustins Island',
+    1 => 'ME',
+    2 => '43.79',
+    3 => '-70.07',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  14 => 
+  array (
+    0 => 'Cape Porpoise',
+    1 => 'ME',
+    2 => '43.37',
+    3 => '-70.43',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  15 => 
+  array (
+    0 => 'Casco',
+    1 => 'ME',
+    2 => '44',
+    3 => '-70.52',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  16 => 
+  array (
+    0 => 'Center Lovell',
+    1 => 'ME',
+    2 => '44.17',
+    3 => '-70.87',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  17 => 
+  array (
+    0 => 'Chebeague Island',
+    1 => 'ME',
+    2 => '43.73',
+    3 => '-70.11',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  19 => 
+  array (
+    0 => 'Cliff Island',
+    1 => 'ME',
+    2 => '43.69',
+    3 => '-70.1',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  20 => 
+  array (
+    0 => 'Cornish',
+    1 => 'ME',
+    2 => '43.8',
+    3 => '-70.8',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  21 => 
+  array (
+    0 => 'Cumberland Center',
+    1 => 'ME',
+    2 => '43.8',
+    3 => '-70.25',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  22 => 
+  array (
+    0 => 'Denmark',
+    1 => 'ME',
+    2 => '43.97',
+    3 => '-70.8',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  24 => 
+  array (
+    0 => 'East Baldwin',
+    1 => 'ME',
+    2 => '43.88',
+    3 => '-70.69',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  27 => 
+  array (
+    0 => 'Lebanon',
+    1 => 'ME',
+    2 => '43.39',
+    3 => '-70.85',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  28 => 
+  array (
+    0 => 'East Parsonsfield',
+    1 => 'ME',
+    2 => '43.72',
+    3 => '-70.91',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  29 => 
+  array (
+    0 => 'Sebago',
+    1 => 'ME',
+    2 => '43.89',
+    3 => '-70.64',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  30 => 
+  array (
+    0 => 'East Waterboro',
+    1 => 'ME',
+    2 => '43.6',
+    3 => '-70.69',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  32 => 
+  array (
+    0 => 'Freeport',
+    1 => 'ME',
+    2 => '43.85',
+    3 => '-70.1',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  33 => 
+  array (
+    0 => 'Freeport',
+    1 => 'ME',
+    2 => '43.85',
+    3 => '-70.1',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  34 => 
+  array (
+    0 => 'Freeport',
+    1 => 'ME',
+    2 => '43.85',
+    3 => '-70.1',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  37 => 
+  array (
+    0 => 'Fryeburg',
+    1 => 'ME',
+    2 => '44.01',
+    3 => '-70.97',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  38 => 
+  array (
+    0 => 'Gorham',
+    1 => 'ME',
+    2 => '43.68',
+    3 => '-70.44',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  39 => 
+  array (
+    0 => 'Gray',
+    1 => 'ME',
+    2 => '43.88',
+    3 => '-70.33',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  40 => 
+  array (
+    0 => 'Harrison',
+    1 => 'ME',
+    2 => '44.11',
+    3 => '-70.67',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  41 => 
+  array (
+    0 => 'Hiram',
+    1 => 'ME',
+    2 => '43.87',
+    3 => '-70.8',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  42 => 
+  array (
+    0 => 'Hollis Center',
+    1 => 'ME',
+    2 => '43.59',
+    3 => '-70.6',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  43 => 
+  array (
+    0 => 'Kennebunk',
+    1 => 'ME',
+    2 => '43.38',
+    3 => '-70.54',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  46 => 
+  array (
+    0 => 'Kennebunkport',
+    1 => 'ME',
+    2 => '43.35',
+    3 => '-70.46',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  47 => 
+  array (
+    0 => 'Parsonsfield',
+    1 => 'ME',
+    2 => '43.72',
+    3 => '-70.92',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  48 => 
+  array (
+    0 => 'Limerick',
+    1 => 'ME',
+    2 => '43.68',
+    3 => '-70.79',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  49 => 
+  array (
+    0 => 'Limington',
+    1 => 'ME',
+    2 => '43.73',
+    3 => '-70.71',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  50 => 
+  array (
+    0 => 'Long Island',
+    1 => 'ME',
+    2 => '43.69',
+    3 => '-70.15',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  51 => 
+  array (
+    0 => 'Lovell',
+    1 => 'ME',
+    2 => '44.12',
+    3 => '-70.89',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  54 => 
+  array (
+    0 => 'Moody',
+    1 => 'ME',
+    2 => '43.3',
+    3 => '-70.59',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  55 => 
+  array (
+    0 => 'Naples',
+    1 => 'ME',
+    2 => '43.97',
+    3 => '-70.6',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  56 => 
+  array (
+    0 => 'Newfield',
+    1 => 'ME',
+    2 => '43.64',
+    3 => '-70.84',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  57 => 
+  array (
+    0 => 'North Bridgton',
+    1 => 'ME',
+    2 => '44.1',
+    3 => '-70.7',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  61 => 
+  array (
+    0 => 'North Waterboro',
+    1 => 'ME',
+    2 => '43.63',
+    3 => '-70.73',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  62 => 
+  array (
+    0 => 'Windham',
+    1 => 'ME',
+    2 => '43.79',
+    3 => '-70.4',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  63 => 
+  array (
+    0 => 'Ocean Park',
+    1 => 'ME',
+    2 => '43.51',
+    3 => '-70.38',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  64 => 
+  array (
+    0 => 'Old Orchard Beach',
+    1 => 'ME',
+    2 => '43.52',
+    3 => '-70.38',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  66 => 
+  array (
+    0 => 'Orrs Island',
+    1 => 'ME',
+    2 => '43.77',
+    3 => '-69.96',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  68 => 
+  array (
+    0 => 'Porter',
+    1 => 'ME',
+    2 => '43.79',
+    3 => '-70.93',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  69 => 
+  array (
+    0 => 'Pownal',
+    1 => 'ME',
+    2 => '43.89',
+    3 => '-70.18',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  70 => 
+  array (
+    0 => 'Scarborough',
+    1 => 'ME',
+    2 => '43.59',
+    3 => '-70.33',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  71 => 
+  array (
+    0 => 'Raymond',
+    1 => 'ME',
+    2 => '43.9',
+    3 => '-70.47',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  72 => 
+  array (
+    0 => 'Saco',
+    1 => 'ME',
+    2 => '43.53',
+    3 => '-70.45',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  73 => 
+  array (
+    0 => 'Sanford',
+    1 => 'ME',
+    2 => '43.44',
+    3 => '-70.78',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  74 => 
+  array (
+    0 => 'Scarborough',
+    1 => 'ME',
+    2 => '43.59',
+    3 => '-70.33',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  75 => 
+  array (
+    0 => 'Sebago Lake',
+    1 => 'ME',
+    2 => '43.85',
+    3 => '-70.63',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  76 => 
+  array (
+    0 => 'Shapleigh',
+    1 => 'ME',
+    2 => '43.54',
+    3 => '-70.84',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  77 => 
+  array (
+    0 => 'South Casco',
+    1 => 'ME',
+    2 => '43.87',
+    3 => '-70.51',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  78 => 
+  array (
+    0 => 'South Freeport',
+    1 => 'ME',
+    2 => '43.86',
+    3 => '-70.1',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  79 => 
+  array (
+    0 => 'Harpswell',
+    1 => 'ME',
+    2 => '43.8',
+    3 => '-69.98',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  82 => 
+  array (
+    0 => 'South Windham',
+    1 => 'ME',
+    2 => '43.73',
+    3 => '-70.42',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  83 => 
+  array (
+    0 => 'Springvale',
+    1 => 'ME',
+    2 => '43.46',
+    3 => '-70.8',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  84 => 
+  array (
+    0 => 'Standish',
+    1 => 'ME',
+    2 => '43.73',
+    3 => '-70.55',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  85 => 
+  array (
+    0 => 'Steep Falls',
+    1 => 'ME',
+    2 => '43.76',
+    3 => '-70.64',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  86 => 
+  array (
+    0 => 'Topsham',
+    1 => 'ME',
+    2 => '43.93',
+    3 => '-69.94',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  87 => 
+  array (
+    0 => 'Waterboro',
+    1 => 'ME',
+    2 => '43.53',
+    3 => '-70.71',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  88 => 
+  array (
+    0 => 'Waterford',
+    1 => 'ME',
+    2 => '44.18',
+    3 => '-70.71',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  90 => 
+  array (
+    0 => 'Wells',
+    1 => 'ME',
+    2 => '43.32',
+    3 => '-70.58',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  91 => 
+  array (
+    0 => 'West Baldwin',
+    1 => 'ME',
+    2 => '43.83',
+    3 => '-70.77',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  92 => 
+  array (
+    0 => 'Westbrook',
+    1 => 'ME',
+    2 => '43.69',
+    3 => '-70.35',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  93 => 
+  array (
+    0 => 'Buxton',
+    1 => 'ME',
+    2 => '43.66',
+    3 => '-70.6',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  94 => 
+  array (
+    0 => 'West Kennebunk',
+    1 => 'ME',
+    2 => '43.41',
+    3 => '-70.62',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  95 => 
+  array (
+    0 => 'West Newfield',
+    1 => 'ME',
+    2 => '43.64',
+    3 => '-70.92',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  96 => 
+  array (
+    0 => 'Yarmouth',
+    1 => 'ME',
+    2 => '43.79',
+    3 => '-70.2',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  97 => 
+  array (
+    0 => 'North Yarmouth',
+    1 => 'ME',
+    2 => '43.84',
+    3 => '-70.21',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  98 => 
+  array (
+    0 => 'Westbrook',
+    1 => 'ME',
+    2 => '43.69',
+    3 => '-70.35',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

@@ -1,0 +1,452 @@
+<?php $db= array (
+  50 => 
+  array (
+    0 => 'Young America',
+    1 => 'MN',
+    2 => '44.78',
+    3 => '-93.91',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  51 => 
+  array (
+    0 => 'Young America',
+    1 => 'MN',
+    2 => '44.78',
+    3 => '-93.91',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  52 => 
+  array (
+    0 => 'Young America',
+    1 => 'MN',
+    2 => '44.78',
+    3 => '-93.91',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  53 => 
+  array (
+    0 => 'Young America',
+    1 => 'MN',
+    2 => '44.78',
+    3 => '-93.91',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  54 => 
+  array (
+    0 => 'Norwood',
+    1 => 'MN',
+    2 => '44.76',
+    3 => '-93.92',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  55 => 
+  array (
+    0 => 'Young America',
+    1 => 'MN',
+    2 => '44.78',
+    3 => '-93.91',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  56 => 
+  array (
+    0 => 'Young America',
+    1 => 'MN',
+    2 => '44.78',
+    3 => '-93.91',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  57 => 
+  array (
+    0 => 'Young America',
+    1 => 'MN',
+    2 => '44.78',
+    3 => '-93.91',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  58 => 
+  array (
+    0 => 'Young America',
+    1 => 'MN',
+    2 => '44.78',
+    3 => '-93.91',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  59 => 
+  array (
+    0 => 'Young America',
+    1 => 'MN',
+    2 => '44.78',
+    3 => '-93.91',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  60 => 
+  array (
+    0 => 'Young America',
+    1 => 'MN',
+    2 => '44.78',
+    3 => '-93.91',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  61 => 
+  array (
+    0 => 'Monticello',
+    1 => 'MN',
+    2 => '45.27',
+    3 => '-93.8',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  62 => 
+  array (
+    0 => 'Young America',
+    1 => 'MN',
+    2 => '44.78',
+    3 => '-93.91',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  63 => 
+  array (
+    0 => 'Monticello',
+    1 => 'MN',
+    2 => '45.27',
+    3 => '-93.8',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  64 => 
+  array (
+    0 => 'Young America',
+    1 => 'MN',
+    2 => '44.78',
+    3 => '-93.91',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  65 => 
+  array (
+    0 => 'Monticello',
+    1 => 'MN',
+    2 => '45.3',
+    3 => '-93.8',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  66 => 
+  array (
+    0 => 'Young America',
+    1 => 'MN',
+    2 => '44.78',
+    3 => '-93.91',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  67 => 
+  array (
+    0 => 'Young America',
+    1 => 'MN',
+    2 => '44.78',
+    3 => '-93.91',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  68 => 
+  array (
+    0 => 'Young America',
+    1 => 'MN',
+    2 => '44.78',
+    3 => '-93.91',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  69 => 
+  array (
+    0 => 'Osseo',
+    1 => 'MN',
+    2 => '45.11',
+    3 => '-93.39',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  70 => 
+  array (
+    0 => 'Maple Plain',
+    1 => 'MN',
+    2 => '45',
+    3 => '-93.66',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  71 => 
+  array (
+    0 => 'Maple Plain',
+    1 => 'MN',
+    2 => '45',
+    3 => '-93.66',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  72 => 
+  array (
+    0 => 'Rockford',
+    1 => 'MN',
+    2 => '45',
+    3 => '-93.66',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  73 => 
+  array (
+    0 => 'Young America',
+    1 => 'MN',
+    2 => '44.78',
+    3 => '-93.91',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  74 => 
+  array (
+    0 => 'Maple Plain',
+    1 => 'MN',
+    2 => '45',
+    3 => '-93.66',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  75 => 
+  array (
+    0 => 'Howard Lake',
+    1 => 'MN',
+    2 => '45.05',
+    3 => '-94.06',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  76 => 
+  array (
+    0 => 'Maple Plain',
+    1 => 'MN',
+    2 => '45',
+    3 => '-93.66',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  77 => 
+  array (
+    0 => 'Rockford',
+    1 => 'MN',
+    2 => '45',
+    3 => '-93.66',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  78 => 
+  array (
+    0 => 'Maple Plain',
+    1 => 'MN',
+    2 => '45',
+    3 => '-93.66',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  79 => 
+  array (
+    0 => 'Maple Plain',
+    1 => 'MN',
+    2 => '45',
+    3 => '-93.66',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  80 => 
+  array (
+    0 => 'Monticello',
+    1 => 'MN',
+    2 => '45.3',
+    3 => '-93.8',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  81 => 
+  array (
+    0 => 'Monticello',
+    1 => 'MN',
+    2 => '45.3',
+    3 => '-93.8',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  82 => 
+  array (
+    0 => 'Monticello',
+    1 => 'MN',
+    2 => '45.3',
+    3 => '-93.8',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  83 => 
+  array (
+    0 => 'Norwood',
+    1 => 'MN',
+    2 => '44.76',
+    3 => '-93.92',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  84 => 
+  array (
+    0 => 'Monticello',
+    1 => 'MN',
+    2 => '45.3',
+    3 => '-93.8',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  85 => 
+  array (
+    0 => 'Monticello',
+    1 => 'MN',
+    2 => '45.3',
+    3 => '-93.8',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  86 => 
+  array (
+    0 => 'Monticello',
+    1 => 'MN',
+    2 => '45.3',
+    3 => '-93.8',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  87 => 
+  array (
+    0 => 'Monticello',
+    1 => 'MN',
+    2 => '45.3',
+    3 => '-93.8',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  88 => 
+  array (
+    0 => 'Monticello',
+    1 => 'MN',
+    2 => '45.3',
+    3 => '-93.8',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  89 => 
+  array (
+    0 => 'Monticello',
+    1 => 'MN',
+    2 => '45.3',
+    3 => '-93.8',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  90 => 
+  array (
+    0 => 'Monticello',
+    1 => 'MN',
+    2 => '45.3',
+    3 => '-93.8',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  91 => 
+  array (
+    0 => 'Monticello',
+    1 => 'MN',
+    2 => '45.3',
+    3 => '-93.8',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  92 => 
+  array (
+    0 => 'Maple Plain',
+    1 => 'MN',
+    2 => '45',
+    3 => '-93.66',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  93 => 
+  array (
+    0 => 'Maple Plain',
+    1 => 'MN',
+    2 => '45',
+    3 => '-93.66',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  94 => 
+  array (
+    0 => 'Young America',
+    1 => 'MN',
+    2 => '44.78',
+    3 => '-93.91',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  95 => 
+  array (
+    0 => 'Loretto',
+    1 => 'MN',
+    2 => '45.05',
+    3 => '-93.63',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  96 => 
+  array (
+    0 => 'Loretto',
+    1 => 'MN',
+    2 => '45.05',
+    3 => '-93.63',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  97 => 
+  array (
+    0 => 'Loretto',
+    1 => 'MN',
+    2 => '45.05',
+    3 => '-93.63',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  98 => 
+  array (
+    0 => 'Loretto',
+    1 => 'MN',
+    2 => '45.05',
+    3 => '-93.63',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  99 => 
+  array (
+    0 => 'Loretto',
+    1 => 'MN',
+    2 => '45.05',
+    3 => '-93.63',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+);

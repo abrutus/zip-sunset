@@ -1,0 +1,209 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Bradford',
+    1 => 'PA',
+    2 => '41.96',
+    3 => '-78.64',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  20 => 
+  array (
+    0 => 'Austin',
+    1 => 'PA',
+    2 => '41.63',
+    3 => '-78.08',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  24 => 
+  array (
+    0 => 'Crosby',
+    1 => 'PA',
+    2 => '41.75',
+    3 => '-78.37',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  25 => 
+  array (
+    0 => 'Custer City',
+    1 => 'PA',
+    2 => '41.89',
+    3 => '-78.68',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  26 => 
+  array (
+    0 => 'Cyclone',
+    1 => 'PA',
+    2 => '41.82',
+    3 => '-78.58',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  27 => 
+  array (
+    0 => 'Derrick City',
+    1 => 'PA',
+    2 => '41.97',
+    3 => '-78.55',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  28 => 
+  array (
+    0 => 'De Young',
+    1 => 'PA',
+    2 => '41.57',
+    3 => '-78.91',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  29 => 
+  array (
+    0 => 'Duke Center',
+    1 => 'PA',
+    2 => '41.96',
+    3 => '-78.5',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  30 => 
+  array (
+    0 => 'East Smethport',
+    1 => 'PA',
+    2 => '41.83',
+    3 => '-78.43',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  31 => 
+  array (
+    0 => 'Eldred',
+    1 => 'PA',
+    2 => '41.95',
+    3 => '-78.38',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  32 => 
+  array (
+    0 => 'Gifford',
+    1 => 'PA',
+    2 => '41.85',
+    3 => '-78.56',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  33 => 
+  array (
+    0 => 'Hazel Hurst',
+    1 => 'PA',
+    2 => '41.7',
+    3 => '-78.58',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  34 => 
+  array (
+    0 => 'James City',
+    1 => 'PA',
+    2 => '41.62',
+    3 => '-78.83',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  35 => 
+  array (
+    0 => 'Kane',
+    1 => 'PA',
+    2 => '41.66',
+    3 => '-78.8',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  38 => 
+  array (
+    0 => 'Lewis Run',
+    1 => 'PA',
+    2 => '41.87',
+    3 => '-78.66',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  40 => 
+  array (
+    0 => 'Mount Jewett',
+    1 => 'PA',
+    2 => '41.72',
+    3 => '-78.64',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  43 => 
+  array (
+    0 => 'Port Allegany',
+    1 => 'PA',
+    2 => '41.81',
+    3 => '-78.27',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  44 => 
+  array (
+    0 => 'Rew',
+    1 => 'PA',
+    2 => '41.9',
+    3 => '-78.5',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  45 => 
+  array (
+    0 => 'Rixford',
+    1 => 'PA',
+    2 => '41.92',
+    3 => '-78.45',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  46 => 
+  array (
+    0 => 'Roulette',
+    1 => 'PA',
+    2 => '41.77',
+    3 => '-78.16',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  48 => 
+  array (
+    0 => 'Shinglehouse',
+    1 => 'PA',
+    2 => '41.96',
+    3 => '-78.19',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  49 => 
+  array (
+    0 => 'Smethport',
+    1 => 'PA',
+    2 => '41.8',
+    3 => '-78.44',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  50 => 
+  array (
+    0 => 'Turtlepoint',
+    1 => 'PA',
+    2 => '41.88',
+    3 => '-78.32',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

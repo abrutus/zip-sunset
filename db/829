@@ -1,0 +1,191 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Rock Springs',
+    1 => 'WY',
+    2 => '41.59',
+    3 => '-109.22',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  '02' => 
+  array (
+    0 => 'Rock Springs',
+    1 => 'WY',
+    2 => '41.59',
+    3 => '-109.22',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  22 => 
+  array (
+    0 => 'Bondurant',
+    1 => 'WY',
+    2 => '43.2',
+    3 => '-110.41',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  23 => 
+  array (
+    0 => 'Boulder',
+    1 => 'WY',
+    2 => '42.72',
+    3 => '-109.63',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  25 => 
+  array (
+    0 => 'Cora',
+    1 => 'WY',
+    2 => '42.94',
+    3 => '-109.98',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  29 => 
+  array (
+    0 => 'Little America',
+    1 => 'WY',
+    2 => '41.55',
+    3 => '-109.86',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  30 => 
+  array (
+    0 => 'Evanston',
+    1 => 'WY',
+    2 => '41.25',
+    3 => '-110.96',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  31 => 
+  array (
+    0 => 'Evanston',
+    1 => 'WY',
+    2 => '41.25',
+    3 => '-110.96',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  32 => 
+  array (
+    0 => 'Farson',
+    1 => 'WY',
+    2 => '42.11',
+    3 => '-109.44',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  33 => 
+  array (
+    0 => 'Fort Bridger',
+    1 => 'WY',
+    2 => '41.32',
+    3 => '-110.38',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  34 => 
+  array (
+    0 => 'Granger',
+    1 => 'WY',
+    2 => '41.59',
+    3 => '-109.96',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  35 => 
+  array (
+    0 => 'Green River',
+    1 => 'WY',
+    2 => '41.51',
+    3 => '-109.46',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  36 => 
+  array (
+    0 => 'Lonetree',
+    1 => 'WY',
+    2 => '41.03',
+    3 => '-110.14',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  37 => 
+  array (
+    0 => 'Lyman',
+    1 => 'WY',
+    2 => '41.32',
+    3 => '-110.3',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  38 => 
+  array (
+    0 => 'Mc Kinnon',
+    1 => 'WY',
+    2 => '41.02',
+    3 => '-109.93',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  39 => 
+  array (
+    0 => 'Mountain View',
+    1 => 'WY',
+    2 => '41.27',
+    3 => '-110.33',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  41 => 
+  array (
+    0 => 'Pinedale',
+    1 => 'WY',
+    2 => '42.86',
+    3 => '-109.86',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  42 => 
+  array (
+    0 => 'Point Of Rocks',
+    1 => 'WY',
+    2 => '41.68',
+    3 => '-108.78',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  43 => 
+  array (
+    0 => 'Reliance',
+    1 => 'WY',
+    2 => '41.67',
+    3 => '-109.19',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  44 => 
+  array (
+    0 => 'Robertson',
+    1 => 'WY',
+    2 => '41.18',
+    3 => '-110.42',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  45 => 
+  array (
+    0 => 'Superior',
+    1 => 'WY',
+    2 => '41.76',
+    3 => '-108.96',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+);

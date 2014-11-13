@@ -1,0 +1,380 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Ada',
+    1 => 'MI',
+    2 => '42.95',
+    3 => '-85.48',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  '02' => 
+  array (
+    0 => 'Alto',
+    1 => 'MI',
+    2 => '42.85',
+    3 => '-85.38',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  '03' => 
+  array (
+    0 => 'Bailey',
+    1 => 'MI',
+    2 => '43.27',
+    3 => '-85.81',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  '04' => 
+  array (
+    0 => 'Baldwin',
+    1 => 'MI',
+    2 => '43.89',
+    3 => '-85.85',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  '05' => 
+  array (
+    0 => 'Barryton',
+    1 => 'MI',
+    2 => '43.74',
+    3 => '-85.14',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  '06' => 
+  array (
+    0 => 'Belmont',
+    1 => 'MI',
+    2 => '43.07',
+    3 => '-85.6',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  '09' => 
+  array (
+    0 => 'Bitely',
+    1 => 'MI',
+    2 => '43.74',
+    3 => '-85.86',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  11 => 
+  array (
+    0 => 'Bradley',
+    1 => 'MI',
+    2 => '42.63',
+    3 => '-85.64',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  12 => 
+  array (
+    0 => 'Brohman',
+    1 => 'MI',
+    2 => '43.67',
+    3 => '-85.82',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  14 => 
+  array (
+    0 => 'Burnips',
+    1 => 'MI',
+    2 => '42.73',
+    3 => '-85.83',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  16 => 
+  array (
+    0 => 'Caledonia',
+    1 => 'MI',
+    2 => '42.79',
+    3 => '-85.51',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  17 => 
+  array (
+    0 => 'Cannonsburg',
+    1 => 'MI',
+    2 => '43.05',
+    3 => '-85.46',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  18 => 
+  array (
+    0 => 'Casnovia',
+    1 => 'MI',
+    2 => '43.23',
+    3 => '-85.79',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  19 => 
+  array (
+    0 => 'Cedar Springs',
+    1 => 'MI',
+    2 => '43.22',
+    3 => '-85.55',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  20 => 
+  array (
+    0 => 'Chippewa Lake',
+    1 => 'MI',
+    2 => '43.74',
+    3 => '-85.29',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  21 => 
+  array (
+    0 => 'Comstock Park',
+    1 => 'MI',
+    2 => '43.04',
+    3 => '-85.67',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  22 => 
+  array (
+    0 => 'Coral',
+    1 => 'MI',
+    2 => '43.36',
+    3 => '-85.4',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  23 => 
+  array (
+    0 => 'Dorr',
+    1 => 'MI',
+    2 => '42.72',
+    3 => '-85.72',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  26 => 
+  array (
+    0 => 'Gowen',
+    1 => 'MI',
+    2 => '43.25',
+    3 => '-85.3',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  27 => 
+  array (
+    0 => 'Grant',
+    1 => 'MI',
+    2 => '43.33',
+    3 => '-85.81',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  28 => 
+  array (
+    0 => 'Hopkins',
+    1 => 'MI',
+    2 => '42.62',
+    3 => '-85.76',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  29 => 
+  array (
+    0 => 'Howard City',
+    1 => 'MI',
+    2 => '43.39',
+    3 => '-85.46',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  30 => 
+  array (
+    0 => 'Kent City',
+    1 => 'MI',
+    2 => '43.21',
+    3 => '-85.75',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  31 => 
+  array (
+    0 => 'Lowell',
+    1 => 'MI',
+    2 => '42.93',
+    3 => '-85.34',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  32 => 
+  array (
+    0 => 'Mecosta',
+    1 => 'MI',
+    2 => '43.61',
+    3 => '-85.23',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  33 => 
+  array (
+    0 => 'Middleville',
+    1 => 'MI',
+    2 => '42.71',
+    3 => '-85.46',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  35 => 
+  array (
+    0 => 'Moline',
+    1 => 'MI',
+    2 => '42.72',
+    3 => '-85.68',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  36 => 
+  array (
+    0 => 'Morley',
+    1 => 'MI',
+    2 => '43.49',
+    3 => '-85.44',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  37 => 
+  array (
+    0 => 'Newaygo',
+    1 => 'MI',
+    2 => '43.42',
+    3 => '-85.8',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  39 => 
+  array (
+    0 => 'Pierson',
+    1 => 'MI',
+    2 => '43.31',
+    3 => '-85.49',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  41 => 
+  array (
+    0 => 'Rockford',
+    1 => 'MI',
+    2 => '43.12',
+    3 => '-85.55',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  42 => 
+  array (
+    0 => 'Rodney',
+    1 => 'MI',
+    2 => '43.67',
+    3 => '-85.32',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  44 => 
+  array (
+    0 => 'Shelbyville',
+    1 => 'MI',
+    2 => '42.59',
+    3 => '-85.63',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  45 => 
+  array (
+    0 => 'Sparta',
+    1 => 'MI',
+    2 => '43.15',
+    3 => '-85.7',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  46 => 
+  array (
+    0 => 'Stanwood',
+    1 => 'MI',
+    2 => '43.58',
+    3 => '-85.44',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  47 => 
+  array (
+    0 => 'Trufant',
+    1 => 'MI',
+    2 => '43.31',
+    3 => '-85.35',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  48 => 
+  array (
+    0 => 'Wayland',
+    1 => 'MI',
+    2 => '42.67',
+    3 => '-85.64',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  49 => 
+  array (
+    0 => 'White Cloud',
+    1 => 'MI',
+    2 => '43.55',
+    3 => '-85.77',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  51 => 
+  array (
+    0 => 'Rockford',
+    1 => 'MI',
+    2 => '43.12',
+    3 => '-85.55',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  55 => 
+  array (
+    0 => 'Ada',
+    1 => 'MI',
+    2 => '42.95',
+    3 => '-85.48',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  56 => 
+  array (
+    0 => 'Ada',
+    1 => 'MI',
+    2 => '42.95',
+    3 => '-85.48',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  57 => 
+  array (
+    0 => 'Ada',
+    1 => 'MI',
+    2 => '42.95',
+    3 => '-85.48',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+);

@@ -1,0 +1,56 @@
+<?php $db= array (
+  36 => 
+  array (
+    0 => 'Des Moines',
+    1 => 'IA',
+    2 => '41.57',
+    3 => '-93.61',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  40 => 
+  array (
+    0 => 'Des Moines',
+    1 => 'IA',
+    2 => '41.57',
+    3 => '-93.61',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  47 => 
+  array (
+    0 => 'Des Moines',
+    1 => 'IA',
+    2 => '41.57',
+    3 => '-93.61',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  50 => 
+  array (
+    0 => 'Des Moines',
+    1 => 'IA',
+    2 => '41.57',
+    3 => '-93.61',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  80 => 
+  array (
+    0 => 'Des Moines',
+    1 => 'IA',
+    2 => '41.57',
+    3 => '-93.61',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  81 => 
+  array (
+    0 => 'Des Moines',
+    1 => 'IA',
+    2 => '41.57',
+    3 => '-93.61',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+);

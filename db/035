@@ -1,0 +1,191 @@
+<?php $db= array (
+  61 => 
+  array (
+    0 => 'Littleton',
+    1 => 'NH',
+    2 => '44.31',
+    3 => '-71.76',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  70 => 
+  array (
+    0 => 'Berlin',
+    1 => 'NH',
+    2 => '44.48',
+    3 => '-71.25',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  74 => 
+  array (
+    0 => 'Bethlehem',
+    1 => 'NH',
+    2 => '44.28',
+    3 => '-71.68',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  75 => 
+  array (
+    0 => 'Bretton Woods',
+    1 => 'NH',
+    2 => '44.34',
+    3 => '-71.55',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  76 => 
+  array (
+    0 => 'Colebrook',
+    1 => 'NH',
+    2 => '44.89',
+    3 => '-71.49',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  79 => 
+  array (
+    0 => 'Errol',
+    1 => 'NH',
+    2 => '44.78',
+    3 => '-71.13',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  80 => 
+  array (
+    0 => 'Franconia',
+    1 => 'NH',
+    2 => '44.22',
+    3 => '-71.74',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  81 => 
+  array (
+    0 => 'Gorham',
+    1 => 'NH',
+    2 => '44.39',
+    3 => '-71.18',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  82 => 
+  array (
+    0 => 'Groveton',
+    1 => 'NH',
+    2 => '44.59',
+    3 => '-71.51',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  83 => 
+  array (
+    0 => 'Jefferson',
+    1 => 'NH',
+    2 => '44.41',
+    3 => '-71.47',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  84 => 
+  array (
+    0 => 'Lancaster',
+    1 => 'NH',
+    2 => '44.48',
+    3 => '-71.56',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  85 => 
+  array (
+    0 => 'Lisbon',
+    1 => 'NH',
+    2 => '44.21',
+    3 => '-71.9',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  86 => 
+  array (
+    0 => 'Sugar Hill',
+    1 => 'NH',
+    2 => '44.23',
+    3 => '-71.78',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  88 => 
+  array (
+    0 => 'Milan',
+    1 => 'NH',
+    2 => '44.57',
+    3 => '-71.18',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  89 => 
+  array (
+    0 => 'Mount Washington',
+    1 => 'NH',
+    2 => '44.27',
+    3 => '-71.3',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  90 => 
+  array (
+    0 => 'North Stratford',
+    1 => 'NH',
+    2 => '44.76',
+    3 => '-71.58',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  92 => 
+  array (
+    0 => 'Pittsburg',
+    1 => 'NH',
+    2 => '45.05',
+    3 => '-71.39',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  93 => 
+  array (
+    0 => 'Randolph',
+    1 => 'NH',
+    2 => '44.37',
+    3 => '-71.25',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  95 => 
+  array (
+    0 => 'Twin Mountain',
+    1 => 'NH',
+    2 => '44.3',
+    3 => '-71.5',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  97 => 
+  array (
+    0 => 'West Stewartstown',
+    1 => 'NH',
+    2 => '44.95',
+    3 => '-71.49',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  98 => 
+  array (
+    0 => 'Whitefield',
+    1 => 'NH',
+    2 => '44.37',
+    3 => '-71.61',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

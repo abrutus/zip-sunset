@@ -1,0 +1,128 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Cedar Rapids',
+    1 => 'IA',
+    2 => '41.97',
+    3 => '-91.66',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '02' => 
+  array (
+    0 => 'Cedar Rapids',
+    1 => 'IA',
+    2 => '41.97',
+    3 => '-91.66',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '03' => 
+  array (
+    0 => 'Cedar Rapids',
+    1 => 'IA',
+    2 => '41.97',
+    3 => '-91.66',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '04' => 
+  array (
+    0 => 'Cedar Rapids',
+    1 => 'IA',
+    2 => '41.97',
+    3 => '-91.66',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '05' => 
+  array (
+    0 => 'Cedar Rapids',
+    1 => 'IA',
+    2 => '41.97',
+    3 => '-91.66',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '06' => 
+  array (
+    0 => 'Cedar Rapids',
+    1 => 'IA',
+    2 => '41.97',
+    3 => '-91.66',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '07' => 
+  array (
+    0 => 'Cedar Rapids',
+    1 => 'IA',
+    2 => '41.97',
+    3 => '-91.66',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '08' => 
+  array (
+    0 => 'Cedar Rapids',
+    1 => 'IA',
+    2 => '41.97',
+    3 => '-91.66',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '09' => 
+  array (
+    0 => 'Cedar Rapids',
+    1 => 'IA',
+    2 => '41.97',
+    3 => '-91.66',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  10 => 
+  array (
+    0 => 'Cedar Rapids',
+    1 => 'IA',
+    2 => '41.97',
+    3 => '-91.66',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  11 => 
+  array (
+    0 => 'Cedar Rapids',
+    1 => 'IA',
+    2 => '41.97',
+    3 => '-91.66',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  97 => 
+  array (
+    0 => 'Cedar Rapids',
+    1 => 'IA',
+    2 => '41.97',
+    3 => '-91.66',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  98 => 
+  array (
+    0 => 'Cedar Rapids',
+    1 => 'IA',
+    2 => '41.97',
+    3 => '-91.66',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  99 => 
+  array (
+    0 => 'Cedar Rapids',
+    1 => 'IA',
+    2 => '41.97',
+    3 => '-91.66',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+);

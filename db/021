@@ -1,0 +1,560 @@
+<?php $db= array (
+  '08' => 
+  array (
+    0 => 'Boston',
+    1 => 'MA',
+    2 => '42.35',
+    3 => '-71.06',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '09' => 
+  array (
+    0 => 'Boston',
+    1 => 'MA',
+    2 => '42.35',
+    3 => '-71.06',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  10 => 
+  array (
+    0 => 'Boston',
+    1 => 'MA',
+    2 => '42.35',
+    3 => '-71.06',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  11 => 
+  array (
+    0 => 'Boston',
+    1 => 'MA',
+    2 => '42.35',
+    3 => '-71.06',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  12 => 
+  array (
+    0 => 'Boston',
+    1 => 'MA',
+    2 => '42.35',
+    3 => '-71.06',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  13 => 
+  array (
+    0 => 'Boston',
+    1 => 'MA',
+    2 => '42.35',
+    3 => '-71.06',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  14 => 
+  array (
+    0 => 'Boston',
+    1 => 'MA',
+    2 => '42.35',
+    3 => '-71.06',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  15 => 
+  array (
+    0 => 'Boston',
+    1 => 'MA',
+    2 => '42.35',
+    3 => '-71.06',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  16 => 
+  array (
+    0 => 'Boston',
+    1 => 'MA',
+    2 => '42.35',
+    3 => '-71.06',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  17 => 
+  array (
+    0 => 'Boston',
+    1 => 'MA',
+    2 => '42.35',
+    3 => '-71.06',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  18 => 
+  array (
+    0 => 'Boston',
+    1 => 'MA',
+    2 => '42.35',
+    3 => '-71.06',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  19 => 
+  array (
+    0 => 'Roxbury',
+    1 => 'MA',
+    2 => '42.35',
+    3 => '-71.06',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  20 => 
+  array (
+    0 => 'Roxbury Crossing',
+    1 => 'MA',
+    2 => '42.35',
+    3 => '-71.06',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  21 => 
+  array (
+    0 => 'Dorchester',
+    1 => 'MA',
+    2 => '42.35',
+    3 => '-71.06',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  22 => 
+  array (
+    0 => 'Dorchester',
+    1 => 'MA',
+    2 => '42.35',
+    3 => '-71.06',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  23 => 
+  array (
+    0 => 'Boston',
+    1 => 'MA',
+    2 => '42.35',
+    3 => '-71.06',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  24 => 
+  array (
+    0 => 'Dorchester Center',
+    1 => 'MA',
+    2 => '42.35',
+    3 => '-71.06',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  25 => 
+  array (
+    0 => 'Dorchester',
+    1 => 'MA',
+    2 => '42.35',
+    3 => '-71.06',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  26 => 
+  array (
+    0 => 'Mattapan',
+    1 => 'MA',
+    2 => '42.26',
+    3 => '-71.1',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  27 => 
+  array (
+    0 => 'Boston',
+    1 => 'MA',
+    2 => '42.35',
+    3 => '-71.06',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  28 => 
+  array (
+    0 => 'Boston',
+    1 => 'MA',
+    2 => '42.35',
+    3 => '-71.06',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  29 => 
+  array (
+    0 => 'Charlestown',
+    1 => 'MA',
+    2 => '42.38',
+    3 => '-71.06',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  30 => 
+  array (
+    0 => 'Jamaica Plain',
+    1 => 'MA',
+    2 => '42.3',
+    3 => '-71.11',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  31 => 
+  array (
+    0 => 'Roslindale',
+    1 => 'MA',
+    2 => '42.28',
+    3 => '-71.13',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  32 => 
+  array (
+    0 => 'West Roxbury',
+    1 => 'MA',
+    2 => '42.28',
+    3 => '-71.16',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  33 => 
+  array (
+    0 => 'Boston',
+    1 => 'MA',
+    2 => '42.35',
+    3 => '-71.06',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  34 => 
+  array (
+    0 => 'Allston',
+    1 => 'MA',
+    2 => '42.35',
+    3 => '-71.13',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  35 => 
+  array (
+    0 => 'Brighton',
+    1 => 'MA',
+    2 => '42.35',
+    3 => '-71.15',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  36 => 
+  array (
+    0 => 'Hyde Park',
+    1 => 'MA',
+    2 => '42.26',
+    3 => '-71.11',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  37 => 
+  array (
+    0 => 'Readville',
+    1 => 'MA',
+    2 => '42.25',
+    3 => '-71.12',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  38 => 
+  array (
+    0 => 'Cambridge',
+    1 => 'MA',
+    2 => '42.37',
+    3 => '-71.11',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  39 => 
+  array (
+    0 => 'Cambridge',
+    1 => 'MA',
+    2 => '42.37',
+    3 => '-71.11',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  40 => 
+  array (
+    0 => 'Cambridge',
+    1 => 'MA',
+    2 => '42.37',
+    3 => '-71.11',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  41 => 
+  array (
+    0 => 'Cambridge',
+    1 => 'MA',
+    2 => '42.37',
+    3 => '-71.11',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  42 => 
+  array (
+    0 => 'Cambridge',
+    1 => 'MA',
+    2 => '42.37',
+    3 => '-71.11',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  43 => 
+  array (
+    0 => 'Somerville',
+    1 => 'MA',
+    2 => '42.39',
+    3 => '-71.1',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  44 => 
+  array (
+    0 => 'Somerville',
+    1 => 'MA',
+    2 => '42.39',
+    3 => '-71.1',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  45 => 
+  array (
+    0 => 'Somerville',
+    1 => 'MA',
+    2 => '42.39',
+    3 => '-71.1',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  48 => 
+  array (
+    0 => 'Malden',
+    1 => 'MA',
+    2 => '42.43',
+    3 => '-71.05',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  49 => 
+  array (
+    0 => 'Everett',
+    1 => 'MA',
+    2 => '42.4',
+    3 => '-71.05',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  50 => 
+  array (
+    0 => 'Chelsea',
+    1 => 'MA',
+    2 => '42.39',
+    3 => '-71.03',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  51 => 
+  array (
+    0 => 'Revere',
+    1 => 'MA',
+    2 => '42.41',
+    3 => '-70.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  52 => 
+  array (
+    0 => 'Winthrop',
+    1 => 'MA',
+    2 => '42.37',
+    3 => '-70.98',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  53 => 
+  array (
+    0 => 'Medford',
+    1 => 'MA',
+    2 => '42.42',
+    3 => '-71.1',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  55 => 
+  array (
+    0 => 'Medford',
+    1 => 'MA',
+    2 => '42.42',
+    3 => '-71.1',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  56 => 
+  array (
+    0 => 'West Medford',
+    1 => 'MA',
+    2 => '42.42',
+    3 => '-71.13',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  63 => 
+  array (
+    0 => 'Boston',
+    1 => 'MA',
+    2 => '42.35',
+    3 => '-71.06',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  69 => 
+  array (
+    0 => 'Quincy',
+    1 => 'MA',
+    2 => '42.26',
+    3 => '-71',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  70 => 
+  array (
+    0 => 'Quincy',
+    1 => 'MA',
+    2 => '42.26',
+    3 => '-71',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  71 => 
+  array (
+    0 => 'Quincy',
+    1 => 'MA',
+    2 => '42.26',
+    3 => '-71',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  76 => 
+  array (
+    0 => 'Melrose',
+    1 => 'MA',
+    2 => '42.45',
+    3 => '-71.05',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  80 => 
+  array (
+    0 => 'Stoneham',
+    1 => 'MA',
+    2 => '42.47',
+    3 => '-71.09',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  84 => 
+  array (
+    0 => 'Braintree',
+    1 => 'MA',
+    2 => '42.2',
+    3 => '-71',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  85 => 
+  array (
+    0 => 'Braintree',
+    1 => 'MA',
+    2 => '42.2',
+    3 => '-71',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  86 => 
+  array (
+    0 => 'Milton',
+    1 => 'MA',
+    2 => '42.24',
+    3 => '-71.08',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  87 => 
+  array (
+    0 => 'Milton Village',
+    1 => 'MA',
+    2 => '42.26',
+    3 => '-71.08',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  88 => 
+  array (
+    0 => 'Weymouth',
+    1 => 'MA',
+    2 => '42.2',
+    3 => '-70.94',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  89 => 
+  array (
+    0 => 'East Weymouth',
+    1 => 'MA',
+    2 => '42.2',
+    3 => '-70.94',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  90 => 
+  array (
+    0 => 'South Weymouth',
+    1 => 'MA',
+    2 => '42.2',
+    3 => '-70.94',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  91 => 
+  array (
+    0 => 'North Weymouth',
+    1 => 'MA',
+    2 => '42.2',
+    3 => '-70.94',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  96 => 
+  array (
+    0 => 'Boston',
+    1 => 'MA',
+    2 => '42.35',
+    3 => '-71.06',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  99 => 
+  array (
+    0 => 'Boston',
+    1 => 'MA',
+    2 => '42.35',
+    3 => '-71.06',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

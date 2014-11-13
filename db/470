@@ -1,0 +1,227 @@
+<?php $db= array (
+  '03' => 
+  array (
+    0 => 'West College Corner',
+    1 => 'IN',
+    2 => '39.56',
+    3 => '-84.81',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  10 => 
+  array (
+    0 => 'Bath',
+    1 => 'IN',
+    2 => '39.49',
+    3 => '-84.83',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  11 => 
+  array (
+    0 => 'Bennington',
+    1 => 'IN',
+    2 => '38.87',
+    3 => '-85.07',
+    4 => -5,
+    5 => 'America/Indiana/Vevay',
+  ),
+  12 => 
+  array (
+    0 => 'Brookville',
+    1 => 'IN',
+    2 => '39.42',
+    3 => '-85',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  16 => 
+  array (
+    0 => 'Cedar Grove',
+    1 => 'IN',
+    2 => '39.35',
+    3 => '-84.93',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  17 => 
+  array (
+    0 => 'Cross Plains',
+    1 => 'IN',
+    2 => '38.94',
+    3 => '-85.22',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  19 => 
+  array (
+    0 => 'East Enterprise',
+    1 => 'IN',
+    2 => '38.87',
+    3 => '-85.01',
+    4 => -5,
+    5 => 'America/Indiana/Vevay',
+  ),
+  20 => 
+  array (
+    0 => 'Florence',
+    1 => 'IN',
+    2 => '38.82',
+    3 => '-84.93',
+    4 => -5,
+    5 => 'America/Indiana/Vevay',
+  ),
+  21 => 
+  array (
+    0 => 'Friendship',
+    1 => 'IN',
+    2 => '39.11',
+    3 => '-85.21',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  22 => 
+  array (
+    0 => 'Guilford',
+    1 => 'IN',
+    2 => '39.2',
+    3 => '-84.96',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  23 => 
+  array (
+    0 => 'Holton',
+    1 => 'IN',
+    2 => '39.07',
+    3 => '-85.38',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  24 => 
+  array (
+    0 => 'Laurel',
+    1 => 'IN',
+    2 => '39.5',
+    3 => '-85.18',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  25 => 
+  array (
+    0 => 'Lawrenceburg',
+    1 => 'IN',
+    2 => '39.1',
+    3 => '-84.86',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  30 => 
+  array (
+    0 => 'Metamora',
+    1 => 'IN',
+    2 => '39.42',
+    3 => '-85.14',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  31 => 
+  array (
+    0 => 'Milan',
+    1 => 'IN',
+    2 => '39.12',
+    3 => '-85.13',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  32 => 
+  array (
+    0 => 'Moores Hill',
+    1 => 'IN',
+    2 => '39.11',
+    3 => '-85.08',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  33 => 
+  array (
+    0 => 'Morris',
+    1 => 'IN',
+    2 => '39.28',
+    3 => '-85.17',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  34 => 
+  array (
+    0 => 'Napoleon',
+    1 => 'IN',
+    2 => '39.2',
+    3 => '-85.32',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  35 => 
+  array (
+    0 => 'New Trenton',
+    1 => 'IN',
+    2 => '39.31',
+    3 => '-84.9',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  36 => 
+  array (
+    0 => 'Oldenburg',
+    1 => 'IN',
+    2 => '39.33',
+    3 => '-85.2',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  37 => 
+  array (
+    0 => 'Osgood',
+    1 => 'IN',
+    2 => '39.12',
+    3 => '-85.29',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  38 => 
+  array (
+    0 => 'Patriot',
+    1 => 'IN',
+    2 => '38.83',
+    3 => '-84.82',
+    4 => -5,
+    5 => 'America/Indiana/Vevay',
+  ),
+  39 => 
+  array (
+    0 => 'Pierceville',
+    1 => 'IN',
+    2 => '39.11',
+    3 => '-85.21',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  42 => 
+  array (
+    0 => 'Versailles',
+    1 => 'IN',
+    2 => '39.06',
+    3 => '-85.25',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  43 => 
+  array (
+    0 => 'Vevay',
+    1 => 'IN',
+    2 => '38.74',
+    3 => '-85.07',
+    4 => -5,
+    5 => 'America/Indiana/Vevay',
+  ),
+);

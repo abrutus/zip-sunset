@@ -1,0 +1,218 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Little Rock',
+    1 => 'AR',
+    2 => '34.72',
+    3 => '-92.35',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '02' => 
+  array (
+    0 => 'Little Rock',
+    1 => 'AR',
+    2 => '34.72',
+    3 => '-92.35',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '03' => 
+  array (
+    0 => 'Little Rock',
+    1 => 'AR',
+    2 => '34.72',
+    3 => '-92.35',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '04' => 
+  array (
+    0 => 'Little Rock',
+    1 => 'AR',
+    2 => '34.72',
+    3 => '-92.35',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '05' => 
+  array (
+    0 => 'Little Rock',
+    1 => 'AR',
+    2 => '34.72',
+    3 => '-92.35',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '06' => 
+  array (
+    0 => 'Little Rock',
+    1 => 'AR',
+    2 => '34.72',
+    3 => '-92.35',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '07' => 
+  array (
+    0 => 'Little Rock',
+    1 => 'AR',
+    2 => '34.72',
+    3 => '-92.35',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '09' => 
+  array (
+    0 => 'Little Rock',
+    1 => 'AR',
+    2 => '34.72',
+    3 => '-92.35',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  10 => 
+  array (
+    0 => 'Little Rock',
+    1 => 'AR',
+    2 => '34.72',
+    3 => '-92.35',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  11 => 
+  array (
+    0 => 'Little Rock',
+    1 => 'AR',
+    2 => '34.72',
+    3 => '-92.35',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  12 => 
+  array (
+    0 => 'Little Rock',
+    1 => 'AR',
+    2 => '34.72',
+    3 => '-92.35',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  14 => 
+  array (
+    0 => 'Little Rock',
+    1 => 'AR',
+    2 => '34.72',
+    3 => '-92.35',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  15 => 
+  array (
+    0 => 'Little Rock',
+    1 => 'AR',
+    2 => '34.72',
+    3 => '-92.35',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  16 => 
+  array (
+    0 => 'Little Rock',
+    1 => 'AR',
+    2 => '34.72',
+    3 => '-92.35',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  17 => 
+  array (
+    0 => 'Little Rock',
+    1 => 'AR',
+    2 => '34.72',
+    3 => '-92.35',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  19 => 
+  array (
+    0 => 'Little Rock',
+    1 => 'AR',
+    2 => '34.72',
+    3 => '-92.35',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  21 => 
+  array (
+    0 => 'Little Rock',
+    1 => 'AR',
+    2 => '34.72',
+    3 => '-92.35',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  22 => 
+  array (
+    0 => 'Little Rock',
+    1 => 'AR',
+    2 => '34.72',
+    3 => '-92.35',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  23 => 
+  array (
+    0 => 'Little Rock',
+    1 => 'AR',
+    2 => '34.72',
+    3 => '-92.35',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  25 => 
+  array (
+    0 => 'Little Rock',
+    1 => 'AR',
+    2 => '34.72',
+    3 => '-92.35',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  27 => 
+  array (
+    0 => 'Little Rock',
+    1 => 'AR',
+    2 => '34.72',
+    3 => '-92.35',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  31 => 
+  array (
+    0 => 'Little Rock',
+    1 => 'AR',
+    2 => '34.72',
+    3 => '-92.35',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  60 => 
+  array (
+    0 => 'Little Rock',
+    1 => 'AR',
+    2 => '34.75',
+    3 => '-92.28',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  95 => 
+  array (
+    0 => 'Little Rock',
+    1 => 'AR',
+    2 => '34.72',
+    3 => '-92.35',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+);

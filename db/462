@@ -1,0 +1,560 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Indianapolis',
+    1 => 'IN',
+    2 => '39.77',
+    3 => '-86.14',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  '02' => 
+  array (
+    0 => 'Indianapolis',
+    1 => 'IN',
+    2 => '39.77',
+    3 => '-86.14',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  '03' => 
+  array (
+    0 => 'Indianapolis',
+    1 => 'IN',
+    2 => '39.77',
+    3 => '-86.14',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  '04' => 
+  array (
+    0 => 'Indianapolis',
+    1 => 'IN',
+    2 => '39.77',
+    3 => '-86.14',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  '05' => 
+  array (
+    0 => 'Indianapolis',
+    1 => 'IN',
+    2 => '39.77',
+    3 => '-86.14',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  '06' => 
+  array (
+    0 => 'Indianapolis',
+    1 => 'IN',
+    2 => '39.77',
+    3 => '-86.14',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  '07' => 
+  array (
+    0 => 'Indianapolis',
+    1 => 'IN',
+    2 => '39.77',
+    3 => '-86.14',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  '08' => 
+  array (
+    0 => 'Indianapolis',
+    1 => 'IN',
+    2 => '39.77',
+    3 => '-86.14',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  '09' => 
+  array (
+    0 => 'Indianapolis',
+    1 => 'IN',
+    2 => '39.77',
+    3 => '-86.14',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  11 => 
+  array (
+    0 => 'Indianapolis',
+    1 => 'IN',
+    2 => '39.77',
+    3 => '-86.14',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  14 => 
+  array (
+    0 => 'Indianapolis',
+    1 => 'IN',
+    2 => '39.77',
+    3 => '-86.14',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  16 => 
+  array (
+    0 => 'Indianapolis',
+    1 => 'IN',
+    2 => '39.77',
+    3 => '-86.14',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  17 => 
+  array (
+    0 => 'Indianapolis',
+    1 => 'IN',
+    2 => '39.77',
+    3 => '-86.14',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  18 => 
+  array (
+    0 => 'Indianapolis',
+    1 => 'IN',
+    2 => '39.77',
+    3 => '-86.14',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  19 => 
+  array (
+    0 => 'Indianapolis',
+    1 => 'IN',
+    2 => '39.77',
+    3 => '-86.14',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  20 => 
+  array (
+    0 => 'Indianapolis',
+    1 => 'IN',
+    2 => '39.77',
+    3 => '-86.14',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  21 => 
+  array (
+    0 => 'Indianapolis',
+    1 => 'IN',
+    2 => '39.77',
+    3 => '-86.14',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  22 => 
+  array (
+    0 => 'Indianapolis',
+    1 => 'IN',
+    2 => '39.77',
+    3 => '-86.14',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  23 => 
+  array (
+    0 => 'Indianapolis',
+    1 => 'IN',
+    2 => '39.77',
+    3 => '-86.14',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  24 => 
+  array (
+    0 => 'Indianapolis',
+    1 => 'IN',
+    2 => '39.77',
+    3 => '-86.14',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  25 => 
+  array (
+    0 => 'Indianapolis',
+    1 => 'IN',
+    2 => '39.77',
+    3 => '-86.14',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  26 => 
+  array (
+    0 => 'Indianapolis',
+    1 => 'IN',
+    2 => '39.77',
+    3 => '-86.14',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  27 => 
+  array (
+    0 => 'Indianapolis',
+    1 => 'IN',
+    2 => '39.77',
+    3 => '-86.14',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  28 => 
+  array (
+    0 => 'Indianapolis',
+    1 => 'IN',
+    2 => '39.77',
+    3 => '-86.14',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  29 => 
+  array (
+    0 => 'Indianapolis',
+    1 => 'IN',
+    2 => '39.77',
+    3 => '-86.14',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  30 => 
+  array (
+    0 => 'Indianapolis',
+    1 => 'IN',
+    2 => '39.77',
+    3 => '-86.14',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  31 => 
+  array (
+    0 => 'Indianapolis',
+    1 => 'IN',
+    2 => '39.77',
+    3 => '-86.14',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  34 => 
+  array (
+    0 => 'Indianapolis',
+    1 => 'IN',
+    2 => '39.77',
+    3 => '-86.14',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  35 => 
+  array (
+    0 => 'Indianapolis',
+    1 => 'IN',
+    2 => '39.77',
+    3 => '-86.14',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  36 => 
+  array (
+    0 => 'Indianapolis',
+    1 => 'IN',
+    2 => '39.77',
+    3 => '-86.14',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  37 => 
+  array (
+    0 => 'Indianapolis',
+    1 => 'IN',
+    2 => '39.77',
+    3 => '-86.14',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  39 => 
+  array (
+    0 => 'Indianapolis',
+    1 => 'IN',
+    2 => '39.77',
+    3 => '-86.14',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  40 => 
+  array (
+    0 => 'Indianapolis',
+    1 => 'IN',
+    2 => '39.77',
+    3 => '-86.14',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  41 => 
+  array (
+    0 => 'Indianapolis',
+    1 => 'IN',
+    2 => '39.77',
+    3 => '-86.14',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  42 => 
+  array (
+    0 => 'Indianapolis',
+    1 => 'IN',
+    2 => '39.77',
+    3 => '-86.14',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  44 => 
+  array (
+    0 => 'Indianapolis',
+    1 => 'IN',
+    2 => '39.77',
+    3 => '-86.14',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  47 => 
+  array (
+    0 => 'Indianapolis',
+    1 => 'IN',
+    2 => '39.77',
+    3 => '-86.14',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  49 => 
+  array (
+    0 => 'Indianapolis',
+    1 => 'IN',
+    2 => '39.77',
+    3 => '-86.14',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  50 => 
+  array (
+    0 => 'Indianapolis',
+    1 => 'IN',
+    2 => '39.77',
+    3 => '-86.14',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  51 => 
+  array (
+    0 => 'Indianapolis',
+    1 => 'IN',
+    2 => '39.77',
+    3 => '-86.14',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  53 => 
+  array (
+    0 => 'Indianapolis',
+    1 => 'IN',
+    2 => '39.77',
+    3 => '-86.14',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  54 => 
+  array (
+    0 => 'Indianapolis',
+    1 => 'IN',
+    2 => '39.77',
+    3 => '-86.14',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  55 => 
+  array (
+    0 => 'Indianapolis',
+    1 => 'IN',
+    2 => '39.77',
+    3 => '-86.14',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  56 => 
+  array (
+    0 => 'Indianapolis',
+    1 => 'IN',
+    2 => '39.77',
+    3 => '-86.14',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  59 => 
+  array (
+    0 => 'Indianapolis',
+    1 => 'IN',
+    2 => '39.77',
+    3 => '-86.14',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  60 => 
+  array (
+    0 => 'Indianapolis',
+    1 => 'IN',
+    2 => '39.77',
+    3 => '-86.14',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  62 => 
+  array (
+    0 => 'Indianapolis',
+    1 => 'IN',
+    2 => '39.76',
+    3 => '-86.15',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  66 => 
+  array (
+    0 => 'Indianapolis',
+    1 => 'IN',
+    2 => '39.77',
+    3 => '-86.14',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  68 => 
+  array (
+    0 => 'Indianapolis',
+    1 => 'IN',
+    2 => '39.77',
+    3 => '-86.14',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  74 => 
+  array (
+    0 => 'Indianapolis',
+    1 => 'IN',
+    2 => '39.77',
+    3 => '-86.14',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  75 => 
+  array (
+    0 => 'Indianapolis',
+    1 => 'IN',
+    2 => '39.77',
+    3 => '-86.14',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  77 => 
+  array (
+    0 => 'Indianapolis',
+    1 => 'IN',
+    2 => '39.77',
+    3 => '-86.14',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  78 => 
+  array (
+    0 => 'Indianapolis',
+    1 => 'IN',
+    2 => '39.77',
+    3 => '-86.14',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  80 => 
+  array (
+    0 => 'Indianapolis',
+    1 => 'IN',
+    2 => '39.77',
+    3 => '-86.14',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  82 => 
+  array (
+    0 => 'Indianapolis',
+    1 => 'IN',
+    2 => '39.77',
+    3 => '-86.14',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  83 => 
+  array (
+    0 => 'Indianapolis',
+    1 => 'IN',
+    2 => '39.77',
+    3 => '-86.14',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  85 => 
+  array (
+    0 => 'Indianapolis',
+    1 => 'IN',
+    2 => '39.77',
+    3 => '-86.14',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  90 => 
+  array (
+    0 => 'Indianapolis',
+    1 => 'IN',
+    2 => '39.77',
+    3 => '-86.14',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  91 => 
+  array (
+    0 => 'Indianapolis',
+    1 => 'IN',
+    2 => '39.77',
+    3 => '-86.14',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  95 => 
+  array (
+    0 => 'Indianapolis',
+    1 => 'IN',
+    2 => '39.77',
+    3 => '-86.14',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  96 => 
+  array (
+    0 => 'Indianapolis',
+    1 => 'IN',
+    2 => '39.77',
+    3 => '-86.16',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  98 => 
+  array (
+    0 => 'Indianapolis',
+    1 => 'IN',
+    2 => '39.77',
+    3 => '-86.14',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+);

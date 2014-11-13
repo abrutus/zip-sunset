@@ -1,0 +1,200 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Bagley',
+    1 => 'WI',
+    2 => '42.9',
+    3 => '-91.09',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '02' => 
+  array (
+    0 => 'Beetown',
+    1 => 'WI',
+    2 => '42.79',
+    3 => '-90.88',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '03' => 
+  array (
+    0 => 'Benton',
+    1 => 'WI',
+    2 => '42.57',
+    3 => '-90.38',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '04' => 
+  array (
+    0 => 'Bloomington',
+    1 => 'WI',
+    2 => '42.89',
+    3 => '-90.92',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '05' => 
+  array (
+    0 => 'Boscobel',
+    1 => 'WI',
+    2 => '43.13',
+    3 => '-90.7',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '06' => 
+  array (
+    0 => 'Cassville',
+    1 => 'WI',
+    2 => '42.71',
+    3 => '-90.99',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '07' => 
+  array (
+    0 => 'Cuba City',
+    1 => 'WI',
+    2 => '42.6',
+    3 => '-90.43',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '08' => 
+  array (
+    0 => 'Dickeyville',
+    1 => 'WI',
+    2 => '42.62',
+    3 => '-90.59',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '09' => 
+  array (
+    0 => 'Fennimore',
+    1 => 'WI',
+    2 => '42.98',
+    3 => '-90.65',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  10 => 
+  array (
+    0 => 'Glen Haven',
+    1 => 'WI',
+    2 => '42.83',
+    3 => '-91.06',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  11 => 
+  array (
+    0 => 'Hazel Green',
+    1 => 'WI',
+    2 => '42.53',
+    3 => '-90.43',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  12 => 
+  array (
+    0 => 'Kieler',
+    1 => 'WI',
+    2 => '42.58',
+    3 => '-90.59',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  13 => 
+  array (
+    0 => 'Lancaster',
+    1 => 'WI',
+    2 => '42.84',
+    3 => '-90.7',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  16 => 
+  array (
+    0 => 'Mount Hope',
+    1 => 'WI',
+    2 => '42.96',
+    3 => '-90.85',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  17 => 
+  array (
+    0 => 'Patch Grove',
+    1 => 'WI',
+    2 => '42.93',
+    3 => '-90.97',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  18 => 
+  array (
+    0 => 'Platteville',
+    1 => 'WI',
+    2 => '42.73',
+    3 => '-90.47',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  20 => 
+  array (
+    0 => 'Potosi',
+    1 => 'WI',
+    2 => '42.68',
+    3 => '-90.71',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  21 => 
+  array (
+    0 => 'Prairie Du Chien',
+    1 => 'WI',
+    2 => '43.04',
+    3 => '-91.14',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  24 => 
+  array (
+    0 => 'Sinsinawa',
+    1 => 'WI',
+    2 => '42.51',
+    3 => '-90.53',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  25 => 
+  array (
+    0 => 'Stitzer',
+    1 => 'WI',
+    2 => '42.91',
+    3 => '-90.63',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  26 => 
+  array (
+    0 => 'Wauzeka',
+    1 => 'WI',
+    2 => '43.08',
+    3 => '-90.89',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  27 => 
+  array (
+    0 => 'Woodman',
+    1 => 'WI',
+    2 => '43.09',
+    3 => '-90.79',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+);

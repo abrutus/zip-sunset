@@ -1,0 +1,20 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Holtsville',
+    1 => 'NY',
+    2 => '40.81',
+    3 => '-73.04',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  44 => 
+  array (
+    0 => 'Holtsville',
+    1 => 'NY',
+    2 => '40.81',
+    3 => '-73.04',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

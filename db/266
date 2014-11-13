@@ -1,0 +1,263 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Sutton',
+    1 => 'WV',
+    2 => '38.66',
+    3 => '-80.71',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  10 => 
+  array (
+    0 => 'Birch River',
+    1 => 'WV',
+    2 => '38.49',
+    3 => '-80.75',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  11 => 
+  array (
+    0 => 'Cedarville',
+    1 => 'WV',
+    2 => '38.84',
+    3 => '-80.84',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  15 => 
+  array (
+    0 => 'Copen',
+    1 => 'WV',
+    2 => '38.84',
+    3 => '-80.72',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  17 => 
+  array (
+    0 => 'Dille',
+    1 => 'WV',
+    2 => '38.46',
+    3 => '-80.87',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  19 => 
+  array (
+    0 => 'Exchange',
+    1 => 'WV',
+    2 => '38.79',
+    3 => '-80.76',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  21 => 
+  array (
+    0 => 'Flatwoods',
+    1 => 'WV',
+    2 => '38.72',
+    3 => '-80.65',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  23 => 
+  array (
+    0 => 'Frametown',
+    1 => 'WV',
+    2 => '38.62',
+    3 => '-80.88',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  24 => 
+  array (
+    0 => 'Gassaway',
+    1 => 'WV',
+    2 => '38.67',
+    3 => '-80.77',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  27 => 
+  array (
+    0 => 'Heaters',
+    1 => 'WV',
+    2 => '38.75',
+    3 => '-80.65',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  29 => 
+  array (
+    0 => 'Little Birch',
+    1 => 'WV',
+    2 => '38.57',
+    3 => '-80.7',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  31 => 
+  array (
+    0 => 'Napier',
+    1 => 'WV',
+    2 => '38.77',
+    3 => '-80.57',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  36 => 
+  array (
+    0 => 'Rosedale',
+    1 => 'WV',
+    2 => '38.78',
+    3 => '-80.89',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  38 => 
+  array (
+    0 => 'Shock',
+    1 => 'WV',
+    2 => '38.76',
+    3 => '-80.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  51 => 
+  array (
+    0 => 'Summersville',
+    1 => 'WV',
+    2 => '38.28',
+    3 => '-80.84',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  56 => 
+  array (
+    0 => 'Belva',
+    1 => 'WV',
+    2 => '38.26',
+    3 => '-81.13',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  60 => 
+  array (
+    0 => 'Calvin',
+    1 => 'WV',
+    2 => '38.32',
+    3 => '-80.7',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  62 => 
+  array (
+    0 => 'Canvas',
+    1 => 'WV',
+    2 => '38.26',
+    3 => '-80.73',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  67 => 
+  array (
+    0 => 'Drennen',
+    1 => 'WV',
+    2 => '38.24',
+    3 => '-81.01',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  71 => 
+  array (
+    0 => 'Gilboa',
+    1 => 'WV',
+    2 => '38.29',
+    3 => '-80.96',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  75 => 
+  array (
+    0 => 'Keslers Cross Lanes',
+    1 => 'WV',
+    2 => '38.24',
+    3 => '-80.94',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  76 => 
+  array (
+    0 => 'Leivasy',
+    1 => 'WV',
+    2 => '38.12',
+    3 => '-80.73',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  78 => 
+  array (
+    0 => 'Mount Lookout',
+    1 => 'WV',
+    2 => '38.17',
+    3 => '-80.9',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  79 => 
+  array (
+    0 => 'Mount Nebo',
+    1 => 'WV',
+    2 => '38.19',
+    3 => '-80.8',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  80 => 
+  array (
+    0 => 'Nallen',
+    1 => 'WV',
+    2 => '38.1',
+    3 => '-80.88',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  81 => 
+  array (
+    0 => 'Nettie',
+    1 => 'WV',
+    2 => '38.19',
+    3 => '-80.67',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  84 => 
+  array (
+    0 => 'Pool',
+    1 => 'WV',
+    2 => '38.14',
+    3 => '-80.88',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  90 => 
+  array (
+    0 => 'Swiss',
+    1 => 'WV',
+    2 => '38.27',
+    3 => '-81.06',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  91 => 
+  array (
+    0 => 'Tioga',
+    1 => 'WV',
+    2 => '38.39',
+    3 => '-80.67',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

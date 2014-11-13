@@ -1,0 +1,191 @@
+<?php $db= array (
+  41 => 
+  array (
+    0 => 'Rockland',
+    1 => 'ME',
+    2 => '44.12',
+    3 => '-69.13',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  43 => 
+  array (
+    0 => 'Camden',
+    1 => 'ME',
+    2 => '44.2',
+    3 => '-69.06',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  46 => 
+  array (
+    0 => 'Glen Cove',
+    1 => 'ME',
+    2 => '44.11',
+    3 => '-69.08',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  47 => 
+  array (
+    0 => 'Hope',
+    1 => 'ME',
+    2 => '44.26',
+    3 => '-69.15',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  48 => 
+  array (
+    0 => 'Islesboro',
+    1 => 'ME',
+    2 => '44.3',
+    3 => '-68.9',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  49 => 
+  array (
+    0 => 'Lincolnville',
+    1 => 'ME',
+    2 => '44.28',
+    3 => '-69',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  50 => 
+  array (
+    0 => 'Lincolnville Center',
+    1 => 'ME',
+    2 => '44.3',
+    3 => '-69.07',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  51 => 
+  array (
+    0 => 'Matinicus',
+    1 => 'ME',
+    2 => '43.86',
+    3 => '-68.88',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  52 => 
+  array (
+    0 => 'Monhegan',
+    1 => 'ME',
+    2 => '43.76',
+    3 => '-69.32',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  53 => 
+  array (
+    0 => 'North Haven',
+    1 => 'ME',
+    2 => '44.15',
+    3 => '-68.86',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  54 => 
+  array (
+    0 => 'Owls Head',
+    1 => 'ME',
+    2 => '44.08',
+    3 => '-69.05',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  55 => 
+  array (
+    0 => 'Port Clyde',
+    1 => 'ME',
+    2 => '43.93',
+    3 => '-69.25',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  56 => 
+  array (
+    0 => 'Rockport',
+    1 => 'ME',
+    2 => '44.18',
+    3 => '-69.07',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  58 => 
+  array (
+    0 => 'South Thomaston',
+    1 => 'ME',
+    2 => '44.05',
+    3 => '-69.12',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  59 => 
+  array (
+    0 => 'Spruce Head',
+    1 => 'ME',
+    2 => '44.01',
+    3 => '-69.17',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  60 => 
+  array (
+    0 => 'Tenants Harbor',
+    1 => 'ME',
+    2 => '43.95',
+    3 => '-69.23',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  61 => 
+  array (
+    0 => 'Thomaston',
+    1 => 'ME',
+    2 => '44.08',
+    3 => '-69.18',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  62 => 
+  array (
+    0 => 'Union',
+    1 => 'ME',
+    2 => '44.21',
+    3 => '-69.27',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  63 => 
+  array (
+    0 => 'Vinalhaven',
+    1 => 'ME',
+    2 => '44.04',
+    3 => '-68.83',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  64 => 
+  array (
+    0 => 'Warren',
+    1 => 'ME',
+    2 => '44.12',
+    3 => '-69.24',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  65 => 
+  array (
+    0 => 'West Rockport',
+    1 => 'ME',
+    2 => '44.19',
+    3 => '-69.15',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

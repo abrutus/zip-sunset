@@ -1,0 +1,101 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Santa Monica',
+    1 => 'CA',
+    2 => '34.01',
+    3 => '-118.49',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '02' => 
+  array (
+    0 => 'Santa Monica',
+    1 => 'CA',
+    2 => '34.03',
+    3 => '-118.5',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '03' => 
+  array (
+    0 => 'Santa Monica',
+    1 => 'CA',
+    2 => '34.03',
+    3 => '-118.49',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '04' => 
+  array (
+    0 => 'Santa Monica',
+    1 => 'CA',
+    2 => '34.02',
+    3 => '-118.47',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '05' => 
+  array (
+    0 => 'Santa Monica',
+    1 => 'CA',
+    2 => '34.01',
+    3 => '-118.46',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '06' => 
+  array (
+    0 => 'Santa Monica',
+    1 => 'CA',
+    2 => '34.01',
+    3 => '-118.49',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '07' => 
+  array (
+    0 => 'Santa Monica',
+    1 => 'CA',
+    2 => '34.01',
+    3 => '-118.49',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '08' => 
+  array (
+    0 => 'Santa Monica',
+    1 => 'CA',
+    2 => '34.02',
+    3 => '-118.48',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '09' => 
+  array (
+    0 => 'Santa Monica',
+    1 => 'CA',
+    2 => '34',
+    3 => '-118.48',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  10 => 
+  array (
+    0 => 'Santa Monica',
+    1 => 'CA',
+    2 => '34.01',
+    3 => '-118.46',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  11 => 
+  array (
+    0 => 'Santa Monica',
+    1 => 'CA',
+    2 => '34.01',
+    3 => '-118.46',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+);

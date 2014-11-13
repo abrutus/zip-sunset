@@ -1,0 +1,362 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Huntington',
+    1 => 'WV',
+    2 => '38.41',
+    3 => '-82.43',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '02' => 
+  array (
+    0 => 'Huntington',
+    1 => 'WV',
+    2 => '38.41',
+    3 => '-82.43',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '03' => 
+  array (
+    0 => 'Huntington',
+    1 => 'WV',
+    2 => '38.41',
+    3 => '-82.43',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '04' => 
+  array (
+    0 => 'Huntington',
+    1 => 'WV',
+    2 => '38.41',
+    3 => '-82.43',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '05' => 
+  array (
+    0 => 'Huntington',
+    1 => 'WV',
+    2 => '38.41',
+    3 => '-82.43',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '06' => 
+  array (
+    0 => 'Huntington',
+    1 => 'WV',
+    2 => '38.41',
+    3 => '-82.43',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '07' => 
+  array (
+    0 => 'Huntington',
+    1 => 'WV',
+    2 => '38.41',
+    3 => '-82.43',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '08' => 
+  array (
+    0 => 'Huntington',
+    1 => 'WV',
+    2 => '38.41',
+    3 => '-82.43',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '09' => 
+  array (
+    0 => 'Huntington',
+    1 => 'WV',
+    2 => '38.41',
+    3 => '-82.43',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  10 => 
+  array (
+    0 => 'Huntington',
+    1 => 'WV',
+    2 => '38.41',
+    3 => '-82.43',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  11 => 
+  array (
+    0 => 'Huntington',
+    1 => 'WV',
+    2 => '38.41',
+    3 => '-82.43',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  12 => 
+  array (
+    0 => 'Huntington',
+    1 => 'WV',
+    2 => '38.41',
+    3 => '-82.43',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  13 => 
+  array (
+    0 => 'Huntington',
+    1 => 'WV',
+    2 => '38.41',
+    3 => '-82.43',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  14 => 
+  array (
+    0 => 'Huntington',
+    1 => 'WV',
+    2 => '38.41',
+    3 => '-82.43',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  15 => 
+  array (
+    0 => 'Huntington',
+    1 => 'WV',
+    2 => '38.41',
+    3 => '-82.43',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  16 => 
+  array (
+    0 => 'Huntington',
+    1 => 'WV',
+    2 => '38.41',
+    3 => '-82.43',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  17 => 
+  array (
+    0 => 'Huntington',
+    1 => 'WV',
+    2 => '38.41',
+    3 => '-82.43',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  18 => 
+  array (
+    0 => 'Huntington',
+    1 => 'WV',
+    2 => '38.41',
+    3 => '-82.43',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  19 => 
+  array (
+    0 => 'Huntington',
+    1 => 'WV',
+    2 => '38.41',
+    3 => '-82.43',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  20 => 
+  array (
+    0 => 'Huntington',
+    1 => 'WV',
+    2 => '38.41',
+    3 => '-82.43',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  21 => 
+  array (
+    0 => 'Huntington',
+    1 => 'WV',
+    2 => '38.41',
+    3 => '-82.43',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  22 => 
+  array (
+    0 => 'Huntington',
+    1 => 'WV',
+    2 => '38.41',
+    3 => '-82.43',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  23 => 
+  array (
+    0 => 'Huntington',
+    1 => 'WV',
+    2 => '38.41',
+    3 => '-82.43',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  24 => 
+  array (
+    0 => 'Huntington',
+    1 => 'WV',
+    2 => '38.41',
+    3 => '-82.43',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  25 => 
+  array (
+    0 => 'Huntington',
+    1 => 'WV',
+    2 => '38.41',
+    3 => '-82.43',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  26 => 
+  array (
+    0 => 'Huntington',
+    1 => 'WV',
+    2 => '38.41',
+    3 => '-82.43',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  27 => 
+  array (
+    0 => 'Huntington',
+    1 => 'WV',
+    2 => '38.41',
+    3 => '-82.43',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  28 => 
+  array (
+    0 => 'Huntington',
+    1 => 'WV',
+    2 => '38.41',
+    3 => '-82.43',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  29 => 
+  array (
+    0 => 'Huntington',
+    1 => 'WV',
+    2 => '38.41',
+    3 => '-82.43',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  55 => 
+  array (
+    0 => 'Huntington',
+    1 => 'WV',
+    2 => '38.41',
+    3 => '-82.43',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  70 => 
+  array (
+    0 => 'Huntington',
+    1 => 'WV',
+    2 => '38.41',
+    3 => '-82.43',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  71 => 
+  array (
+    0 => 'Huntington',
+    1 => 'WV',
+    2 => '38.41',
+    3 => '-82.43',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  72 => 
+  array (
+    0 => 'Huntington',
+    1 => 'WV',
+    2 => '38.41',
+    3 => '-82.43',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  73 => 
+  array (
+    0 => 'Huntington',
+    1 => 'WV',
+    2 => '38.41',
+    3 => '-82.43',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  74 => 
+  array (
+    0 => 'Huntington',
+    1 => 'WV',
+    2 => '38.41',
+    3 => '-82.43',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  75 => 
+  array (
+    0 => 'Huntington',
+    1 => 'WV',
+    2 => '38.41',
+    3 => '-82.43',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  76 => 
+  array (
+    0 => 'Huntington',
+    1 => 'WV',
+    2 => '38.41',
+    3 => '-82.43',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  77 => 
+  array (
+    0 => 'Huntington',
+    1 => 'WV',
+    2 => '38.41',
+    3 => '-82.43',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  78 => 
+  array (
+    0 => 'Huntington',
+    1 => 'WV',
+    2 => '38.41',
+    3 => '-82.43',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  79 => 
+  array (
+    0 => 'Huntington',
+    1 => 'WV',
+    2 => '38.41',
+    3 => '-82.43',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

@@ -1,0 +1,389 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Ventura',
+    1 => 'CA',
+    2 => '34.33',
+    3 => '-119.31',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '02' => 
+  array (
+    0 => 'Ventura',
+    1 => 'CA',
+    2 => '34.27',
+    3 => '-119.28',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '03' => 
+  array (
+    0 => 'Ventura',
+    1 => 'CA',
+    2 => '34.28',
+    3 => '-119.22',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '04' => 
+  array (
+    0 => 'Ventura',
+    1 => 'CA',
+    2 => '34.27',
+    3 => '-119.16',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '05' => 
+  array (
+    0 => 'Ventura',
+    1 => 'CA',
+    2 => '34.25',
+    3 => '-119.2',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '06' => 
+  array (
+    0 => 'Ventura',
+    1 => 'CA',
+    2 => '34.27',
+    3 => '-119.29',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '07' => 
+  array (
+    0 => 'Ventura',
+    1 => 'CA',
+    2 => '34.29',
+    3 => '-119.15',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '09' => 
+  array (
+    0 => 'Ventura',
+    1 => 'CA',
+    2 => '34.26',
+    3 => '-119.21',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  10 => 
+  array (
+    0 => 'Camarillo',
+    1 => 'CA',
+    2 => '34.23',
+    3 => '-119.07',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  11 => 
+  array (
+    0 => 'Camarillo',
+    1 => 'CA',
+    2 => '34.21',
+    3 => '-119.03',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  12 => 
+  array (
+    0 => 'Camarillo',
+    1 => 'CA',
+    2 => '34.2',
+    3 => '-118.98',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  13 => 
+  array (
+    0 => 'Carpinteria',
+    1 => 'CA',
+    2 => '34.43',
+    3 => '-119.52',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  14 => 
+  array (
+    0 => 'Carpinteria',
+    1 => 'CA',
+    2 => '34.39',
+    3 => '-119.51',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  15 => 
+  array (
+    0 => 'Fillmore',
+    1 => 'CA',
+    2 => '34.4',
+    3 => '-118.83',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  16 => 
+  array (
+    0 => 'Fillmore',
+    1 => 'CA',
+    2 => '34.39',
+    3 => '-118.91',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  20 => 
+  array (
+    0 => 'Moorpark',
+    1 => 'CA',
+    2 => '34.28',
+    3 => '-118.88',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  21 => 
+  array (
+    0 => 'Moorpark',
+    1 => 'CA',
+    2 => '34.31',
+    3 => '-118.87',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  22 => 
+  array (
+    0 => 'Oak View',
+    1 => 'CA',
+    2 => '34.4',
+    3 => '-119.3',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  23 => 
+  array (
+    0 => 'Ojai',
+    1 => 'CA',
+    2 => '34.51',
+    3 => '-119.29',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  24 => 
+  array (
+    0 => 'Ojai',
+    1 => 'CA',
+    2 => '34.44',
+    3 => '-119.25',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  30 => 
+  array (
+    0 => 'Oxnard',
+    1 => 'CA',
+    2 => '34.19',
+    3 => '-119.17',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  31 => 
+  array (
+    0 => 'Oxnard',
+    1 => 'CA',
+    2 => '34.21',
+    3 => '-119.18',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  32 => 
+  array (
+    0 => 'Oxnard',
+    1 => 'CA',
+    2 => '34.2',
+    3 => '-119.17',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  33 => 
+  array (
+    0 => 'Oxnard',
+    1 => 'CA',
+    2 => '34.14',
+    3 => '-119.1',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  34 => 
+  array (
+    0 => 'Oxnard',
+    1 => 'CA',
+    2 => '34.17',
+    3 => '-119.17',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  35 => 
+  array (
+    0 => 'Oxnard',
+    1 => 'CA',
+    2 => '34.19',
+    3 => '-119.23',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  36 => 
+  array (
+    0 => 'Oxnard',
+    1 => 'CA',
+    2 => '34.25',
+    3 => '-119.16',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  40 => 
+  array (
+    0 => 'Piru',
+    1 => 'CA',
+    2 => '34.43',
+    3 => '-118.75',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  41 => 
+  array (
+    0 => 'Port Hueneme',
+    1 => 'CA',
+    2 => '34.11',
+    3 => '-119.11',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  42 => 
+  array (
+    0 => 'Point Mugu Nawc',
+    1 => 'CA',
+    2 => '34.12',
+    3 => '-119.09',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  43 => 
+  array (
+    0 => 'Port Hueneme Cbc Base',
+    1 => 'CA',
+    2 => '34.16',
+    3 => '-119.2',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  44 => 
+  array (
+    0 => 'Port Hueneme',
+    1 => 'CA',
+    2 => '34.15',
+    3 => '-119.19',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  60 => 
+  array (
+    0 => 'Santa Paula',
+    1 => 'CA',
+    2 => '34.4',
+    3 => '-119.07',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  61 => 
+  array (
+    0 => 'Santa Paula',
+    1 => 'CA',
+    2 => '34.35',
+    3 => '-119.05',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  62 => 
+  array (
+    0 => 'Simi Valley',
+    1 => 'CA',
+    2 => '34.28',
+    3 => '-118.74',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  63 => 
+  array (
+    0 => 'Simi Valley',
+    1 => 'CA',
+    2 => '34.3',
+    3 => '-118.72',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  64 => 
+  array (
+    0 => 'Brandeis',
+    1 => 'CA',
+    2 => '34.28',
+    3 => '-118.69',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  65 => 
+  array (
+    0 => 'Simi Valley',
+    1 => 'CA',
+    2 => '34.25',
+    3 => '-118.78',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  66 => 
+  array (
+    0 => 'Somis',
+    1 => 'CA',
+    2 => '34.29',
+    3 => '-119.03',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  67 => 
+  array (
+    0 => 'Summerland',
+    1 => 'CA',
+    2 => '34.41',
+    3 => '-119.59',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  93 => 
+  array (
+    0 => 'Simi Valley',
+    1 => 'CA',
+    2 => '34.27',
+    3 => '-118.71',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  94 => 
+  array (
+    0 => 'Simi Valley',
+    1 => 'CA',
+    2 => '34.27',
+    3 => '-118.79',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  99 => 
+  array (
+    0 => 'Simi Valley',
+    1 => 'CA',
+    2 => '34.26',
+    3 => '-118.75',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+);

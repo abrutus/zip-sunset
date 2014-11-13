@@ -1,0 +1,434 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Fairbanks',
+    1 => 'AK',
+    2 => '64.81',
+    3 => '-147.72',
+    4 => -9,
+    5 => 'America/Anchorage',
+  ),
+  '02' => 
+  array (
+    0 => 'Eielson Afb',
+    1 => 'AK',
+    2 => '64.67',
+    3 => '-147.04',
+    4 => -9,
+    5 => 'America/Anchorage',
+  ),
+  '03' => 
+  array (
+    0 => 'Fort Wainwright',
+    1 => 'AK',
+    2 => '64.81',
+    3 => '-147.62',
+    4 => -9,
+    5 => 'America/Anchorage',
+  ),
+  '05' => 
+  array (
+    0 => 'North Pole',
+    1 => 'AK',
+    2 => '64.77',
+    3 => '-147.33',
+    4 => -9,
+    5 => 'America/Anchorage',
+  ),
+  '06' => 
+  array (
+    0 => 'Fairbanks',
+    1 => 'AK',
+    2 => '64.83',
+    3 => '-147.88',
+    4 => -9,
+    5 => 'America/Anchorage',
+  ),
+  '07' => 
+  array (
+    0 => 'Fairbanks',
+    1 => 'AK',
+    2 => '64.83',
+    3 => '-147.69',
+    4 => -9,
+    5 => 'America/Anchorage',
+  ),
+  '08' => 
+  array (
+    0 => 'Fairbanks',
+    1 => 'AK',
+    2 => '64.87',
+    3 => '-147.89',
+    4 => -9,
+    5 => 'America/Anchorage',
+  ),
+  '09' => 
+  array (
+    0 => 'Fairbanks',
+    1 => 'AK',
+    2 => '64.9',
+    3 => '-148.16',
+    4 => -9,
+    5 => 'America/Anchorage',
+  ),
+  10 => 
+  array (
+    0 => 'Fairbanks',
+    1 => 'AK',
+    2 => '64.91',
+    3 => '-147.56',
+    4 => -9,
+    5 => 'America/Anchorage',
+  ),
+  11 => 
+  array (
+    0 => 'Fairbanks',
+    1 => 'AK',
+    2 => '64.81',
+    3 => '-147.57',
+    4 => -9,
+    5 => 'America/Anchorage',
+  ),
+  12 => 
+  array (
+    0 => 'Fairbanks',
+    1 => 'AK',
+    2 => '64.93',
+    3 => '-146.61',
+    4 => -9,
+    5 => 'America/Anchorage',
+  ),
+  14 => 
+  array (
+    0 => 'Salcha',
+    1 => 'AK',
+    2 => '64.37',
+    3 => '-146.59',
+    4 => -9,
+    5 => 'America/Anchorage',
+  ),
+  16 => 
+  array (
+    0 => 'Two Rivers',
+    1 => 'AK',
+    2 => '64.87',
+    3 => '-146.87',
+    4 => -9,
+    5 => 'America/Anchorage',
+  ),
+  25 => 
+  array (
+    0 => 'Ester',
+    1 => 'AK',
+    2 => '64.85',
+    3 => '-148.02',
+    4 => -9,
+    5 => 'America/Anchorage',
+  ),
+  27 => 
+  array (
+    0 => 'Buckland',
+    1 => 'AK',
+    2 => '65.97',
+    3 => '-161.13',
+    4 => -9,
+    5 => 'America/Nome',
+  ),
+  29 => 
+  array (
+    0 => 'Cantwell',
+    1 => 'AK',
+    2 => '63.33',
+    3 => '-148.33',
+    4 => -9,
+    5 => 'America/Anchorage',
+  ),
+  31 => 
+  array (
+    0 => 'Fort Greely',
+    1 => 'AK',
+    2 => '64.04',
+    3 => '-145.73',
+    4 => -9,
+    5 => 'America/Anchorage',
+  ),
+  32 => 
+  array (
+    0 => 'Chicken',
+    1 => 'AK',
+    2 => '63.86',
+    3 => '-142.12',
+    4 => -9,
+    5 => 'America/Anchorage',
+  ),
+  36 => 
+  array (
+    0 => 'Deering',
+    1 => 'AK',
+    2 => '66.07',
+    3 => '-162.73',
+    4 => -9,
+    5 => 'America/Nome',
+  ),
+  38 => 
+  array (
+    0 => 'Eagle',
+    1 => 'AK',
+    2 => '64.43',
+    3 => '-141.22',
+    4 => -9,
+    5 => 'America/Anchorage',
+  ),
+  39 => 
+  array (
+    0 => 'Elim',
+    1 => 'AK',
+    2 => '64.63',
+    3 => '-162.34',
+    4 => -9,
+    5 => 'America/Nome',
+  ),
+  42 => 
+  array (
+    0 => 'Gambell',
+    1 => 'AK',
+    2 => '63.75',
+    3 => '-171.69',
+    4 => -9,
+    5 => 'America/Nome',
+  ),
+  44 => 
+  array (
+    0 => 'Anderson',
+    1 => 'AK',
+    2 => '64.2',
+    3 => '-148.97',
+    4 => -9,
+    5 => 'America/Anchorage',
+  ),
+  49 => 
+  array (
+    0 => 'Kiana',
+    1 => 'AK',
+    2 => '66.97',
+    3 => '-160.43',
+    4 => -9,
+    5 => 'America/Nome',
+  ),
+  50 => 
+  array (
+    0 => 'Kivalina',
+    1 => 'AK',
+    2 => '67.73',
+    3 => '-164.55',
+    4 => -9,
+    5 => 'America/Nome',
+  ),
+  51 => 
+  array (
+    0 => 'Kobuk',
+    1 => 'AK',
+    2 => '66.93',
+    3 => '-156.88',
+    4 => -9,
+    5 => 'America/Nome',
+  ),
+  52 => 
+  array (
+    0 => 'Kotzebue',
+    1 => 'AK',
+    2 => '67.24',
+    3 => '-161.19',
+    4 => -9,
+    5 => 'America/Nome',
+  ),
+  53 => 
+  array (
+    0 => 'Koyuk',
+    1 => 'AK',
+    2 => '64.93',
+    3 => '-161.14',
+    4 => -9,
+    5 => 'America/Nome',
+  ),
+  55 => 
+  array (
+    0 => 'Denali National Park',
+    1 => 'AK',
+    2 => '63.64',
+    3 => '-148.81',
+    4 => -9,
+    5 => 'America/Anchorage',
+  ),
+  61 => 
+  array (
+    0 => 'Noatak',
+    1 => 'AK',
+    2 => '67.57',
+    3 => '-163',
+    4 => -9,
+    5 => 'America/Nome',
+  ),
+  62 => 
+  array (
+    0 => 'Nome',
+    1 => 'AK',
+    2 => '64.71',
+    3 => '-164.62',
+    4 => -9,
+    5 => 'America/Nome',
+  ),
+  63 => 
+  array (
+    0 => 'Noorvik',
+    1 => 'AK',
+    2 => '66.83',
+    3 => '-161.03',
+    4 => -9,
+    5 => 'America/Nome',
+  ),
+  64 => 
+  array (
+    0 => 'Northway',
+    1 => 'AK',
+    2 => '63',
+    3 => '-141.69',
+    4 => -9,
+    5 => 'America/Anchorage',
+  ),
+  69 => 
+  array (
+    0 => 'Savoonga',
+    1 => 'AK',
+    2 => '63.68',
+    3 => '-170.49',
+    4 => -9,
+    5 => 'America/Nome',
+  ),
+  70 => 
+  array (
+    0 => 'Selawik',
+    1 => 'AK',
+    2 => '66.59',
+    3 => '-160.02',
+    4 => -9,
+    5 => 'America/Nome',
+  ),
+  71 => 
+  array (
+    0 => 'Shaktoolik',
+    1 => 'AK',
+    2 => '64.25',
+    3 => '-160.91',
+    4 => -9,
+    5 => 'America/Nome',
+  ),
+  72 => 
+  array (
+    0 => 'Shishmaref',
+    1 => 'AK',
+    2 => '66.02',
+    3 => '-165.91',
+    4 => -9,
+    5 => 'America/Nome',
+  ),
+  73 => 
+  array (
+    0 => 'Shungnak',
+    1 => 'AK',
+    2 => '66.88',
+    3 => '-157.15',
+    4 => -9,
+    5 => 'America/Nome',
+  ),
+  75 => 
+  array (
+    0 => 'Fairbanks',
+    1 => 'AK',
+    2 => '64.86',
+    3 => '-147.82',
+    4 => -9,
+    5 => 'America/Anchorage',
+  ),
+  76 => 
+  array (
+    0 => 'Tanacross',
+    1 => 'AK',
+    2 => '63.38',
+    3 => '-143.39',
+    4 => -9,
+    5 => 'America/Anchorage',
+  ),
+  78 => 
+  array (
+    0 => 'Teller',
+    1 => 'AK',
+    2 => '65.25',
+    3 => '-166.36',
+    4 => -9,
+    5 => 'America/Nome',
+  ),
+  79 => 
+  array (
+    0 => 'Tok',
+    1 => 'AK',
+    2 => '63.13',
+    3 => '-142.53',
+    4 => -9,
+    5 => 'America/Anchorage',
+  ),
+  80 => 
+  array (
+    0 => 'Tok',
+    1 => 'AK',
+    2 => '63.66',
+    3 => '-143.19',
+    4 => -9,
+    5 => 'America/Anchorage',
+  ),
+  83 => 
+  array (
+    0 => 'Wales',
+    1 => 'AK',
+    2 => '65.61',
+    3 => '-168.09',
+    4 => -9,
+    5 => 'America/Nome',
+  ),
+  84 => 
+  array (
+    0 => 'White Mountain',
+    1 => 'AK',
+    2 => '64.64',
+    3 => '-163.73',
+    4 => -9,
+    5 => 'America/Nome',
+  ),
+  85 => 
+  array (
+    0 => 'Brevig Mission',
+    1 => 'AK',
+    2 => '65.44',
+    3 => '-166.56',
+    4 => -9,
+    5 => 'America/Nome',
+  ),
+  86 => 
+  array (
+    0 => 'Ambler',
+    1 => 'AK',
+    2 => '67.08',
+    3 => '-157.9',
+    4 => -9,
+    5 => 'America/Nome',
+  ),
+  90 => 
+  array (
+    0 => 'Fairbanks',
+    1 => 'AK',
+    2 => '64.51',
+    3 => '-147.66',
+    4 => -9,
+    5 => 'America/Anchorage',
+  ),
+);

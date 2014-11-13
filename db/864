@@ -1,0 +1,254 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Kingman',
+    1 => 'AZ',
+    2 => '35.24',
+    3 => '-113.76',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  '02' => 
+  array (
+    0 => 'Kingman',
+    1 => 'AZ',
+    2 => '35.22',
+    3 => '-113.35',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  '03' => 
+  array (
+    0 => 'Lake Havasu City',
+    1 => 'AZ',
+    2 => '34.48',
+    3 => '-114.32',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  '04' => 
+  array (
+    0 => 'Lake Havasu City',
+    1 => 'AZ',
+    2 => '34.61',
+    3 => '-114.3',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  '05' => 
+  array (
+    0 => 'Lake Havasu City',
+    1 => 'AZ',
+    2 => '34.5',
+    3 => '-114.31',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  '06' => 
+  array (
+    0 => 'Lake Havasu City',
+    1 => 'AZ',
+    2 => '34.44',
+    3 => '-114.24',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  '09' => 
+  array (
+    0 => 'Kingman',
+    1 => 'AZ',
+    2 => '35.24',
+    3 => '-114.01',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  11 => 
+  array (
+    0 => 'Hackberry',
+    1 => 'AZ',
+    2 => '35.36',
+    3 => '-113.72',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  12 => 
+  array (
+    0 => 'Hualapai',
+    1 => 'AZ',
+    2 => '35.5',
+    3 => '-113.88',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  13 => 
+  array (
+    0 => 'Golden Valley',
+    1 => 'AZ',
+    2 => '35.13',
+    3 => '-114.25',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  26 => 
+  array (
+    0 => 'Fort Mohave',
+    1 => 'AZ',
+    2 => '35',
+    3 => '-114.56',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  27 => 
+  array (
+    0 => 'Fort Mohave',
+    1 => 'AZ',
+    2 => '35.01',
+    3 => '-114.58',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  29 => 
+  array (
+    0 => 'Bullhead City',
+    1 => 'AZ',
+    2 => '35.14',
+    3 => '-114.49',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  30 => 
+  array (
+    0 => 'Bullhead City',
+    1 => 'AZ',
+    2 => '35.28',
+    3 => '-114.49',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  31 => 
+  array (
+    0 => 'Chloride',
+    1 => 'AZ',
+    2 => '35.39',
+    3 => '-114.21',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  32 => 
+  array (
+    0 => 'Littlefield',
+    1 => 'AZ',
+    2 => '36.9',
+    3 => '-113.94',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  33 => 
+  array (
+    0 => 'Oatman',
+    1 => 'AZ',
+    2 => '35.01',
+    3 => '-114.44',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  36 => 
+  array (
+    0 => 'Topock',
+    1 => 'AZ',
+    2 => '34.72',
+    3 => '-114.44',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  37 => 
+  array (
+    0 => 'Valentine',
+    1 => 'AZ',
+    2 => '35.39',
+    3 => '-113.62',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  38 => 
+  array (
+    0 => 'Yucca',
+    1 => 'AZ',
+    2 => '34.76',
+    3 => '-114.01',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  39 => 
+  array (
+    0 => 'Bullhead City',
+    1 => 'AZ',
+    2 => '35.14',
+    3 => '-114.56',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  40 => 
+  array (
+    0 => 'Mohave Valley',
+    1 => 'AZ',
+    2 => '34.86',
+    3 => '-114.51',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  41 => 
+  array (
+    0 => 'Dolan Springs',
+    1 => 'AZ',
+    2 => '35.64',
+    3 => '-114.31',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  42 => 
+  array (
+    0 => 'Bullhead City',
+    1 => 'AZ',
+    2 => '35.09',
+    3 => '-114.57',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  43 => 
+  array (
+    0 => 'Temple Bar Marina',
+    1 => 'AZ',
+    2 => '36.02',
+    3 => '-114.29',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  44 => 
+  array (
+    0 => 'Meadview',
+    1 => 'AZ',
+    2 => '35.98',
+    3 => '-114.06',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  45 => 
+  array (
+    0 => 'Willow Beach',
+    1 => 'AZ',
+    2 => '35.9',
+    3 => '-114.59',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  46 => 
+  array (
+    0 => 'Mohave Valley',
+    1 => 'AZ',
+    2 => '34.91',
+    3 => '-114.54',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+);

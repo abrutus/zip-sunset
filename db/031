@@ -1,0 +1,101 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Manchester',
+    1 => 'NH',
+    2 => '42.99',
+    3 => '-71.45',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '02' => 
+  array (
+    0 => 'Manchester',
+    1 => 'NH',
+    2 => '42.99',
+    3 => '-71.45',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '03' => 
+  array (
+    0 => 'Manchester',
+    1 => 'NH',
+    2 => '42.99',
+    3 => '-71.45',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '04' => 
+  array (
+    0 => 'Manchester',
+    1 => 'NH',
+    2 => '42.99',
+    3 => '-71.45',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '05' => 
+  array (
+    0 => 'Manchester',
+    1 => 'NH',
+    2 => '42.99',
+    3 => '-71.45',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '06' => 
+  array (
+    0 => 'Hooksett',
+    1 => 'NH',
+    2 => '43.09',
+    3 => '-71.45',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '07' => 
+  array (
+    0 => 'Manchester',
+    1 => 'NH',
+    2 => '42.99',
+    3 => '-71.45',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '08' => 
+  array (
+    0 => 'Manchester',
+    1 => 'NH',
+    2 => '42.99',
+    3 => '-71.45',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '09' => 
+  array (
+    0 => 'Manchester',
+    1 => 'NH',
+    2 => '42.99',
+    3 => '-71.45',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  10 => 
+  array (
+    0 => 'Bedford',
+    1 => 'NH',
+    2 => '42.95',
+    3 => '-71.5',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  11 => 
+  array (
+    0 => 'Manchester',
+    1 => 'NH',
+    2 => '42.99',
+    3 => '-71.45',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

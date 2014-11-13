@@ -1,0 +1,470 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Honolulu',
+    1 => 'HI',
+    2 => '21.3',
+    3 => '-157.85',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  '02' => 
+  array (
+    0 => 'Honolulu',
+    1 => 'HI',
+    2 => '21.3',
+    3 => '-157.85',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  '03' => 
+  array (
+    0 => 'Honolulu',
+    1 => 'HI',
+    2 => '21.3',
+    3 => '-157.85',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  '04' => 
+  array (
+    0 => 'Honolulu',
+    1 => 'HI',
+    2 => '21.3',
+    3 => '-157.85',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  '05' => 
+  array (
+    0 => 'Honolulu',
+    1 => 'HI',
+    2 => '21.3',
+    3 => '-157.85',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  '06' => 
+  array (
+    0 => 'Honolulu',
+    1 => 'HI',
+    2 => '21.3',
+    3 => '-157.85',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  '07' => 
+  array (
+    0 => 'Honolulu',
+    1 => 'HI',
+    2 => '21.3',
+    3 => '-157.85',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  '08' => 
+  array (
+    0 => 'Honolulu',
+    1 => 'HI',
+    2 => '21.3',
+    3 => '-157.85',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  '09' => 
+  array (
+    0 => 'Honolulu',
+    1 => 'HI',
+    2 => '21.3',
+    3 => '-157.85',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  10 => 
+  array (
+    0 => 'Honolulu',
+    1 => 'HI',
+    2 => '21.3',
+    3 => '-157.85',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  11 => 
+  array (
+    0 => 'Honolulu',
+    1 => 'HI',
+    2 => '21.3',
+    3 => '-157.85',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  12 => 
+  array (
+    0 => 'Honolulu',
+    1 => 'HI',
+    2 => '21.3',
+    3 => '-157.85',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  13 => 
+  array (
+    0 => 'Honolulu',
+    1 => 'HI',
+    2 => '21.3',
+    3 => '-157.85',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  14 => 
+  array (
+    0 => 'Honolulu',
+    1 => 'HI',
+    2 => '21.3',
+    3 => '-157.85',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  15 => 
+  array (
+    0 => 'Honolulu',
+    1 => 'HI',
+    2 => '21.3',
+    3 => '-157.85',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  16 => 
+  array (
+    0 => 'Honolulu',
+    1 => 'HI',
+    2 => '21.3',
+    3 => '-157.85',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  17 => 
+  array (
+    0 => 'Honolulu',
+    1 => 'HI',
+    2 => '21.3',
+    3 => '-157.85',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  18 => 
+  array (
+    0 => 'Honolulu',
+    1 => 'HI',
+    2 => '21.3',
+    3 => '-157.85',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  19 => 
+  array (
+    0 => 'Honolulu',
+    1 => 'HI',
+    2 => '21.3',
+    3 => '-157.85',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  20 => 
+  array (
+    0 => 'Honolulu',
+    1 => 'HI',
+    2 => '21.3',
+    3 => '-157.85',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  21 => 
+  array (
+    0 => 'Honolulu',
+    1 => 'HI',
+    2 => '21.3',
+    3 => '-157.85',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  22 => 
+  array (
+    0 => 'Honolulu',
+    1 => 'HI',
+    2 => '21.3',
+    3 => '-157.85',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  23 => 
+  array (
+    0 => 'Honolulu',
+    1 => 'HI',
+    2 => '21.3',
+    3 => '-157.85',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  24 => 
+  array (
+    0 => 'Honolulu',
+    1 => 'HI',
+    2 => '21.3',
+    3 => '-157.85',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  25 => 
+  array (
+    0 => 'Honolulu',
+    1 => 'HI',
+    2 => '21.3',
+    3 => '-157.85',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  26 => 
+  array (
+    0 => 'Honolulu',
+    1 => 'HI',
+    2 => '21.3',
+    3 => '-157.85',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  27 => 
+  array (
+    0 => 'Honolulu',
+    1 => 'HI',
+    2 => '21.31',
+    3 => '-157.86',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  28 => 
+  array (
+    0 => 'Honolulu',
+    1 => 'HI',
+    2 => '21.3',
+    3 => '-157.85',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  30 => 
+  array (
+    0 => 'Honolulu',
+    1 => 'HI',
+    2 => '21.3',
+    3 => '-157.85',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  35 => 
+  array (
+    0 => 'Honolulu',
+    1 => 'HI',
+    2 => '21.35',
+    3 => '-157.87',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  36 => 
+  array (
+    0 => 'Honolulu',
+    1 => 'HI',
+    2 => '21.3',
+    3 => '-157.85',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  37 => 
+  array (
+    0 => 'Honolulu',
+    1 => 'HI',
+    2 => '21.3',
+    3 => '-157.85',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  38 => 
+  array (
+    0 => 'Honolulu',
+    1 => 'HI',
+    2 => '21.3',
+    3 => '-157.85',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  39 => 
+  array (
+    0 => 'Honolulu',
+    1 => 'HI',
+    2 => '21.3',
+    3 => '-157.85',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  40 => 
+  array (
+    0 => 'Honolulu',
+    1 => 'HI',
+    2 => '21.3',
+    3 => '-157.85',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  41 => 
+  array (
+    0 => 'Honolulu',
+    1 => 'HI',
+    2 => '21.3',
+    3 => '-157.85',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  43 => 
+  array (
+    0 => 'Honolulu',
+    1 => 'HI',
+    2 => '21.3',
+    3 => '-157.85',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  44 => 
+  array (
+    0 => 'Honolulu',
+    1 => 'HI',
+    2 => '21.3',
+    3 => '-157.85',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  46 => 
+  array (
+    0 => 'Honolulu',
+    1 => 'HI',
+    2 => '21.3',
+    3 => '-157.85',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  47 => 
+  array (
+    0 => 'Honolulu',
+    1 => 'HI',
+    2 => '21.3',
+    3 => '-157.85',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  48 => 
+  array (
+    0 => 'Honolulu',
+    1 => 'HI',
+    2 => '21.3',
+    3 => '-157.85',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  49 => 
+  array (
+    0 => 'Honolulu',
+    1 => 'HI',
+    2 => '21.3',
+    3 => '-157.85',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  50 => 
+  array (
+    0 => 'Honolulu',
+    1 => 'HI',
+    2 => '21.3',
+    3 => '-157.85',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  53 => 
+  array (
+    0 => 'J B P H H',
+    1 => 'HI',
+    2 => '21.31',
+    3 => '-157.93',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  54 => 
+  array (
+    0 => 'Wheeler Army Airfield',
+    1 => 'HI',
+    2 => '21.48',
+    3 => '-158.03',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  57 => 
+  array (
+    0 => 'Schofield Barracks',
+    1 => 'HI',
+    2 => '21.49',
+    3 => '-158.06',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  58 => 
+  array (
+    0 => 'Fort Shafter',
+    1 => 'HI',
+    2 => '21.35',
+    3 => '-157.87',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  59 => 
+  array (
+    0 => 'Tripler Army Medical Center',
+    1 => 'HI',
+    2 => '21.36',
+    3 => '-157.89',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  60 => 
+  array (
+    0 => 'J B P H H',
+    1 => 'HI',
+    2 => '21.36',
+    3 => '-157.94',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  61 => 
+  array (
+    0 => 'Camp H M Smith',
+    1 => 'HI',
+    2 => '21.39',
+    3 => '-157.9',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  63 => 
+  array (
+    0 => 'M C B H Kaneohe Bay',
+    1 => 'HI',
+    2 => '21.43',
+    3 => '-157.74',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  98 => 
+  array (
+    0 => 'Wake Island',
+    1 => 'HI',
+    2 => '21.32',
+    3 => '-157.89',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+);

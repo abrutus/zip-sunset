@@ -1,0 +1,164 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'South Bend',
+    1 => 'IN',
+    2 => '41.67',
+    3 => '-86.26',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  '04' => 
+  array (
+    0 => 'South Bend',
+    1 => 'IN',
+    2 => '41.68',
+    3 => '-86.25',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  13 => 
+  array (
+    0 => 'South Bend',
+    1 => 'IN',
+    2 => '41.67',
+    3 => '-86.26',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  14 => 
+  array (
+    0 => 'South Bend',
+    1 => 'IN',
+    2 => '41.67',
+    3 => '-86.26',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  15 => 
+  array (
+    0 => 'South Bend',
+    1 => 'IN',
+    2 => '41.67',
+    3 => '-86.26',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  16 => 
+  array (
+    0 => 'South Bend',
+    1 => 'IN',
+    2 => '41.67',
+    3 => '-86.26',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  17 => 
+  array (
+    0 => 'South Bend',
+    1 => 'IN',
+    2 => '41.67',
+    3 => '-86.26',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  19 => 
+  array (
+    0 => 'South Bend',
+    1 => 'IN',
+    2 => '41.67',
+    3 => '-86.26',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  20 => 
+  array (
+    0 => 'South Bend',
+    1 => 'IN',
+    2 => '41.68',
+    3 => '-86.25',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  24 => 
+  array (
+    0 => 'South Bend',
+    1 => 'IN',
+    2 => '41.67',
+    3 => '-86.26',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  26 => 
+  array (
+    0 => 'South Bend',
+    1 => 'IN',
+    2 => '41.67',
+    3 => '-86.26',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  28 => 
+  array (
+    0 => 'South Bend',
+    1 => 'IN',
+    2 => '41.67',
+    3 => '-86.26',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  34 => 
+  array (
+    0 => 'South Bend',
+    1 => 'IN',
+    2 => '41.67',
+    3 => '-86.26',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  35 => 
+  array (
+    0 => 'South Bend',
+    1 => 'IN',
+    2 => '41.67',
+    3 => '-86.26',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  37 => 
+  array (
+    0 => 'South Bend',
+    1 => 'IN',
+    2 => '41.67',
+    3 => '-86.26',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  60 => 
+  array (
+    0 => 'South Bend',
+    1 => 'IN',
+    2 => '41.67',
+    3 => '-86.26',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  80 => 
+  array (
+    0 => 'South Bend',
+    1 => 'IN',
+    2 => '41.67',
+    3 => '-86.26',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  99 => 
+  array (
+    0 => 'South Bend',
+    1 => 'IN',
+    2 => '41.67',
+    3 => '-86.26',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+);

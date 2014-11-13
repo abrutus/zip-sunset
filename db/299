@@ -1,0 +1,353 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Beaufort',
+    1 => 'SC',
+    2 => '32.42',
+    3 => '-80.68',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '02' => 
+  array (
+    0 => 'Beaufort',
+    1 => 'SC',
+    2 => '32.42',
+    3 => '-80.68',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '03' => 
+  array (
+    0 => 'Beaufort',
+    1 => 'SC',
+    2 => '32.42',
+    3 => '-80.68',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '04' => 
+  array (
+    0 => 'Beaufort',
+    1 => 'SC',
+    2 => '32.42',
+    3 => '-80.68',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '05' => 
+  array (
+    0 => 'Beaufort',
+    1 => 'SC',
+    2 => '32.42',
+    3 => '-80.68',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '06' => 
+  array (
+    0 => 'Beaufort',
+    1 => 'SC',
+    2 => '32.42',
+    3 => '-80.68',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '07' => 
+  array (
+    0 => 'Ladys Island',
+    1 => 'SC',
+    2 => '32.43',
+    3 => '-80.64',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '09' => 
+  array (
+    0 => 'Okatie',
+    1 => 'SC',
+    2 => '32.3',
+    3 => '-80.92',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  10 => 
+  array (
+    0 => 'Bluffton',
+    1 => 'SC',
+    2 => '32.23',
+    3 => '-80.86',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  11 => 
+  array (
+    0 => 'Brunson',
+    1 => 'SC',
+    2 => '32.92',
+    3 => '-81.18',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  12 => 
+  array (
+    0 => 'Coosawhatchie',
+    1 => 'SC',
+    2 => '32.58',
+    3 => '-80.92',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  13 => 
+  array (
+    0 => 'Crocketville',
+    1 => 'SC',
+    2 => '32.91',
+    3 => '-81.07',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  14 => 
+  array (
+    0 => 'Dale',
+    1 => 'SC',
+    2 => '32.55',
+    3 => '-80.69',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  15 => 
+  array (
+    0 => 'Daufuskie Island',
+    1 => 'SC',
+    2 => '32.12',
+    3 => '-80.86',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  16 => 
+  array (
+    0 => 'Early Branch',
+    1 => 'SC',
+    2 => '32.74',
+    3 => '-80.92',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  18 => 
+  array (
+    0 => 'Estill',
+    1 => 'SC',
+    2 => '32.75',
+    3 => '-81.24',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  20 => 
+  array (
+    0 => 'Saint Helena Island',
+    1 => 'SC',
+    2 => '32.38',
+    3 => '-80.56',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  21 => 
+  array (
+    0 => 'Furman',
+    1 => 'SC',
+    2 => '32.68',
+    3 => '-81.18',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  22 => 
+  array (
+    0 => 'Garnett',
+    1 => 'SC',
+    2 => '32.6',
+    3 => '-81.24',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  23 => 
+  array (
+    0 => 'Gifford',
+    1 => 'SC',
+    2 => '32.86',
+    3 => '-81.23',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  24 => 
+  array (
+    0 => 'Hampton',
+    1 => 'SC',
+    2 => '32.86',
+    3 => '-81.1',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  25 => 
+  array (
+    0 => 'Hilton Head Island',
+    1 => 'SC',
+    2 => '32.19',
+    3 => '-80.74',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  26 => 
+  array (
+    0 => 'Hilton Head Island',
+    1 => 'SC',
+    2 => '32.19',
+    3 => '-80.74',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  27 => 
+  array (
+    0 => 'Hardeeville',
+    1 => 'SC',
+    2 => '32.27',
+    3 => '-81.07',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  28 => 
+  array (
+    0 => 'Hilton Head Island',
+    1 => 'SC',
+    2 => '32.19',
+    3 => '-80.74',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  29 => 
+  array (
+    0 => 'Islandton',
+    1 => 'SC',
+    2 => '32.9',
+    3 => '-80.93',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  31 => 
+  array (
+    0 => 'Lobeco',
+    1 => 'SC',
+    2 => '32.55',
+    3 => '-80.74',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  32 => 
+  array (
+    0 => 'Luray',
+    1 => 'SC',
+    2 => '32.81',
+    3 => '-81.24',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  33 => 
+  array (
+    0 => 'Miley',
+    1 => 'SC',
+    2 => '32.94',
+    3 => '-81.03',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  34 => 
+  array (
+    0 => 'Pineland',
+    1 => 'SC',
+    2 => '32.6',
+    3 => '-81.15',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  35 => 
+  array (
+    0 => 'Port Royal',
+    1 => 'SC',
+    2 => '32.38',
+    3 => '-80.69',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  36 => 
+  array (
+    0 => 'Ridgeland',
+    1 => 'SC',
+    2 => '32.48',
+    3 => '-80.98',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  38 => 
+  array (
+    0 => 'Hilton Head Island',
+    1 => 'SC',
+    2 => '32.19',
+    3 => '-80.74',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  39 => 
+  array (
+    0 => 'Scotia',
+    1 => 'SC',
+    2 => '32.68',
+    3 => '-81.24',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  40 => 
+  array (
+    0 => 'Seabrook',
+    1 => 'SC',
+    2 => '32.56',
+    3 => '-80.73',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  41 => 
+  array (
+    0 => 'Sheldon',
+    1 => 'SC',
+    2 => '32.6',
+    3 => '-80.79',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  43 => 
+  array (
+    0 => 'Tillman',
+    1 => 'SC',
+    2 => '32.46',
+    3 => '-81.1',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  44 => 
+  array (
+    0 => 'Varnville',
+    1 => 'SC',
+    2 => '32.85',
+    3 => '-81.08',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  45 => 
+  array (
+    0 => 'Yemassee',
+    1 => 'SC',
+    2 => '32.69',
+    3 => '-80.85',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

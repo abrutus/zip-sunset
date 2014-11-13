@@ -1,0 +1,281 @@
+<?php $db= array (
+  30 => 
+  array (
+    0 => 'Bath',
+    1 => 'ME',
+    2 => '43.93',
+    3 => '-69.83',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  35 => 
+  array (
+    0 => 'Alna',
+    1 => 'ME',
+    2 => '44.1',
+    3 => '-69.6',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  37 => 
+  array (
+    0 => 'Boothbay',
+    1 => 'ME',
+    2 => '43.87',
+    3 => '-69.63',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  38 => 
+  array (
+    0 => 'Boothbay Harbor',
+    1 => 'ME',
+    2 => '43.85',
+    3 => '-69.62',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  39 => 
+  array (
+    0 => 'Bristol',
+    1 => 'ME',
+    2 => '43.95',
+    3 => '-69.5',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  41 => 
+  array (
+    0 => 'Chamberlain',
+    1 => 'ME',
+    2 => '43.88',
+    3 => '-69.49',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  43 => 
+  array (
+    0 => 'Damariscotta',
+    1 => 'ME',
+    2 => '44.03',
+    3 => '-69.51',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  44 => 
+  array (
+    0 => 'East Boothbay',
+    1 => 'ME',
+    2 => '43.82',
+    3 => '-69.59',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  47 => 
+  array (
+    0 => 'Friendship',
+    1 => 'ME',
+    2 => '43.98',
+    3 => '-69.33',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  48 => 
+  array (
+    0 => 'Georgetown',
+    1 => 'ME',
+    2 => '43.8',
+    3 => '-69.74',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  49 => 
+  array (
+    0 => 'Isle Of Springs',
+    1 => 'ME',
+    2 => '43.89',
+    3 => '-69.62',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  51 => 
+  array (
+    0 => 'Bremen',
+    1 => 'ME',
+    2 => '44',
+    3 => '-69.42',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  53 => 
+  array (
+    0 => 'Newcastle',
+    1 => 'ME',
+    2 => '44.03',
+    3 => '-69.53',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  54 => 
+  array (
+    0 => 'New Harbor',
+    1 => 'ME',
+    2 => '43.85',
+    3 => '-69.5',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  55 => 
+  array (
+    0 => 'Nobleboro',
+    1 => 'ME',
+    2 => '44.07',
+    3 => '-69.48',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  56 => 
+  array (
+    0 => 'Edgecomb',
+    1 => 'ME',
+    2 => '43.95',
+    3 => '-69.63',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  58 => 
+  array (
+    0 => 'Pemaquid',
+    1 => 'ME',
+    2 => '43.89',
+    3 => '-69.52',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  62 => 
+  array (
+    0 => 'Phippsburg',
+    1 => 'ME',
+    2 => '43.82',
+    3 => '-69.81',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  63 => 
+  array (
+    0 => 'Cushing',
+    1 => 'ME',
+    2 => '44.01',
+    3 => '-69.24',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  64 => 
+  array (
+    0 => 'Round Pond',
+    1 => 'ME',
+    2 => '43.91',
+    3 => '-69.46',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  65 => 
+  array (
+    0 => 'Sebasco Estates',
+    1 => 'ME',
+    2 => '43.77',
+    3 => '-69.84',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  68 => 
+  array (
+    0 => 'South Bristol',
+    1 => 'ME',
+    2 => '43.86',
+    3 => '-69.56',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  70 => 
+  array (
+    0 => 'Squirrel Island',
+    1 => 'ME',
+    2 => '43.8',
+    3 => '-69.63',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  71 => 
+  array (
+    0 => 'Trevett',
+    1 => 'ME',
+    2 => '43.89',
+    3 => '-69.67',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  72 => 
+  array (
+    0 => 'Waldoboro',
+    1 => 'ME',
+    2 => '44.09',
+    3 => '-69.38',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  73 => 
+  array (
+    0 => 'Walpole',
+    1 => 'ME',
+    2 => '43.94',
+    3 => '-69.55',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  74 => 
+  array (
+    0 => 'Washington',
+    1 => 'ME',
+    2 => '44.27',
+    3 => '-69.36',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  75 => 
+  array (
+    0 => 'West Boothbay Harbor',
+    1 => 'ME',
+    2 => '43.85',
+    3 => '-69.65',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  76 => 
+  array (
+    0 => 'Southport',
+    1 => 'ME',
+    2 => '43.84',
+    3 => '-69.65',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  78 => 
+  array (
+    0 => 'Wiscasset',
+    1 => 'ME',
+    2 => '44.01',
+    3 => '-69.67',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  79 => 
+  array (
+    0 => 'Woolwich',
+    1 => 'ME',
+    2 => '43.96',
+    3 => '-69.78',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

@@ -1,0 +1,137 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Inglewood',
+    1 => 'CA',
+    2 => '33.95',
+    3 => '-118.36',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '02' => 
+  array (
+    0 => 'Inglewood',
+    1 => 'CA',
+    2 => '33.97',
+    3 => '-118.35',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '03' => 
+  array (
+    0 => 'Inglewood',
+    1 => 'CA',
+    2 => '33.93',
+    3 => '-118.33',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '04' => 
+  array (
+    0 => 'Inglewood',
+    1 => 'CA',
+    2 => '33.93',
+    3 => '-118.36',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '05' => 
+  array (
+    0 => 'Inglewood',
+    1 => 'CA',
+    2 => '33.95',
+    3 => '-118.33',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '06' => 
+  array (
+    0 => 'Inglewood',
+    1 => 'CA',
+    2 => '33.95',
+    3 => '-118.35',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '07' => 
+  array (
+    0 => 'Inglewood',
+    1 => 'CA',
+    2 => '33.95',
+    3 => '-118.37',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '08' => 
+  array (
+    0 => 'Inglewood',
+    1 => 'CA',
+    2 => '33.95',
+    3 => '-118.35',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '09' => 
+  array (
+    0 => 'Inglewood',
+    1 => 'CA',
+    2 => '33.97',
+    3 => '-118.35',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  10 => 
+  array (
+    0 => 'Inglewood',
+    1 => 'CA',
+    2 => '33.93',
+    3 => '-118.32',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  11 => 
+  array (
+    0 => 'Inglewood',
+    1 => 'CA',
+    2 => '33.95',
+    3 => '-118.35',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  12 => 
+  array (
+    0 => 'Inglewood',
+    1 => 'CA',
+    2 => '33.96',
+    3 => '-118.35',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  13 => 
+  array (
+    0 => 'Inglewood',
+    1 => 'CA',
+    2 => '33.96',
+    3 => '-118.35',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  97 => 
+  array (
+    0 => 'Inglewood',
+    1 => 'CA',
+    2 => '33.96',
+    3 => '-118.35',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  98 => 
+  array (
+    0 => 'Inglewood',
+    1 => 'CA',
+    2 => '33.96',
+    3 => '-118.35',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+);

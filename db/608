@@ -1,0 +1,38 @@
+<?php $db= array (
+  '03' => 
+  array (
+    0 => 'Alsip',
+    1 => 'IL',
+    2 => '41.67',
+    3 => '-87.73',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '04' => 
+  array (
+    0 => 'Cicero',
+    1 => 'IL',
+    2 => '41.84',
+    3 => '-87.75',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '05' => 
+  array (
+    0 => 'Evergreen Park',
+    1 => 'IL',
+    2 => '41.72',
+    3 => '-87.7',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  27 => 
+  array (
+    0 => 'Riverdale',
+    1 => 'IL',
+    2 => '41.64',
+    3 => '-87.63',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+);

@@ -1,0 +1,371 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'East Stroudsburg',
+    1 => 'PA',
+    2 => '41',
+    3 => '-75.17',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '02' => 
+  array (
+    0 => 'East Stroudsburg',
+    1 => 'PA',
+    2 => '41.02',
+    3 => '-75.18',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  20 => 
+  array (
+    0 => 'Analomink',
+    1 => 'PA',
+    2 => '41',
+    3 => '-75.28',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  21 => 
+  array (
+    0 => 'Bartonsville',
+    1 => 'PA',
+    2 => '41',
+    3 => '-75.29',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  22 => 
+  array (
+    0 => 'Brodheadsville',
+    1 => 'PA',
+    2 => '40.92',
+    3 => '-75.4',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  23 => 
+  array (
+    0 => 'Buck Hill Falls',
+    1 => 'PA',
+    2 => '41.16',
+    3 => '-75.27',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  24 => 
+  array (
+    0 => 'Bushkill',
+    1 => 'PA',
+    2 => '41.09',
+    3 => '-75',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  25 => 
+  array (
+    0 => 'Canadensis',
+    1 => 'PA',
+    2 => '41.24',
+    3 => '-75.22',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  26 => 
+  array (
+    0 => 'Cresco',
+    1 => 'PA',
+    2 => '41.16',
+    3 => '-75.25',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  27 => 
+  array (
+    0 => 'Delaware Water Gap',
+    1 => 'PA',
+    2 => '40.97',
+    3 => '-75.13',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  28 => 
+  array (
+    0 => 'Dingmans Ferry',
+    1 => 'PA',
+    2 => '41.22',
+    3 => '-74.87',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  30 => 
+  array (
+    0 => 'Effort',
+    1 => 'PA',
+    2 => '40.96',
+    3 => '-75.45',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  31 => 
+  array (
+    0 => 'Gilbert',
+    1 => 'PA',
+    2 => '40.9',
+    3 => '-75.43',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  32 => 
+  array (
+    0 => 'Henryville',
+    1 => 'PA',
+    2 => '41.09',
+    3 => '-75.26',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  33 => 
+  array (
+    0 => 'Kresgeville',
+    1 => 'PA',
+    2 => '40.89',
+    3 => '-75.5',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  34 => 
+  array (
+    0 => 'Long Pond',
+    1 => 'PA',
+    2 => '41.05',
+    3 => '-75.44',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  35 => 
+  array (
+    0 => 'Marshalls Creek',
+    1 => 'PA',
+    2 => '41.04',
+    3 => '-75.12',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  36 => 
+  array (
+    0 => 'Matamoras',
+    1 => 'PA',
+    2 => '41.35',
+    3 => '-74.7',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  37 => 
+  array (
+    0 => 'Milford',
+    1 => 'PA',
+    2 => '41.32',
+    3 => '-74.8',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  40 => 
+  array (
+    0 => 'Millrift',
+    1 => 'PA',
+    2 => '41.4',
+    3 => '-74.74',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  41 => 
+  array (
+    0 => 'Minisink Hills',
+    1 => 'PA',
+    2 => '41',
+    3 => '-75.13',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  42 => 
+  array (
+    0 => 'Mountainhome',
+    1 => 'PA',
+    2 => '41.17',
+    3 => '-75.26',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  43 => 
+  array (
+    0 => 'Mount Bethel',
+    1 => 'PA',
+    2 => '40.9',
+    3 => '-75.11',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  44 => 
+  array (
+    0 => 'Mount Pocono',
+    1 => 'PA',
+    2 => '41.12',
+    3 => '-75.35',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  46 => 
+  array (
+    0 => 'Pocono Summit',
+    1 => 'PA',
+    2 => '41.1',
+    3 => '-75.42',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  47 => 
+  array (
+    0 => 'Pocono Lake',
+    1 => 'PA',
+    2 => '41.11',
+    3 => '-75.56',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  48 => 
+  array (
+    0 => 'Pocono Lake Preserve',
+    1 => 'PA',
+    2 => '41.11',
+    3 => '-75.56',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  49 => 
+  array (
+    0 => 'Pocono Manor',
+    1 => 'PA',
+    2 => '41.03',
+    3 => '-75.28',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  50 => 
+  array (
+    0 => 'Pocono Pines',
+    1 => 'PA',
+    2 => '41.11',
+    3 => '-75.45',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  51 => 
+  array (
+    0 => 'Portland',
+    1 => 'PA',
+    2 => '40.91',
+    3 => '-75.09',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  52 => 
+  array (
+    0 => 'Reeders',
+    1 => 'PA',
+    2 => '40.99',
+    3 => '-75.27',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  53 => 
+  array (
+    0 => 'Saylorsburg',
+    1 => 'PA',
+    2 => '40.9',
+    3 => '-75.36',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  54 => 
+  array (
+    0 => 'Sciota',
+    1 => 'PA',
+    2 => '40.92',
+    3 => '-75.28',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  55 => 
+  array (
+    0 => 'Scotrun',
+    1 => 'PA',
+    2 => '41.07',
+    3 => '-75.33',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  56 => 
+  array (
+    0 => 'Shawnee On Delaware',
+    1 => 'PA',
+    2 => '41.08',
+    3 => '-75.13',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  57 => 
+  array (
+    0 => 'Skytop',
+    1 => 'PA',
+    2 => '41.21',
+    3 => '-75.21',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  60 => 
+  array (
+    0 => 'Stroudsburg',
+    1 => 'PA',
+    2 => '40.98',
+    3 => '-75.19',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  70 => 
+  array (
+    0 => 'Swiftwater',
+    1 => 'PA',
+    2 => '41.08',
+    3 => '-75.36',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  71 => 
+  array (
+    0 => 'Tamiment',
+    1 => 'PA',
+    2 => '41.14',
+    3 => '-75.02',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  72 => 
+  array (
+    0 => 'Tannersville',
+    1 => 'PA',
+    2 => '41.04',
+    3 => '-75.33',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  73 => 
+  array (
+    0 => 'Unity House',
+    1 => 'PA',
+    2 => '41.14',
+    3 => '-75',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

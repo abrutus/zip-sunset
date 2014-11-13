@@ -1,0 +1,785 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Aiea',
+    1 => 'HI',
+    2 => '21.38',
+    3 => '-157.92',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  '03' => 
+  array (
+    0 => 'Anahola',
+    1 => 'HI',
+    2 => '22.14',
+    3 => '-159.31',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  '04' => 
+  array (
+    0 => 'Captain Cook',
+    1 => 'HI',
+    2 => '19.5',
+    3 => '-155.9',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  '05' => 
+  array (
+    0 => 'Eleele',
+    1 => 'HI',
+    2 => '21.91',
+    3 => '-159.58',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  '06' => 
+  array (
+    0 => 'Ewa Beach',
+    1 => 'HI',
+    2 => '21.31',
+    3 => '-158.01',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  '07' => 
+  array (
+    0 => 'Kapolei',
+    1 => 'HI',
+    2 => '21.34',
+    3 => '-158.08',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  '08' => 
+  array (
+    0 => 'Haiku',
+    1 => 'HI',
+    2 => '20.91',
+    3 => '-156.32',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  '09' => 
+  array (
+    0 => 'Kapolei',
+    1 => 'HI',
+    2 => '21.34',
+    3 => '-158.08',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  10 => 
+  array (
+    0 => 'Hakalau',
+    1 => 'HI',
+    2 => '19.89',
+    3 => '-155.12',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  12 => 
+  array (
+    0 => 'Haleiwa',
+    1 => 'HI',
+    2 => '21.59',
+    3 => '-158.1',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  13 => 
+  array (
+    0 => 'Hana',
+    1 => 'HI',
+    2 => '20.77',
+    3 => '-155.99',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  14 => 
+  array (
+    0 => 'Hanalei',
+    1 => 'HI',
+    2 => '22.2',
+    3 => '-159.5',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  15 => 
+  array (
+    0 => 'Hanamaulu',
+    1 => 'HI',
+    2 => '21.99',
+    3 => '-159.35',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  16 => 
+  array (
+    0 => 'Hanapepe',
+    1 => 'HI',
+    2 => '21.91',
+    3 => '-159.59',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  17 => 
+  array (
+    0 => 'Hauula',
+    1 => 'HI',
+    2 => '21.59',
+    3 => '-157.92',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  18 => 
+  array (
+    0 => 'Hawaii National Park',
+    1 => 'HI',
+    2 => '19.43',
+    3 => '-155.26',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  19 => 
+  array (
+    0 => 'Hawi',
+    1 => 'HI',
+    2 => '20.24',
+    3 => '-155.83',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  20 => 
+  array (
+    0 => 'Hilo',
+    1 => 'HI',
+    2 => '19.69',
+    3 => '-155.08',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  21 => 
+  array (
+    0 => 'Hilo',
+    1 => 'HI',
+    2 => '19.69',
+    3 => '-155.08',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  22 => 
+  array (
+    0 => 'Princeville',
+    1 => 'HI',
+    2 => '22.22',
+    3 => '-159.48',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  25 => 
+  array (
+    0 => 'Holualoa',
+    1 => 'HI',
+    2 => '19.63',
+    3 => '-155.92',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  26 => 
+  array (
+    0 => 'Honaunau',
+    1 => 'HI',
+    2 => '19.42',
+    3 => '-155.91',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  27 => 
+  array (
+    0 => 'Honokaa',
+    1 => 'HI',
+    2 => '20.07',
+    3 => '-155.46',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  28 => 
+  array (
+    0 => 'Honomu',
+    1 => 'HI',
+    2 => '19.87',
+    3 => '-155.11',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  29 => 
+  array (
+    0 => 'Hoolehua',
+    1 => 'HI',
+    2 => '21.17',
+    3 => '-157.07',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  30 => 
+  array (
+    0 => 'Kaaawa',
+    1 => 'HI',
+    2 => '21.55',
+    3 => '-157.85',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  31 => 
+  array (
+    0 => 'Kahuku',
+    1 => 'HI',
+    2 => '21.68',
+    3 => '-157.94',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  32 => 
+  array (
+    0 => 'Kahului',
+    1 => 'HI',
+    2 => '20.87',
+    3 => '-156.45',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  33 => 
+  array (
+    0 => 'Kahului',
+    1 => 'HI',
+    2 => '20.87',
+    3 => '-156.45',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  34 => 
+  array (
+    0 => 'Kailua',
+    1 => 'HI',
+    2 => '21.4',
+    3 => '-157.73',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  37 => 
+  array (
+    0 => 'Ocean View',
+    1 => 'HI',
+    2 => '19.1',
+    3 => '-155.76',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  38 => 
+  array (
+    0 => 'Waikoloa',
+    1 => 'HI',
+    2 => '19.93',
+    3 => '-155.79',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  39 => 
+  array (
+    0 => 'Keauhou',
+    1 => 'HI',
+    2 => '19.56',
+    3 => '-155.96',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  40 => 
+  array (
+    0 => 'Kailua Kona',
+    1 => 'HI',
+    2 => '19.63',
+    3 => '-155.99',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  41 => 
+  array (
+    0 => 'Kalaheo',
+    1 => 'HI',
+    2 => '21.92',
+    3 => '-159.52',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  42 => 
+  array (
+    0 => 'Kalaupapa',
+    1 => 'HI',
+    2 => '21.19',
+    3 => '-156.98',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  43 => 
+  array (
+    0 => 'Kamuela',
+    1 => 'HI',
+    2 => '20.04',
+    3 => '-155.7',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  44 => 
+  array (
+    0 => 'Kaneohe',
+    1 => 'HI',
+    2 => '21.41',
+    3 => '-157.79',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  45 => 
+  array (
+    0 => 'Kailua Kona',
+    1 => 'HI',
+    2 => '19.63',
+    3 => '-155.99',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  46 => 
+  array (
+    0 => 'Kapaa',
+    1 => 'HI',
+    2 => '22.09',
+    3 => '-159.35',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  47 => 
+  array (
+    0 => 'Kaumakani',
+    1 => 'HI',
+    2 => '21.92',
+    3 => '-159.62',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  48 => 
+  array (
+    0 => 'Kaunakakai',
+    1 => 'HI',
+    2 => '21.08',
+    3 => '-157.01',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  49 => 
+  array (
+    0 => 'Keaau',
+    1 => 'HI',
+    2 => '19.61',
+    3 => '-155.04',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  50 => 
+  array (
+    0 => 'Kealakekua',
+    1 => 'HI',
+    2 => '19.54',
+    3 => '-155.88',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  51 => 
+  array (
+    0 => 'Kealia',
+    1 => 'HI',
+    2 => '22.11',
+    3 => '-159.31',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  52 => 
+  array (
+    0 => 'Kekaha',
+    1 => 'HI',
+    2 => '21.97',
+    3 => '-159.71',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  53 => 
+  array (
+    0 => 'Kihei',
+    1 => 'HI',
+    2 => '20.76',
+    3 => '-156.45',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  54 => 
+  array (
+    0 => 'Kilauea',
+    1 => 'HI',
+    2 => '22.21',
+    3 => '-159.41',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  55 => 
+  array (
+    0 => 'Kapaau',
+    1 => 'HI',
+    2 => '20.23',
+    3 => '-155.81',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  56 => 
+  array (
+    0 => 'Koloa',
+    1 => 'HI',
+    2 => '21.9',
+    3 => '-159.46',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  57 => 
+  array (
+    0 => 'Kualapuu',
+    1 => 'HI',
+    2 => '21.16',
+    3 => '-157.05',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  59 => 
+  array (
+    0 => 'Kunia',
+    1 => 'HI',
+    2 => '21.46',
+    3 => '-158.06',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  60 => 
+  array (
+    0 => 'Kurtistown',
+    1 => 'HI',
+    2 => '19.58',
+    3 => '-155.07',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  61 => 
+  array (
+    0 => 'Lahaina',
+    1 => 'HI',
+    2 => '20.89',
+    3 => '-156.67',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  62 => 
+  array (
+    0 => 'Laie',
+    1 => 'HI',
+    2 => '21.64',
+    3 => '-157.92',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  63 => 
+  array (
+    0 => 'Lanai City',
+    1 => 'HI',
+    2 => '20.83',
+    3 => '-156.92',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  64 => 
+  array (
+    0 => 'Laupahoehoe',
+    1 => 'HI',
+    2 => '19.97',
+    3 => '-155.24',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  65 => 
+  array (
+    0 => 'Lawai',
+    1 => 'HI',
+    2 => '21.92',
+    3 => '-159.5',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  66 => 
+  array (
+    0 => 'Lihue',
+    1 => 'HI',
+    2 => '21.97',
+    3 => '-159.35',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  67 => 
+  array (
+    0 => 'Lahaina',
+    1 => 'HI',
+    2 => '20.89',
+    3 => '-156.67',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  68 => 
+  array (
+    0 => 'Makawao',
+    1 => 'HI',
+    2 => '20.85',
+    3 => '-156.32',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  69 => 
+  array (
+    0 => 'Makaweli',
+    1 => 'HI',
+    2 => '21.94',
+    3 => '-159.66',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  70 => 
+  array (
+    0 => 'Maunaloa',
+    1 => 'HI',
+    2 => '21.13',
+    3 => '-157.21',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  71 => 
+  array (
+    0 => 'Mountain View',
+    1 => 'HI',
+    2 => '19.52',
+    3 => '-155.14',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  72 => 
+  array (
+    0 => 'Naalehu',
+    1 => 'HI',
+    2 => '19.07',
+    3 => '-155.57',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  73 => 
+  array (
+    0 => 'Ninole',
+    1 => 'HI',
+    2 => '19.93',
+    3 => '-155.16',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  74 => 
+  array (
+    0 => 'Ookala',
+    1 => 'HI',
+    2 => '20.01',
+    3 => '-155.28',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  76 => 
+  array (
+    0 => 'Paauilo',
+    1 => 'HI',
+    2 => '20.04',
+    3 => '-155.37',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  77 => 
+  array (
+    0 => 'Pahala',
+    1 => 'HI',
+    2 => '19.2',
+    3 => '-155.48',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  78 => 
+  array (
+    0 => 'Pahoa',
+    1 => 'HI',
+    2 => '19.49',
+    3 => '-154.94',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  79 => 
+  array (
+    0 => 'Paia',
+    1 => 'HI',
+    2 => '20.91',
+    3 => '-156.37',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  80 => 
+  array (
+    0 => 'Papaaloa',
+    1 => 'HI',
+    2 => '19.97',
+    3 => '-155.22',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  81 => 
+  array (
+    0 => 'Papaikou',
+    1 => 'HI',
+    2 => '19.79',
+    3 => '-155.09',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  82 => 
+  array (
+    0 => 'Pearl City',
+    1 => 'HI',
+    2 => '21.4',
+    3 => '-157.96',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  83 => 
+  array (
+    0 => 'Pepeekeo',
+    1 => 'HI',
+    2 => '19.83',
+    3 => '-155.1',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  84 => 
+  array (
+    0 => 'Puunene',
+    1 => 'HI',
+    2 => '20.86',
+    3 => '-156.45',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  85 => 
+  array (
+    0 => 'Volcano',
+    1 => 'HI',
+    2 => '19.49',
+    3 => '-155.23',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  86 => 
+  array (
+    0 => 'Wahiawa',
+    1 => 'HI',
+    2 => '21.5',
+    3 => '-158.02',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  88 => 
+  array (
+    0 => 'Pukalani',
+    1 => 'HI',
+    2 => '20.83',
+    3 => '-156.34',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  89 => 
+  array (
+    0 => 'Mililani',
+    1 => 'HI',
+    2 => '21.45',
+    3 => '-158.01',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  90 => 
+  array (
+    0 => 'Kula',
+    1 => 'HI',
+    2 => '20.72',
+    3 => '-156.34',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  91 => 
+  array (
+    0 => 'Waialua',
+    1 => 'HI',
+    2 => '21.57',
+    3 => '-158.12',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  92 => 
+  array (
+    0 => 'Waianae',
+    1 => 'HI',
+    2 => '21.44',
+    3 => '-158.18',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  93 => 
+  array (
+    0 => 'Wailuku',
+    1 => 'HI',
+    2 => '20.88',
+    3 => '-156.5',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  95 => 
+  array (
+    0 => 'Waimanalo',
+    1 => 'HI',
+    2 => '21.34',
+    3 => '-157.72',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  96 => 
+  array (
+    0 => 'Waimea',
+    1 => 'HI',
+    2 => '21.95',
+    3 => '-159.67',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+  97 => 
+  array (
+    0 => 'Waipahu',
+    1 => 'HI',
+    2 => '21.39',
+    3 => '-158.01',
+    4 => -10,
+    5 => 'Pacific/Honolulu',
+  ),
+);

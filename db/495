@@ -1,0 +1,263 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Grand Rapids',
+    1 => 'MI',
+    2 => '42.96',
+    3 => '-85.65',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  '02' => 
+  array (
+    0 => 'Grand Rapids',
+    1 => 'MI',
+    2 => '42.96',
+    3 => '-85.65',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  '03' => 
+  array (
+    0 => 'Grand Rapids',
+    1 => 'MI',
+    2 => '42.96',
+    3 => '-85.65',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  '04' => 
+  array (
+    0 => 'Grand Rapids',
+    1 => 'MI',
+    2 => '42.96',
+    3 => '-85.65',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  '05' => 
+  array (
+    0 => 'Grand Rapids',
+    1 => 'MI',
+    2 => '42.96',
+    3 => '-85.65',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  '06' => 
+  array (
+    0 => 'Grand Rapids',
+    1 => 'MI',
+    2 => '42.96',
+    3 => '-85.65',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  '07' => 
+  array (
+    0 => 'Grand Rapids',
+    1 => 'MI',
+    2 => '42.96',
+    3 => '-85.65',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  '08' => 
+  array (
+    0 => 'Grand Rapids',
+    1 => 'MI',
+    2 => '42.96',
+    3 => '-85.65',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  '09' => 
+  array (
+    0 => 'Wyoming',
+    1 => 'MI',
+    2 => '42.96',
+    3 => '-85.65',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  10 => 
+  array (
+    0 => 'Grand Rapids',
+    1 => 'MI',
+    2 => '42.96',
+    3 => '-85.65',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  12 => 
+  array (
+    0 => 'Grand Rapids',
+    1 => 'MI',
+    2 => '42.96',
+    3 => '-85.65',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  14 => 
+  array (
+    0 => 'Grand Rapids',
+    1 => 'MI',
+    2 => '42.96',
+    3 => '-85.65',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  15 => 
+  array (
+    0 => 'Grand Rapids',
+    1 => 'MI',
+    2 => '42.96',
+    3 => '-85.65',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  16 => 
+  array (
+    0 => 'Grand Rapids',
+    1 => 'MI',
+    2 => '42.96',
+    3 => '-85.65',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  18 => 
+  array (
+    0 => 'Grand Rapids',
+    1 => 'MI',
+    2 => '42.96',
+    3 => '-85.65',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  19 => 
+  array (
+    0 => 'Wyoming',
+    1 => 'MI',
+    2 => '42.89',
+    3 => '-85.72',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  23 => 
+  array (
+    0 => 'Grand Rapids',
+    1 => 'MI',
+    2 => '42.96',
+    3 => '-85.65',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  25 => 
+  array (
+    0 => 'Grand Rapids',
+    1 => 'MI',
+    2 => '42.96',
+    3 => '-85.65',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  28 => 
+  array (
+    0 => 'Grand Rapids',
+    1 => 'MI',
+    2 => '42.9',
+    3 => '-85.67',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  30 => 
+  array (
+    0 => 'Grand Rapids',
+    1 => 'MI',
+    2 => '42.96',
+    3 => '-85.65',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  34 => 
+  array (
+    0 => 'Grand Rapids',
+    1 => 'MI',
+    2 => '42.97',
+    3 => '-85.77',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  44 => 
+  array (
+    0 => 'Grand Rapids',
+    1 => 'MI',
+    2 => '42.96',
+    3 => '-85.65',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  46 => 
+  array (
+    0 => 'Grand Rapids',
+    1 => 'MI',
+    2 => '42.96',
+    3 => '-85.65',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  48 => 
+  array (
+    0 => 'Grand Rapids',
+    1 => 'MI',
+    2 => '42.96',
+    3 => '-85.65',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  50 => 
+  array (
+    0 => 'Grand Rapids',
+    1 => 'MI',
+    2 => '42.97',
+    3 => '-85.67',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  55 => 
+  array (
+    0 => 'Grand Rapids',
+    1 => 'MI',
+    2 => '42.96',
+    3 => '-85.65',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  60 => 
+  array (
+    0 => 'Grand Rapids',
+    1 => 'MI',
+    2 => '42.96',
+    3 => '-85.65',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  88 => 
+  array (
+    0 => 'Grand Rapids',
+    1 => 'MI',
+    2 => '42.96',
+    3 => '-85.65',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  99 => 
+  array (
+    0 => 'Grand Rapids',
+    1 => 'MI',
+    2 => '42.96',
+    3 => '-85.65',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+);

@@ -1,0 +1,434 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Fort Lauderdale',
+    1 => 'FL',
+    2 => '26.14',
+    3 => '-80.13',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '02' => 
+  array (
+    0 => 'Fort Lauderdale',
+    1 => 'FL',
+    2 => '26.14',
+    3 => '-80.13',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '03' => 
+  array (
+    0 => 'Fort Lauderdale',
+    1 => 'FL',
+    2 => '26.14',
+    3 => '-80.13',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '04' => 
+  array (
+    0 => 'Fort Lauderdale',
+    1 => 'FL',
+    2 => '26.14',
+    3 => '-80.13',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '05' => 
+  array (
+    0 => 'Fort Lauderdale',
+    1 => 'FL',
+    2 => '26.14',
+    3 => '-80.13',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '06' => 
+  array (
+    0 => 'Fort Lauderdale',
+    1 => 'FL',
+    2 => '26.14',
+    3 => '-80.13',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '07' => 
+  array (
+    0 => 'Fort Lauderdale',
+    1 => 'FL',
+    2 => '26.14',
+    3 => '-80.13',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '08' => 
+  array (
+    0 => 'Fort Lauderdale',
+    1 => 'FL',
+    2 => '26.14',
+    3 => '-80.13',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '09' => 
+  array (
+    0 => 'Fort Lauderdale',
+    1 => 'FL',
+    2 => '26.14',
+    3 => '-80.13',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  10 => 
+  array (
+    0 => 'Fort Lauderdale',
+    1 => 'FL',
+    2 => '26.14',
+    3 => '-80.13',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  11 => 
+  array (
+    0 => 'Fort Lauderdale',
+    1 => 'FL',
+    2 => '26.14',
+    3 => '-80.13',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  12 => 
+  array (
+    0 => 'Fort Lauderdale',
+    1 => 'FL',
+    2 => '26.14',
+    3 => '-80.13',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  13 => 
+  array (
+    0 => 'Fort Lauderdale',
+    1 => 'FL',
+    2 => '26.14',
+    3 => '-80.13',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  14 => 
+  array (
+    0 => 'Fort Lauderdale',
+    1 => 'FL',
+    2 => '26.14',
+    3 => '-80.13',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  15 => 
+  array (
+    0 => 'Fort Lauderdale',
+    1 => 'FL',
+    2 => '26.14',
+    3 => '-80.13',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  16 => 
+  array (
+    0 => 'Fort Lauderdale',
+    1 => 'FL',
+    2 => '26.14',
+    3 => '-80.13',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  17 => 
+  array (
+    0 => 'Fort Lauderdale',
+    1 => 'FL',
+    2 => '26.14',
+    3 => '-80.13',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  18 => 
+  array (
+    0 => 'Fort Lauderdale',
+    1 => 'FL',
+    2 => '26.14',
+    3 => '-80.13',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  19 => 
+  array (
+    0 => 'Fort Lauderdale',
+    1 => 'FL',
+    2 => '26.14',
+    3 => '-80.13',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  20 => 
+  array (
+    0 => 'Fort Lauderdale',
+    1 => 'FL',
+    2 => '26.14',
+    3 => '-80.13',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  21 => 
+  array (
+    0 => 'Fort Lauderdale',
+    1 => 'FL',
+    2 => '26.14',
+    3 => '-80.13',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  22 => 
+  array (
+    0 => 'Fort Lauderdale',
+    1 => 'FL',
+    2 => '26.14',
+    3 => '-80.13',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  23 => 
+  array (
+    0 => 'Fort Lauderdale',
+    1 => 'FL',
+    2 => '26.14',
+    3 => '-80.13',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  24 => 
+  array (
+    0 => 'Fort Lauderdale',
+    1 => 'FL',
+    2 => '26.14',
+    3 => '-80.13',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  25 => 
+  array (
+    0 => 'Fort Lauderdale',
+    1 => 'FL',
+    2 => '26.14',
+    3 => '-80.13',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  26 => 
+  array (
+    0 => 'Fort Lauderdale',
+    1 => 'FL',
+    2 => '26.11',
+    3 => '-80.39',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  27 => 
+  array (
+    0 => 'Fort Lauderdale',
+    1 => 'FL',
+    2 => '26.11',
+    3 => '-80.39',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  28 => 
+  array (
+    0 => 'Fort Lauderdale',
+    1 => 'FL',
+    2 => '26.14',
+    3 => '-80.13',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  29 => 
+  array (
+    0 => 'Fort Lauderdale',
+    1 => 'FL',
+    2 => '26.14',
+    3 => '-80.13',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  30 => 
+  array (
+    0 => 'Fort Lauderdale',
+    1 => 'FL',
+    2 => '26.14',
+    3 => '-80.13',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  31 => 
+  array (
+    0 => 'Fort Lauderdale',
+    1 => 'FL',
+    2 => '26.14',
+    3 => '-80.13',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  32 => 
+  array (
+    0 => 'Fort Lauderdale',
+    1 => 'FL',
+    2 => '26.14',
+    3 => '-80.13',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  34 => 
+  array (
+    0 => 'Fort Lauderdale',
+    1 => 'FL',
+    2 => '26.14',
+    3 => '-80.13',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  35 => 
+  array (
+    0 => 'Fort Lauderdale',
+    1 => 'FL',
+    2 => '26.14',
+    3 => '-80.13',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  36 => 
+  array (
+    0 => 'Fort Lauderdale',
+    1 => 'FL',
+    2 => '26.14',
+    3 => '-80.13',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  37 => 
+  array (
+    0 => 'Fort Lauderdale',
+    1 => 'FL',
+    2 => '26.14',
+    3 => '-80.13',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  38 => 
+  array (
+    0 => 'Fort Lauderdale',
+    1 => 'FL',
+    2 => '26.14',
+    3 => '-80.13',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  39 => 
+  array (
+    0 => 'Fort Lauderdale',
+    1 => 'FL',
+    2 => '26.14',
+    3 => '-80.13',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  40 => 
+  array (
+    0 => 'Fort Lauderdale',
+    1 => 'FL',
+    2 => '26.14',
+    3 => '-80.13',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  45 => 
+  array (
+    0 => 'Fort Lauderdale',
+    1 => 'FL',
+    2 => '26.14',
+    3 => '-80.13',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  46 => 
+  array (
+    0 => 'Fort Lauderdale',
+    1 => 'FL',
+    2 => '26.14',
+    3 => '-80.13',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  48 => 
+  array (
+    0 => 'Fort Lauderdale',
+    1 => 'FL',
+    2 => '26.14',
+    3 => '-80.13',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  49 => 
+  array (
+    0 => 'Fort Lauderdale',
+    1 => 'FL',
+    2 => '26.14',
+    3 => '-80.13',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  51 => 
+  array (
+    0 => 'Fort Lauderdale',
+    1 => 'FL',
+    2 => '26.14',
+    3 => '-80.13',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  55 => 
+  array (
+    0 => 'Fort Lauderdale',
+    1 => 'FL',
+    2 => '26.14',
+    3 => '-80.13',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  59 => 
+  array (
+    0 => 'Fort Lauderdale',
+    1 => 'FL',
+    2 => '26.14',
+    3 => '-80.13',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  88 => 
+  array (
+    0 => 'Plantation',
+    1 => 'FL',
+    2 => '26.14',
+    3 => '-80.13',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  94 => 
+  array (
+    0 => 'Fort Lauderdale',
+    1 => 'FL',
+    2 => '26.14',
+    3 => '-80.13',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

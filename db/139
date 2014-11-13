@@ -1,0 +1,47 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Binghamton',
+    1 => 'NY',
+    2 => '42.1',
+    3 => '-75.91',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '02' => 
+  array (
+    0 => 'Binghamton',
+    1 => 'NY',
+    2 => '42.1',
+    3 => '-75.91',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '03' => 
+  array (
+    0 => 'Binghamton',
+    1 => 'NY',
+    2 => '42.1',
+    3 => '-75.91',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '04' => 
+  array (
+    0 => 'Binghamton',
+    1 => 'NY',
+    2 => '42.1',
+    3 => '-75.91',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '05' => 
+  array (
+    0 => 'Binghamton',
+    1 => 'NY',
+    2 => '42.1',
+    3 => '-75.91',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

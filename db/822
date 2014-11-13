@@ -1,0 +1,182 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Wheatland',
+    1 => 'WY',
+    2 => '42.05',
+    3 => '-104.95',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  10 => 
+  array (
+    0 => 'Chugwater',
+    1 => 'WY',
+    2 => '41.75',
+    3 => '-104.82',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  12 => 
+  array (
+    0 => 'Fort Laramie',
+    1 => 'WY',
+    2 => '42.21',
+    3 => '-104.51',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  13 => 
+  array (
+    0 => 'Glendo',
+    1 => 'WY',
+    2 => '42.5',
+    3 => '-105.02',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  14 => 
+  array (
+    0 => 'Guernsey',
+    1 => 'WY',
+    2 => '42.26',
+    3 => '-104.74',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  15 => 
+  array (
+    0 => 'Hartville',
+    1 => 'WY',
+    2 => '42.32',
+    3 => '-104.72',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  17 => 
+  array (
+    0 => 'Hawk Springs',
+    1 => 'WY',
+    2 => '41.79',
+    3 => '-104.27',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  18 => 
+  array (
+    0 => 'Huntley',
+    1 => 'WY',
+    2 => '41.94',
+    3 => '-104.07',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  19 => 
+  array (
+    0 => 'Jay Em',
+    1 => 'WY',
+    2 => '42.47',
+    3 => '-104.36',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  21 => 
+  array (
+    0 => 'Lagrange',
+    1 => 'WY',
+    2 => '41.62',
+    3 => '-104.34',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  22 => 
+  array (
+    0 => 'Lance Creek',
+    1 => 'WY',
+    2 => '43.02',
+    3 => '-104.64',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  23 => 
+  array (
+    0 => 'Lingle',
+    1 => 'WY',
+    2 => '42.13',
+    3 => '-104.34',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  24 => 
+  array (
+    0 => 'Lost Springs',
+    1 => 'WY',
+    2 => '42.76',
+    3 => '-104.92',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  25 => 
+  array (
+    0 => 'Lusk',
+    1 => 'WY',
+    2 => '42.76',
+    3 => '-104.45',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  27 => 
+  array (
+    0 => 'Manville',
+    1 => 'WY',
+    2 => '42.77',
+    3 => '-104.61',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  29 => 
+  array (
+    0 => 'Shawnee',
+    1 => 'WY',
+    2 => '42.88',
+    3 => '-105.03',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  40 => 
+  array (
+    0 => 'Torrington',
+    1 => 'WY',
+    2 => '42.06',
+    3 => '-104.18',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  42 => 
+  array (
+    0 => 'Van Tassell',
+    1 => 'WY',
+    2 => '42.66',
+    3 => '-104.09',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  43 => 
+  array (
+    0 => 'Veteran',
+    1 => 'WY',
+    2 => '41.96',
+    3 => '-104.35',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  44 => 
+  array (
+    0 => 'Yoder',
+    1 => 'WY',
+    2 => '41.91',
+    3 => '-104.29',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+);

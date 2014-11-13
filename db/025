@@ -1,0 +1,272 @@
+<?php $db= array (
+  32 => 
+  array (
+    0 => 'Buzzards Bay',
+    1 => 'MA',
+    2 => '41.75',
+    3 => '-70.61',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  34 => 
+  array (
+    0 => 'Cataumet',
+    1 => 'MA',
+    2 => '41.66',
+    3 => '-70.61',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  35 => 
+  array (
+    0 => 'Chilmark',
+    1 => 'MA',
+    2 => '41.34',
+    3 => '-70.74',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  36 => 
+  array (
+    0 => 'East Falmouth',
+    1 => 'MA',
+    2 => '41.56',
+    3 => '-70.55',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  37 => 
+  array (
+    0 => 'East Sandwich',
+    1 => 'MA',
+    2 => '41.73',
+    3 => '-70.43',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  38 => 
+  array (
+    0 => 'East Wareham',
+    1 => 'MA',
+    2 => '41.77',
+    3 => '-70.64',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  39 => 
+  array (
+    0 => 'Edgartown',
+    1 => 'MA',
+    2 => '41.38',
+    3 => '-70.53',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  40 => 
+  array (
+    0 => 'Falmouth',
+    1 => 'MA',
+    2 => '41.56',
+    3 => '-70.62',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  41 => 
+  array (
+    0 => 'Falmouth',
+    1 => 'MA',
+    2 => '41.54',
+    3 => '-70.6',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  42 => 
+  array (
+    0 => 'Buzzards Bay',
+    1 => 'MA',
+    2 => '41.75',
+    3 => '-70.61',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  43 => 
+  array (
+    0 => 'Woods Hole',
+    1 => 'MA',
+    2 => '41.52',
+    3 => '-70.66',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  52 => 
+  array (
+    0 => 'Menemsha',
+    1 => 'MA',
+    2 => '41.34',
+    3 => '-70.73',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  53 => 
+  array (
+    0 => 'Monument Beach',
+    1 => 'MA',
+    2 => '41.71',
+    3 => '-70.6',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  54 => 
+  array (
+    0 => 'Nantucket',
+    1 => 'MA',
+    2 => '41.27',
+    3 => '-70.1',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  56 => 
+  array (
+    0 => 'North Falmouth',
+    1 => 'MA',
+    2 => '41.64',
+    3 => '-70.63',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  57 => 
+  array (
+    0 => 'Oak Bluffs',
+    1 => 'MA',
+    2 => '41.45',
+    3 => '-70.56',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  58 => 
+  array (
+    0 => 'Onset',
+    1 => 'MA',
+    2 => '41.74',
+    3 => '-70.66',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  59 => 
+  array (
+    0 => 'Pocasset',
+    1 => 'MA',
+    2 => '41.69',
+    3 => '-70.63',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  61 => 
+  array (
+    0 => 'Sagamore',
+    1 => 'MA',
+    2 => '41.78',
+    3 => '-70.53',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  62 => 
+  array (
+    0 => 'Sagamore Beach',
+    1 => 'MA',
+    2 => '41.79',
+    3 => '-70.53',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  63 => 
+  array (
+    0 => 'Sandwich',
+    1 => 'MA',
+    2 => '41.75',
+    3 => '-70.49',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  64 => 
+  array (
+    0 => 'Siasconset',
+    1 => 'MA',
+    2 => '41.27',
+    3 => '-70',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  65 => 
+  array (
+    0 => 'Silver Beach',
+    1 => 'MA',
+    2 => '41.63',
+    3 => '-70.64',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  68 => 
+  array (
+    0 => 'Vineyard Haven',
+    1 => 'MA',
+    2 => '41.45',
+    3 => '-70.6',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  71 => 
+  array (
+    0 => 'Wareham',
+    1 => 'MA',
+    2 => '41.76',
+    3 => '-70.71',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  73 => 
+  array (
+    0 => 'West Chop',
+    1 => 'MA',
+    2 => '41.45',
+    3 => '-70.6',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  74 => 
+  array (
+    0 => 'West Falmouth',
+    1 => 'MA',
+    2 => '41.6',
+    3 => '-70.64',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  75 => 
+  array (
+    0 => 'West Tisbury',
+    1 => 'MA',
+    2 => '41.38',
+    3 => '-70.67',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  76 => 
+  array (
+    0 => 'West Wareham',
+    1 => 'MA',
+    2 => '41.78',
+    3 => '-70.75',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  84 => 
+  array (
+    0 => 'Nantucket',
+    1 => 'MA',
+    2 => '41.27',
+    3 => '-70.1',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

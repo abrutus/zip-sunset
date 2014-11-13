@@ -1,0 +1,326 @@
+<?php $db= array (
+  20 => 
+  array (
+    0 => 'Lexington',
+    1 => 'MA',
+    2 => '42.44',
+    3 => '-71.23',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  21 => 
+  array (
+    0 => 'Lexington',
+    1 => 'MA',
+    2 => '42.44',
+    3 => '-71.23',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  45 => 
+  array (
+    0 => 'Brookline',
+    1 => 'MA',
+    2 => '42.32',
+    3 => '-71.14',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  46 => 
+  array (
+    0 => 'Brookline',
+    1 => 'MA',
+    2 => '42.32',
+    3 => '-71.14',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  47 => 
+  array (
+    0 => 'Brookline Village',
+    1 => 'MA',
+    2 => '42.33',
+    3 => '-71.13',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  51 => 
+  array (
+    0 => 'Waltham',
+    1 => 'MA',
+    2 => '42.38',
+    3 => '-71.24',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  52 => 
+  array (
+    0 => 'Waltham',
+    1 => 'MA',
+    2 => '42.38',
+    3 => '-71.24',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  53 => 
+  array (
+    0 => 'Waltham',
+    1 => 'MA',
+    2 => '42.38',
+    3 => '-71.24',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  54 => 
+  array (
+    0 => 'Waltham',
+    1 => 'MA',
+    2 => '42.38',
+    3 => '-71.24',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  55 => 
+  array (
+    0 => 'North Waltham',
+    1 => 'MA',
+    2 => '42.39',
+    3 => '-71.22',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  56 => 
+  array (
+    0 => 'New Town',
+    1 => 'MA',
+    2 => '42.33',
+    3 => '-71.2',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  57 => 
+  array (
+    0 => 'Babson Park',
+    1 => 'MA',
+    2 => '42.29',
+    3 => '-71.26',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  58 => 
+  array (
+    0 => 'Newton',
+    1 => 'MA',
+    2 => '42.33',
+    3 => '-71.2',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  59 => 
+  array (
+    0 => 'Newton Center',
+    1 => 'MA',
+    2 => '42.31',
+    3 => '-71.19',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  60 => 
+  array (
+    0 => 'Newtonville',
+    1 => 'MA',
+    2 => '42.35',
+    3 => '-71.2',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  61 => 
+  array (
+    0 => 'Newton Highlands',
+    1 => 'MA',
+    2 => '42.31',
+    3 => '-71.2',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  62 => 
+  array (
+    0 => 'Newton Lower Falls',
+    1 => 'MA',
+    2 => '42.33',
+    3 => '-71.25',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  64 => 
+  array (
+    0 => 'Newton Upper Falls',
+    1 => 'MA',
+    2 => '42.31',
+    3 => '-71.22',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  65 => 
+  array (
+    0 => 'West Newton',
+    1 => 'MA',
+    2 => '42.35',
+    3 => '-71.22',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  66 => 
+  array (
+    0 => 'Auburndale',
+    1 => 'MA',
+    2 => '42.34',
+    3 => '-71.24',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  67 => 
+  array (
+    0 => 'Chestnut Hill',
+    1 => 'MA',
+    2 => '42.31',
+    3 => '-71.16',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  68 => 
+  array (
+    0 => 'Waban',
+    1 => 'MA',
+    2 => '42.32',
+    3 => '-71.23',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  71 => 
+  array (
+    0 => 'Watertown',
+    1 => 'MA',
+    2 => '42.36',
+    3 => '-71.17',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  72 => 
+  array (
+    0 => 'Watertown',
+    1 => 'MA',
+    2 => '42.36',
+    3 => '-71.17',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  74 => 
+  array (
+    0 => 'Arlington',
+    1 => 'MA',
+    2 => '42.41',
+    3 => '-71.16',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  75 => 
+  array (
+    0 => 'Arlington Heights',
+    1 => 'MA',
+    2 => '42.41',
+    3 => '-71.18',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  76 => 
+  array (
+    0 => 'Arlington',
+    1 => 'MA',
+    2 => '42.41',
+    3 => '-71.16',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  77 => 
+  array (
+    0 => 'Watertown',
+    1 => 'MA',
+    2 => '42.36',
+    3 => '-71.17',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  78 => 
+  array (
+    0 => 'Belmont',
+    1 => 'MA',
+    2 => '42.39',
+    3 => '-71.18',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  79 => 
+  array (
+    0 => 'Waverley',
+    1 => 'MA',
+    2 => '42.39',
+    3 => '-71.17',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  81 => 
+  array (
+    0 => 'Wellesley Hills',
+    1 => 'MA',
+    2 => '42.31',
+    3 => '-71.27',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  82 => 
+  array (
+    0 => 'Wellesley',
+    1 => 'MA',
+    2 => '42.3',
+    3 => '-71.28',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  92 => 
+  array (
+    0 => 'Needham',
+    1 => 'MA',
+    2 => '42.28',
+    3 => '-71.24',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  93 => 
+  array (
+    0 => 'Weston',
+    1 => 'MA',
+    2 => '42.36',
+    3 => '-71.26',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  94 => 
+  array (
+    0 => 'Needham Heights',
+    1 => 'MA',
+    2 => '42.28',
+    3 => '-71.24',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  95 => 
+  array (
+    0 => 'Nonantum',
+    1 => 'MA',
+    2 => '42.33',
+    3 => '-71.2',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

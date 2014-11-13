@@ -1,0 +1,245 @@
+<?php $db= array (
+  20 => 
+  array (
+    0 => 'Fitchburg',
+    1 => 'MA',
+    2 => '42.58',
+    3 => '-71.81',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  30 => 
+  array (
+    0 => 'Ashburnham',
+    1 => 'MA',
+    2 => '42.63',
+    3 => '-71.9',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  31 => 
+  array (
+    0 => 'Ashby',
+    1 => 'MA',
+    2 => '42.68',
+    3 => '-71.81',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  32 => 
+  array (
+    0 => 'Ayer',
+    1 => 'MA',
+    2 => '42.56',
+    3 => '-71.58',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  34 => 
+  array (
+    0 => 'Devens',
+    1 => 'MA',
+    2 => '42.53',
+    3 => '-71.61',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  36 => 
+  array (
+    0 => 'Baldwinville',
+    1 => 'MA',
+    2 => '42.6',
+    3 => '-72.07',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  38 => 
+  array (
+    0 => 'East Templeton',
+    1 => 'MA',
+    2 => '42.53',
+    3 => '-72.05',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  40 => 
+  array (
+    0 => 'Gardner',
+    1 => 'MA',
+    2 => '42.58',
+    3 => '-71.98',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  41 => 
+  array (
+    0 => 'Westminster',
+    1 => 'MA',
+    2 => '42.58',
+    3 => '-71.98',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  50 => 
+  array (
+    0 => 'Groton',
+    1 => 'MA',
+    2 => '42.6',
+    3 => '-71.57',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  51 => 
+  array (
+    0 => 'Harvard',
+    1 => 'MA',
+    2 => '42.5',
+    3 => '-71.58',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  52 => 
+  array (
+    0 => 'Hubbardston',
+    1 => 'MA',
+    2 => '42.48',
+    3 => '-72.01',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  53 => 
+  array (
+    0 => 'Leominster',
+    1 => 'MA',
+    2 => '42.51',
+    3 => '-71.77',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  60 => 
+  array (
+    0 => 'Littleton',
+    1 => 'MA',
+    2 => '42.53',
+    3 => '-71.47',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  62 => 
+  array (
+    0 => 'Lunenburg',
+    1 => 'MA',
+    2 => '42.59',
+    3 => '-71.72',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  63 => 
+  array (
+    0 => 'Pepperell',
+    1 => 'MA',
+    2 => '42.66',
+    3 => '-71.58',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  64 => 
+  array (
+    0 => 'Shirley',
+    1 => 'MA',
+    2 => '42.54',
+    3 => '-71.65',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  67 => 
+  array (
+    0 => 'Still River',
+    1 => 'MA',
+    2 => '42.49',
+    3 => '-71.61',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  68 => 
+  array (
+    0 => 'Templeton',
+    1 => 'MA',
+    2 => '42.55',
+    3 => '-72.06',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  69 => 
+  array (
+    0 => 'Townsend',
+    1 => 'MA',
+    2 => '42.66',
+    3 => '-71.7',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  70 => 
+  array (
+    0 => 'Groton',
+    1 => 'MA',
+    2 => '42.6',
+    3 => '-71.57',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  71 => 
+  array (
+    0 => 'Groton',
+    1 => 'MA',
+    2 => '42.6',
+    3 => '-71.57',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  72 => 
+  array (
+    0 => 'West Groton',
+    1 => 'MA',
+    2 => '42.61',
+    3 => '-71.62',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  73 => 
+  array (
+    0 => 'Westminster',
+    1 => 'MA',
+    2 => '42.55',
+    3 => '-71.9',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  74 => 
+  array (
+    0 => 'West Townsend',
+    1 => 'MA',
+    2 => '42.66',
+    3 => '-71.74',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  75 => 
+  array (
+    0 => 'Winchendon',
+    1 => 'MA',
+    2 => '42.68',
+    3 => '-72.04',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  77 => 
+  array (
+    0 => 'Winchendon Springs',
+    1 => 'MA',
+    2 => '42.69',
+    3 => '-72.01',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

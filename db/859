@@ -1,0 +1,227 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Show Low',
+    1 => 'AZ',
+    2 => '34.23',
+    3 => '-110.07',
+    4 => -7,
+    5 => 'America/Shiprock',
+  ),
+  '02' => 
+  array (
+    0 => 'Show Low',
+    1 => 'AZ',
+    2 => '34.25',
+    3 => '-110.02',
+    4 => -7,
+    5 => 'America/Shiprock',
+  ),
+  11 => 
+  array (
+    0 => 'Cibecue',
+    1 => 'AZ',
+    2 => '34.15',
+    3 => '-110.51',
+    4 => -7,
+    5 => 'America/Shiprock',
+  ),
+  12 => 
+  array (
+    0 => 'White Mountain Lake',
+    1 => 'AZ',
+    2 => '34.32',
+    3 => '-110.07',
+    4 => -7,
+    5 => 'America/Shiprock',
+  ),
+  20 => 
+  array (
+    0 => 'Alpine',
+    1 => 'AZ',
+    2 => '33.83',
+    3 => '-109.19',
+    4 => -7,
+    5 => 'America/Shiprock',
+  ),
+  22 => 
+  array (
+    0 => 'Blue',
+    1 => 'AZ',
+    2 => '33.52',
+    3 => '-109.21',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  23 => 
+  array (
+    0 => 'Clay Springs',
+    1 => 'AZ',
+    2 => '34.36',
+    3 => '-110.29',
+    4 => -7,
+    5 => 'America/Shiprock',
+  ),
+  24 => 
+  array (
+    0 => 'Concho',
+    1 => 'AZ',
+    2 => '34.51',
+    3 => '-109.69',
+    4 => -7,
+    5 => 'America/Shiprock',
+  ),
+  25 => 
+  array (
+    0 => 'Eagar',
+    1 => 'AZ',
+    2 => '34.11',
+    3 => '-109.38',
+    4 => -7,
+    5 => 'America/Shiprock',
+  ),
+  26 => 
+  array (
+    0 => 'Fort Apache',
+    1 => 'AZ',
+    2 => '34.05',
+    3 => '-109.88',
+    4 => -7,
+    5 => 'America/Shiprock',
+  ),
+  27 => 
+  array (
+    0 => 'Greer',
+    1 => 'AZ',
+    2 => '34',
+    3 => '-109.48',
+    4 => -7,
+    5 => 'America/Shiprock',
+  ),
+  28 => 
+  array (
+    0 => 'Heber',
+    1 => 'AZ',
+    2 => '34.53',
+    3 => '-110.44',
+    4 => -7,
+    5 => 'America/Shiprock',
+  ),
+  29 => 
+  array (
+    0 => 'Lakeside',
+    1 => 'AZ',
+    2 => '34.1',
+    3 => '-110.08',
+    4 => -7,
+    5 => 'America/Shiprock',
+  ),
+  30 => 
+  array (
+    0 => 'Mcnary',
+    1 => 'AZ',
+    2 => '34.06',
+    3 => '-109.7',
+    4 => -7,
+    5 => 'America/Shiprock',
+  ),
+  32 => 
+  array (
+    0 => 'Nutrioso',
+    1 => 'AZ',
+    2 => '33.93',
+    3 => '-109.22',
+    4 => -7,
+    5 => 'America/Shiprock',
+  ),
+  33 => 
+  array (
+    0 => 'Overgaard',
+    1 => 'AZ',
+    2 => '34.37',
+    3 => '-110.48',
+    4 => -7,
+    5 => 'America/Shiprock',
+  ),
+  34 => 
+  array (
+    0 => 'Pinedale',
+    1 => 'AZ',
+    2 => '34.27',
+    3 => '-110.28',
+    4 => -7,
+    5 => 'America/Shiprock',
+  ),
+  35 => 
+  array (
+    0 => 'Pinetop',
+    1 => 'AZ',
+    2 => '34.08',
+    3 => '-109.9',
+    4 => -7,
+    5 => 'America/Shiprock',
+  ),
+  36 => 
+  array (
+    0 => 'Saint Johns',
+    1 => 'AZ',
+    2 => '34.56',
+    3 => '-109.33',
+    4 => -7,
+    5 => 'America/Shiprock',
+  ),
+  37 => 
+  array (
+    0 => 'Snowflake',
+    1 => 'AZ',
+    2 => '34.64',
+    3 => '-110.11',
+    4 => -7,
+    5 => 'America/Shiprock',
+  ),
+  38 => 
+  array (
+    0 => 'Springerville',
+    1 => 'AZ',
+    2 => '34.04',
+    3 => '-109.2',
+    4 => -7,
+    5 => 'America/Shiprock',
+  ),
+  39 => 
+  array (
+    0 => 'Taylor',
+    1 => 'AZ',
+    2 => '34.43',
+    3 => '-110.06',
+    4 => -7,
+    5 => 'America/Shiprock',
+  ),
+  40 => 
+  array (
+    0 => 'Vernon',
+    1 => 'AZ',
+    2 => '34.22',
+    3 => '-109.64',
+    4 => -7,
+    5 => 'America/Shiprock',
+  ),
+  41 => 
+  array (
+    0 => 'Whiteriver',
+    1 => 'AZ',
+    2 => '33.8',
+    3 => '-110.09',
+    4 => -7,
+    5 => 'America/Shiprock',
+  ),
+  42 => 
+  array (
+    0 => 'Woodruff',
+    1 => 'AZ',
+    2 => '34.8',
+    3 => '-109.94',
+    4 => -7,
+    5 => 'America/Shiprock',
+  ),
+);

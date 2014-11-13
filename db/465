@@ -1,0 +1,407 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Argos',
+    1 => 'IN',
+    2 => '41.23',
+    3 => '-86.24',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  '02' => 
+  array (
+    0 => 'Atwood',
+    1 => 'IN',
+    2 => '41.26',
+    3 => '-85.97',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  '04' => 
+  array (
+    0 => 'Bourbon',
+    1 => 'IN',
+    2 => '41.29',
+    3 => '-86.11',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  '07' => 
+  array (
+    0 => 'Bristol',
+    1 => 'IN',
+    2 => '41.72',
+    3 => '-85.81',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  '08' => 
+  array (
+    0 => 'Burket',
+    1 => 'IN',
+    2 => '41.15',
+    3 => '-85.96',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  10 => 
+  array (
+    0 => 'Claypool',
+    1 => 'IN',
+    2 => '41.12',
+    3 => '-85.87',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  13 => 
+  array (
+    0 => 'Donaldson',
+    1 => 'IN',
+    2 => '41.36',
+    3 => '-86.44',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  14 => 
+  array (
+    0 => 'Elkhart',
+    1 => 'IN',
+    2 => '41.68',
+    3 => '-85.96',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  15 => 
+  array (
+    0 => 'Elkhart',
+    1 => 'IN',
+    2 => '41.68',
+    3 => '-85.96',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  16 => 
+  array (
+    0 => 'Elkhart',
+    1 => 'IN',
+    2 => '41.68',
+    3 => '-85.96',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  17 => 
+  array (
+    0 => 'Elkhart',
+    1 => 'IN',
+    2 => '41.68',
+    3 => '-85.96',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  24 => 
+  array (
+    0 => 'Etna Green',
+    1 => 'IN',
+    2 => '41.27',
+    3 => '-86.04',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  26 => 
+  array (
+    0 => 'Goshen',
+    1 => 'IN',
+    2 => '41.57',
+    3 => '-85.83',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  27 => 
+  array (
+    0 => 'Goshen',
+    1 => 'IN',
+    2 => '41.57',
+    3 => '-85.83',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  28 => 
+  array (
+    0 => 'Goshen',
+    1 => 'IN',
+    2 => '41.57',
+    3 => '-85.83',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  30 => 
+  array (
+    0 => 'Granger',
+    1 => 'IN',
+    2 => '41.73',
+    3 => '-86.13',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  31 => 
+  array (
+    0 => 'Grovertown',
+    1 => 'IN',
+    2 => '41.32',
+    3 => '-86.52',
+    4 => -6,
+    5 => 'America/Indiana/Knox',
+  ),
+  34 => 
+  array (
+    0 => 'Knox',
+    1 => 'IN',
+    2 => '41.29',
+    3 => '-86.62',
+    4 => -6,
+    5 => 'America/Indiana/Knox',
+  ),
+  36 => 
+  array (
+    0 => 'Lakeville',
+    1 => 'IN',
+    2 => '41.52',
+    3 => '-86.27',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  37 => 
+  array (
+    0 => 'Lapaz',
+    1 => 'IN',
+    2 => '41.45',
+    3 => '-86.3',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  38 => 
+  array (
+    0 => 'Leesburg',
+    1 => 'IN',
+    2 => '41.32',
+    3 => '-85.84',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  39 => 
+  array (
+    0 => 'Mentone',
+    1 => 'IN',
+    2 => '41.17',
+    3 => '-86.03',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  40 => 
+  array (
+    0 => 'Middlebury',
+    1 => 'IN',
+    2 => '41.67',
+    3 => '-85.7',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  42 => 
+  array (
+    0 => 'Milford',
+    1 => 'IN',
+    2 => '41.41',
+    3 => '-85.84',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  43 => 
+  array (
+    0 => 'Millersburg',
+    1 => 'IN',
+    2 => '41.52',
+    3 => '-85.69',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  44 => 
+  array (
+    0 => 'Mishawaka',
+    1 => 'IN',
+    2 => '41.66',
+    3 => '-86.16',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  45 => 
+  array (
+    0 => 'Mishawaka',
+    1 => 'IN',
+    2 => '41.66',
+    3 => '-86.16',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  46 => 
+  array (
+    0 => 'Mishawaka',
+    1 => 'IN',
+    2 => '41.66',
+    3 => '-86.16',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  53 => 
+  array (
+    0 => 'New Paris',
+    1 => 'IN',
+    2 => '41.5',
+    3 => '-85.82',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  54 => 
+  array (
+    0 => 'North Liberty',
+    1 => 'IN',
+    2 => '41.53',
+    3 => '-86.43',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  55 => 
+  array (
+    0 => 'North Webster',
+    1 => 'IN',
+    2 => '41.32',
+    3 => '-85.69',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  56 => 
+  array (
+    0 => 'Notre Dame',
+    1 => 'IN',
+    2 => '41.7',
+    3 => '-86.24',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  61 => 
+  array (
+    0 => 'Osceola',
+    1 => 'IN',
+    2 => '41.66',
+    3 => '-86.07',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  63 => 
+  array (
+    0 => 'Plymouth',
+    1 => 'IN',
+    2 => '41.34',
+    3 => '-86.31',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  65 => 
+  array (
+    0 => 'Shipshewana',
+    1 => 'IN',
+    2 => '41.67',
+    3 => '-85.57',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  67 => 
+  array (
+    0 => 'Syracuse',
+    1 => 'IN',
+    2 => '41.42',
+    3 => '-85.74',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  70 => 
+  array (
+    0 => 'Tippecanoe',
+    1 => 'IN',
+    2 => '41.22',
+    3 => '-86.1',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  71 => 
+  array (
+    0 => 'Topeka',
+    1 => 'IN',
+    2 => '41.53',
+    3 => '-85.54',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  72 => 
+  array (
+    0 => 'Tyner',
+    1 => 'IN',
+    2 => '41.4',
+    3 => '-86.4',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  73 => 
+  array (
+    0 => 'Wakarusa',
+    1 => 'IN',
+    2 => '41.53',
+    3 => '-86.01',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  80 => 
+  array (
+    0 => 'Warsaw',
+    1 => 'IN',
+    2 => '41.23',
+    3 => '-85.85',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  81 => 
+  array (
+    0 => 'Warsaw',
+    1 => 'IN',
+    2 => '41.23',
+    3 => '-85.85',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  82 => 
+  array (
+    0 => 'Warsaw',
+    1 => 'IN',
+    2 => '41.23',
+    3 => '-85.85',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  90 => 
+  array (
+    0 => 'Winona Lake',
+    1 => 'IN',
+    2 => '41.21',
+    3 => '-85.81',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  95 => 
+  array (
+    0 => 'Wyatt',
+    1 => 'IN',
+    2 => '41.52',
+    3 => '-86.16',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+);

@@ -1,0 +1,560 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Wilmington',
+    1 => 'NC',
+    2 => '34.21',
+    3 => '-77.91',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '02' => 
+  array (
+    0 => 'Wilmington',
+    1 => 'NC',
+    2 => '34.21',
+    3 => '-77.91',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '03' => 
+  array (
+    0 => 'Wilmington',
+    1 => 'NC',
+    2 => '34.21',
+    3 => '-77.91',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '04' => 
+  array (
+    0 => 'Wilmington',
+    1 => 'NC',
+    2 => '34.21',
+    3 => '-77.91',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '05' => 
+  array (
+    0 => 'Wilmington',
+    1 => 'NC',
+    2 => '34.21',
+    3 => '-77.91',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '06' => 
+  array (
+    0 => 'Wilmington',
+    1 => 'NC',
+    2 => '34.21',
+    3 => '-77.91',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '07' => 
+  array (
+    0 => 'Wilmington',
+    1 => 'NC',
+    2 => '34.21',
+    3 => '-77.91',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '08' => 
+  array (
+    0 => 'Wilmington',
+    1 => 'NC',
+    2 => '34.21',
+    3 => '-77.91',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '09' => 
+  array (
+    0 => 'Wilmington',
+    1 => 'NC',
+    2 => '34.21',
+    3 => '-77.91',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  10 => 
+  array (
+    0 => 'Wilmington',
+    1 => 'NC',
+    2 => '34.21',
+    3 => '-77.91',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  11 => 
+  array (
+    0 => 'Wilmington',
+    1 => 'NC',
+    2 => '34.21',
+    3 => '-77.91',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  12 => 
+  array (
+    0 => 'Wilmington',
+    1 => 'NC',
+    2 => '34.21',
+    3 => '-77.91',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  20 => 
+  array (
+    0 => 'Ash',
+    1 => 'NC',
+    2 => '34.07',
+    3 => '-78.47',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  21 => 
+  array (
+    0 => 'Atkinson',
+    1 => 'NC',
+    2 => '34.52',
+    3 => '-78.17',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  22 => 
+  array (
+    0 => 'Bolivia',
+    1 => 'NC',
+    2 => '34.07',
+    3 => '-78.14',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  23 => 
+  array (
+    0 => 'Bolton',
+    1 => 'NC',
+    2 => '34.31',
+    3 => '-78.4',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  24 => 
+  array (
+    0 => 'Brunswick',
+    1 => 'NC',
+    2 => '34.29',
+    3 => '-78.7',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  25 => 
+  array (
+    0 => 'Burgaw',
+    1 => 'NC',
+    2 => '34.55',
+    3 => '-77.92',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  28 => 
+  array (
+    0 => 'Carolina Beach',
+    1 => 'NC',
+    2 => '34.04',
+    3 => '-77.89',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  29 => 
+  array (
+    0 => 'Castle Hayne',
+    1 => 'NC',
+    2 => '34.35',
+    3 => '-77.9',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  30 => 
+  array (
+    0 => 'Cerro Gordo',
+    1 => 'NC',
+    2 => '34.32',
+    3 => '-78.92',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  31 => 
+  array (
+    0 => 'Chadbourn',
+    1 => 'NC',
+    2 => '34.32',
+    3 => '-78.82',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  32 => 
+  array (
+    0 => 'Clarendon',
+    1 => 'NC',
+    2 => '34.2',
+    3 => '-78.79',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  33 => 
+  array (
+    0 => 'Clarkton',
+    1 => 'NC',
+    2 => '34.48',
+    3 => '-78.65',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  34 => 
+  array (
+    0 => 'Council',
+    1 => 'NC',
+    2 => '34.42',
+    3 => '-78.46',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  35 => 
+  array (
+    0 => 'Currie',
+    1 => 'NC',
+    2 => '34.46',
+    3 => '-78.1',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  36 => 
+  array (
+    0 => 'Delco',
+    1 => 'NC',
+    2 => '34.33',
+    3 => '-78.18',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  38 => 
+  array (
+    0 => 'Evergreen',
+    1 => 'NC',
+    2 => '34.4',
+    3 => '-78.9',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  39 => 
+  array (
+    0 => 'Fair Bluff',
+    1 => 'NC',
+    2 => '34.31',
+    3 => '-79.03',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  41 => 
+  array (
+    0 => 'Garland',
+    1 => 'NC',
+    2 => '34.78',
+    3 => '-78.39',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  42 => 
+  array (
+    0 => 'Hallsboro',
+    1 => 'NC',
+    2 => '34.29',
+    3 => '-78.59',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  43 => 
+  array (
+    0 => 'Hampstead',
+    1 => 'NC',
+    2 => '34.36',
+    3 => '-77.71',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  44 => 
+  array (
+    0 => 'Harrells',
+    1 => 'NC',
+    2 => '34.72',
+    3 => '-78.2',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  45 => 
+  array (
+    0 => 'Holly Ridge',
+    1 => 'NC',
+    2 => '34.49',
+    3 => '-77.55',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  47 => 
+  array (
+    0 => 'Ivanhoe',
+    1 => 'NC',
+    2 => '34.6',
+    3 => '-78.25',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  48 => 
+  array (
+    0 => 'Kelly',
+    1 => 'NC',
+    2 => '34.46',
+    3 => '-78.32',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  49 => 
+  array (
+    0 => 'Kure Beach',
+    1 => 'NC',
+    2 => '33.99',
+    3 => '-77.91',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  50 => 
+  array (
+    0 => 'Lake Waccamaw',
+    1 => 'NC',
+    2 => '34.31',
+    3 => '-78.51',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  51 => 
+  array (
+    0 => 'Leland',
+    1 => 'NC',
+    2 => '34.24',
+    3 => '-78',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  52 => 
+  array (
+    0 => 'Longwood',
+    1 => 'NC',
+    2 => '34',
+    3 => '-78.54',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  53 => 
+  array (
+    0 => 'Magnolia',
+    1 => 'NC',
+    2 => '34.89',
+    3 => '-78.05',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  54 => 
+  array (
+    0 => 'Maple Hill',
+    1 => 'NC',
+    2 => '34.66',
+    3 => '-77.69',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  55 => 
+  array (
+    0 => 'Nakina',
+    1 => 'NC',
+    2 => '34.13',
+    3 => '-78.66',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  56 => 
+  array (
+    0 => 'Riegelwood',
+    1 => 'NC',
+    2 => '34.34',
+    3 => '-78.26',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  57 => 
+  array (
+    0 => 'Rocky Point',
+    1 => 'NC',
+    2 => '34.43',
+    3 => '-77.88',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  58 => 
+  array (
+    0 => 'Rose Hill',
+    1 => 'NC',
+    2 => '34.82',
+    3 => '-78.02',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  59 => 
+  array (
+    0 => 'Shallotte',
+    1 => 'NC',
+    2 => '33.97',
+    3 => '-78.38',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  60 => 
+  array (
+    0 => 'Sneads Ferry',
+    1 => 'NC',
+    2 => '34.55',
+    3 => '-77.37',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  61 => 
+  array (
+    0 => 'Southport',
+    1 => 'NC',
+    2 => '33.92',
+    3 => '-78.02',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  62 => 
+  array (
+    0 => 'Supply',
+    1 => 'NC',
+    2 => '34.01',
+    3 => '-78.26',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  63 => 
+  array (
+    0 => 'Tabor City',
+    1 => 'NC',
+    2 => '34.14',
+    3 => '-78.87',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  64 => 
+  array (
+    0 => 'Teachey',
+    1 => 'NC',
+    2 => '34.76',
+    3 => '-78',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  65 => 
+  array (
+    0 => 'Oak Island',
+    1 => 'NC',
+    2 => '33.91',
+    3 => '-78.1',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  66 => 
+  array (
+    0 => 'Wallace',
+    1 => 'NC',
+    2 => '34.73',
+    3 => '-77.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  67 => 
+  array (
+    0 => 'Calabash',
+    1 => 'NC',
+    2 => '33.89',
+    3 => '-78.57',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  68 => 
+  array (
+    0 => 'Sunset Beach',
+    1 => 'NC',
+    2 => '33.87',
+    3 => '-78.51',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  69 => 
+  array (
+    0 => 'Ocean Isle Beach',
+    1 => 'NC',
+    2 => '33.89',
+    3 => '-78.42',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  70 => 
+  array (
+    0 => 'Shallotte',
+    1 => 'NC',
+    2 => '33.95',
+    3 => '-78.39',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  72 => 
+  array (
+    0 => 'Whiteville',
+    1 => 'NC',
+    2 => '34.32',
+    3 => '-78.7',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  78 => 
+  array (
+    0 => 'Willard',
+    1 => 'NC',
+    2 => '34.69',
+    3 => '-77.98',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  79 => 
+  array (
+    0 => 'Winnabow',
+    1 => 'NC',
+    2 => '34.28',
+    3 => '-78.09',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  80 => 
+  array (
+    0 => 'Wrightsville Beach',
+    1 => 'NC',
+    2 => '34.21',
+    3 => '-77.79',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

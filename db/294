@@ -1,0 +1,650 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Charleston',
+    1 => 'SC',
+    2 => '32.78',
+    3 => '-79.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '02' => 
+  array (
+    0 => 'Charleston',
+    1 => 'SC',
+    2 => '32.78',
+    3 => '-79.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '03' => 
+  array (
+    0 => 'Charleston',
+    1 => 'SC',
+    2 => '32.78',
+    3 => '-79.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '04' => 
+  array (
+    0 => 'Charleston Afb',
+    1 => 'SC',
+    2 => '32.9',
+    3 => '-80.06',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '05' => 
+  array (
+    0 => 'North Charleston',
+    1 => 'SC',
+    2 => '32.78',
+    3 => '-79.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '06' => 
+  array (
+    0 => 'Charleston',
+    1 => 'SC',
+    2 => '32.78',
+    3 => '-79.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '07' => 
+  array (
+    0 => 'Charleston',
+    1 => 'SC',
+    2 => '32.78',
+    3 => '-79.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '09' => 
+  array (
+    0 => 'Charleston',
+    1 => 'SC',
+    2 => '32.78',
+    3 => '-79.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  10 => 
+  array (
+    0 => 'Hanahan',
+    1 => 'SC',
+    2 => '32.91',
+    3 => '-80.01',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  12 => 
+  array (
+    0 => 'Charleston',
+    1 => 'SC',
+    2 => '32.78',
+    3 => '-79.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  13 => 
+  array (
+    0 => 'Charleston',
+    1 => 'SC',
+    2 => '32.78',
+    3 => '-79.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  14 => 
+  array (
+    0 => 'Charleston',
+    1 => 'SC',
+    2 => '32.78',
+    3 => '-79.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  15 => 
+  array (
+    0 => 'North Charleston',
+    1 => 'SC',
+    2 => '32.78',
+    3 => '-79.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  16 => 
+  array (
+    0 => 'Charleston',
+    1 => 'SC',
+    2 => '32.78',
+    3 => '-79.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  17 => 
+  array (
+    0 => 'Charleston',
+    1 => 'SC',
+    2 => '32.78',
+    3 => '-79.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  18 => 
+  array (
+    0 => 'North Charleston',
+    1 => 'SC',
+    2 => '32.89',
+    3 => '-80.05',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  19 => 
+  array (
+    0 => 'North Charleston',
+    1 => 'SC',
+    2 => '32.93',
+    3 => '-80.1',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  20 => 
+  array (
+    0 => 'North Charleston',
+    1 => 'SC',
+    2 => '32.92',
+    3 => '-80.09',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  22 => 
+  array (
+    0 => 'Charleston',
+    1 => 'SC',
+    2 => '32.78',
+    3 => '-79.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  23 => 
+  array (
+    0 => 'Charleston',
+    1 => 'SC',
+    2 => '32.78',
+    3 => '-79.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  24 => 
+  array (
+    0 => 'Charleston',
+    1 => 'SC',
+    2 => '32.78',
+    3 => '-79.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  25 => 
+  array (
+    0 => 'Charleston',
+    1 => 'SC',
+    2 => '32.78',
+    3 => '-79.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  26 => 
+  array (
+    0 => 'Adams Run',
+    1 => 'SC',
+    2 => '32.72',
+    3 => '-80.34',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  29 => 
+  array (
+    0 => 'Awendaw',
+    1 => 'SC',
+    2 => '33.03',
+    3 => '-79.61',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  30 => 
+  array (
+    0 => 'Bethera',
+    1 => 'SC',
+    2 => '33.2',
+    3 => '-79.78',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  31 => 
+  array (
+    0 => 'Bonneau',
+    1 => 'SC',
+    2 => '33.3',
+    3 => '-79.95',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  32 => 
+  array (
+    0 => 'Branchville',
+    1 => 'SC',
+    2 => '33.25',
+    3 => '-80.81',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  33 => 
+  array (
+    0 => 'Canadys',
+    1 => 'SC',
+    2 => '33.05',
+    3 => '-80.62',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  34 => 
+  array (
+    0 => 'Cordesville',
+    1 => 'SC',
+    2 => '33.13',
+    3 => '-79.88',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  35 => 
+  array (
+    0 => 'Cottageville',
+    1 => 'SC',
+    2 => '32.93',
+    3 => '-80.47',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  36 => 
+  array (
+    0 => 'Cross',
+    1 => 'SC',
+    2 => '33.32',
+    3 => '-80.14',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  37 => 
+  array (
+    0 => 'Dorchester',
+    1 => 'SC',
+    2 => '33.13',
+    3 => '-80.39',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  38 => 
+  array (
+    0 => 'Edisto Island',
+    1 => 'SC',
+    2 => '32.56',
+    3 => '-80.28',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  39 => 
+  array (
+    0 => 'Folly Beach',
+    1 => 'SC',
+    2 => '32.67',
+    3 => '-79.92',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  40 => 
+  array (
+    0 => 'Georgetown',
+    1 => 'SC',
+    2 => '33.36',
+    3 => '-79.29',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  42 => 
+  array (
+    0 => 'Georgetown',
+    1 => 'SC',
+    2 => '33.36',
+    3 => '-79.29',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  45 => 
+  array (
+    0 => 'Goose Creek',
+    1 => 'SC',
+    2 => '32.98',
+    3 => '-79.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  46 => 
+  array (
+    0 => 'Green Pond',
+    1 => 'SC',
+    2 => '32.73',
+    3 => '-80.61',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  47 => 
+  array (
+    0 => 'Grover',
+    1 => 'SC',
+    2 => '33.1',
+    3 => '-80.59',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  48 => 
+  array (
+    0 => 'Harleyville',
+    1 => 'SC',
+    2 => '33.21',
+    3 => '-80.44',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  49 => 
+  array (
+    0 => 'Hollywood',
+    1 => 'SC',
+    2 => '32.75',
+    3 => '-80.2',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  50 => 
+  array (
+    0 => 'Huger',
+    1 => 'SC',
+    2 => '33.09',
+    3 => '-79.8',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  51 => 
+  array (
+    0 => 'Isle Of Palms',
+    1 => 'SC',
+    2 => '32.8',
+    3 => '-79.75',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  52 => 
+  array (
+    0 => 'Jacksonboro',
+    1 => 'SC',
+    2 => '32.77',
+    3 => '-80.45',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  53 => 
+  array (
+    0 => 'Jamestown',
+    1 => 'SC',
+    2 => '33.28',
+    3 => '-79.69',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  55 => 
+  array (
+    0 => 'Johns Island',
+    1 => 'SC',
+    2 => '32.72',
+    3 => '-80.07',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  56 => 
+  array (
+    0 => 'Ladson',
+    1 => 'SC',
+    2 => '33',
+    3 => '-80.1',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  57 => 
+  array (
+    0 => 'Johns Island',
+    1 => 'SC',
+    2 => '32.72',
+    3 => '-80.07',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  58 => 
+  array (
+    0 => 'Mc Clellanville',
+    1 => 'SC',
+    2 => '33.08',
+    3 => '-79.46',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  61 => 
+  array (
+    0 => 'Moncks Corner',
+    1 => 'SC',
+    2 => '33.19',
+    3 => '-79.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  64 => 
+  array (
+    0 => 'Mount Pleasant',
+    1 => 'SC',
+    2 => '32.82',
+    3 => '-79.86',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  65 => 
+  array (
+    0 => 'Mount Pleasant',
+    1 => 'SC',
+    2 => '32.82',
+    3 => '-79.86',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  66 => 
+  array (
+    0 => 'Mount Pleasant',
+    1 => 'SC',
+    2 => '32.82',
+    3 => '-79.86',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  68 => 
+  array (
+    0 => 'Pineville',
+    1 => 'SC',
+    2 => '33.42',
+    3 => '-80.02',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  69 => 
+  array (
+    0 => 'Pinopolis',
+    1 => 'SC',
+    2 => '33.22',
+    3 => '-80.03',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  70 => 
+  array (
+    0 => 'Ravenel',
+    1 => 'SC',
+    2 => '32.77',
+    3 => '-80.22',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  71 => 
+  array (
+    0 => 'Reevesville',
+    1 => 'SC',
+    2 => '33.2',
+    3 => '-80.64',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  72 => 
+  array (
+    0 => 'Ridgeville',
+    1 => 'SC',
+    2 => '33.08',
+    3 => '-80.3',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  74 => 
+  array (
+    0 => 'Round O',
+    1 => 'SC',
+    2 => '32.93',
+    3 => '-80.54',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  75 => 
+  array (
+    0 => 'Ruffin',
+    1 => 'SC',
+    2 => '33',
+    3 => '-80.81',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  76 => 
+  array (
+    0 => 'Russellville',
+    1 => 'SC',
+    2 => '33.39',
+    3 => '-79.97',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  77 => 
+  array (
+    0 => 'Saint George',
+    1 => 'SC',
+    2 => '33.18',
+    3 => '-80.58',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  79 => 
+  array (
+    0 => 'Saint Stephen',
+    1 => 'SC',
+    2 => '33.4',
+    3 => '-79.92',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  81 => 
+  array (
+    0 => 'Smoaks',
+    1 => 'SC',
+    2 => '33.08',
+    3 => '-80.81',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  82 => 
+  array (
+    0 => 'Sullivans Island',
+    1 => 'SC',
+    2 => '32.76',
+    3 => '-79.83',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  83 => 
+  array (
+    0 => 'Summerville',
+    1 => 'SC',
+    2 => '33',
+    3 => '-80.17',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  84 => 
+  array (
+    0 => 'Summerville',
+    1 => 'SC',
+    2 => '33',
+    3 => '-80.17',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  85 => 
+  array (
+    0 => 'Summerville',
+    1 => 'SC',
+    2 => '33',
+    3 => '-80.17',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  87 => 
+  array (
+    0 => 'Wadmalaw Island',
+    1 => 'SC',
+    2 => '32.68',
+    3 => '-80.16',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  88 => 
+  array (
+    0 => 'Walterboro',
+    1 => 'SC',
+    2 => '32.9',
+    3 => '-80.67',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  92 => 
+  array (
+    0 => 'Charleston',
+    1 => 'SC',
+    2 => '32.78',
+    3 => '-79.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  93 => 
+  array (
+    0 => 'Williams',
+    1 => 'SC',
+    2 => '33.03',
+    3 => '-80.84',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

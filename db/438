@@ -1,0 +1,173 @@
+<?php $db= array (
+  '02' => 
+  array (
+    0 => 'Adamsville',
+    1 => 'OH',
+    2 => '40.06',
+    3 => '-81.88',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '03' => 
+  array (
+    0 => 'Bakersville',
+    1 => 'OH',
+    2 => '40.35',
+    3 => '-81.63',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '04' => 
+  array (
+    0 => 'Baltic',
+    1 => 'OH',
+    2 => '40.44',
+    3 => '-81.7',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '05' => 
+  array (
+    0 => 'Blissfield',
+    1 => 'OH',
+    2 => '40.28',
+    3 => '-81.89',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  11 => 
+  array (
+    0 => 'Conesville',
+    1 => 'OH',
+    2 => '40.18',
+    3 => '-81.89',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  12 => 
+  array (
+    0 => 'Coshocton',
+    1 => 'OH',
+    2 => '40.26',
+    3 => '-81.84',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  21 => 
+  array (
+    0 => 'Dresden',
+    1 => 'OH',
+    2 => '40.12',
+    3 => '-82.01',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  22 => 
+  array (
+    0 => 'Frazeysburg',
+    1 => 'OH',
+    2 => '40.11',
+    3 => '-82.11',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  24 => 
+  array (
+    0 => 'Fresno',
+    1 => 'OH',
+    2 => '40.36',
+    3 => '-81.75',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  28 => 
+  array (
+    0 => 'Keene',
+    1 => 'OH',
+    2 => '40.34',
+    3 => '-81.86',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  30 => 
+  array (
+    0 => 'Nashport',
+    1 => 'OH',
+    2 => '40.04',
+    3 => '-82.12',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  32 => 
+  array (
+    0 => 'Newcomerstown',
+    1 => 'OH',
+    2 => '40.27',
+    3 => '-81.59',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  36 => 
+  array (
+    0 => 'Plainfield',
+    1 => 'OH',
+    2 => '40.2',
+    3 => '-81.71',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  37 => 
+  array (
+    0 => 'Port Washington',
+    1 => 'OH',
+    2 => '40.32',
+    3 => '-81.51',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  40 => 
+  array (
+    0 => 'Stone Creek',
+    1 => 'OH',
+    2 => '40.39',
+    3 => '-81.55',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  42 => 
+  array (
+    0 => 'Trinway',
+    1 => 'OH',
+    2 => '40.15',
+    3 => '-82.01',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  43 => 
+  array (
+    0 => 'Walhonding',
+    1 => 'OH',
+    2 => '40.35',
+    3 => '-82.14',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  44 => 
+  array (
+    0 => 'Warsaw',
+    1 => 'OH',
+    2 => '40.33',
+    3 => '-82',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  45 => 
+  array (
+    0 => 'West Lafayette',
+    1 => 'OH',
+    2 => '40.27',
+    3 => '-81.75',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

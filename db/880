@@ -1,0 +1,470 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Las Cruces',
+    1 => 'NM',
+    2 => '32.33',
+    3 => '-106.75',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  '02' => 
+  array (
+    0 => 'White Sands Missile Range',
+    1 => 'NM',
+    2 => '32.26',
+    3 => '-106.47',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  '03' => 
+  array (
+    0 => 'Las Cruces',
+    1 => 'NM',
+    2 => '32.33',
+    3 => '-106.75',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  '04' => 
+  array (
+    0 => 'Las Cruces',
+    1 => 'NM',
+    2 => '32.33',
+    3 => '-106.75',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  '05' => 
+  array (
+    0 => 'Las Cruces',
+    1 => 'NM',
+    2 => '32.33',
+    3 => '-106.75',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  '06' => 
+  array (
+    0 => 'Las Cruces',
+    1 => 'NM',
+    2 => '32.33',
+    3 => '-106.75',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  '07' => 
+  array (
+    0 => 'Las Cruces',
+    1 => 'NM',
+    2 => '32.33',
+    3 => '-106.75',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  '08' => 
+  array (
+    0 => 'Santa Teresa',
+    1 => 'NM',
+    2 => '31.87',
+    3 => '-106.64',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  '09' => 
+  array (
+    0 => 'Playas',
+    1 => 'NM',
+    2 => '32.02',
+    3 => '-108.68',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  11 => 
+  array (
+    0 => 'Las Cruces',
+    1 => 'NM',
+    2 => '32.33',
+    3 => '-106.75',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  12 => 
+  array (
+    0 => 'Las Cruces',
+    1 => 'NM',
+    2 => '32.33',
+    3 => '-106.75',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  13 => 
+  array (
+    0 => 'Las Cruces',
+    1 => 'NM',
+    2 => '32.31',
+    3 => '-106.79',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  20 => 
+  array (
+    0 => 'Animas',
+    1 => 'NM',
+    2 => '31.94',
+    3 => '-108.83',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  21 => 
+  array (
+    0 => 'Anthony',
+    1 => 'NM',
+    2 => '32',
+    3 => '-106.59',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  22 => 
+  array (
+    0 => 'Arenas Valley',
+    1 => 'NM',
+    2 => '33.01',
+    3 => '-108.28',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  23 => 
+  array (
+    0 => 'Bayard',
+    1 => 'NM',
+    2 => '32.75',
+    3 => '-108.13',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  24 => 
+  array (
+    0 => 'Berino',
+    1 => 'NM',
+    2 => '32.08',
+    3 => '-106.56',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  25 => 
+  array (
+    0 => 'Buckhorn',
+    1 => 'NM',
+    2 => '33.03',
+    3 => '-108.7',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  26 => 
+  array (
+    0 => 'Santa Clara',
+    1 => 'NM',
+    2 => '32.79',
+    3 => '-108.16',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  27 => 
+  array (
+    0 => 'Chamberino',
+    1 => 'NM',
+    2 => '31.97',
+    3 => '-106.96',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  28 => 
+  array (
+    0 => 'Cliff',
+    1 => 'NM',
+    2 => '32.96',
+    3 => '-108.61',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  29 => 
+  array (
+    0 => 'Columbus',
+    1 => 'NM',
+    2 => '31.82',
+    3 => '-107.64',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  30 => 
+  array (
+    0 => 'Deming',
+    1 => 'NM',
+    2 => '32.26',
+    3 => '-107.75',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  31 => 
+  array (
+    0 => 'Deming',
+    1 => 'NM',
+    2 => '32.26',
+    3 => '-107.75',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  32 => 
+  array (
+    0 => 'Dona Ana',
+    1 => 'NM',
+    2 => '32.39',
+    3 => '-106.81',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  33 => 
+  array (
+    0 => 'Fairacres',
+    1 => 'NM',
+    2 => '32.31',
+    3 => '-107.06',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  34 => 
+  array (
+    0 => 'Faywood',
+    1 => 'NM',
+    2 => '32.56',
+    3 => '-108.02',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  36 => 
+  array (
+    0 => 'Fort Bayard',
+    1 => 'NM',
+    2 => '32.79',
+    3 => '-108.14',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  38 => 
+  array (
+    0 => 'Gila',
+    1 => 'NM',
+    2 => '32.96',
+    3 => '-108.57',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  39 => 
+  array (
+    0 => 'Glenwood',
+    1 => 'NM',
+    2 => '33.31',
+    3 => '-108.88',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  40 => 
+  array (
+    0 => 'Hachita',
+    1 => 'NM',
+    2 => '31.91',
+    3 => '-108.32',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  41 => 
+  array (
+    0 => 'Hanover',
+    1 => 'NM',
+    2 => '32.88',
+    3 => '-108.08',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  42 => 
+  array (
+    0 => 'Hillsboro',
+    1 => 'NM',
+    2 => '32.92',
+    3 => '-107.56',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  43 => 
+  array (
+    0 => 'Hurley',
+    1 => 'NM',
+    2 => '32.69',
+    3 => '-108.13',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  44 => 
+  array (
+    0 => 'La Mesa',
+    1 => 'NM',
+    2 => '32.12',
+    3 => '-106.7',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  45 => 
+  array (
+    0 => 'Lordsburg',
+    1 => 'NM',
+    2 => '32.34',
+    3 => '-108.7',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  46 => 
+  array (
+    0 => 'Mesilla',
+    1 => 'NM',
+    2 => '32.27',
+    3 => '-106.8',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  47 => 
+  array (
+    0 => 'Mesilla Park',
+    1 => 'NM',
+    2 => '32.27',
+    3 => '-106.61',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  48 => 
+  array (
+    0 => 'Mesquite',
+    1 => 'NM',
+    2 => '32.16',
+    3 => '-106.69',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  49 => 
+  array (
+    0 => 'Mimbres',
+    1 => 'NM',
+    2 => '32.85',
+    3 => '-107.97',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  51 => 
+  array (
+    0 => 'Mule Creek',
+    1 => 'NM',
+    2 => '33.12',
+    3 => '-108.95',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  52 => 
+  array (
+    0 => 'Organ',
+    1 => 'NM',
+    2 => '32.42',
+    3 => '-106.59',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  53 => 
+  array (
+    0 => 'Pinos Altos',
+    1 => 'NM',
+    2 => '32.88',
+    3 => '-108.24',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  54 => 
+  array (
+    0 => 'Radium Springs',
+    1 => 'NM',
+    2 => '32.5',
+    3 => '-106.92',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  55 => 
+  array (
+    0 => 'Redrock',
+    1 => 'NM',
+    2 => '32.68',
+    3 => '-108.73',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  56 => 
+  array (
+    0 => 'Rodeo',
+    1 => 'NM',
+    2 => '31.83',
+    3 => '-109.03',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  58 => 
+  array (
+    0 => 'San Miguel',
+    1 => 'NM',
+    2 => '32.15',
+    3 => '-106.73',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  61 => 
+  array (
+    0 => 'Silver City',
+    1 => 'NM',
+    2 => '32.78',
+    3 => '-108.26',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  62 => 
+  array (
+    0 => 'Silver City',
+    1 => 'NM',
+    2 => '32.78',
+    3 => '-108.26',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  63 => 
+  array (
+    0 => 'Sunland Park',
+    1 => 'NM',
+    2 => '31.79',
+    3 => '-106.57',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  65 => 
+  array (
+    0 => 'Tyrone',
+    1 => 'NM',
+    2 => '32.65',
+    3 => '-108.35',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  72 => 
+  array (
+    0 => 'Vado',
+    1 => 'NM',
+    2 => '32.11',
+    3 => '-106.66',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+);

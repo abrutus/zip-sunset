@@ -1,0 +1,47 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'San Mateo',
+    1 => 'CA',
+    2 => '37.57',
+    3 => '-122.32',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '02' => 
+  array (
+    0 => 'San Mateo',
+    1 => 'CA',
+    2 => '37.52',
+    3 => '-122.35',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '03' => 
+  array (
+    0 => 'San Mateo',
+    1 => 'CA',
+    2 => '37.54',
+    3 => '-122.3',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '04' => 
+  array (
+    0 => 'San Mateo',
+    1 => 'CA',
+    2 => '37.55',
+    3 => '-122.26',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  97 => 
+  array (
+    0 => 'San Mateo',
+    1 => 'CA',
+    2 => '37.56',
+    3 => '-122.32',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+);

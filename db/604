@@ -1,0 +1,740 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Beecher',
+    1 => 'IL',
+    2 => '41.34',
+    3 => '-87.61',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '02' => 
+  array (
+    0 => 'Berwyn',
+    1 => 'IL',
+    2 => '41.84',
+    3 => '-87.79',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '03' => 
+  array (
+    0 => 'Crest Hill',
+    1 => 'IL',
+    2 => '41.55',
+    3 => '-88.12',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '04' => 
+  array (
+    0 => 'Shorewood',
+    1 => 'IL',
+    2 => '41.51',
+    3 => '-88.21',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '06' => 
+  array (
+    0 => 'Blue Island',
+    1 => 'IL',
+    2 => '41.65',
+    3 => '-87.68',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '07' => 
+  array (
+    0 => 'Braceville',
+    1 => 'IL',
+    2 => '41.22',
+    3 => '-88.26',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '08' => 
+  array (
+    0 => 'Braidwood',
+    1 => 'IL',
+    2 => '41.26',
+    3 => '-88.22',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '09' => 
+  array (
+    0 => 'Calumet City',
+    1 => 'IL',
+    2 => '41.61',
+    3 => '-87.54',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  10 => 
+  array (
+    0 => 'Channahon',
+    1 => 'IL',
+    2 => '41.43',
+    3 => '-88.21',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  11 => 
+  array (
+    0 => 'Chicago Heights',
+    1 => 'IL',
+    2 => '41.5',
+    3 => '-87.63',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  12 => 
+  array (
+    0 => 'Chicago Heights',
+    1 => 'IL',
+    2 => '41.5',
+    3 => '-87.63',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  15 => 
+  array (
+    0 => 'Chicago Ridge',
+    1 => 'IL',
+    2 => '41.7',
+    3 => '-87.77',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  16 => 
+  array (
+    0 => 'Coal City',
+    1 => 'IL',
+    2 => '41.28',
+    3 => '-88.27',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  17 => 
+  array (
+    0 => 'Crete',
+    1 => 'IL',
+    2 => '41.45',
+    3 => '-87.61',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  19 => 
+  array (
+    0 => 'Dolton',
+    1 => 'IL',
+    2 => '41.62',
+    3 => '-87.59',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  20 => 
+  array (
+    0 => 'Dwight',
+    1 => 'IL',
+    2 => '41.09',
+    3 => '-88.42',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  21 => 
+  array (
+    0 => 'Elwood',
+    1 => 'IL',
+    2 => '41.41',
+    3 => '-88.1',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  22 => 
+  array (
+    0 => 'Flossmoor',
+    1 => 'IL',
+    2 => '41.53',
+    3 => '-87.68',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  23 => 
+  array (
+    0 => 'Frankfort',
+    1 => 'IL',
+    2 => '41.49',
+    3 => '-87.83',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  24 => 
+  array (
+    0 => 'Gardner',
+    1 => 'IL',
+    2 => '41.18',
+    3 => '-88.31',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  25 => 
+  array (
+    0 => 'Glenwood',
+    1 => 'IL',
+    2 => '41.54',
+    3 => '-87.61',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  26 => 
+  array (
+    0 => 'Harvey',
+    1 => 'IL',
+    2 => '41.6',
+    3 => '-87.65',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  28 => 
+  array (
+    0 => 'Markham',
+    1 => 'IL',
+    2 => '41.6',
+    3 => '-87.69',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  29 => 
+  array (
+    0 => 'Hazel Crest',
+    1 => 'IL',
+    2 => '41.57',
+    3 => '-87.68',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  30 => 
+  array (
+    0 => 'Homewood',
+    1 => 'IL',
+    2 => '41.55',
+    3 => '-87.66',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  31 => 
+  array (
+    0 => 'Joliet',
+    1 => 'IL',
+    2 => '41.52',
+    3 => '-88.12',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  32 => 
+  array (
+    0 => 'Joliet',
+    1 => 'IL',
+    2 => '41.52',
+    3 => '-88.12',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  33 => 
+  array (
+    0 => 'Joliet',
+    1 => 'IL',
+    2 => '41.52',
+    3 => '-88.12',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  34 => 
+  array (
+    0 => 'Joliet',
+    1 => 'IL',
+    2 => '41.52',
+    3 => '-88.12',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  35 => 
+  array (
+    0 => 'Joliet',
+    1 => 'IL',
+    2 => '41.52',
+    3 => '-88.12',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  36 => 
+  array (
+    0 => 'Joliet',
+    1 => 'IL',
+    2 => '41.52',
+    3 => '-88.12',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  37 => 
+  array (
+    0 => 'Kinsman',
+    1 => 'IL',
+    2 => '41.19',
+    3 => '-88.56',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  38 => 
+  array (
+    0 => 'Lansing',
+    1 => 'IL',
+    2 => '41.56',
+    3 => '-87.54',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  39 => 
+  array (
+    0 => 'Lemont',
+    1 => 'IL',
+    2 => '41.67',
+    3 => '-87.99',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  40 => 
+  array (
+    0 => 'Bolingbrook',
+    1 => 'IL',
+    2 => '41.7',
+    3 => '-88.07',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  41 => 
+  array (
+    0 => 'Lockport',
+    1 => 'IL',
+    2 => '41.58',
+    3 => '-88.04',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  42 => 
+  array (
+    0 => 'Manhattan',
+    1 => 'IL',
+    2 => '41.42',
+    3 => '-87.98',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  43 => 
+  array (
+    0 => 'Matteson',
+    1 => 'IL',
+    2 => '41.51',
+    3 => '-87.73',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  44 => 
+  array (
+    0 => 'Mazon',
+    1 => 'IL',
+    2 => '41.23',
+    3 => '-88.42',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  45 => 
+  array (
+    0 => 'Midlothian',
+    1 => 'IL',
+    2 => '41.62',
+    3 => '-87.72',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  46 => 
+  array (
+    0 => 'Romeoville',
+    1 => 'IL',
+    2 => '41.64',
+    3 => '-88.08',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  47 => 
+  array (
+    0 => 'Minooka',
+    1 => 'IL',
+    2 => '41.44',
+    3 => '-88.25',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  48 => 
+  array (
+    0 => 'Mokena',
+    1 => 'IL',
+    2 => '41.53',
+    3 => '-87.87',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  49 => 
+  array (
+    0 => 'Monee',
+    1 => 'IL',
+    2 => '41.42',
+    3 => '-87.75',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  50 => 
+  array (
+    0 => 'Morris',
+    1 => 'IL',
+    2 => '41.36',
+    3 => '-88.42',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  51 => 
+  array (
+    0 => 'New Lenox',
+    1 => 'IL',
+    2 => '41.51',
+    3 => '-87.98',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  52 => 
+  array (
+    0 => 'Oak Forest',
+    1 => 'IL',
+    2 => '41.6',
+    3 => '-87.75',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  53 => 
+  array (
+    0 => 'Oak Lawn',
+    1 => 'IL',
+    2 => '41.71',
+    3 => '-87.75',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  54 => 
+  array (
+    0 => 'Oak Lawn',
+    1 => 'IL',
+    2 => '41.71',
+    3 => '-87.75',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  55 => 
+  array (
+    0 => 'Bridgeview',
+    1 => 'IL',
+    2 => '41.73',
+    3 => '-87.8',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  56 => 
+  array (
+    0 => 'Hometown',
+    1 => 'IL',
+    2 => '41.73',
+    3 => '-87.73',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  57 => 
+  array (
+    0 => 'Hickory Hills',
+    1 => 'IL',
+    2 => '41.72',
+    3 => '-87.82',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  58 => 
+  array (
+    0 => 'Justice',
+    1 => 'IL',
+    2 => '41.74',
+    3 => '-87.83',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  59 => 
+  array (
+    0 => 'Burbank',
+    1 => 'IL',
+    2 => '41.74',
+    3 => '-87.76',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  60 => 
+  array (
+    0 => 'Odell',
+    1 => 'IL',
+    2 => '41',
+    3 => '-88.52',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  61 => 
+  array (
+    0 => 'Olympia Fields',
+    1 => 'IL',
+    2 => '41.51',
+    3 => '-87.69',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  62 => 
+  array (
+    0 => 'Orland Park',
+    1 => 'IL',
+    2 => '41.61',
+    3 => '-87.85',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  63 => 
+  array (
+    0 => 'Palos Heights',
+    1 => 'IL',
+    2 => '41.66',
+    3 => '-87.79',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  64 => 
+  array (
+    0 => 'Palos Park',
+    1 => 'IL',
+    2 => '41.66',
+    3 => '-87.84',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  65 => 
+  array (
+    0 => 'Palos Hills',
+    1 => 'IL',
+    2 => '41.69',
+    3 => '-87.82',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  66 => 
+  array (
+    0 => 'Park Forest',
+    1 => 'IL',
+    2 => '41.48',
+    3 => '-87.68',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  67 => 
+  array (
+    0 => 'Orland Park',
+    1 => 'IL',
+    2 => '41.61',
+    3 => '-87.85',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  68 => 
+  array (
+    0 => 'Peotone',
+    1 => 'IL',
+    2 => '41.33',
+    3 => '-87.79',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  69 => 
+  array (
+    0 => 'Posen',
+    1 => 'IL',
+    2 => '41.62',
+    3 => '-87.68',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  70 => 
+  array (
+    0 => 'Ransom',
+    1 => 'IL',
+    2 => '41.15',
+    3 => '-88.65',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  71 => 
+  array (
+    0 => 'Richton Park',
+    1 => 'IL',
+    2 => '41.48',
+    3 => '-87.72',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  72 => 
+  array (
+    0 => 'Robbins',
+    1 => 'IL',
+    2 => '41.64',
+    3 => '-87.7',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  73 => 
+  array (
+    0 => 'South Holland',
+    1 => 'IL',
+    2 => '41.59',
+    3 => '-87.6',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  74 => 
+  array (
+    0 => 'South Wilmington',
+    1 => 'IL',
+    2 => '41.17',
+    3 => '-88.27',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  75 => 
+  array (
+    0 => 'Steger',
+    1 => 'IL',
+    2 => '41.46',
+    3 => '-87.63',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  76 => 
+  array (
+    0 => 'Thornton',
+    1 => 'IL',
+    2 => '41.57',
+    3 => '-87.61',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  77 => 
+  array (
+    0 => 'Tinley Park',
+    1 => 'IL',
+    2 => '41.57',
+    3 => '-87.8',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  78 => 
+  array (
+    0 => 'Country Club Hills',
+    1 => 'IL',
+    2 => '41.56',
+    3 => '-87.72',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  79 => 
+  array (
+    0 => 'Verona',
+    1 => 'IL',
+    2 => '41.21',
+    3 => '-88.5',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  80 => 
+  array (
+    0 => 'Willow Springs',
+    1 => 'IL',
+    2 => '41.73',
+    3 => '-87.88',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  81 => 
+  array (
+    0 => 'Wilmington',
+    1 => 'IL',
+    2 => '41.29',
+    3 => '-88.15',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  82 => 
+  array (
+    0 => 'Worth',
+    1 => 'IL',
+    2 => '41.68',
+    3 => '-87.79',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  84 => 
+  array (
+    0 => 'University Park',
+    1 => 'IL',
+    2 => '41.44',
+    3 => '-87.68',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  87 => 
+  array (
+    0 => 'Tinley Park',
+    1 => 'IL',
+    2 => '41.57',
+    3 => '-87.84',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  90 => 
+  array (
+    0 => 'Bolingbrook',
+    1 => 'IL',
+    2 => '41.7',
+    3 => '-88.07',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  91 => 
+  array (
+    0 => 'Homer Glen',
+    1 => 'IL',
+    2 => '41.6',
+    3 => '-88.01',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  99 => 
+  array (
+    0 => 'Bedford Park',
+    1 => 'IL',
+    2 => '41.76',
+    3 => '-87.79',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+);

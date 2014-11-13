@@ -1,0 +1,272 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Algoma',
+    1 => 'WI',
+    2 => '44.6',
+    3 => '-87.44',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '02' => 
+  array (
+    0 => 'Baileys Harbor',
+    1 => 'WI',
+    2 => '45.06',
+    3 => '-87.12',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '04' => 
+  array (
+    0 => 'Brussels',
+    1 => 'WI',
+    2 => '44.73',
+    3 => '-87.63',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '05' => 
+  array (
+    0 => 'Casco',
+    1 => 'WI',
+    2 => '44.55',
+    3 => '-87.61',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '07' => 
+  array (
+    0 => 'Collins',
+    1 => 'WI',
+    2 => '44.08',
+    3 => '-87.98',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '08' => 
+  array (
+    0 => 'Denmark',
+    1 => 'WI',
+    2 => '44.34',
+    3 => '-87.82',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '09' => 
+  array (
+    0 => 'Egg Harbor',
+    1 => 'WI',
+    2 => '45.04',
+    3 => '-87.29',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  10 => 
+  array (
+    0 => 'Ellison Bay',
+    1 => 'WI',
+    2 => '45.25',
+    3 => '-87.06',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  11 => 
+  array (
+    0 => 'Ephraim',
+    1 => 'WI',
+    2 => '45.15',
+    3 => '-87.16',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  12 => 
+  array (
+    0 => 'Fish Creek',
+    1 => 'WI',
+    2 => '45.13',
+    3 => '-87.23',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  13 => 
+  array (
+    0 => 'Forestville',
+    1 => 'WI',
+    2 => '44.69',
+    3 => '-87.47',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  14 => 
+  array (
+    0 => 'Francis Creek',
+    1 => 'WI',
+    2 => '44.2',
+    3 => '-87.72',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  15 => 
+  array (
+    0 => 'Kellnersville',
+    1 => 'WI',
+    2 => '44.22',
+    3 => '-87.8',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  16 => 
+  array (
+    0 => 'Kewaunee',
+    1 => 'WI',
+    2 => '44.46',
+    3 => '-87.51',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  17 => 
+  array (
+    0 => 'Luxemburg',
+    1 => 'WI',
+    2 => '44.54',
+    3 => '-87.7',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  20 => 
+  array (
+    0 => 'Manitowoc',
+    1 => 'WI',
+    2 => '44.09',
+    3 => '-87.67',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  21 => 
+  array (
+    0 => 'Manitowoc',
+    1 => 'WI',
+    2 => '44.09',
+    3 => '-87.67',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  26 => 
+  array (
+    0 => 'Maplewood',
+    1 => 'WI',
+    2 => '44.75',
+    3 => '-87.48',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  27 => 
+  array (
+    0 => 'Maribel',
+    1 => 'WI',
+    2 => '44.27',
+    3 => '-87.8',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  28 => 
+  array (
+    0 => 'Mishicot',
+    1 => 'WI',
+    2 => '44.23',
+    3 => '-87.64',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  29 => 
+  array (
+    0 => 'New Franken',
+    1 => 'WI',
+    2 => '44.53',
+    3 => '-87.83',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  30 => 
+  array (
+    0 => 'Reedsville',
+    1 => 'WI',
+    2 => '44.15',
+    3 => '-87.95',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  32 => 
+  array (
+    0 => 'Saint Nazianz',
+    1 => 'WI',
+    2 => '44',
+    3 => '-87.92',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  34 => 
+  array (
+    0 => 'Sister Bay',
+    1 => 'WI',
+    2 => '45.18',
+    3 => '-87.12',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  35 => 
+  array (
+    0 => 'Sturgeon Bay',
+    1 => 'WI',
+    2 => '44.83',
+    3 => '-87.37',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  40 => 
+  array (
+    0 => 'Tisch Mills',
+    1 => 'WI',
+    2 => '44.33',
+    3 => '-87.61',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  41 => 
+  array (
+    0 => 'Two Rivers',
+    1 => 'WI',
+    2 => '44.2',
+    3 => '-87.59',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  45 => 
+  array (
+    0 => 'Valders',
+    1 => 'WI',
+    2 => '44.06',
+    3 => '-87.88',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  46 => 
+  array (
+    0 => 'Washington Island',
+    1 => 'WI',
+    2 => '45.37',
+    3 => '-86.9',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  47 => 
+  array (
+    0 => 'Whitelaw',
+    1 => 'WI',
+    2 => '44.14',
+    3 => '-87.82',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+);

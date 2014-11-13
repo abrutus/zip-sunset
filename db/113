@@ -1,0 +1,290 @@
+<?php $db= array (
+  51 => 
+  array (
+    0 => 'Flushing',
+    1 => 'NY',
+    2 => '40.77',
+    3 => '-73.84',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  52 => 
+  array (
+    0 => 'Flushing',
+    1 => 'NY',
+    2 => '40.77',
+    3 => '-73.84',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  54 => 
+  array (
+    0 => 'Flushing',
+    1 => 'NY',
+    2 => '40.77',
+    3 => '-73.84',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  55 => 
+  array (
+    0 => 'Flushing',
+    1 => 'NY',
+    2 => '40.77',
+    3 => '-73.84',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  56 => 
+  array (
+    0 => 'College Point',
+    1 => 'NY',
+    2 => '40.78',
+    3 => '-73.84',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  57 => 
+  array (
+    0 => 'Whitestone',
+    1 => 'NY',
+    2 => '40.79',
+    3 => '-73.81',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  58 => 
+  array (
+    0 => 'Flushing',
+    1 => 'NY',
+    2 => '40.77',
+    3 => '-73.84',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  59 => 
+  array (
+    0 => 'Bayside',
+    1 => 'NY',
+    2 => '40.79',
+    3 => '-73.77',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  60 => 
+  array (
+    0 => 'Bayside',
+    1 => 'NY',
+    2 => '40.78',
+    3 => '-73.78',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  61 => 
+  array (
+    0 => 'Bayside',
+    1 => 'NY',
+    2 => '40.76',
+    3 => '-73.77',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  62 => 
+  array (
+    0 => 'Little Neck',
+    1 => 'NY',
+    2 => '40.76',
+    3 => '-73.74',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  63 => 
+  array (
+    0 => 'Little Neck',
+    1 => 'NY',
+    2 => '40.76',
+    3 => '-73.74',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  64 => 
+  array (
+    0 => 'Oakland Gardens',
+    1 => 'NY',
+    2 => '40.74',
+    3 => '-73.75',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  65 => 
+  array (
+    0 => 'Fresh Meadows',
+    1 => 'NY',
+    2 => '40.73',
+    3 => '-73.79',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  66 => 
+  array (
+    0 => 'Fresh Meadows',
+    1 => 'NY',
+    2 => '40.73',
+    3 => '-73.79',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  67 => 
+  array (
+    0 => 'Flushing',
+    1 => 'NY',
+    2 => '40.77',
+    3 => '-73.84',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  68 => 
+  array (
+    0 => 'Corona',
+    1 => 'NY',
+    2 => '40.74',
+    3 => '-73.85',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  69 => 
+  array (
+    0 => 'East Elmhurst',
+    1 => 'NY',
+    2 => '40.76',
+    3 => '-73.88',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  70 => 
+  array (
+    0 => 'East Elmhurst',
+    1 => 'NY',
+    2 => '40.76',
+    3 => '-73.88',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  71 => 
+  array (
+    0 => 'Flushing',
+    1 => 'NY',
+    2 => '40.77',
+    3 => '-73.84',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  72 => 
+  array (
+    0 => 'Jackson Heights',
+    1 => 'NY',
+    2 => '40.75',
+    3 => '-73.88',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  73 => 
+  array (
+    0 => 'Elmhurst',
+    1 => 'NY',
+    2 => '40.72',
+    3 => '-73.87',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  74 => 
+  array (
+    0 => 'Rego Park',
+    1 => 'NY',
+    2 => '40.72',
+    3 => '-73.86',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  75 => 
+  array (
+    0 => 'Forest Hills',
+    1 => 'NY',
+    2 => '40.72',
+    3 => '-73.84',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  77 => 
+  array (
+    0 => 'Woodside',
+    1 => 'NY',
+    2 => '40.74',
+    3 => '-73.9',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  78 => 
+  array (
+    0 => 'Maspeth',
+    1 => 'NY',
+    2 => '40.72',
+    3 => '-73.9',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  79 => 
+  array (
+    0 => 'Middle Village',
+    1 => 'NY',
+    2 => '40.71',
+    3 => '-73.88',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  80 => 
+  array (
+    0 => 'Elmhurst',
+    1 => 'NY',
+    2 => '40.72',
+    3 => '-73.87',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  81 => 
+  array (
+    0 => 'Flushing',
+    1 => 'NY',
+    2 => '40.77',
+    3 => '-73.84',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  85 => 
+  array (
+    0 => 'Ridgewood',
+    1 => 'NY',
+    2 => '40.7',
+    3 => '-73.89',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  86 => 
+  array (
+    0 => 'Ridgewood',
+    1 => 'NY',
+    2 => '40.7',
+    3 => '-73.89',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  90 => 
+  array (
+    0 => 'Flushing',
+    1 => 'NY',
+    2 => '40.77',
+    3 => '-73.84',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

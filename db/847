@@ -1,0 +1,632 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Richfield',
+    1 => 'UT',
+    2 => '38.75',
+    3 => '-112.1',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  10 => 
+  array (
+    0 => 'Alton',
+    1 => 'UT',
+    2 => '37.46',
+    3 => '-112.5',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  11 => 
+  array (
+    0 => 'Annabella',
+    1 => 'UT',
+    2 => '38.71',
+    3 => '-112.06',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  12 => 
+  array (
+    0 => 'Antimony',
+    1 => 'UT',
+    2 => '38.09',
+    3 => '-112',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  13 => 
+  array (
+    0 => 'Beaver',
+    1 => 'UT',
+    2 => '38.38',
+    3 => '-112.66',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  14 => 
+  array (
+    0 => 'Beryl',
+    1 => 'UT',
+    2 => '37.87',
+    3 => '-113.66',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  15 => 
+  array (
+    0 => 'Bicknell',
+    1 => 'UT',
+    2 => '38.33',
+    3 => '-111.55',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  16 => 
+  array (
+    0 => 'Boulder',
+    1 => 'UT',
+    2 => '37.92',
+    3 => '-111.48',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  17 => 
+  array (
+    0 => 'Bryce Canyon',
+    1 => 'UT',
+    2 => '37.62',
+    3 => '-112.17',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  18 => 
+  array (
+    0 => 'Cannonville',
+    1 => 'UT',
+    2 => '37.57',
+    3 => '-112.08',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  19 => 
+  array (
+    0 => 'Brian Head',
+    1 => 'UT',
+    2 => '37.64',
+    3 => '-112.8',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  20 => 
+  array (
+    0 => 'Cedar City',
+    1 => 'UT',
+    2 => '37.81',
+    3 => '-113.22',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  21 => 
+  array (
+    0 => 'Cedar City',
+    1 => 'UT',
+    2 => '37.66',
+    3 => '-113.19',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  22 => 
+  array (
+    0 => 'Central',
+    1 => 'UT',
+    2 => '37.39',
+    3 => '-113.63',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  23 => 
+  array (
+    0 => 'Circleville',
+    1 => 'UT',
+    2 => '38.18',
+    3 => '-112.22',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  24 => 
+  array (
+    0 => 'Elsinore',
+    1 => 'UT',
+    2 => '38.68',
+    3 => '-112.14',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  25 => 
+  array (
+    0 => 'Enterprise',
+    1 => 'UT',
+    2 => '37.52',
+    3 => '-113.75',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  26 => 
+  array (
+    0 => 'Escalante',
+    1 => 'UT',
+    2 => '37.77',
+    3 => '-111.6',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  28 => 
+  array (
+    0 => 'Garrison',
+    1 => 'UT',
+    2 => '39.06',
+    3 => '-113.83',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  29 => 
+  array (
+    0 => 'Glendale',
+    1 => 'UT',
+    2 => '37.38',
+    3 => '-112.58',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  30 => 
+  array (
+    0 => 'Glenwood',
+    1 => 'UT',
+    2 => '38.76',
+    3 => '-111.97',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  31 => 
+  array (
+    0 => 'Greenville',
+    1 => 'UT',
+    2 => '38.22',
+    3 => '-112.8',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  32 => 
+  array (
+    0 => 'Greenwich',
+    1 => 'UT',
+    2 => '38.45',
+    3 => '-111.9',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  33 => 
+  array (
+    0 => 'Gunlock',
+    1 => 'UT',
+    2 => '37.24',
+    3 => '-113.79',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  35 => 
+  array (
+    0 => 'Hatch',
+    1 => 'UT',
+    2 => '37.6',
+    3 => '-112.47',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  36 => 
+  array (
+    0 => 'Henrieville',
+    1 => 'UT',
+    2 => '37.64',
+    3 => '-111.92',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  37 => 
+  array (
+    0 => 'Hurricane',
+    1 => 'UT',
+    2 => '37.13',
+    3 => '-112.97',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  38 => 
+  array (
+    0 => 'Ivins',
+    1 => 'UT',
+    2 => '37.18',
+    3 => '-113.63',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  39 => 
+  array (
+    0 => 'Joseph',
+    1 => 'UT',
+    2 => '38.62',
+    3 => '-112.33',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  40 => 
+  array (
+    0 => 'Junction',
+    1 => 'UT',
+    2 => '38.23',
+    3 => '-112.26',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  41 => 
+  array (
+    0 => 'Kanab',
+    1 => 'UT',
+    2 => '37.27',
+    3 => '-112.23',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  42 => 
+  array (
+    0 => 'Kanarraville',
+    1 => 'UT',
+    2 => '37.53',
+    3 => '-113.17',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  43 => 
+  array (
+    0 => 'Kingston',
+    1 => 'UT',
+    2 => '38.23',
+    3 => '-112.19',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  44 => 
+  array (
+    0 => 'Koosharem',
+    1 => 'UT',
+    2 => '38.51',
+    3 => '-111.87',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  45 => 
+  array (
+    0 => 'La Verkin',
+    1 => 'UT',
+    2 => '37.27',
+    3 => '-113.19',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  46 => 
+  array (
+    0 => 'Leeds',
+    1 => 'UT',
+    2 => '37.23',
+    3 => '-113.36',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  47 => 
+  array (
+    0 => 'Loa',
+    1 => 'UT',
+    2 => '38.4',
+    3 => '-111.58',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  49 => 
+  array (
+    0 => 'Lyman',
+    1 => 'UT',
+    2 => '38.37',
+    3 => '-111.6',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  50 => 
+  array (
+    0 => 'Marysvale',
+    1 => 'UT',
+    2 => '38.41',
+    3 => '-112.24',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  52 => 
+  array (
+    0 => 'Minersville',
+    1 => 'UT',
+    2 => '38.21',
+    3 => '-112.93',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  53 => 
+  array (
+    0 => 'Modena',
+    1 => 'UT',
+    2 => '37.87',
+    3 => '-113.86',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  54 => 
+  array (
+    0 => 'Monroe',
+    1 => 'UT',
+    2 => '38.63',
+    3 => '-111.75',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  55 => 
+  array (
+    0 => 'Mount Carmel',
+    1 => 'UT',
+    2 => '37.24',
+    3 => '-112.77',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  56 => 
+  array (
+    0 => 'Newcastle',
+    1 => 'UT',
+    2 => '37.82',
+    3 => '-113.72',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  57 => 
+  array (
+    0 => 'New Harmony',
+    1 => 'UT',
+    2 => '37.38',
+    3 => '-113.32',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  58 => 
+  array (
+    0 => 'Orderville',
+    1 => 'UT',
+    2 => '37.28',
+    3 => '-112.71',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  59 => 
+  array (
+    0 => 'Panguitch',
+    1 => 'UT',
+    2 => '37.86',
+    3 => '-112.34',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  60 => 
+  array (
+    0 => 'Paragonah',
+    1 => 'UT',
+    2 => '37.93',
+    3 => '-112.64',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  61 => 
+  array (
+    0 => 'Parowan',
+    1 => 'UT',
+    2 => '37.91',
+    3 => '-112.85',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  62 => 
+  array (
+    0 => 'Duck Creek Village',
+    1 => 'UT',
+    2 => '37.4',
+    3 => '-112.63',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  63 => 
+  array (
+    0 => 'Rockville',
+    1 => 'UT',
+    2 => '37.15',
+    3 => '-113.05',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  64 => 
+  array (
+    0 => 'Bryce',
+    1 => 'UT',
+    2 => '37.63',
+    3 => '-112.2',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  65 => 
+  array (
+    0 => 'Santa Clara',
+    1 => 'UT',
+    2 => '37.13',
+    3 => '-113.65',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  66 => 
+  array (
+    0 => 'Sevier',
+    1 => 'UT',
+    2 => '38.55',
+    3 => '-112.35',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  67 => 
+  array (
+    0 => 'Springdale',
+    1 => 'UT',
+    2 => '37.25',
+    3 => '-112.99',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  70 => 
+  array (
+    0 => 'Saint George',
+    1 => 'UT',
+    2 => '37.18',
+    3 => '-113.6',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  71 => 
+  array (
+    0 => 'Saint George',
+    1 => 'UT',
+    2 => '37.13',
+    3 => '-113.48',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  72 => 
+  array (
+    0 => 'Summit',
+    1 => 'UT',
+    2 => '37.77',
+    3 => '-112.93',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  73 => 
+  array (
+    0 => 'Teasdale',
+    1 => 'UT',
+    2 => '38.23',
+    3 => '-111.47',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  74 => 
+  array (
+    0 => 'Toquerville',
+    1 => 'UT',
+    2 => '37.26',
+    3 => '-113.27',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  75 => 
+  array (
+    0 => 'Torrey',
+    1 => 'UT',
+    2 => '38.33',
+    3 => '-111.06',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  76 => 
+  array (
+    0 => 'Tropic',
+    1 => 'UT',
+    2 => '37.69',
+    3 => '-112.03',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  79 => 
+  array (
+    0 => 'Virgin',
+    1 => 'UT',
+    2 => '37.3',
+    3 => '-113.08',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  80 => 
+  array (
+    0 => 'Washington',
+    1 => 'UT',
+    2 => '37.22',
+    3 => '-113.48',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  81 => 
+  array (
+    0 => 'Pine Valley',
+    1 => 'UT',
+    2 => '37.47',
+    3 => '-113.51',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  82 => 
+  array (
+    0 => 'Veyo',
+    1 => 'UT',
+    2 => '37.42',
+    3 => '-113.72',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  83 => 
+  array (
+    0 => 'Dammeron Valley',
+    1 => 'UT',
+    2 => '37.26',
+    3 => '-113.69',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  84 => 
+  array (
+    0 => 'Hildale',
+    1 => 'UT',
+    2 => '37',
+    3 => '-112.96',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  90 => 
+  array (
+    0 => 'Saint George',
+    1 => 'UT',
+    2 => '37.06',
+    3 => '-113.57',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  91 => 
+  array (
+    0 => 'Saint George',
+    1 => 'UT',
+    2 => '37.08',
+    3 => '-113.55',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+);

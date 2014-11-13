@@ -1,0 +1,425 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Charleston',
+    1 => 'WV',
+    2 => '38.35',
+    3 => '-81.63',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '02' => 
+  array (
+    0 => 'Charleston',
+    1 => 'WV',
+    2 => '38.35',
+    3 => '-81.63',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '03' => 
+  array (
+    0 => 'Charleston',
+    1 => 'WV',
+    2 => '38.35',
+    3 => '-81.63',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '04' => 
+  array (
+    0 => 'Charleston',
+    1 => 'WV',
+    2 => '38.35',
+    3 => '-81.63',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '05' => 
+  array (
+    0 => 'Charleston',
+    1 => 'WV',
+    2 => '38.35',
+    3 => '-81.63',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '06' => 
+  array (
+    0 => 'Charleston',
+    1 => 'WV',
+    2 => '38.35',
+    3 => '-81.63',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '09' => 
+  array (
+    0 => 'Charleston',
+    1 => 'WV',
+    2 => '38.35',
+    3 => '-81.63',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  11 => 
+  array (
+    0 => 'Charleston',
+    1 => 'WV',
+    2 => '38.35',
+    3 => '-81.63',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  12 => 
+  array (
+    0 => 'Charleston',
+    1 => 'WV',
+    2 => '38.35',
+    3 => '-81.63',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  13 => 
+  array (
+    0 => 'Charleston',
+    1 => 'WV',
+    2 => '38.35',
+    3 => '-81.63',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  14 => 
+  array (
+    0 => 'Charleston',
+    1 => 'WV',
+    2 => '38.35',
+    3 => '-81.63',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  15 => 
+  array (
+    0 => 'Charleston',
+    1 => 'WV',
+    2 => '38.35',
+    3 => '-81.63',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  17 => 
+  array (
+    0 => 'Charleston',
+    1 => 'WV',
+    2 => '38.35',
+    3 => '-81.63',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  20 => 
+  array (
+    0 => 'Charleston',
+    1 => 'WV',
+    2 => '38.35',
+    3 => '-81.63',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  21 => 
+  array (
+    0 => 'Charleston',
+    1 => 'WV',
+    2 => '38.35',
+    3 => '-81.63',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  22 => 
+  array (
+    0 => 'Charleston',
+    1 => 'WV',
+    2 => '38.35',
+    3 => '-81.63',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  23 => 
+  array (
+    0 => 'Charleston',
+    1 => 'WV',
+    2 => '38.35',
+    3 => '-81.63',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  24 => 
+  array (
+    0 => 'Charleston',
+    1 => 'WV',
+    2 => '38.35',
+    3 => '-81.63',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  25 => 
+  array (
+    0 => 'Charleston',
+    1 => 'WV',
+    2 => '38.35',
+    3 => '-81.63',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  26 => 
+  array (
+    0 => 'Charleston',
+    1 => 'WV',
+    2 => '38.35',
+    3 => '-81.63',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  27 => 
+  array (
+    0 => 'Charleston',
+    1 => 'WV',
+    2 => '38.35',
+    3 => '-81.63',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  28 => 
+  array (
+    0 => 'Charleston',
+    1 => 'WV',
+    2 => '38.35',
+    3 => '-81.63',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  29 => 
+  array (
+    0 => 'Charleston',
+    1 => 'WV',
+    2 => '38.35',
+    3 => '-81.63',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  30 => 
+  array (
+    0 => 'Charleston',
+    1 => 'WV',
+    2 => '38.35',
+    3 => '-81.63',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  31 => 
+  array (
+    0 => 'Charleston',
+    1 => 'WV',
+    2 => '38.35',
+    3 => '-81.63',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  32 => 
+  array (
+    0 => 'Charleston',
+    1 => 'WV',
+    2 => '38.35',
+    3 => '-81.63',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  33 => 
+  array (
+    0 => 'Charleston',
+    1 => 'WV',
+    2 => '38.35',
+    3 => '-81.63',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  34 => 
+  array (
+    0 => 'Charleston',
+    1 => 'WV',
+    2 => '38.35',
+    3 => '-81.63',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  35 => 
+  array (
+    0 => 'Charleston',
+    1 => 'WV',
+    2 => '38.35',
+    3 => '-81.63',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  36 => 
+  array (
+    0 => 'Charleston',
+    1 => 'WV',
+    2 => '38.35',
+    3 => '-81.63',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  37 => 
+  array (
+    0 => 'Charleston',
+    1 => 'WV',
+    2 => '38.35',
+    3 => '-81.63',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  38 => 
+  array (
+    0 => 'Charleston',
+    1 => 'WV',
+    2 => '38.35',
+    3 => '-81.63',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  39 => 
+  array (
+    0 => 'Charleston',
+    1 => 'WV',
+    2 => '38.35',
+    3 => '-81.63',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  50 => 
+  array (
+    0 => 'Charleston',
+    1 => 'WV',
+    2 => '38.35',
+    3 => '-81.63',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  56 => 
+  array (
+    0 => 'Charleston',
+    1 => 'WV',
+    2 => '38.35',
+    3 => '-81.63',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  57 => 
+  array (
+    0 => 'Charleston',
+    1 => 'WV',
+    2 => '38.35',
+    3 => '-81.63',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  58 => 
+  array (
+    0 => 'Charleston',
+    1 => 'WV',
+    2 => '38.35',
+    3 => '-81.63',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  60 => 
+  array (
+    0 => 'Charleston',
+    1 => 'WV',
+    2 => '38.35',
+    3 => '-81.63',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  61 => 
+  array (
+    0 => 'Charleston',
+    1 => 'WV',
+    2 => '38.35',
+    3 => '-81.63',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  62 => 
+  array (
+    0 => 'Charleston',
+    1 => 'WV',
+    2 => '38.35',
+    3 => '-81.63',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  64 => 
+  array (
+    0 => 'Charleston',
+    1 => 'WV',
+    2 => '38.35',
+    3 => '-81.63',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  65 => 
+  array (
+    0 => 'Charleston',
+    1 => 'WV',
+    2 => '38.35',
+    3 => '-81.63',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  75 => 
+  array (
+    0 => 'Charleston',
+    1 => 'WV',
+    2 => '38.35',
+    3 => '-81.63',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  87 => 
+  array (
+    0 => 'Charleston',
+    1 => 'WV',
+    2 => '38.35',
+    3 => '-81.63',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  89 => 
+  array (
+    0 => 'Charleston',
+    1 => 'WV',
+    2 => '38.35',
+    3 => '-81.63',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  92 => 
+  array (
+    0 => 'Charleston',
+    1 => 'WV',
+    2 => '38.35',
+    3 => '-81.63',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  96 => 
+  array (
+    0 => 'Charleston',
+    1 => 'WV',
+    2 => '38.35',
+    3 => '-81.63',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

@@ -1,0 +1,29 @@
+<?php $db= array (
+  10 => 
+  array (
+    0 => 'Ainsworth',
+    1 => 'NE',
+    2 => '42.54',
+    3 => '-99.85',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  14 => 
+  array (
+    0 => 'Johnstown',
+    1 => 'NE',
+    2 => '42.57',
+    3 => '-100.05',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  17 => 
+  array (
+    0 => 'Long Pine',
+    1 => 'NE',
+    2 => '42.53',
+    3 => '-99.7',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+);

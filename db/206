@@ -1,0 +1,614 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Waldorf',
+    1 => 'MD',
+    2 => '38.64',
+    3 => '-76.9',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '02' => 
+  array (
+    0 => 'Waldorf',
+    1 => 'MD',
+    2 => '38.64',
+    3 => '-76.9',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '03' => 
+  array (
+    0 => 'Waldorf',
+    1 => 'MD',
+    2 => '38.64',
+    3 => '-76.9',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '04' => 
+  array (
+    0 => 'Waldorf',
+    1 => 'MD',
+    2 => '38.64',
+    3 => '-76.9',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '06' => 
+  array (
+    0 => 'Abell',
+    1 => 'MD',
+    2 => '38.25',
+    3 => '-76.74',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '07' => 
+  array (
+    0 => 'Accokeek',
+    1 => 'MD',
+    2 => '38.67',
+    3 => '-77.01',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '08' => 
+  array (
+    0 => 'Aquasco',
+    1 => 'MD',
+    2 => '38.58',
+    3 => '-76.7',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '09' => 
+  array (
+    0 => 'Avenue',
+    1 => 'MD',
+    2 => '38.27',
+    3 => '-76.74',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  10 => 
+  array (
+    0 => 'Barstow',
+    1 => 'MD',
+    2 => '38.52',
+    3 => '-76.6',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  11 => 
+  array (
+    0 => 'Bel Alton',
+    1 => 'MD',
+    2 => '38.46',
+    3 => '-76.98',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  12 => 
+  array (
+    0 => 'Benedict',
+    1 => 'MD',
+    2 => '38.5',
+    3 => '-76.68',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  13 => 
+  array (
+    0 => 'Brandywine',
+    1 => 'MD',
+    2 => '38.69',
+    3 => '-76.85',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  15 => 
+  array (
+    0 => 'Broomes Island',
+    1 => 'MD',
+    2 => '38.41',
+    3 => '-76.54',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  16 => 
+  array (
+    0 => 'Bryans Road',
+    1 => 'MD',
+    2 => '38.63',
+    3 => '-77.07',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  17 => 
+  array (
+    0 => 'Bryantown',
+    1 => 'MD',
+    2 => '38.55',
+    3 => '-76.84',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  18 => 
+  array (
+    0 => 'Bushwood',
+    1 => 'MD',
+    2 => '38.28',
+    3 => '-76.78',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  19 => 
+  array (
+    0 => 'California',
+    1 => 'MD',
+    2 => '38.29',
+    3 => '-76.49',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  20 => 
+  array (
+    0 => 'Callaway',
+    1 => 'MD',
+    2 => '38.23',
+    3 => '-76.51',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  21 => 
+  array (
+    0 => 'Chaptico',
+    1 => 'MD',
+    2 => '38.36',
+    3 => '-76.78',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  22 => 
+  array (
+    0 => 'Charlotte Hall',
+    1 => 'MD',
+    2 => '38.47',
+    3 => '-76.78',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  23 => 
+  array (
+    0 => 'Cheltenham',
+    1 => 'MD',
+    2 => '38.73',
+    3 => '-76.82',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  24 => 
+  array (
+    0 => 'Clements',
+    1 => 'MD',
+    2 => '38.32',
+    3 => '-76.72',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  25 => 
+  array (
+    0 => 'Cobb Island',
+    1 => 'MD',
+    2 => '38.33',
+    3 => '-76.91',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  26 => 
+  array (
+    0 => 'Coltons Point',
+    1 => 'MD',
+    2 => '38.23',
+    3 => '-76.76',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  27 => 
+  array (
+    0 => 'Compton',
+    1 => 'MD',
+    2 => '38.3',
+    3 => '-76.63',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  28 => 
+  array (
+    0 => 'Dameron',
+    1 => 'MD',
+    2 => '38.15',
+    3 => '-76.36',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  29 => 
+  array (
+    0 => 'Dowell',
+    1 => 'MD',
+    2 => '38.35',
+    3 => '-76.44',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  30 => 
+  array (
+    0 => 'Drayden',
+    1 => 'MD',
+    2 => '38.17',
+    3 => '-76.47',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  32 => 
+  array (
+    0 => 'Faulkner',
+    1 => 'MD',
+    2 => '38.43',
+    3 => '-76.97',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  34 => 
+  array (
+    0 => 'Great Mills',
+    1 => 'MD',
+    2 => '38.25',
+    3 => '-76.49',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  35 => 
+  array (
+    0 => 'Helen',
+    1 => 'MD',
+    2 => '38.41',
+    3 => '-76.73',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  36 => 
+  array (
+    0 => 'Hollywood',
+    1 => 'MD',
+    2 => '38.34',
+    3 => '-76.57',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  37 => 
+  array (
+    0 => 'Hughesville',
+    1 => 'MD',
+    2 => '38.53',
+    3 => '-76.78',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  39 => 
+  array (
+    0 => 'Huntingtown',
+    1 => 'MD',
+    2 => '38.61',
+    3 => '-76.61',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  40 => 
+  array (
+    0 => 'Indian Head',
+    1 => 'MD',
+    2 => '38.59',
+    3 => '-77.15',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  43 => 
+  array (
+    0 => 'Ironsides',
+    1 => 'MD',
+    2 => '38.49',
+    3 => '-77.16',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  45 => 
+  array (
+    0 => 'Issue',
+    1 => 'MD',
+    2 => '38.3',
+    3 => '-76.86',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  46 => 
+  array (
+    0 => 'La Plata',
+    1 => 'MD',
+    2 => '38.53',
+    3 => '-76.97',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  50 => 
+  array (
+    0 => 'Leonardtown',
+    1 => 'MD',
+    2 => '38.29',
+    3 => '-76.64',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  53 => 
+  array (
+    0 => 'Lexington Park',
+    1 => 'MD',
+    2 => '38.26',
+    3 => '-76.44',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  56 => 
+  array (
+    0 => 'Loveville',
+    1 => 'MD',
+    2 => '38.35',
+    3 => '-76.67',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  57 => 
+  array (
+    0 => 'Lusby',
+    1 => 'MD',
+    2 => '38.41',
+    3 => '-76.45',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  58 => 
+  array (
+    0 => 'Marbury',
+    1 => 'MD',
+    2 => '38.55',
+    3 => '-77.15',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  59 => 
+  array (
+    0 => 'Mechanicsville',
+    1 => 'MD',
+    2 => '38.43',
+    3 => '-76.73',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  60 => 
+  array (
+    0 => 'Morganza',
+    1 => 'MD',
+    2 => '38.37',
+    3 => '-76.69',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  61 => 
+  array (
+    0 => 'Mount Victoria',
+    1 => 'MD',
+    2 => '38.33',
+    3 => '-76.91',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  62 => 
+  array (
+    0 => 'Nanjemoy',
+    1 => 'MD',
+    2 => '38.45',
+    3 => '-77.21',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  64 => 
+  array (
+    0 => 'Newburg',
+    1 => 'MD',
+    2 => '38.34',
+    3 => '-76.92',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  67 => 
+  array (
+    0 => 'Park Hall',
+    1 => 'MD',
+    2 => '38.22',
+    3 => '-76.44',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  70 => 
+  array (
+    0 => 'Patuxent River',
+    1 => 'MD',
+    2 => '38.28',
+    3 => '-76.42',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  74 => 
+  array (
+    0 => 'Piney Point',
+    1 => 'MD',
+    2 => '38.14',
+    3 => '-76.5',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  75 => 
+  array (
+    0 => 'Pomfret',
+    1 => 'MD',
+    2 => '38.57',
+    3 => '-77.01',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  76 => 
+  array (
+    0 => 'Port Republic',
+    1 => 'MD',
+    2 => '38.49',
+    3 => '-76.54',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  77 => 
+  array (
+    0 => 'Port Tobacco',
+    1 => 'MD',
+    2 => '38.49',
+    3 => '-77.04',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  78 => 
+  array (
+    0 => 'Prince Frederick',
+    1 => 'MD',
+    2 => '38.54',
+    3 => '-76.58',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  80 => 
+  array (
+    0 => 'Ridge',
+    1 => 'MD',
+    2 => '38.11',
+    3 => '-76.37',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  82 => 
+  array (
+    0 => 'Rock Point',
+    1 => 'MD',
+    2 => '38.34',
+    3 => '-76.92',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  84 => 
+  array (
+    0 => 'Saint Inigoes',
+    1 => 'MD',
+    2 => '38.15',
+    3 => '-76.41',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  85 => 
+  array (
+    0 => 'Saint Leonard',
+    1 => 'MD',
+    2 => '38.47',
+    3 => '-76.5',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  86 => 
+  array (
+    0 => 'Saint Marys City',
+    1 => 'MD',
+    2 => '38.18',
+    3 => '-76.42',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  87 => 
+  array (
+    0 => 'Scotland',
+    1 => 'MD',
+    2 => '38.07',
+    3 => '-76.34',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  88 => 
+  array (
+    0 => 'Solomons',
+    1 => 'MD',
+    2 => '38.33',
+    3 => '-76.45',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  89 => 
+  array (
+    0 => 'Sunderland',
+    1 => 'MD',
+    2 => '38.64',
+    3 => '-76.57',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  90 => 
+  array (
+    0 => 'Tall Timbers',
+    1 => 'MD',
+    2 => '38.15',
+    3 => '-76.53',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  92 => 
+  array (
+    0 => 'Valley Lee',
+    1 => 'MD',
+    2 => '38.18',
+    3 => '-76.5',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  93 => 
+  array (
+    0 => 'Welcome',
+    1 => 'MD',
+    2 => '38.45',
+    3 => '-77.08',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  95 => 
+  array (
+    0 => 'White Plains',
+    1 => 'MD',
+    2 => '38.59',
+    3 => '-76.97',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  97 => 
+  array (
+    0 => 'Southern Md Facility',
+    1 => 'MD',
+    2 => '39.03',
+    3 => '-76.9',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

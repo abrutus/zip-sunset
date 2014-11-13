@@ -1,0 +1,74 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Long Island City',
+    1 => 'NY',
+    2 => '40.74',
+    3 => '-73.93',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '02' => 
+  array (
+    0 => 'Astoria',
+    1 => 'NY',
+    2 => '40.78',
+    3 => '-73.91',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '03' => 
+  array (
+    0 => 'Astoria',
+    1 => 'NY',
+    2 => '40.78',
+    3 => '-73.91',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '04' => 
+  array (
+    0 => 'Sunnyside',
+    1 => 'NY',
+    2 => '40.74',
+    3 => '-73.92',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '05' => 
+  array (
+    0 => 'Astoria',
+    1 => 'NY',
+    2 => '40.78',
+    3 => '-73.91',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '06' => 
+  array (
+    0 => 'Astoria',
+    1 => 'NY',
+    2 => '40.78',
+    3 => '-73.91',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '09' => 
+  array (
+    0 => 'Long Island City',
+    1 => 'NY',
+    2 => '40.74',
+    3 => '-73.93',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  20 => 
+  array (
+    0 => 'Long Island City',
+    1 => 'NY',
+    2 => '40.74',
+    3 => '-73.93',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

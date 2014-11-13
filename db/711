@@ -1,0 +1,371 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Shreveport',
+    1 => 'LA',
+    2 => '32.47',
+    3 => '-93.79',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '02' => 
+  array (
+    0 => 'Shreveport',
+    1 => 'LA',
+    2 => '32.47',
+    3 => '-93.79',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '03' => 
+  array (
+    0 => 'Shreveport',
+    1 => 'LA',
+    2 => '32.47',
+    3 => '-93.79',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '04' => 
+  array (
+    0 => 'Shreveport',
+    1 => 'LA',
+    2 => '32.47',
+    3 => '-93.79',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '05' => 
+  array (
+    0 => 'Shreveport',
+    1 => 'LA',
+    2 => '32.47',
+    3 => '-93.79',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '06' => 
+  array (
+    0 => 'Shreveport',
+    1 => 'LA',
+    2 => '32.47',
+    3 => '-93.79',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '07' => 
+  array (
+    0 => 'Shreveport',
+    1 => 'LA',
+    2 => '32.47',
+    3 => '-93.79',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '08' => 
+  array (
+    0 => 'Shreveport',
+    1 => 'LA',
+    2 => '32.47',
+    3 => '-93.79',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '09' => 
+  array (
+    0 => 'Shreveport',
+    1 => 'LA',
+    2 => '32.47',
+    3 => '-93.79',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  10 => 
+  array (
+    0 => 'Barksdale Afb',
+    1 => 'LA',
+    2 => '32.51',
+    3 => '-93.6',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  11 => 
+  array (
+    0 => 'Bossier City',
+    1 => 'LA',
+    2 => '32.51',
+    3 => '-93.66',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  12 => 
+  array (
+    0 => 'Bossier City',
+    1 => 'LA',
+    2 => '32.51',
+    3 => '-93.66',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  13 => 
+  array (
+    0 => 'Bossier City',
+    1 => 'LA',
+    2 => '32.51',
+    3 => '-93.66',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  15 => 
+  array (
+    0 => 'Shreveport',
+    1 => 'LA',
+    2 => '32.47',
+    3 => '-93.79',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  18 => 
+  array (
+    0 => 'Shreveport',
+    1 => 'LA',
+    2 => '32.47',
+    3 => '-93.79',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  19 => 
+  array (
+    0 => 'Shreveport',
+    1 => 'LA',
+    2 => '32.47',
+    3 => '-93.79',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  20 => 
+  array (
+    0 => 'Shreveport',
+    1 => 'LA',
+    2 => '32.47',
+    3 => '-93.79',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  29 => 
+  array (
+    0 => 'Shreveport',
+    1 => 'LA',
+    2 => '32.47',
+    3 => '-93.79',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  30 => 
+  array (
+    0 => 'Shreveport',
+    1 => 'LA',
+    2 => '32.47',
+    3 => '-93.79',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  33 => 
+  array (
+    0 => 'Shreveport',
+    1 => 'LA',
+    2 => '32.47',
+    3 => '-93.79',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  34 => 
+  array (
+    0 => 'Shreveport',
+    1 => 'LA',
+    2 => '32.47',
+    3 => '-93.79',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  35 => 
+  array (
+    0 => 'Shreveport',
+    1 => 'LA',
+    2 => '32.47',
+    3 => '-93.79',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  36 => 
+  array (
+    0 => 'Shreveport',
+    1 => 'LA',
+    2 => '32.47',
+    3 => '-93.79',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  37 => 
+  array (
+    0 => 'Shreveport',
+    1 => 'LA',
+    2 => '32.47',
+    3 => '-93.79',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  38 => 
+  array (
+    0 => 'Shreveport',
+    1 => 'LA',
+    2 => '32.47',
+    3 => '-93.79',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  48 => 
+  array (
+    0 => 'Shreveport',
+    1 => 'LA',
+    2 => '32.47',
+    3 => '-93.79',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  49 => 
+  array (
+    0 => 'Shreveport',
+    1 => 'LA',
+    2 => '32.47',
+    3 => '-93.79',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  50 => 
+  array (
+    0 => 'Shreveport',
+    1 => 'LA',
+    2 => '32.52',
+    3 => '-93.75',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  51 => 
+  array (
+    0 => 'Shreveport',
+    1 => 'LA',
+    2 => '32.47',
+    3 => '-93.79',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  52 => 
+  array (
+    0 => 'Shreveport',
+    1 => 'LA',
+    2 => '32.47',
+    3 => '-93.79',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  53 => 
+  array (
+    0 => 'Shreveport',
+    1 => 'LA',
+    2 => '32.47',
+    3 => '-93.79',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  54 => 
+  array (
+    0 => 'Shreveport',
+    1 => 'LA',
+    2 => '32.47',
+    3 => '-93.79',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  56 => 
+  array (
+    0 => 'Shreveport',
+    1 => 'LA',
+    2 => '32.47',
+    3 => '-93.79',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  61 => 
+  array (
+    0 => 'Shreveport',
+    1 => 'LA',
+    2 => '32.47',
+    3 => '-93.79',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  62 => 
+  array (
+    0 => 'Shreveport',
+    1 => 'LA',
+    2 => '32.47',
+    3 => '-93.79',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  63 => 
+  array (
+    0 => 'Shreveport',
+    1 => 'LA',
+    2 => '32.47',
+    3 => '-93.79',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  64 => 
+  array (
+    0 => 'Shreveport',
+    1 => 'LA',
+    2 => '32.47',
+    3 => '-93.79',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  65 => 
+  array (
+    0 => 'Shreveport',
+    1 => 'LA',
+    2 => '32.47',
+    3 => '-93.79',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  66 => 
+  array (
+    0 => 'Shreveport',
+    1 => 'LA',
+    2 => '32.47',
+    3 => '-93.79',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  71 => 
+  array (
+    0 => 'Bossier City',
+    1 => 'LA',
+    2 => '32.51',
+    3 => '-93.66',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  72 => 
+  array (
+    0 => 'Bossier City',
+    1 => 'LA',
+    2 => '32.51',
+    3 => '-93.66',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+);

@@ -1,0 +1,191 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Santa Barbara',
+    1 => 'CA',
+    2 => '34.41',
+    3 => '-119.7',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '02' => 
+  array (
+    0 => 'Santa Barbara',
+    1 => 'CA',
+    2 => '34.42',
+    3 => '-119.7',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '03' => 
+  array (
+    0 => 'Santa Barbara',
+    1 => 'CA',
+    2 => '34.43',
+    3 => '-119.68',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '05' => 
+  array (
+    0 => 'Santa Barbara',
+    1 => 'CA',
+    2 => '34.01',
+    3 => '-119.72',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '06' => 
+  array (
+    0 => 'Santa Barbara',
+    1 => 'CA',
+    2 => '34.43',
+    3 => '-119.83',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '07' => 
+  array (
+    0 => 'Santa Barbara',
+    1 => 'CA',
+    2 => '34.42',
+    3 => '-119.86',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '08' => 
+  array (
+    0 => 'Santa Barbara',
+    1 => 'CA',
+    2 => '34.44',
+    3 => '-119.61',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '09' => 
+  array (
+    0 => 'Santa Barbara',
+    1 => 'CA',
+    2 => '34.4',
+    3 => '-119.72',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  10 => 
+  array (
+    0 => 'Santa Barbara',
+    1 => 'CA',
+    2 => '34.43',
+    3 => '-119.77',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  11 => 
+  array (
+    0 => 'Santa Barbara',
+    1 => 'CA',
+    2 => '34.45',
+    3 => '-119.8',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  16 => 
+  array (
+    0 => 'Goleta',
+    1 => 'CA',
+    2 => '34.49',
+    3 => '-120.04',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  17 => 
+  array (
+    0 => 'Goleta',
+    1 => 'CA',
+    2 => '34.5',
+    3 => '-120.12',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  18 => 
+  array (
+    0 => 'Goleta',
+    1 => 'CA',
+    2 => '34.43',
+    3 => '-119.82',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  20 => 
+  array (
+    0 => 'Santa Barbara',
+    1 => 'CA',
+    2 => '34.41',
+    3 => '-119.7',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  21 => 
+  array (
+    0 => 'Santa Barbara',
+    1 => 'CA',
+    2 => '34.41',
+    3 => '-119.7',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  30 => 
+  array (
+    0 => 'Santa Barbara',
+    1 => 'CA',
+    2 => '34.44',
+    3 => '-119.73',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  40 => 
+  array (
+    0 => 'Santa Barbara',
+    1 => 'CA',
+    2 => '34.42',
+    3 => '-119.67',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  50 => 
+  array (
+    0 => 'Santa Barbara',
+    1 => 'CA',
+    2 => '34.43',
+    3 => '-119.63',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  60 => 
+  array (
+    0 => 'Santa Barbara',
+    1 => 'CA',
+    2 => '34.43',
+    3 => '-119.8',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  90 => 
+  array (
+    0 => 'Santa Barbara',
+    1 => 'CA',
+    2 => '34.42',
+    3 => '-119.7',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  99 => 
+  array (
+    0 => 'Goleta',
+    1 => 'CA',
+    2 => '34.49',
+    3 => '-120.04',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+);

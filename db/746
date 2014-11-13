@@ -1,0 +1,173 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Ponca City',
+    1 => 'OK',
+    2 => '36.72',
+    3 => '-97.06',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '02' => 
+  array (
+    0 => 'Ponca City',
+    1 => 'OK',
+    2 => '36.72',
+    3 => '-97.06',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '04' => 
+  array (
+    0 => 'Ponca City',
+    1 => 'OK',
+    2 => '36.72',
+    3 => '-97.06',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  30 => 
+  array (
+    0 => 'Billings',
+    1 => 'OK',
+    2 => '36.53',
+    3 => '-97.44',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  31 => 
+  array (
+    0 => 'Blackwell',
+    1 => 'OK',
+    2 => '36.8',
+    3 => '-97.29',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  32 => 
+  array (
+    0 => 'Braman',
+    1 => 'OK',
+    2 => '36.92',
+    3 => '-97.33',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  33 => 
+  array (
+    0 => 'Burbank',
+    1 => 'OK',
+    2 => '36.69',
+    3 => '-96.72',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  36 => 
+  array (
+    0 => 'Deer Creek',
+    1 => 'OK',
+    2 => '36.8',
+    3 => '-97.51',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  37 => 
+  array (
+    0 => 'Fairfax',
+    1 => 'OK',
+    2 => '36.57',
+    3 => '-96.7',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  40 => 
+  array (
+    0 => 'Hunter',
+    1 => 'OK',
+    2 => '36.56',
+    3 => '-97.66',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  41 => 
+  array (
+    0 => 'Kaw City',
+    1 => 'OK',
+    2 => '36.76',
+    3 => '-96.86',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  43 => 
+  array (
+    0 => 'Lamont',
+    1 => 'OK',
+    2 => '36.69',
+    3 => '-97.55',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  44 => 
+  array (
+    0 => 'Marland',
+    1 => 'OK',
+    2 => '36.56',
+    3 => '-97.15',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  46 => 
+  array (
+    0 => 'Nardin',
+    1 => 'OK',
+    2 => '36.8',
+    3 => '-97.44',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  47 => 
+  array (
+    0 => 'Newkirk',
+    1 => 'OK',
+    2 => '36.88',
+    3 => '-97.05',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  50 => 
+  array (
+    0 => 'Ralston',
+    1 => 'OK',
+    2 => '36.5',
+    3 => '-96.73',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  51 => 
+  array (
+    0 => 'Red Rock',
+    1 => 'OK',
+    2 => '36.45',
+    3 => '-97.17',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  52 => 
+  array (
+    0 => 'Shidler',
+    1 => 'OK',
+    2 => '36.78',
+    3 => '-96.65',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  53 => 
+  array (
+    0 => 'Tonkawa',
+    1 => 'OK',
+    2 => '36.68',
+    3 => '-97.3',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+);

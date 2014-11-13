@@ -1,0 +1,389 @@
+<?php $db= array (
+  '03' => 
+  array (
+    0 => 'Bagdad',
+    1 => 'KY',
+    2 => '38.26',
+    3 => '-85.05',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  '04' => 
+  array (
+    0 => 'Bardstown',
+    1 => 'KY',
+    2 => '37.81',
+    3 => '-85.46',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  '06' => 
+  array (
+    0 => 'Bedford',
+    1 => 'KY',
+    2 => '38.59',
+    3 => '-85.31',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  '07' => 
+  array (
+    0 => 'Bethlehem',
+    1 => 'KY',
+    2 => '38.4',
+    3 => '-85.06',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  '08' => 
+  array (
+    0 => 'Bloomfield',
+    1 => 'KY',
+    2 => '37.91',
+    3 => '-85.31',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  10 => 
+  array (
+    0 => 'Buckner',
+    1 => 'KY',
+    2 => '38.38',
+    3 => '-85.43',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  12 => 
+  array (
+    0 => 'Chaplin',
+    1 => 'KY',
+    2 => '37.9',
+    3 => '-85.21',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  14 => 
+  array (
+    0 => 'Crestwood',
+    1 => 'KY',
+    2 => '38.33',
+    3 => '-85.48',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  18 => 
+  array (
+    0 => 'Eastwood',
+    1 => 'KY',
+    2 => '38.25',
+    3 => '-85.48',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  19 => 
+  array (
+    0 => 'Eminence',
+    1 => 'KY',
+    2 => '38.36',
+    3 => '-85.17',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  20 => 
+  array (
+    0 => 'Fairfield',
+    1 => 'KY',
+    2 => '37.93',
+    3 => '-85.38',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  22 => 
+  array (
+    0 => 'Finchville',
+    1 => 'KY',
+    2 => '38.15',
+    3 => '-85.31',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  23 => 
+  array (
+    0 => 'Fisherville',
+    1 => 'KY',
+    2 => '38.16',
+    3 => '-85.42',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  25 => 
+  array (
+    0 => 'Glenview',
+    1 => 'KY',
+    2 => '38.3',
+    3 => '-85.65',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  26 => 
+  array (
+    0 => 'Goshen',
+    1 => 'KY',
+    2 => '38.4',
+    3 => '-85.59',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  27 => 
+  array (
+    0 => 'Harrods Creek',
+    1 => 'KY',
+    2 => '38.28',
+    3 => '-85.62',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  31 => 
+  array (
+    0 => 'La Grange',
+    1 => 'KY',
+    2 => '38.4',
+    3 => '-85.37',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  32 => 
+  array (
+    0 => 'La Grange',
+    1 => 'KY',
+    2 => '38.4',
+    3 => '-85.37',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  33 => 
+  array (
+    0 => 'Lebanon',
+    1 => 'KY',
+    2 => '37.56',
+    3 => '-85.25',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  36 => 
+  array (
+    0 => 'Lockport',
+    1 => 'KY',
+    2 => '38.43',
+    3 => '-84.98',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  37 => 
+  array (
+    0 => 'Loretto',
+    1 => 'KY',
+    2 => '37.63',
+    3 => '-85.4',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  40 => 
+  array (
+    0 => 'Mackville',
+    1 => 'KY',
+    2 => '37.73',
+    3 => '-85.06',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  41 => 
+  array (
+    0 => 'Masonic Home',
+    1 => 'KY',
+    2 => '38.26',
+    3 => '-85.65',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  45 => 
+  array (
+    0 => 'Milton',
+    1 => 'KY',
+    2 => '38.71',
+    3 => '-85.37',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  47 => 
+  array (
+    0 => 'Mount Washington',
+    1 => 'KY',
+    2 => '38.04',
+    3 => '-85.55',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  48 => 
+  array (
+    0 => 'Nazareth',
+    1 => 'KY',
+    2 => '37.83',
+    3 => '-85.46',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  49 => 
+  array (
+    0 => 'Nerinx',
+    1 => 'KY',
+    2 => '37.66',
+    3 => '-85.42',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  50 => 
+  array (
+    0 => 'New Castle',
+    1 => 'KY',
+    2 => '38.43',
+    3 => '-85.17',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  56 => 
+  array (
+    0 => 'Pewee Valley',
+    1 => 'KY',
+    2 => '38.31',
+    3 => '-85.48',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  58 => 
+  array (
+    0 => 'Port Royal',
+    1 => 'KY',
+    2 => '38.55',
+    3 => '-85.08',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  60 => 
+  array (
+    0 => 'Raywick',
+    1 => 'KY',
+    2 => '37.55',
+    3 => '-85.43',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  61 => 
+  array (
+    0 => 'Saint Catharine',
+    1 => 'KY',
+    2 => '37.7',
+    3 => '-85.27',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  62 => 
+  array (
+    0 => 'Saint Francis',
+    1 => 'KY',
+    2 => '37.62',
+    3 => '-85.46',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  63 => 
+  array (
+    0 => 'Saint Mary',
+    1 => 'KY',
+    2 => '37.58',
+    3 => '-85.33',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  65 => 
+  array (
+    0 => 'Shelbyville',
+    1 => 'KY',
+    2 => '38.21',
+    3 => '-85.23',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  66 => 
+  array (
+    0 => 'Shelbyville',
+    1 => 'KY',
+    2 => '38.21',
+    3 => '-85.23',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  67 => 
+  array (
+    0 => 'Simpsonville',
+    1 => 'KY',
+    2 => '38.21',
+    3 => '-85.35',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  68 => 
+  array (
+    0 => 'Smithfield',
+    1 => 'KY',
+    2 => '38.38',
+    3 => '-85.25',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  69 => 
+  array (
+    0 => 'Springfield',
+    1 => 'KY',
+    2 => '37.68',
+    3 => '-85.22',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  70 => 
+  array (
+    0 => 'Sulphur',
+    1 => 'KY',
+    2 => '38.48',
+    3 => '-85.26',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  75 => 
+  array (
+    0 => 'Turners Station',
+    1 => 'KY',
+    2 => '38.55',
+    3 => '-85.12',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  77 => 
+  array (
+    0 => 'Westport',
+    1 => 'KY',
+    2 => '38.48',
+    3 => '-85.46',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  78 => 
+  array (
+    0 => 'Willisburg',
+    1 => 'KY',
+    2 => '37.81',
+    3 => '-85.12',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+);

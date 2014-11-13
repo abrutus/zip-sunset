@@ -1,0 +1,209 @@
+<?php $db= array (
+  '04' => 
+  array (
+    0 => 'Augusta',
+    1 => 'WV',
+    2 => '39.3',
+    3 => '-78.59',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '05' => 
+  array (
+    0 => 'Aurora',
+    1 => 'WV',
+    2 => '39.29',
+    3 => '-79.56',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '07' => 
+  array (
+    0 => 'Bayard',
+    1 => 'WV',
+    2 => '39.26',
+    3 => '-79.36',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  10 => 
+  array (
+    0 => 'Burlington',
+    1 => 'WV',
+    2 => '39.36',
+    3 => '-78.91',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  11 => 
+  array (
+    0 => 'Capon Bridge',
+    1 => 'WV',
+    2 => '39.29',
+    3 => '-78.43',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  14 => 
+  array (
+    0 => 'Delray',
+    1 => 'WV',
+    2 => '39.19',
+    3 => '-78.6',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  16 => 
+  array (
+    0 => 'Eglon',
+    1 => 'WV',
+    2 => '39.29',
+    3 => '-79.51',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  17 => 
+  array (
+    0 => 'Elk Garden',
+    1 => 'WV',
+    2 => '39.38',
+    3 => '-79.15',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  19 => 
+  array (
+    0 => 'Fort Ashby',
+    1 => 'WV',
+    2 => '39.49',
+    3 => '-78.76',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  20 => 
+  array (
+    0 => 'Gormania',
+    1 => 'WV',
+    2 => '39.24',
+    3 => '-79.35',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  22 => 
+  array (
+    0 => 'Green Spring',
+    1 => 'WV',
+    2 => '39.49',
+    3 => '-78.62',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  26 => 
+  array (
+    0 => 'Keyser',
+    1 => 'WV',
+    2 => '39.43',
+    3 => '-78.98',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  31 => 
+  array (
+    0 => 'Lahmansville',
+    1 => 'WV',
+    2 => '39.12',
+    3 => '-79.08',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  39 => 
+  array (
+    0 => 'Mount Storm',
+    1 => 'WV',
+    2 => '39.27',
+    3 => '-79.24',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  43 => 
+  array (
+    0 => 'New Creek',
+    1 => 'WV',
+    2 => '39.37',
+    3 => '-79.02',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  50 => 
+  array (
+    0 => 'Piedmont',
+    1 => 'WV',
+    2 => '39.47',
+    3 => '-79.04',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  53 => 
+  array (
+    0 => 'Ridgeley',
+    1 => 'WV',
+    2 => '39.64',
+    3 => '-78.77',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  55 => 
+  array (
+    0 => 'Rio',
+    1 => 'WV',
+    2 => '39.13',
+    3 => '-78.67',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  57 => 
+  array (
+    0 => 'Romney',
+    1 => 'WV',
+    2 => '39.34',
+    3 => '-78.75',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  61 => 
+  array (
+    0 => 'Shanks',
+    1 => 'WV',
+    2 => '39.26',
+    3 => '-78.7',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  63 => 
+  array (
+    0 => 'Springfield',
+    1 => 'WV',
+    2 => '39.45',
+    3 => '-78.69',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  64 => 
+  array (
+    0 => 'Terra Alta',
+    1 => 'WV',
+    2 => '39.44',
+    3 => '-79.54',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  67 => 
+  array (
+    0 => 'Wiley Ford',
+    1 => 'WV',
+    2 => '39.61',
+    3 => '-78.76',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

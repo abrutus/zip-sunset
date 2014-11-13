@@ -1,0 +1,272 @@
+<?php $db= array (
+  '05' => 
+  array (
+    0 => 'Jamaica',
+    1 => 'NY',
+    2 => '40.68',
+    3 => '-73.78',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  11 => 
+  array (
+    0 => 'Cambria Heights',
+    1 => 'NY',
+    2 => '40.69',
+    3 => '-73.73',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  12 => 
+  array (
+    0 => 'Saint Albans',
+    1 => 'NY',
+    2 => '40.69',
+    3 => '-73.75',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  13 => 
+  array (
+    0 => 'Springfield Gardens',
+    1 => 'NY',
+    2 => '40.66',
+    3 => '-73.75',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  14 => 
+  array (
+    0 => 'Howard Beach',
+    1 => 'NY',
+    2 => '40.66',
+    3 => '-73.84',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  15 => 
+  array (
+    0 => 'Kew Gardens',
+    1 => 'NY',
+    2 => '40.7',
+    3 => '-73.82',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  16 => 
+  array (
+    0 => 'Ozone Park',
+    1 => 'NY',
+    2 => '40.69',
+    3 => '-73.85',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  17 => 
+  array (
+    0 => 'Ozone Park',
+    1 => 'NY',
+    2 => '40.69',
+    3 => '-73.85',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  18 => 
+  array (
+    0 => 'Richmond Hill',
+    1 => 'NY',
+    2 => '40.69',
+    3 => '-73.83',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  19 => 
+  array (
+    0 => 'South Richmond Hill',
+    1 => 'NY',
+    2 => '40.68',
+    3 => '-73.82',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  20 => 
+  array (
+    0 => 'South Ozone Park',
+    1 => 'NY',
+    2 => '40.67',
+    3 => '-73.81',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  21 => 
+  array (
+    0 => 'Woodhaven',
+    1 => 'NY',
+    2 => '40.69',
+    3 => '-73.85',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  22 => 
+  array (
+    0 => 'Rosedale',
+    1 => 'NY',
+    2 => '40.66',
+    3 => '-73.73',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  23 => 
+  array (
+    0 => 'Hollis',
+    1 => 'NY',
+    2 => '40.71',
+    3 => '-73.76',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  24 => 
+  array (
+    0 => 'Jamaica',
+    1 => 'NY',
+    2 => '40.68',
+    3 => '-73.78',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  25 => 
+  array (
+    0 => 'Jamaica',
+    1 => 'NY',
+    2 => '40.68',
+    3 => '-73.78',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  26 => 
+  array (
+    0 => 'Bellerose',
+    1 => 'NY',
+    2 => '40.72',
+    3 => '-73.71',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  27 => 
+  array (
+    0 => 'Queens Village',
+    1 => 'NY',
+    2 => '40.72',
+    3 => '-73.74',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  28 => 
+  array (
+    0 => 'Queens Village',
+    1 => 'NY',
+    2 => '40.72',
+    3 => '-73.74',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  29 => 
+  array (
+    0 => 'Queens Village',
+    1 => 'NY',
+    2 => '40.72',
+    3 => '-73.74',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  30 => 
+  array (
+    0 => 'Jamaica',
+    1 => 'NY',
+    2 => '40.68',
+    3 => '-73.78',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  31 => 
+  array (
+    0 => 'Jamaica',
+    1 => 'NY',
+    2 => '40.68',
+    3 => '-73.78',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  32 => 
+  array (
+    0 => 'Jamaica',
+    1 => 'NY',
+    2 => '40.68',
+    3 => '-73.78',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  33 => 
+  array (
+    0 => 'Jamaica',
+    1 => 'NY',
+    2 => '40.68',
+    3 => '-73.78',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  34 => 
+  array (
+    0 => 'Jamaica',
+    1 => 'NY',
+    2 => '40.68',
+    3 => '-73.78',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  35 => 
+  array (
+    0 => 'Jamaica',
+    1 => 'NY',
+    2 => '40.68',
+    3 => '-73.78',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  36 => 
+  array (
+    0 => 'Jamaica',
+    1 => 'NY',
+    2 => '40.68',
+    3 => '-73.78',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  39 => 
+  array (
+    0 => 'Jamaica',
+    1 => 'NY',
+    2 => '40.68',
+    3 => '-73.78',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  51 => 
+  array (
+    0 => 'Jamaica',
+    1 => 'NY',
+    2 => '40.68',
+    3 => '-73.78',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  99 => 
+  array (
+    0 => 'Jamaica',
+    1 => 'NY',
+    2 => '40.68',
+    3 => '-73.78',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

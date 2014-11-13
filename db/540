@@ -1,0 +1,227 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Amery',
+    1 => 'WI',
+    2 => '45.3',
+    3 => '-92.36',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '02' => 
+  array (
+    0 => 'Baldwin',
+    1 => 'WI',
+    2 => '44.96',
+    3 => '-92.37',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '03' => 
+  array (
+    0 => 'Beldenville',
+    1 => 'WI',
+    2 => '44.77',
+    3 => '-92.43',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '04' => 
+  array (
+    0 => 'Clayton',
+    1 => 'WI',
+    2 => '45.32',
+    3 => '-92.17',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '05' => 
+  array (
+    0 => 'Clear Lake',
+    1 => 'WI',
+    2 => '45.25',
+    3 => '-92.26',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '06' => 
+  array (
+    0 => 'Cushing',
+    1 => 'WI',
+    2 => '45.56',
+    3 => '-92.64',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '07' => 
+  array (
+    0 => 'Deer Park',
+    1 => 'WI',
+    2 => '45.18',
+    3 => '-92.38',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '09' => 
+  array (
+    0 => 'Dresser',
+    1 => 'WI',
+    2 => '45.36',
+    3 => '-92.63',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  10 => 
+  array (
+    0 => 'East Ellsworth',
+    1 => 'WI',
+    2 => '44.72',
+    3 => '-92.42',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  11 => 
+  array (
+    0 => 'Ellsworth',
+    1 => 'WI',
+    2 => '44.73',
+    3 => '-92.47',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  13 => 
+  array (
+    0 => 'Glenwood City',
+    1 => 'WI',
+    2 => '45.05',
+    3 => '-92.17',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  14 => 
+  array (
+    0 => 'Hager City',
+    1 => 'WI',
+    2 => '44.64',
+    3 => '-92.56',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  15 => 
+  array (
+    0 => 'Hammond',
+    1 => 'WI',
+    2 => '44.97',
+    3 => '-92.43',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  16 => 
+  array (
+    0 => 'Hudson',
+    1 => 'WI',
+    2 => '44.97',
+    3 => '-92.73',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  17 => 
+  array (
+    0 => 'New Richmond',
+    1 => 'WI',
+    2 => '45.12',
+    3 => '-92.53',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  20 => 
+  array (
+    0 => 'Osceola',
+    1 => 'WI',
+    2 => '45.31',
+    3 => '-92.69',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  21 => 
+  array (
+    0 => 'Prescott',
+    1 => 'WI',
+    2 => '44.75',
+    3 => '-92.79',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  22 => 
+  array (
+    0 => 'River Falls',
+    1 => 'WI',
+    2 => '44.85',
+    3 => '-92.62',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  23 => 
+  array (
+    0 => 'Roberts',
+    1 => 'WI',
+    2 => '44.98',
+    3 => '-92.55',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  24 => 
+  array (
+    0 => 'Saint Croix Falls',
+    1 => 'WI',
+    2 => '45.4',
+    3 => '-92.63',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  25 => 
+  array (
+    0 => 'Somerset',
+    1 => 'WI',
+    2 => '45.12',
+    3 => '-92.67',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  26 => 
+  array (
+    0 => 'Star Prairie',
+    1 => 'WI',
+    2 => '45.19',
+    3 => '-92.53',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  27 => 
+  array (
+    0 => 'Wilson',
+    1 => 'WI',
+    2 => '44.95',
+    3 => '-92.17',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  28 => 
+  array (
+    0 => 'Woodville',
+    1 => 'WI',
+    2 => '44.95',
+    3 => '-92.28',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  82 => 
+  array (
+    0 => 'Houlton',
+    1 => 'WI',
+    2 => '45.07',
+    3 => '-92.75',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+);

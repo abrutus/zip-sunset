@@ -1,0 +1,56 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Waterloo',
+    1 => 'IA',
+    2 => '42.49',
+    3 => '-92.35',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '02' => 
+  array (
+    0 => 'Waterloo',
+    1 => 'IA',
+    2 => '42.49',
+    3 => '-92.35',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '03' => 
+  array (
+    0 => 'Waterloo',
+    1 => 'IA',
+    2 => '42.49',
+    3 => '-92.35',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '04' => 
+  array (
+    0 => 'Waterloo',
+    1 => 'IA',
+    2 => '42.49',
+    3 => '-92.35',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '06' => 
+  array (
+    0 => 'Waterloo',
+    1 => 'IA',
+    2 => '42.4',
+    3 => '-92.26',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '07' => 
+  array (
+    0 => 'Evansdale',
+    1 => 'IA',
+    2 => '42.46',
+    3 => '-92.27',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+);

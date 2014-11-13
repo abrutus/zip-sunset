@@ -1,0 +1,452 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Bell Gardens',
+    1 => 'CA',
+    2 => '33.97',
+    3 => '-118.15',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '02' => 
+  array (
+    0 => 'Bell',
+    1 => 'CA',
+    2 => '33.96',
+    3 => '-118.15',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '09' => 
+  array (
+    0 => 'Beverly Hills',
+    1 => 'CA',
+    2 => '34.07',
+    3 => '-118.39',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  10 => 
+  array (
+    0 => 'Beverly Hills',
+    1 => 'CA',
+    2 => '34.09',
+    3 => '-118.41',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  11 => 
+  array (
+    0 => 'Beverly Hills',
+    1 => 'CA',
+    2 => '34.06',
+    3 => '-118.38',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  12 => 
+  array (
+    0 => 'Beverly Hills',
+    1 => 'CA',
+    2 => '34.06',
+    3 => '-118.4',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  13 => 
+  array (
+    0 => 'Beverly Hills',
+    1 => 'CA',
+    2 => '34.05',
+    3 => '-118.4',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  20 => 
+  array (
+    0 => 'Compton',
+    1 => 'CA',
+    2 => '33.87',
+    3 => '-118.24',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  21 => 
+  array (
+    0 => 'Compton',
+    1 => 'CA',
+    2 => '33.87',
+    3 => '-118.21',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  22 => 
+  array (
+    0 => 'Compton',
+    1 => 'CA',
+    2 => '33.91',
+    3 => '-118.23',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  23 => 
+  array (
+    0 => 'Compton',
+    1 => 'CA',
+    2 => '33.89',
+    3 => '-118.22',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  24 => 
+  array (
+    0 => 'Compton',
+    1 => 'CA',
+    2 => '33.87',
+    3 => '-118.26',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  30 => 
+  array (
+    0 => 'Culver City',
+    1 => 'CA',
+    2 => '33.99',
+    3 => '-118.39',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  31 => 
+  array (
+    0 => 'Culver City',
+    1 => 'CA',
+    2 => '33.99',
+    3 => '-118.39',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  32 => 
+  array (
+    0 => 'Culver City',
+    1 => 'CA',
+    2 => '34.02',
+    3 => '-118.39',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  33 => 
+  array (
+    0 => 'Culver City',
+    1 => 'CA',
+    2 => '33.98',
+    3 => '-118.38',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  39 => 
+  array (
+    0 => 'Downey',
+    1 => 'CA',
+    2 => '33.93',
+    3 => '-118.11',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  40 => 
+  array (
+    0 => 'Downey',
+    1 => 'CA',
+    2 => '33.95',
+    3 => '-118.12',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  41 => 
+  array (
+    0 => 'Downey',
+    1 => 'CA',
+    2 => '33.94',
+    3 => '-118.13',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  42 => 
+  array (
+    0 => 'Downey',
+    1 => 'CA',
+    2 => '33.92',
+    3 => '-118.14',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  45 => 
+  array (
+    0 => 'El Segundo',
+    1 => 'CA',
+    2 => '33.91',
+    3 => '-118.4',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  47 => 
+  array (
+    0 => 'Gardena',
+    1 => 'CA',
+    2 => '33.89',
+    3 => '-118.29',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  48 => 
+  array (
+    0 => 'Gardena',
+    1 => 'CA',
+    2 => '33.88',
+    3 => '-118.27',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  49 => 
+  array (
+    0 => 'Gardena',
+    1 => 'CA',
+    2 => '33.89',
+    3 => '-118.31',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  50 => 
+  array (
+    0 => 'Hawthorne',
+    1 => 'CA',
+    2 => '33.91',
+    3 => '-118.34',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  51 => 
+  array (
+    0 => 'Hawthorne',
+    1 => 'CA',
+    2 => '33.91',
+    3 => '-118.36',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  54 => 
+  array (
+    0 => 'Hermosa Beach',
+    1 => 'CA',
+    2 => '33.86',
+    3 => '-118.39',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  55 => 
+  array (
+    0 => 'Huntington Park',
+    1 => 'CA',
+    2 => '33.97',
+    3 => '-118.21',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  60 => 
+  array (
+    0 => 'Lawndale',
+    1 => 'CA',
+    2 => '33.88',
+    3 => '-118.35',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  61 => 
+  array (
+    0 => 'Lawndale',
+    1 => 'CA',
+    2 => '33.89',
+    3 => '-118.37',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  62 => 
+  array (
+    0 => 'Lynwood',
+    1 => 'CA',
+    2 => '33.92',
+    3 => '-118.2',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  63 => 
+  array (
+    0 => 'Malibu',
+    1 => 'CA',
+    2 => '34.03',
+    3 => '-118.7',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  64 => 
+  array (
+    0 => 'Malibu',
+    1 => 'CA',
+    2 => '34.04',
+    3 => '-118.77',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  65 => 
+  array (
+    0 => 'Malibu',
+    1 => 'CA',
+    2 => '34.06',
+    3 => '-118.81',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  66 => 
+  array (
+    0 => 'Manhattan Beach',
+    1 => 'CA',
+    2 => '33.88',
+    3 => '-118.4',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  67 => 
+  array (
+    0 => 'Manhattan Beach',
+    1 => 'CA',
+    2 => '33.87',
+    3 => '-118.39',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  70 => 
+  array (
+    0 => 'Maywood',
+    1 => 'CA',
+    2 => '33.98',
+    3 => '-118.18',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  72 => 
+  array (
+    0 => 'Pacific Palisades',
+    1 => 'CA',
+    2 => '34.07',
+    3 => '-118.54',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  74 => 
+  array (
+    0 => 'Palos Verdes Peninsula',
+    1 => 'CA',
+    2 => '33.77',
+    3 => '-118.34',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  75 => 
+  array (
+    0 => 'Rancho Palos Verdes',
+    1 => 'CA',
+    2 => '33.75',
+    3 => '-118.31',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  77 => 
+  array (
+    0 => 'Redondo Beach',
+    1 => 'CA',
+    2 => '33.83',
+    3 => '-118.38',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  78 => 
+  array (
+    0 => 'Redondo Beach',
+    1 => 'CA',
+    2 => '33.87',
+    3 => '-118.37',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  80 => 
+  array (
+    0 => 'South Gate',
+    1 => 'CA',
+    2 => '33.94',
+    3 => '-118.2',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  90 => 
+  array (
+    0 => 'Topanga',
+    1 => 'CA',
+    2 => '34.1',
+    3 => '-118.6',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  91 => 
+  array (
+    0 => 'Venice',
+    1 => 'CA',
+    2 => '33.99',
+    3 => '-118.46',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  92 => 
+  array (
+    0 => 'Marina Del Rey',
+    1 => 'CA',
+    2 => '33.97',
+    3 => '-118.43',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  93 => 
+  array (
+    0 => 'Playa Del Rey',
+    1 => 'CA',
+    2 => '33.94',
+    3 => '-118.44',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  94 => 
+  array (
+    0 => 'Venice',
+    1 => 'CA',
+    2 => '33.98',
+    3 => '-118.47',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  95 => 
+  array (
+    0 => 'Marina Del Rey',
+    1 => 'CA',
+    2 => '33.97',
+    3 => '-118.43',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  96 => 
+  array (
+    0 => 'Playa Del Rey',
+    1 => 'CA',
+    2 => '33.95',
+    3 => '-118.44',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+);

@@ -1,0 +1,263 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Spokane',
+    1 => 'WA',
+    2 => '47.66',
+    3 => '-117.43',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '02' => 
+  array (
+    0 => 'Spokane',
+    1 => 'WA',
+    2 => '47.65',
+    3 => '-117.37',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '03' => 
+  array (
+    0 => 'Spokane',
+    1 => 'WA',
+    2 => '47.62',
+    3 => '-117.4',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '04' => 
+  array (
+    0 => 'Spokane',
+    1 => 'WA',
+    2 => '47.64',
+    3 => '-117.43',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '05' => 
+  array (
+    0 => 'Spokane',
+    1 => 'WA',
+    2 => '47.69',
+    3 => '-117.45',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '06' => 
+  array (
+    0 => 'Spokane',
+    1 => 'WA',
+    2 => '47.63',
+    3 => '-117.25',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '07' => 
+  array (
+    0 => 'Spokane',
+    1 => 'WA',
+    2 => '47.69',
+    3 => '-117.38',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '08' => 
+  array (
+    0 => 'Spokane',
+    1 => 'WA',
+    2 => '47.78',
+    3 => '-117.45',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '09' => 
+  array (
+    0 => 'Spokane',
+    1 => 'WA',
+    2 => '47.69',
+    3 => '-117.44',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  10 => 
+  array (
+    0 => 'Spokane',
+    1 => 'WA',
+    2 => '47.65',
+    3 => '-117.42',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  11 => 
+  array (
+    0 => 'Spokane',
+    1 => 'WA',
+    2 => '47.66',
+    3 => '-117.31',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  12 => 
+  array (
+    0 => 'Spokane',
+    1 => 'WA',
+    2 => '47.65',
+    3 => '-117.31',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  13 => 
+  array (
+    0 => 'Spokane',
+    1 => 'WA',
+    2 => '47.65',
+    3 => '-117.29',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  14 => 
+  array (
+    0 => 'Spokane',
+    1 => 'WA',
+    2 => '47.71',
+    3 => '-117.2',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  15 => 
+  array (
+    0 => 'Spokane',
+    1 => 'WA',
+    2 => '47.69',
+    3 => '-117.2',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  16 => 
+  array (
+    0 => 'Spokane',
+    1 => 'WA',
+    2 => '47.69',
+    3 => '-117.19',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  17 => 
+  array (
+    0 => 'Spokane',
+    1 => 'WA',
+    2 => '47.74',
+    3 => '-117.25',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  18 => 
+  array (
+    0 => 'Spokane',
+    1 => 'WA',
+    2 => '47.75',
+    3 => '-117.43',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  19 => 
+  array (
+    0 => 'Spokane',
+    1 => 'WA',
+    2 => '47.63',
+    3 => '-117.54',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  20 => 
+  array (
+    0 => 'Spokane',
+    1 => 'WA',
+    2 => '47.64',
+    3 => '-117.41',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  23 => 
+  array (
+    0 => 'Spokane',
+    1 => 'WA',
+    2 => '47.59',
+    3 => '-117.35',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  24 => 
+  array (
+    0 => 'Spokane',
+    1 => 'WA',
+    2 => '47.63',
+    3 => '-117.55',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  28 => 
+  array (
+    0 => 'Spokane',
+    1 => 'WA',
+    2 => '47.79',
+    3 => '-117.38',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  51 => 
+  array (
+    0 => 'Spokane',
+    1 => 'WA',
+    2 => '47.75',
+    3 => '-117.42',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  52 => 
+  array (
+    0 => 'Spokane',
+    1 => 'WA',
+    2 => '47.65',
+    3 => '-117.37',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  56 => 
+  array (
+    0 => 'Spokane',
+    1 => 'WA',
+    2 => '47.66',
+    3 => '-117.42',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  58 => 
+  array (
+    0 => 'Spokane',
+    1 => 'WA',
+    2 => '47.66',
+    3 => '-117.4',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  60 => 
+  array (
+    0 => 'Spokane',
+    1 => 'WA',
+    2 => '47.66',
+    3 => '-117.42',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  99 => 
+  array (
+    0 => 'Spokane',
+    1 => 'WA',
+    2 => '47.65',
+    3 => '-117.42',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+);

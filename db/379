@@ -1,0 +1,290 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Knoxville',
+    1 => 'TN',
+    2 => '35.97',
+    3 => '-83.94',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '02' => 
+  array (
+    0 => 'Knoxville',
+    1 => 'TN',
+    2 => '35.97',
+    3 => '-83.94',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '09' => 
+  array (
+    0 => 'Knoxville',
+    1 => 'TN',
+    2 => '35.97',
+    3 => '-83.94',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  12 => 
+  array (
+    0 => 'Knoxville',
+    1 => 'TN',
+    2 => '35.97',
+    3 => '-83.94',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  14 => 
+  array (
+    0 => 'Knoxville',
+    1 => 'TN',
+    2 => '35.97',
+    3 => '-83.94',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  15 => 
+  array (
+    0 => 'Knoxville',
+    1 => 'TN',
+    2 => '35.97',
+    3 => '-83.94',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  16 => 
+  array (
+    0 => 'Knoxville',
+    1 => 'TN',
+    2 => '35.97',
+    3 => '-83.94',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  17 => 
+  array (
+    0 => 'Knoxville',
+    1 => 'TN',
+    2 => '35.97',
+    3 => '-83.94',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  18 => 
+  array (
+    0 => 'Knoxville',
+    1 => 'TN',
+    2 => '35.97',
+    3 => '-83.94',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  19 => 
+  array (
+    0 => 'Knoxville',
+    1 => 'TN',
+    2 => '35.97',
+    3 => '-83.94',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  20 => 
+  array (
+    0 => 'Knoxville',
+    1 => 'TN',
+    2 => '35.97',
+    3 => '-83.94',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  21 => 
+  array (
+    0 => 'Knoxville',
+    1 => 'TN',
+    2 => '35.97',
+    3 => '-83.94',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  22 => 
+  array (
+    0 => 'Knoxville',
+    1 => 'TN',
+    2 => '35.97',
+    3 => '-83.94',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  23 => 
+  array (
+    0 => 'Knoxville',
+    1 => 'TN',
+    2 => '35.97',
+    3 => '-83.94',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  24 => 
+  array (
+    0 => 'Knoxville',
+    1 => 'TN',
+    2 => '35.97',
+    3 => '-83.94',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  27 => 
+  array (
+    0 => 'Knoxville',
+    1 => 'TN',
+    2 => '35.97',
+    3 => '-83.94',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  28 => 
+  array (
+    0 => 'Knoxville',
+    1 => 'TN',
+    2 => '35.97',
+    3 => '-83.94',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  29 => 
+  array (
+    0 => 'Knoxville',
+    1 => 'TN',
+    2 => '35.97',
+    3 => '-83.94',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  30 => 
+  array (
+    0 => 'Knoxville',
+    1 => 'TN',
+    2 => '35.97',
+    3 => '-83.94',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  31 => 
+  array (
+    0 => 'Knoxville',
+    1 => 'TN',
+    2 => '35.97',
+    3 => '-83.94',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  32 => 
+  array (
+    0 => 'Knoxville',
+    1 => 'TN',
+    2 => '35.97',
+    3 => '-83.94',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  33 => 
+  array (
+    0 => 'Knoxville',
+    1 => 'TN',
+    2 => '35.97',
+    3 => '-83.94',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  34 => 
+  array (
+    0 => 'Knoxville',
+    1 => 'TN',
+    2 => '35.87',
+    3 => '-84.17',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  38 => 
+  array (
+    0 => 'Knoxville',
+    1 => 'TN',
+    2 => '35.97',
+    3 => '-83.94',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  39 => 
+  array (
+    0 => 'Knoxville',
+    1 => 'TN',
+    2 => '35.97',
+    3 => '-83.94',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  40 => 
+  array (
+    0 => 'Knoxville',
+    1 => 'TN',
+    2 => '35.97',
+    3 => '-83.94',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  50 => 
+  array (
+    0 => 'Knoxville',
+    1 => 'TN',
+    2 => '35.97',
+    3 => '-83.94',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  90 => 
+  array (
+    0 => 'Knoxville',
+    1 => 'TN',
+    2 => '35.86',
+    3 => '-84.12',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  95 => 
+  array (
+    0 => 'Knoxville',
+    1 => 'TN',
+    2 => '35.97',
+    3 => '-83.94',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  96 => 
+  array (
+    0 => 'Knoxville',
+    1 => 'TN',
+    2 => '35.97',
+    3 => '-83.94',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  97 => 
+  array (
+    0 => 'Knoxville',
+    1 => 'TN',
+    2 => '35.97',
+    3 => '-83.94',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  98 => 
+  array (
+    0 => 'Knoxville',
+    1 => 'TN',
+    2 => '35.97',
+    3 => '-83.94',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

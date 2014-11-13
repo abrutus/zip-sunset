@@ -1,0 +1,263 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Childress',
+    1 => 'TX',
+    2 => '34.42',
+    3 => '-100.24',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  20 => 
+  array (
+    0 => 'Afton',
+    1 => 'TX',
+    2 => '33.76',
+    3 => '-100.81',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  21 => 
+  array (
+    0 => 'Aiken',
+    1 => 'TX',
+    2 => '34.14',
+    3 => '-101.52',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  23 => 
+  array (
+    0 => 'Cee Vee',
+    1 => 'TX',
+    2 => '34.22',
+    3 => '-100.44',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  25 => 
+  array (
+    0 => 'Chillicothe',
+    1 => 'TX',
+    2 => '34.25',
+    3 => '-99.51',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  26 => 
+  array (
+    0 => 'Clarendon',
+    1 => 'TX',
+    2 => '34.93',
+    3 => '-100.89',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  29 => 
+  array (
+    0 => 'Dickens',
+    1 => 'TX',
+    2 => '33.62',
+    3 => '-100.83',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  31 => 
+  array (
+    0 => 'Dougherty',
+    1 => 'TX',
+    2 => '33.94',
+    3 => '-101.08',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  33 => 
+  array (
+    0 => 'Estelline',
+    1 => 'TX',
+    2 => '34.54',
+    3 => '-100.43',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  34 => 
+  array (
+    0 => 'Flomot',
+    1 => 'TX',
+    2 => '34.22',
+    3 => '-100.98',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  35 => 
+  array (
+    0 => 'Floydada',
+    1 => 'TX',
+    2 => '33.98',
+    3 => '-101.33',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  36 => 
+  array (
+    0 => 'Guthrie',
+    1 => 'TX',
+    2 => '33.62',
+    3 => '-100.32',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  37 => 
+  array (
+    0 => 'Hedley',
+    1 => 'TX',
+    2 => '34.86',
+    3 => '-100.65',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  39 => 
+  array (
+    0 => 'Lakeview',
+    1 => 'TX',
+    2 => '34.67',
+    3 => '-100.69',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  40 => 
+  array (
+    0 => 'Lelia Lake',
+    1 => 'TX',
+    2 => '34.9',
+    3 => '-100.77',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  41 => 
+  array (
+    0 => 'Lockney',
+    1 => 'TX',
+    2 => '34.12',
+    3 => '-101.44',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  43 => 
+  array (
+    0 => 'Mcadoo',
+    1 => 'TX',
+    2 => '33.77',
+    3 => '-100.96',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  44 => 
+  array (
+    0 => 'Matador',
+    1 => 'TX',
+    2 => '34.01',
+    3 => '-100.82',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  45 => 
+  array (
+    0 => 'Memphis',
+    1 => 'TX',
+    2 => '34.72',
+    3 => '-100.54',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  47 => 
+  array (
+    0 => 'Odell',
+    1 => 'TX',
+    2 => '34.35',
+    3 => '-99.42',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  50 => 
+  array (
+    0 => 'Petersburg',
+    1 => 'TX',
+    2 => '33.87',
+    3 => '-101.59',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  51 => 
+  array (
+    0 => 'Quail',
+    1 => 'TX',
+    2 => '34.9',
+    3 => '-100.4',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  52 => 
+  array (
+    0 => 'Quanah',
+    1 => 'TX',
+    2 => '34.29',
+    3 => '-99.74',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  55 => 
+  array (
+    0 => 'Quitaque',
+    1 => 'TX',
+    2 => '34.36',
+    3 => '-101.05',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  56 => 
+  array (
+    0 => 'Roaring Springs',
+    1 => 'TX',
+    2 => '33.89',
+    3 => '-100.85',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  57 => 
+  array (
+    0 => 'Silverton',
+    1 => 'TX',
+    2 => '34.47',
+    3 => '-101.3',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  58 => 
+  array (
+    0 => 'South Plains',
+    1 => 'TX',
+    2 => '34.22',
+    3 => '-101.3',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  59 => 
+  array (
+    0 => 'Tell',
+    1 => 'TX',
+    2 => '34.38',
+    3 => '-100.39',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  61 => 
+  array (
+    0 => 'Turkey',
+    1 => 'TX',
+    2 => '34.39',
+    3 => '-100.89',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+);

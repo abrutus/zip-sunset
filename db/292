@@ -1,0 +1,308 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Columbia',
+    1 => 'SC',
+    2 => '34',
+    3 => '-81.03',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '02' => 
+  array (
+    0 => 'Columbia',
+    1 => 'SC',
+    2 => '34',
+    3 => '-81.03',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '03' => 
+  array (
+    0 => 'Columbia',
+    1 => 'SC',
+    2 => '34',
+    3 => '-81.03',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '04' => 
+  array (
+    0 => 'Columbia',
+    1 => 'SC',
+    2 => '34',
+    3 => '-81.03',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '05' => 
+  array (
+    0 => 'Columbia',
+    1 => 'SC',
+    2 => '34',
+    3 => '-81.03',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '06' => 
+  array (
+    0 => 'Columbia',
+    1 => 'SC',
+    2 => '34',
+    3 => '-81.03',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '07' => 
+  array (
+    0 => 'Columbia',
+    1 => 'SC',
+    2 => '34',
+    3 => '-81.03',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '08' => 
+  array (
+    0 => 'Columbia',
+    1 => 'SC',
+    2 => '34',
+    3 => '-81.03',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '09' => 
+  array (
+    0 => 'Columbia',
+    1 => 'SC',
+    2 => '34',
+    3 => '-81.03',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  10 => 
+  array (
+    0 => 'Columbia',
+    1 => 'SC',
+    2 => '34',
+    3 => '-81.03',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  11 => 
+  array (
+    0 => 'Columbia',
+    1 => 'SC',
+    2 => '34',
+    3 => '-81.03',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  12 => 
+  array (
+    0 => 'Columbia',
+    1 => 'SC',
+    2 => '34',
+    3 => '-81.03',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  14 => 
+  array (
+    0 => 'Columbia',
+    1 => 'SC',
+    2 => '34',
+    3 => '-81.03',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  15 => 
+  array (
+    0 => 'Columbia',
+    1 => 'SC',
+    2 => '34',
+    3 => '-81.03',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  16 => 
+  array (
+    0 => 'Columbia',
+    1 => 'SC',
+    2 => '34',
+    3 => '-81.03',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  17 => 
+  array (
+    0 => 'Columbia',
+    1 => 'SC',
+    2 => '34',
+    3 => '-81.03',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  18 => 
+  array (
+    0 => 'Columbia',
+    1 => 'SC',
+    2 => '34',
+    3 => '-81.03',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  19 => 
+  array (
+    0 => 'Columbia',
+    1 => 'SC',
+    2 => '34',
+    3 => '-81.03',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  20 => 
+  array (
+    0 => 'Columbia',
+    1 => 'SC',
+    2 => '34',
+    3 => '-81.03',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  21 => 
+  array (
+    0 => 'Columbia',
+    1 => 'SC',
+    2 => '34',
+    3 => '-81.03',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  22 => 
+  array (
+    0 => 'Columbia',
+    1 => 'SC',
+    2 => '34',
+    3 => '-81.03',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  23 => 
+  array (
+    0 => 'Columbia',
+    1 => 'SC',
+    2 => '34',
+    3 => '-81.03',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  24 => 
+  array (
+    0 => 'Columbia',
+    1 => 'SC',
+    2 => '34',
+    3 => '-81.03',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  25 => 
+  array (
+    0 => 'Columbia',
+    1 => 'SC',
+    2 => '34',
+    3 => '-81.03',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  26 => 
+  array (
+    0 => 'Columbia',
+    1 => 'SC',
+    2 => '34',
+    3 => '-81.03',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  27 => 
+  array (
+    0 => 'Columbia',
+    1 => 'SC',
+    2 => '34',
+    3 => '-81.03',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  28 => 
+  array (
+    0 => 'Columbia',
+    1 => 'SC',
+    2 => '34',
+    3 => '-81.03',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  29 => 
+  array (
+    0 => 'Columbia',
+    1 => 'SC',
+    2 => '34',
+    3 => '-81.03',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  30 => 
+  array (
+    0 => 'Columbia',
+    1 => 'SC',
+    2 => '34',
+    3 => '-81.03',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  40 => 
+  array (
+    0 => 'Columbia',
+    1 => 'SC',
+    2 => '34',
+    3 => '-81.03',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  50 => 
+  array (
+    0 => 'Columbia',
+    1 => 'SC',
+    2 => '34',
+    3 => '-81.03',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  60 => 
+  array (
+    0 => 'Columbia',
+    1 => 'SC',
+    2 => '34',
+    3 => '-81.03',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  90 => 
+  array (
+    0 => 'Columbia',
+    1 => 'SC',
+    2 => '34',
+    3 => '-81.03',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  92 => 
+  array (
+    0 => 'Columbia',
+    1 => 'SC',
+    2 => '34',
+    3 => '-81.03',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

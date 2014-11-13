@@ -1,0 +1,272 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Long Beach',
+    1 => 'CA',
+    2 => '33.77',
+    3 => '-118.18',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '02' => 
+  array (
+    0 => 'Long Beach',
+    1 => 'CA',
+    2 => '33.75',
+    3 => '-118.2',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '03' => 
+  array (
+    0 => 'Long Beach',
+    1 => 'CA',
+    2 => '33.75',
+    3 => '-118.13',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '04' => 
+  array (
+    0 => 'Long Beach',
+    1 => 'CA',
+    2 => '33.78',
+    3 => '-118.14',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '05' => 
+  array (
+    0 => 'Long Beach',
+    1 => 'CA',
+    2 => '33.86',
+    3 => '-118.18',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '06' => 
+  array (
+    0 => 'Long Beach',
+    1 => 'CA',
+    2 => '33.81',
+    3 => '-118.18',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '07' => 
+  array (
+    0 => 'Long Beach',
+    1 => 'CA',
+    2 => '33.83',
+    3 => '-118.18',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '08' => 
+  array (
+    0 => 'Long Beach',
+    1 => 'CA',
+    2 => '33.82',
+    3 => '-118.11',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '09' => 
+  array (
+    0 => 'Long Beach',
+    1 => 'CA',
+    2 => '33.76',
+    3 => '-118.12',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  10 => 
+  array (
+    0 => 'Long Beach',
+    1 => 'CA',
+    2 => '33.81',
+    3 => '-118.22',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  13 => 
+  array (
+    0 => 'Long Beach',
+    1 => 'CA',
+    2 => '33.78',
+    3 => '-118.18',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  14 => 
+  array (
+    0 => 'Long Beach',
+    1 => 'CA',
+    2 => '33.77',
+    3 => '-118.14',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  15 => 
+  array (
+    0 => 'Long Beach',
+    1 => 'CA',
+    2 => '33.79',
+    3 => '-118.12',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  22 => 
+  array (
+    0 => 'Long Beach',
+    1 => 'CA',
+    2 => '33.77',
+    3 => '-118.11',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  31 => 
+  array (
+    0 => 'Long Beach',
+    1 => 'CA',
+    2 => '33.76',
+    3 => '-118.2',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  32 => 
+  array (
+    0 => 'Long Beach',
+    1 => 'CA',
+    2 => '33.76',
+    3 => '-118.19',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  33 => 
+  array (
+    0 => 'Long Beach',
+    1 => 'CA',
+    2 => '33.76',
+    3 => '-118.2',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  34 => 
+  array (
+    0 => 'Long Beach',
+    1 => 'CA',
+    2 => '33.76',
+    3 => '-118.2',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  35 => 
+  array (
+    0 => 'Long Beach',
+    1 => 'CA',
+    2 => '33.76',
+    3 => '-118.2',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  40 => 
+  array (
+    0 => 'Long Beach',
+    1 => 'CA',
+    2 => '33.78',
+    3 => '-118.12',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  42 => 
+  array (
+    0 => 'Long Beach',
+    1 => 'CA',
+    2 => '33.81',
+    3 => '-118.16',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  44 => 
+  array (
+    0 => 'Long Beach',
+    1 => 'CA',
+    2 => '33.77',
+    3 => '-118.19',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  45 => 
+  array (
+    0 => 'Long Beach',
+    1 => 'CA',
+    2 => '33.77',
+    3 => '-118.18',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  46 => 
+  array (
+    0 => 'Long Beach',
+    1 => 'CA',
+    2 => '33.82',
+    3 => '-118.11',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  47 => 
+  array (
+    0 => 'Long Beach',
+    1 => 'CA',
+    2 => '33.83',
+    3 => '-118.19',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  48 => 
+  array (
+    0 => 'Long Beach',
+    1 => 'CA',
+    2 => '33.83',
+    3 => '-118.18',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  53 => 
+  array (
+    0 => 'Long Beach',
+    1 => 'CA',
+    2 => '33.75',
+    3 => '-118.13',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  88 => 
+  array (
+    0 => 'Long Beach',
+    1 => 'CA',
+    2 => '33.77',
+    3 => '-118.18',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  95 => 
+  array (
+    0 => 'Carson',
+    1 => 'CA',
+    2 => '33.83',
+    3 => '-118.21',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  99 => 
+  array (
+    0 => 'Long Beach',
+    1 => 'CA',
+    2 => '33.77',
+    3 => '-118.19',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+);

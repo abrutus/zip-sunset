@@ -1,0 +1,83 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Hicksville',
+    1 => 'NY',
+    2 => '40.76',
+    3 => '-73.52',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '02' => 
+  array (
+    0 => 'Hicksville',
+    1 => 'NY',
+    2 => '40.76',
+    3 => '-73.52',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '03' => 
+  array (
+    0 => 'Plainview',
+    1 => 'NY',
+    2 => '40.78',
+    3 => '-73.47',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '04' => 
+  array (
+    0 => 'Old Bethpage',
+    1 => 'NY',
+    2 => '40.75',
+    3 => '-73.45',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  15 => 
+  array (
+    0 => 'Hicksville',
+    1 => 'NY',
+    2 => '40.76',
+    3 => '-73.52',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  19 => 
+  array (
+    0 => 'Hicksville',
+    1 => 'NY',
+    2 => '40.76',
+    3 => '-73.52',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  53 => 
+  array (
+    0 => 'Jericho',
+    1 => 'NY',
+    2 => '40.78',
+    3 => '-73.54',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  54 => 
+  array (
+    0 => 'Hicksville',
+    1 => 'NY',
+    2 => '40.76',
+    3 => '-73.52',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  55 => 
+  array (
+    0 => 'Hicksville',
+    1 => 'NY',
+    2 => '40.76',
+    3 => '-73.52',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

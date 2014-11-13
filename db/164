@@ -1,0 +1,317 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Albion',
+    1 => 'PA',
+    2 => '41.88',
+    3 => '-80.36',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '02' => 
+  array (
+    0 => 'Bear Lake',
+    1 => 'PA',
+    2 => '41.99',
+    3 => '-79.5',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '03' => 
+  array (
+    0 => 'Cambridge Springs',
+    1 => 'PA',
+    2 => '41.8',
+    3 => '-80.06',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '04' => 
+  array (
+    0 => 'Centerville',
+    1 => 'PA',
+    2 => '41.73',
+    3 => '-79.76',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '05' => 
+  array (
+    0 => 'Columbus',
+    1 => 'PA',
+    2 => '41.95',
+    3 => '-79.58',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '06' => 
+  array (
+    0 => 'Conneautville',
+    1 => 'PA',
+    2 => '41.75',
+    3 => '-80.36',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '07' => 
+  array (
+    0 => 'Corry',
+    1 => 'PA',
+    2 => '41.92',
+    3 => '-79.63',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  10 => 
+  array (
+    0 => 'Cranesville',
+    1 => 'PA',
+    2 => '41.9',
+    3 => '-80.34',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  11 => 
+  array (
+    0 => 'East Springfield',
+    1 => 'PA',
+    2 => '41.98',
+    3 => '-80.44',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  12 => 
+  array (
+    0 => 'Edinboro',
+    1 => 'PA',
+    2 => '41.87',
+    3 => '-80.12',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  13 => 
+  array (
+    0 => 'Elgin',
+    1 => 'PA',
+    2 => '41.91',
+    3 => '-79.74',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  15 => 
+  array (
+    0 => 'Fairview',
+    1 => 'PA',
+    2 => '42.03',
+    3 => '-80.25',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  16 => 
+  array (
+    0 => 'Garland',
+    1 => 'PA',
+    2 => '41.8',
+    3 => '-79.43',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  17 => 
+  array (
+    0 => 'Girard',
+    1 => 'PA',
+    2 => '42',
+    3 => '-80.31',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  20 => 
+  array (
+    0 => 'Grand Valley',
+    1 => 'PA',
+    2 => '41.72',
+    3 => '-79.54',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  21 => 
+  array (
+    0 => 'Harborcreek',
+    1 => 'PA',
+    2 => '42.17',
+    3 => '-79.93',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  22 => 
+  array (
+    0 => 'Harmonsburg',
+    1 => 'PA',
+    2 => '41.66',
+    3 => '-80.28',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  23 => 
+  array (
+    0 => 'Lake City',
+    1 => 'PA',
+    2 => '42.01',
+    3 => '-80.34',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  24 => 
+  array (
+    0 => 'Linesville',
+    1 => 'PA',
+    2 => '41.65',
+    3 => '-80.42',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  26 => 
+  array (
+    0 => 'Mc Kean',
+    1 => 'PA',
+    2 => '41.99',
+    3 => '-80.13',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  27 => 
+  array (
+    0 => 'Mill Village',
+    1 => 'PA',
+    2 => '41.87',
+    3 => '-79.97',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  28 => 
+  array (
+    0 => 'North East',
+    1 => 'PA',
+    2 => '42.21',
+    3 => '-79.83',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  30 => 
+  array (
+    0 => 'North Springfield',
+    1 => 'PA',
+    2 => '41.95',
+    3 => '-80.47',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  32 => 
+  array (
+    0 => 'Riceville',
+    1 => 'PA',
+    2 => '41.78',
+    3 => '-79.8',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  33 => 
+  array (
+    0 => 'Saegertown',
+    1 => 'PA',
+    2 => '41.71',
+    3 => '-80.13',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  34 => 
+  array (
+    0 => 'Spartansburg',
+    1 => 'PA',
+    2 => '41.82',
+    3 => '-79.68',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  35 => 
+  array (
+    0 => 'Springboro',
+    1 => 'PA',
+    2 => '41.8',
+    3 => '-80.37',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  36 => 
+  array (
+    0 => 'Spring Creek',
+    1 => 'PA',
+    2 => '41.88',
+    3 => '-79.51',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  38 => 
+  array (
+    0 => 'Union City',
+    1 => 'PA',
+    2 => '41.89',
+    3 => '-79.84',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  40 => 
+  array (
+    0 => 'Venango',
+    1 => 'PA',
+    2 => '41.77',
+    3 => '-80.11',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  41 => 
+  array (
+    0 => 'Waterford',
+    1 => 'PA',
+    2 => '41.94',
+    3 => '-79.98',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  42 => 
+  array (
+    0 => 'Wattsburg',
+    1 => 'PA',
+    2 => '42',
+    3 => '-79.8',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  43 => 
+  array (
+    0 => 'West Springfield',
+    1 => 'PA',
+    2 => '41.94',
+    3 => '-80.47',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  44 => 
+  array (
+    0 => 'Edinboro',
+    1 => 'PA',
+    2 => '41.87',
+    3 => '-80.12',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  75 => 
+  array (
+    0 => 'Albion',
+    1 => 'PA',
+    2 => '41.88',
+    3 => '-80.36',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

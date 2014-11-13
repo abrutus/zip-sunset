@@ -1,0 +1,74 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Annapolis',
+    1 => 'MD',
+    2 => '38.97',
+    3 => '-76.5',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '02' => 
+  array (
+    0 => 'Annapolis',
+    1 => 'MD',
+    2 => '38.97',
+    3 => '-76.5',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '03' => 
+  array (
+    0 => 'Annapolis',
+    1 => 'MD',
+    2 => '38.97',
+    3 => '-76.5',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '04' => 
+  array (
+    0 => 'Annapolis',
+    1 => 'MD',
+    2 => '38.97',
+    3 => '-76.5',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '05' => 
+  array (
+    0 => 'Annapolis',
+    1 => 'MD',
+    2 => '38.97',
+    3 => '-76.5',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '09' => 
+  array (
+    0 => 'Annapolis',
+    1 => 'MD',
+    2 => '39.02',
+    3 => '-76.45',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  11 => 
+  array (
+    0 => 'Annapolis',
+    1 => 'MD',
+    2 => '38.97',
+    3 => '-76.5',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  12 => 
+  array (
+    0 => 'Annapolis',
+    1 => 'MD',
+    2 => '38.97',
+    3 => '-76.5',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

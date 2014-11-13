@@ -1,0 +1,155 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'North Hollywood',
+    1 => 'CA',
+    2 => '34.16',
+    3 => '-118.37',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '02' => 
+  array (
+    0 => 'North Hollywood',
+    1 => 'CA',
+    2 => '34.15',
+    3 => '-118.36',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '03' => 
+  array (
+    0 => 'North Hollywood',
+    1 => 'CA',
+    2 => '34.16',
+    3 => '-118.37',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '04' => 
+  array (
+    0 => 'Studio City',
+    1 => 'CA',
+    2 => '34.13',
+    3 => '-118.39',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '05' => 
+  array (
+    0 => 'North Hollywood',
+    1 => 'CA',
+    2 => '34.2',
+    3 => '-118.39',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '06' => 
+  array (
+    0 => 'North Hollywood',
+    1 => 'CA',
+    2 => '34.18',
+    3 => '-118.39',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '07' => 
+  array (
+    0 => 'Valley Village',
+    1 => 'CA',
+    2 => '34.16',
+    3 => '-118.4',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '08' => 
+  array (
+    0 => 'Universal City',
+    1 => 'CA',
+    2 => '34.13',
+    3 => '-118.35',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '09' => 
+  array (
+    0 => 'North Hollywood',
+    1 => 'CA',
+    2 => '34.18',
+    3 => '-118.38',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  10 => 
+  array (
+    0 => 'Toluca Lake',
+    1 => 'CA',
+    2 => '34.15',
+    3 => '-118.37',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  11 => 
+  array (
+    0 => 'North Hollywood',
+    1 => 'CA',
+    2 => '34.18',
+    3 => '-118.39',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  12 => 
+  array (
+    0 => 'North Hollywood',
+    1 => 'CA',
+    2 => '34.18',
+    3 => '-118.39',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  14 => 
+  array (
+    0 => 'Studio City',
+    1 => 'CA',
+    2 => '34.14',
+    3 => '-118.39',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  15 => 
+  array (
+    0 => 'North Hollywood',
+    1 => 'CA',
+    2 => '34.19',
+    3 => '-118.39',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  16 => 
+  array (
+    0 => 'North Hollywood',
+    1 => 'CA',
+    2 => '34.18',
+    3 => '-118.39',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  17 => 
+  array (
+    0 => 'Valley Village',
+    1 => 'CA',
+    2 => '34.16',
+    3 => '-118.4',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  18 => 
+  array (
+    0 => 'North Hollywood',
+    1 => 'CA',
+    2 => '34.11',
+    3 => '-118.36',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+);

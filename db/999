@@ -1,0 +1,110 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Ketchikan',
+    1 => 'AK',
+    2 => '55.61',
+    3 => '-131.58',
+    4 => -9,
+    5 => 'America/Juneau',
+  ),
+  '03' => 
+  array (
+    0 => 'Meyers Chuck',
+    1 => 'AK',
+    2 => '55.68',
+    3 => '-132.19',
+    4 => -9,
+    5 => 'America/Juneau',
+  ),
+  18 => 
+  array (
+    0 => 'Coffman Cove',
+    1 => 'AK',
+    2 => '55.97',
+    3 => '-132.74',
+    4 => -9,
+    5 => 'America/Juneau',
+  ),
+  19 => 
+  array (
+    0 => 'Thorne Bay',
+    1 => 'AK',
+    2 => '55.57',
+    3 => '-132.39',
+    4 => -9,
+    5 => 'America/Juneau',
+  ),
+  21 => 
+  array (
+    0 => 'Craig',
+    1 => 'AK',
+    2 => '55.46',
+    3 => '-132.83',
+    4 => -9,
+    5 => 'America/Juneau',
+  ),
+  22 => 
+  array (
+    0 => 'Hydaburg',
+    1 => 'AK',
+    2 => '55.2',
+    3 => '-132.81',
+    4 => -9,
+    5 => 'America/Juneau',
+  ),
+  23 => 
+  array (
+    0 => 'Hyder',
+    1 => 'AK',
+    2 => '55.97',
+    3 => '-130.04',
+    4 => -9,
+    5 => 'America/Juneau',
+  ),
+  25 => 
+  array (
+    0 => 'Klawock',
+    1 => 'AK',
+    2 => '55.54',
+    3 => '-132.96',
+    4 => -9,
+    5 => 'America/Juneau',
+  ),
+  26 => 
+  array (
+    0 => 'Metlakatla',
+    1 => 'AK',
+    2 => '55.14',
+    3 => '-131.49',
+    4 => -9,
+    5 => 'America/Juneau',
+  ),
+  27 => 
+  array (
+    0 => 'Point Baker',
+    1 => 'AK',
+    2 => '56.3',
+    3 => '-133.57',
+    4 => -9,
+    5 => 'America/Juneau',
+  ),
+  28 => 
+  array (
+    0 => 'Ward Cove',
+    1 => 'AK',
+    2 => '55.45',
+    3 => '-131.79',
+    4 => -9,
+    5 => 'America/Juneau',
+  ),
+  50 => 
+  array (
+    0 => 'Ketchikan',
+    1 => 'AK',
+    2 => '55.34',
+    3 => '-131.64',
+    4 => -9,
+    5 => 'America/Juneau',
+  ),
+);

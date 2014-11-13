@@ -1,0 +1,263 @@
+<?php $db= array (
+  40 => 
+  array (
+    0 => 'Bath',
+    1 => 'NH',
+    2 => '44.16',
+    3 => '-71.96',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  41 => 
+  array (
+    0 => 'Canaan',
+    1 => 'NH',
+    2 => '43.64',
+    3 => '-72.01',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  43 => 
+  array (
+    0 => 'Claremont',
+    1 => 'NH',
+    2 => '43.37',
+    3 => '-72.33',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  45 => 
+  array (
+    0 => 'Cornish',
+    1 => 'NH',
+    2 => '43.48',
+    3 => '-72.32',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  46 => 
+  array (
+    0 => 'Cornish Flat',
+    1 => 'NH',
+    2 => '43.49',
+    3 => '-72.27',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  48 => 
+  array (
+    0 => 'Enfield',
+    1 => 'NH',
+    2 => '43.64',
+    3 => '-72.14',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  49 => 
+  array (
+    0 => 'Enfield Center',
+    1 => 'NH',
+    2 => '43.57',
+    3 => '-72.11',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  50 => 
+  array (
+    0 => 'Etna',
+    1 => 'NH',
+    2 => '43.71',
+    3 => '-72.19',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  51 => 
+  array (
+    0 => 'Georges Mills',
+    1 => 'NH',
+    2 => '43.42',
+    3 => '-72.07',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  52 => 
+  array (
+    0 => 'Goshen',
+    1 => 'NH',
+    2 => '43.3',
+    3 => '-72.14',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  53 => 
+  array (
+    0 => 'Grantham',
+    1 => 'NH',
+    2 => '43.48',
+    3 => '-72.13',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  54 => 
+  array (
+    0 => 'Guild',
+    1 => 'NH',
+    2 => '43.37',
+    3 => '-72.14',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  55 => 
+  array (
+    0 => 'Hanover',
+    1 => 'NH',
+    2 => '43.7',
+    3 => '-72.27',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  56 => 
+  array (
+    0 => 'Lebanon',
+    1 => 'NH',
+    2 => '43.63',
+    3 => '-72.25',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  65 => 
+  array (
+    0 => 'Haverhill',
+    1 => 'NH',
+    2 => '44.03',
+    3 => '-72.06',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  66 => 
+  array (
+    0 => 'Lebanon',
+    1 => 'NH',
+    2 => '43.63',
+    3 => '-72.25',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  68 => 
+  array (
+    0 => 'Lyme',
+    1 => 'NH',
+    2 => '43.8',
+    3 => '-72.15',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  69 => 
+  array (
+    0 => 'Lyme Center',
+    1 => 'NH',
+    2 => '43.83',
+    3 => '-72.1',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  70 => 
+  array (
+    0 => 'Meriden',
+    1 => 'NH',
+    2 => '43.52',
+    3 => '-72.27',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  71 => 
+  array (
+    0 => 'Monroe',
+    1 => 'NH',
+    2 => '44.28',
+    3 => '-72.01',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  73 => 
+  array (
+    0 => 'Newport',
+    1 => 'NH',
+    2 => '43.37',
+    3 => '-72.17',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  74 => 
+  array (
+    0 => 'North Haverhill',
+    1 => 'NH',
+    2 => '44.09',
+    3 => '-71.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  77 => 
+  array (
+    0 => 'Orford',
+    1 => 'NH',
+    2 => '43.89',
+    3 => '-72.06',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  79 => 
+  array (
+    0 => 'Piermont',
+    1 => 'NH',
+    2 => '43.96',
+    3 => '-72.08',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  80 => 
+  array (
+    0 => 'Pike',
+    1 => 'NH',
+    2 => '44',
+    3 => '-72',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  81 => 
+  array (
+    0 => 'Plainfield',
+    1 => 'NH',
+    2 => '43.53',
+    3 => '-72.35',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  82 => 
+  array (
+    0 => 'Sunapee',
+    1 => 'NH',
+    2 => '43.38',
+    3 => '-72.08',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  84 => 
+  array (
+    0 => 'West Lebanon',
+    1 => 'NH',
+    2 => '43.62',
+    3 => '-72.29',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  85 => 
+  array (
+    0 => 'Woodsville',
+    1 => 'NH',
+    2 => '44.14',
+    3 => '-72.02',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

@@ -1,0 +1,182 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Woodward',
+    1 => 'OK',
+    2 => '36.42',
+    3 => '-99.4',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '02' => 
+  array (
+    0 => 'Woodward',
+    1 => 'OK',
+    2 => '36.42',
+    3 => '-99.4',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  32 => 
+  array (
+    0 => 'Arnett',
+    1 => 'OK',
+    2 => '36.13',
+    3 => '-99.77',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  34 => 
+  array (
+    0 => 'Buffalo',
+    1 => 'OK',
+    2 => '36.83',
+    3 => '-99.62',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  35 => 
+  array (
+    0 => 'Camargo',
+    1 => 'OK',
+    2 => '36.01',
+    3 => '-99.28',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  38 => 
+  array (
+    0 => 'Chester',
+    1 => 'OK',
+    2 => '36.22',
+    3 => '-98.92',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  40 => 
+  array (
+    0 => 'Fargo',
+    1 => 'OK',
+    2 => '36.37',
+    3 => '-99.62',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  41 => 
+  array (
+    0 => 'Fort Supply',
+    1 => 'OK',
+    2 => '36.57',
+    3 => '-99.57',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  42 => 
+  array (
+    0 => 'Freedom',
+    1 => 'OK',
+    2 => '36.76',
+    3 => '-99.11',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  43 => 
+  array (
+    0 => 'Gage',
+    1 => 'OK',
+    2 => '36.31',
+    3 => '-99.75',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  44 => 
+  array (
+    0 => 'Gate',
+    1 => 'OK',
+    2 => '36.85',
+    3 => '-100.05',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  48 => 
+  array (
+    0 => 'Laverne',
+    1 => 'OK',
+    2 => '36.7',
+    3 => '-99.89',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  51 => 
+  array (
+    0 => 'May',
+    1 => 'OK',
+    2 => '36.61',
+    3 => '-99.74',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  52 => 
+  array (
+    0 => 'Mooreland',
+    1 => 'OK',
+    2 => '36.43',
+    3 => '-99.2',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  53 => 
+  array (
+    0 => 'Mutual',
+    1 => 'OK',
+    2 => '36.22',
+    3 => '-99.16',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  55 => 
+  array (
+    0 => 'Rosston',
+    1 => 'OK',
+    2 => '36.81',
+    3 => '-99.92',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  57 => 
+  array (
+    0 => 'Sharon',
+    1 => 'OK',
+    2 => '36.27',
+    3 => '-99.33',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  58 => 
+  array (
+    0 => 'Shattuck',
+    1 => 'OK',
+    2 => '36.27',
+    3 => '-99.87',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  59 => 
+  array (
+    0 => 'Vici',
+    1 => 'OK',
+    2 => '36.14',
+    3 => '-99.29',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  60 => 
+  array (
+    0 => 'Waynoka',
+    1 => 'OK',
+    2 => '36.58',
+    3 => '-98.87',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+);

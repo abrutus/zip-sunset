@@ -1,0 +1,83 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Davenport',
+    1 => 'IA',
+    2 => '41.55',
+    3 => '-90.6',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '02' => 
+  array (
+    0 => 'Davenport',
+    1 => 'IA',
+    2 => '41.55',
+    3 => '-90.6',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '03' => 
+  array (
+    0 => 'Davenport',
+    1 => 'IA',
+    2 => '41.55',
+    3 => '-90.6',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '04' => 
+  array (
+    0 => 'Davenport',
+    1 => 'IA',
+    2 => '41.55',
+    3 => '-90.6',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '05' => 
+  array (
+    0 => 'Davenport',
+    1 => 'IA',
+    2 => '41.55',
+    3 => '-90.6',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '06' => 
+  array (
+    0 => 'Davenport',
+    1 => 'IA',
+    2 => '41.55',
+    3 => '-90.6',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '07' => 
+  array (
+    0 => 'Davenport',
+    1 => 'IA',
+    2 => '41.55',
+    3 => '-90.6',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '08' => 
+  array (
+    0 => 'Davenport',
+    1 => 'IA',
+    2 => '41.55',
+    3 => '-90.6',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '09' => 
+  array (
+    0 => 'Davenport',
+    1 => 'IA',
+    2 => '41.55',
+    3 => '-90.6',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+);

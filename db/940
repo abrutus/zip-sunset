@@ -1,0 +1,416 @@
+<?php $db= array (
+  '02' => 
+  array (
+    0 => 'Belmont',
+    1 => 'CA',
+    2 => '37.5',
+    3 => '-122.3',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '05' => 
+  array (
+    0 => 'Brisbane',
+    1 => 'CA',
+    2 => '37.68',
+    3 => '-122.41',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  10 => 
+  array (
+    0 => 'Burlingame',
+    1 => 'CA',
+    2 => '37.56',
+    3 => '-122.37',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  11 => 
+  array (
+    0 => 'Burlingame',
+    1 => 'CA',
+    2 => '37.57',
+    3 => '-122.34',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  13 => 
+  array (
+    0 => 'Daly City',
+    1 => 'CA',
+    2 => '37.7',
+    3 => '-122.45',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  14 => 
+  array (
+    0 => 'Daly City',
+    1 => 'CA',
+    2 => '37.68',
+    3 => '-122.43',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  15 => 
+  array (
+    0 => 'Daly City',
+    1 => 'CA',
+    2 => '37.67',
+    3 => '-122.47',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  16 => 
+  array (
+    0 => 'Daly City',
+    1 => 'CA',
+    2 => '37.7',
+    3 => '-122.45',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  17 => 
+  array (
+    0 => 'Daly City',
+    1 => 'CA',
+    2 => '37.69',
+    3 => '-122.47',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  18 => 
+  array (
+    0 => 'El Granada',
+    1 => 'CA',
+    2 => '37.5',
+    3 => '-122.47',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  19 => 
+  array (
+    0 => 'Half Moon Bay',
+    1 => 'CA',
+    2 => '37.44',
+    3 => '-122.41',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  20 => 
+  array (
+    0 => 'La Honda',
+    1 => 'CA',
+    2 => '37.28',
+    3 => '-122.24',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  21 => 
+  array (
+    0 => 'Loma Mar',
+    1 => 'CA',
+    2 => '37.27',
+    3 => '-122.26',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  22 => 
+  array (
+    0 => 'Los Altos',
+    1 => 'CA',
+    2 => '37.36',
+    3 => '-122.14',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  23 => 
+  array (
+    0 => 'Los Altos',
+    1 => 'CA',
+    2 => '37.37',
+    3 => '-122.11',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  24 => 
+  array (
+    0 => 'Los Altos',
+    1 => 'CA',
+    2 => '37.34',
+    3 => '-122.11',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  25 => 
+  array (
+    0 => 'Menlo Park',
+    1 => 'CA',
+    2 => '37.45',
+    3 => '-122.17',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  26 => 
+  array (
+    0 => 'Menlo Park',
+    1 => 'CA',
+    2 => '37.47',
+    3 => '-122.18',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  27 => 
+  array (
+    0 => 'Atherton',
+    1 => 'CA',
+    2 => '37.44',
+    3 => '-122.2',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  28 => 
+  array (
+    0 => 'Portola Valley',
+    1 => 'CA',
+    2 => '37.37',
+    3 => '-122.21',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  30 => 
+  array (
+    0 => 'Millbrae',
+    1 => 'CA',
+    2 => '37.59',
+    3 => '-122.4',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  35 => 
+  array (
+    0 => 'Mountain View',
+    1 => 'CA',
+    2 => '37.41',
+    3 => '-122.05',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  37 => 
+  array (
+    0 => 'Montara',
+    1 => 'CA',
+    2 => '37.54',
+    3 => '-122.5',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  38 => 
+  array (
+    0 => 'Moss Beach',
+    1 => 'CA',
+    2 => '37.51',
+    3 => '-122.5',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  39 => 
+  array (
+    0 => 'Mountain View',
+    1 => 'CA',
+    2 => '37.39',
+    3 => '-122.07',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  40 => 
+  array (
+    0 => 'Mountain View',
+    1 => 'CA',
+    2 => '37.38',
+    3 => '-122.08',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  41 => 
+  array (
+    0 => 'Mountain View',
+    1 => 'CA',
+    2 => '37.38',
+    3 => '-122.07',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  42 => 
+  array (
+    0 => 'Mountain View',
+    1 => 'CA',
+    2 => '37.4',
+    3 => '-122.08',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  43 => 
+  array (
+    0 => 'Mountain View',
+    1 => 'CA',
+    2 => '37.41',
+    3 => '-122.05',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  44 => 
+  array (
+    0 => 'Pacifica',
+    1 => 'CA',
+    2 => '37.6',
+    3 => '-122.45',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  60 => 
+  array (
+    0 => 'Pescadero',
+    1 => 'CA',
+    2 => '37.2',
+    3 => '-122.3',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  61 => 
+  array (
+    0 => 'Redwood City',
+    1 => 'CA',
+    2 => '37.46',
+    3 => '-122.24',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  62 => 
+  array (
+    0 => 'Redwood City',
+    1 => 'CA',
+    2 => '37.4',
+    3 => '-122.29',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  63 => 
+  array (
+    0 => 'Redwood City',
+    1 => 'CA',
+    2 => '37.49',
+    3 => '-122.21',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  64 => 
+  array (
+    0 => 'Redwood City',
+    1 => 'CA',
+    2 => '37.46',
+    3 => '-122.25',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  65 => 
+  array (
+    0 => 'Redwood City',
+    1 => 'CA',
+    2 => '37.53',
+    3 => '-122.24',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  66 => 
+  array (
+    0 => 'San Bruno',
+    1 => 'CA',
+    2 => '37.62',
+    3 => '-122.43',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  70 => 
+  array (
+    0 => 'San Carlos',
+    1 => 'CA',
+    2 => '37.49',
+    3 => '-122.26',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  74 => 
+  array (
+    0 => 'San Gregorio',
+    1 => 'CA',
+    2 => '37.33',
+    3 => '-122.34',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  80 => 
+  array (
+    0 => 'South San Francisco',
+    1 => 'CA',
+    2 => '37.65',
+    3 => '-122.42',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  83 => 
+  array (
+    0 => 'South San Francisco',
+    1 => 'CA',
+    2 => '37.64',
+    3 => '-122.41',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  85 => 
+  array (
+    0 => 'Sunnyvale',
+    1 => 'CA',
+    2 => '37.38',
+    3 => '-122.01',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  86 => 
+  array (
+    0 => 'Sunnyvale',
+    1 => 'CA',
+    2 => '37.36',
+    3 => '-122.02',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  87 => 
+  array (
+    0 => 'Sunnyvale',
+    1 => 'CA',
+    2 => '37.35',
+    3 => '-122.03',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  88 => 
+  array (
+    0 => 'Sunnyvale',
+    1 => 'CA',
+    2 => '37.39',
+    3 => '-122.03',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  89 => 
+  array (
+    0 => 'Sunnyvale',
+    1 => 'CA',
+    2 => '37.42',
+    3 => '-122',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+);

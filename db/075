@@ -1,0 +1,182 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Paterson',
+    1 => 'NJ',
+    2 => '40.91',
+    3 => '-74.16',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '02' => 
+  array (
+    0 => 'Paterson',
+    1 => 'NJ',
+    2 => '40.91',
+    3 => '-74.16',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '03' => 
+  array (
+    0 => 'Paterson',
+    1 => 'NJ',
+    2 => '40.91',
+    3 => '-74.16',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '04' => 
+  array (
+    0 => 'Paterson',
+    1 => 'NJ',
+    2 => '40.91',
+    3 => '-74.16',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '05' => 
+  array (
+    0 => 'Paterson',
+    1 => 'NJ',
+    2 => '40.91',
+    3 => '-74.16',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '06' => 
+  array (
+    0 => 'Hawthorne',
+    1 => 'NJ',
+    2 => '40.95',
+    3 => '-74.15',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '07' => 
+  array (
+    0 => 'Hawthorne',
+    1 => 'NJ',
+    2 => '40.95',
+    3 => '-74.15',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '08' => 
+  array (
+    0 => 'Haledon',
+    1 => 'NJ',
+    2 => '40.93',
+    3 => '-74.18',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '09' => 
+  array (
+    0 => 'Paterson',
+    1 => 'NJ',
+    2 => '40.91',
+    3 => '-74.16',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  10 => 
+  array (
+    0 => 'Paterson',
+    1 => 'NJ',
+    2 => '40.91',
+    3 => '-74.16',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  11 => 
+  array (
+    0 => 'Totowa',
+    1 => 'NJ',
+    2 => '40.9',
+    3 => '-74.22',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  12 => 
+  array (
+    0 => 'Totowa',
+    1 => 'NJ',
+    2 => '40.9',
+    3 => '-74.22',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  13 => 
+  array (
+    0 => 'Paterson',
+    1 => 'NJ',
+    2 => '40.91',
+    3 => '-74.16',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  14 => 
+  array (
+    0 => 'Paterson',
+    1 => 'NJ',
+    2 => '40.91',
+    3 => '-74.16',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  22 => 
+  array (
+    0 => 'Paterson',
+    1 => 'NJ',
+    2 => '40.91',
+    3 => '-74.16',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  24 => 
+  array (
+    0 => 'Paterson',
+    1 => 'NJ',
+    2 => '40.91',
+    3 => '-74.16',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  33 => 
+  array (
+    0 => 'Paterson',
+    1 => 'NJ',
+    2 => '40.91',
+    3 => '-74.16',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  38 => 
+  array (
+    0 => 'Haledon',
+    1 => 'NJ',
+    2 => '40.93',
+    3 => '-74.18',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  43 => 
+  array (
+    0 => 'Paterson',
+    1 => 'NJ',
+    2 => '40.91',
+    3 => '-74.16',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  44 => 
+  array (
+    0 => 'Paterson',
+    1 => 'NJ',
+    2 => '40.91',
+    3 => '-74.16',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

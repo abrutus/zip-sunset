@@ -1,0 +1,326 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Johnson City',
+    1 => 'TN',
+    2 => '36.33',
+    3 => '-82.36',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '02' => 
+  array (
+    0 => 'Johnson City',
+    1 => 'TN',
+    2 => '36.33',
+    3 => '-82.36',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '04' => 
+  array (
+    0 => 'Johnson City',
+    1 => 'TN',
+    2 => '36.33',
+    3 => '-82.36',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '05' => 
+  array (
+    0 => 'Johnson City',
+    1 => 'TN',
+    2 => '36.33',
+    3 => '-82.36',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  14 => 
+  array (
+    0 => 'Johnson City',
+    1 => 'TN',
+    2 => '36.33',
+    3 => '-82.36',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  15 => 
+  array (
+    0 => 'Johnson City',
+    1 => 'TN',
+    2 => '36.33',
+    3 => '-82.36',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  16 => 
+  array (
+    0 => 'Afton',
+    1 => 'TN',
+    2 => '36.21',
+    3 => '-82.74',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  17 => 
+  array (
+    0 => 'Blountville',
+    1 => 'TN',
+    2 => '36.53',
+    3 => '-82.32',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  18 => 
+  array (
+    0 => 'Bluff City',
+    1 => 'TN',
+    2 => '36.46',
+    3 => '-82.27',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  20 => 
+  array (
+    0 => 'Bristol',
+    1 => 'TN',
+    2 => '36.56',
+    3 => '-82.19',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  21 => 
+  array (
+    0 => 'Bristol',
+    1 => 'TN',
+    2 => '36.56',
+    3 => '-82.19',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  25 => 
+  array (
+    0 => 'Bristol',
+    1 => 'TN',
+    2 => '36.56',
+    3 => '-82.19',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  42 => 
+  array (
+    0 => 'Church Hill',
+    1 => 'TN',
+    2 => '36.52',
+    3 => '-82.71',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  43 => 
+  array (
+    0 => 'Elizabethton',
+    1 => 'TN',
+    2 => '36.33',
+    3 => '-82.23',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  44 => 
+  array (
+    0 => 'Elizabethton',
+    1 => 'TN',
+    2 => '36.33',
+    3 => '-82.23',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  45 => 
+  array (
+    0 => 'Mount Carmel',
+    1 => 'TN',
+    2 => '36.56',
+    3 => '-82.65',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  57 => 
+  array (
+    0 => 'Flag Pond',
+    1 => 'TN',
+    2 => '36.01',
+    3 => '-82.56',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  58 => 
+  array (
+    0 => 'Hampton',
+    1 => 'TN',
+    2 => '36.28',
+    3 => '-82.17',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  59 => 
+  array (
+    0 => 'Jonesborough',
+    1 => 'TN',
+    2 => '36.29',
+    3 => '-82.47',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  60 => 
+  array (
+    0 => 'Kingsport',
+    1 => 'TN',
+    2 => '36.52',
+    3 => '-82.55',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  62 => 
+  array (
+    0 => 'Kingsport',
+    1 => 'TN',
+    2 => '36.52',
+    3 => '-82.55',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  63 => 
+  array (
+    0 => 'Kingsport',
+    1 => 'TN',
+    2 => '36.52',
+    3 => '-82.55',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  64 => 
+  array (
+    0 => 'Kingsport',
+    1 => 'TN',
+    2 => '36.52',
+    3 => '-82.55',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  65 => 
+  array (
+    0 => 'Kingsport',
+    1 => 'TN',
+    2 => '36.52',
+    3 => '-82.55',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  69 => 
+  array (
+    0 => 'Kingsport',
+    1 => 'TN',
+    2 => '36.52',
+    3 => '-82.55',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  80 => 
+  array (
+    0 => 'Laurel Bloomery',
+    1 => 'TN',
+    2 => '36.55',
+    3 => '-81.76',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  82 => 
+  array (
+    0 => 'Milligan College',
+    1 => 'TN',
+    2 => '36.26',
+    3 => '-82.29',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  83 => 
+  array (
+    0 => 'Mountain City',
+    1 => 'TN',
+    2 => '36.47',
+    3 => '-81.8',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  84 => 
+  array (
+    0 => 'Mountain Home',
+    1 => 'TN',
+    2 => '36.3',
+    3 => '-82.36',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  86 => 
+  array (
+    0 => 'Piney Flats',
+    1 => 'TN',
+    2 => '36.44',
+    3 => '-82.34',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  87 => 
+  array (
+    0 => 'Roan Mountain',
+    1 => 'TN',
+    2 => '36.18',
+    3 => '-82.07',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  88 => 
+  array (
+    0 => 'Shady Valley',
+    1 => 'TN',
+    2 => '36.51',
+    3 => '-81.92',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  90 => 
+  array (
+    0 => 'Telford',
+    1 => 'TN',
+    2 => '36.24',
+    3 => '-82.54',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  91 => 
+  array (
+    0 => 'Trade',
+    1 => 'TN',
+    2 => '36.34',
+    3 => '-81.74',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  92 => 
+  array (
+    0 => 'Unicoi',
+    1 => 'TN',
+    2 => '36.19',
+    3 => '-82.35',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  99 => 
+  array (
+    0 => 'Piney Flats',
+    1 => 'TN',
+    2 => '36.44',
+    3 => '-82.34',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

@@ -1,0 +1,101 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Lancaster',
+    1 => 'PA',
+    2 => '40.04',
+    3 => '-76.3',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '02' => 
+  array (
+    0 => 'Lancaster',
+    1 => 'PA',
+    2 => '40.04',
+    3 => '-76.3',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '03' => 
+  array (
+    0 => 'Lancaster',
+    1 => 'PA',
+    2 => '40.04',
+    3 => '-76.3',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '04' => 
+  array (
+    0 => 'Lancaster',
+    1 => 'PA',
+    2 => '40.04',
+    3 => '-76.3',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '05' => 
+  array (
+    0 => 'Lancaster',
+    1 => 'PA',
+    2 => '40.04',
+    3 => '-76.3',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '06' => 
+  array (
+    0 => 'Lancaster',
+    1 => 'PA',
+    2 => '40.04',
+    3 => '-76.3',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '07' => 
+  array (
+    0 => 'Lancaster',
+    1 => 'PA',
+    2 => '40.04',
+    3 => '-76.3',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '08' => 
+  array (
+    0 => 'Lancaster',
+    1 => 'PA',
+    2 => '40.04',
+    3 => '-76.3',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  11 => 
+  array (
+    0 => 'Lancaster',
+    1 => 'PA',
+    2 => '40.01',
+    3 => '-76.37',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  22 => 
+  array (
+    0 => 'Lancaster',
+    1 => 'PA',
+    2 => '40.04',
+    3 => '-76.31',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  99 => 
+  array (
+    0 => 'Lancaster',
+    1 => 'PA',
+    2 => '40.04',
+    3 => '-76.3',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

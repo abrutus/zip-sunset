@@ -1,0 +1,191 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Baroda',
+    1 => 'MI',
+    2 => '41.95',
+    3 => '-86.48',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  '02' => 
+  array (
+    0 => 'Berrien Center',
+    1 => 'MI',
+    2 => '41.94',
+    3 => '-86.26',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  '03' => 
+  array (
+    0 => 'Berrien Springs',
+    1 => 'MI',
+    2 => '41.94',
+    3 => '-86.34',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  '04' => 
+  array (
+    0 => 'Berrien Springs',
+    1 => 'MI',
+    2 => '41.94',
+    3 => '-86.34',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  '06' => 
+  array (
+    0 => 'Bridgman',
+    1 => 'MI',
+    2 => '41.94',
+    3 => '-86.56',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  '07' => 
+  array (
+    0 => 'Buchanan',
+    1 => 'MI',
+    2 => '41.82',
+    3 => '-86.36',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  11 => 
+  array (
+    0 => 'Eau Claire',
+    1 => 'MI',
+    2 => '41.98',
+    3 => '-86.3',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  12 => 
+  array (
+    0 => 'Edwardsburg',
+    1 => 'MI',
+    2 => '41.79',
+    3 => '-86.08',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  13 => 
+  array (
+    0 => 'Galien',
+    1 => 'MI',
+    2 => '41.8',
+    3 => '-86.49',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  15 => 
+  array (
+    0 => 'Harbert',
+    1 => 'MI',
+    2 => '41.88',
+    3 => '-86.61',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  16 => 
+  array (
+    0 => 'Lakeside',
+    1 => 'MI',
+    2 => '41.85',
+    3 => '-86.66',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  17 => 
+  array (
+    0 => 'New Buffalo',
+    1 => 'MI',
+    2 => '41.79',
+    3 => '-86.74',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  19 => 
+  array (
+    0 => 'New Troy',
+    1 => 'MI',
+    2 => '41.83',
+    3 => '-86.51',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  20 => 
+  array (
+    0 => 'Niles',
+    1 => 'MI',
+    2 => '41.83',
+    3 => '-86.24',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  21 => 
+  array (
+    0 => 'Niles',
+    1 => 'MI',
+    2 => '41.82',
+    3 => '-86.25',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  25 => 
+  array (
+    0 => 'Sawyer',
+    1 => 'MI',
+    2 => '41.86',
+    3 => '-86.55',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  26 => 
+  array (
+    0 => 'Sodus',
+    1 => 'MI',
+    2 => '42.03',
+    3 => '-86.38',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  27 => 
+  array (
+    0 => 'Stevensville',
+    1 => 'MI',
+    2 => '42.01',
+    3 => '-86.52',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  28 => 
+  array (
+    0 => 'Three Oaks',
+    1 => 'MI',
+    2 => '41.79',
+    3 => '-86.61',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  29 => 
+  array (
+    0 => 'Union Pier',
+    1 => 'MI',
+    2 => '41.81',
+    3 => '-86.68',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  30 => 
+  array (
+    0 => 'Union',
+    1 => 'MI',
+    2 => '41.78',
+    3 => '-85.86',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+);

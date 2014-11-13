@@ -1,0 +1,29 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Farmington',
+    1 => 'NM',
+    2 => '36.75',
+    3 => '-108.18',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  '02' => 
+  array (
+    0 => 'Farmington',
+    1 => 'NM',
+    2 => '36.75',
+    3 => '-108.18',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  99 => 
+  array (
+    0 => 'Farmington',
+    1 => 'NM',
+    2 => '36.75',
+    3 => '-108.18',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+);

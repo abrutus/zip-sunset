@@ -1,0 +1,218 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Lansing',
+    1 => 'MI',
+    2 => '42.7',
+    3 => '-84.55',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  '06' => 
+  array (
+    0 => 'Lansing',
+    1 => 'MI',
+    2 => '42.7',
+    3 => '-84.55',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  '08' => 
+  array (
+    0 => 'Lansing',
+    1 => 'MI',
+    2 => '42.7',
+    3 => '-84.55',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  '09' => 
+  array (
+    0 => 'Lansing',
+    1 => 'MI',
+    2 => '42.7',
+    3 => '-84.55',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  10 => 
+  array (
+    0 => 'Lansing',
+    1 => 'MI',
+    2 => '42.7',
+    3 => '-84.55',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  11 => 
+  array (
+    0 => 'Lansing',
+    1 => 'MI',
+    2 => '42.7',
+    3 => '-84.55',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  12 => 
+  array (
+    0 => 'Lansing',
+    1 => 'MI',
+    2 => '42.7',
+    3 => '-84.55',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  13 => 
+  array (
+    0 => 'Lansing',
+    1 => 'MI',
+    2 => '42.7',
+    3 => '-84.55',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  15 => 
+  array (
+    0 => 'Lansing',
+    1 => 'MI',
+    2 => '42.7',
+    3 => '-84.55',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  16 => 
+  array (
+    0 => 'Lansing',
+    1 => 'MI',
+    2 => '42.7',
+    3 => '-84.55',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  17 => 
+  array (
+    0 => 'Lansing',
+    1 => 'MI',
+    2 => '42.7',
+    3 => '-84.55',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  18 => 
+  array (
+    0 => 'Lansing',
+    1 => 'MI',
+    2 => '42.7',
+    3 => '-84.55',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  19 => 
+  array (
+    0 => 'Lansing',
+    1 => 'MI',
+    2 => '42.7',
+    3 => '-84.55',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  21 => 
+  array (
+    0 => 'Lansing',
+    1 => 'MI',
+    2 => '42.7',
+    3 => '-84.55',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  22 => 
+  array (
+    0 => 'Lansing',
+    1 => 'MI',
+    2 => '42.7',
+    3 => '-84.55',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  24 => 
+  array (
+    0 => 'Lansing',
+    1 => 'MI',
+    2 => '42.7',
+    3 => '-84.55',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  29 => 
+  array (
+    0 => 'Lansing',
+    1 => 'MI',
+    2 => '42.7',
+    3 => '-84.55',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  30 => 
+  array (
+    0 => 'Lansing',
+    1 => 'MI',
+    2 => '42.7',
+    3 => '-84.55',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  33 => 
+  array (
+    0 => 'Lansing',
+    1 => 'MI',
+    2 => '42.7',
+    3 => '-84.55',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  37 => 
+  array (
+    0 => 'Lansing',
+    1 => 'MI',
+    2 => '42.7',
+    3 => '-84.55',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  50 => 
+  array (
+    0 => 'Lansing',
+    1 => 'MI',
+    2 => '42.7',
+    3 => '-84.55',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  51 => 
+  array (
+    0 => 'Lansing',
+    1 => 'MI',
+    2 => '42.72',
+    3 => '-84.56',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  56 => 
+  array (
+    0 => 'Lansing',
+    1 => 'MI',
+    2 => '42.7',
+    3 => '-84.55',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  80 => 
+  array (
+    0 => 'Lansing',
+    1 => 'MI',
+    2 => '42.7',
+    3 => '-84.55',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+);

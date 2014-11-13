@@ -1,0 +1,101 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Gary',
+    1 => 'IN',
+    2 => '41.59',
+    3 => '-87.34',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  '02' => 
+  array (
+    0 => 'Gary',
+    1 => 'IN',
+    2 => '41.59',
+    3 => '-87.34',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  '03' => 
+  array (
+    0 => 'Gary',
+    1 => 'IN',
+    2 => '41.59',
+    3 => '-87.34',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  '04' => 
+  array (
+    0 => 'Gary',
+    1 => 'IN',
+    2 => '41.59',
+    3 => '-87.34',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  '05' => 
+  array (
+    0 => 'Lake Station',
+    1 => 'IN',
+    2 => '41.57',
+    3 => '-87.26',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  '06' => 
+  array (
+    0 => 'Gary',
+    1 => 'IN',
+    2 => '41.59',
+    3 => '-87.34',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  '07' => 
+  array (
+    0 => 'Gary',
+    1 => 'IN',
+    2 => '41.59',
+    3 => '-87.34',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  '08' => 
+  array (
+    0 => 'Gary',
+    1 => 'IN',
+    2 => '41.59',
+    3 => '-87.34',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  '09' => 
+  array (
+    0 => 'Gary',
+    1 => 'IN',
+    2 => '41.59',
+    3 => '-87.34',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  10 => 
+  array (
+    0 => 'Merrillville',
+    1 => 'IN',
+    2 => '41.47',
+    3 => '-87.32',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  11 => 
+  array (
+    0 => 'Merrillville',
+    1 => 'IN',
+    2 => '41.47',
+    3 => '-87.32',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+);

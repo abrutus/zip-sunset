@@ -1,0 +1,290 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Airway Heights',
+    1 => 'WA',
+    2 => '47.64',
+    3 => '-117.56',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '03' => 
+  array (
+    0 => 'Chattaroy',
+    1 => 'WA',
+    2 => '47.92',
+    3 => '-117.28',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '04' => 
+  array (
+    0 => 'Cheney',
+    1 => 'WA',
+    2 => '47.43',
+    3 => '-117.62',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '05' => 
+  array (
+    0 => 'Colbert',
+    1 => 'WA',
+    2 => '47.84',
+    3 => '-117.35',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '06' => 
+  array (
+    0 => 'Deer Park',
+    1 => 'WA',
+    2 => '47.99',
+    3 => '-117.5',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '08' => 
+  array (
+    0 => 'Edwall',
+    1 => 'WA',
+    2 => '47.51',
+    3 => '-117.92',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '09' => 
+  array (
+    0 => 'Elk',
+    1 => 'WA',
+    2 => '48.01',
+    3 => '-117.22',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  11 => 
+  array (
+    0 => 'Fairchild Air Force Base',
+    1 => 'WA',
+    2 => '47.61',
+    3 => '-117.65',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  12 => 
+  array (
+    0 => 'Fairfield',
+    1 => 'WA',
+    2 => '47.39',
+    3 => '-117.18',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  13 => 
+  array (
+    0 => 'Ford',
+    1 => 'WA',
+    2 => '47.91',
+    3 => '-117.8',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  14 => 
+  array (
+    0 => 'Four Lakes',
+    1 => 'WA',
+    2 => '47.56',
+    3 => '-117.59',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  16 => 
+  array (
+    0 => 'Greenacres',
+    1 => 'WA',
+    2 => '47.63',
+    3 => '-117.14',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  17 => 
+  array (
+    0 => 'Lamont',
+    1 => 'WA',
+    2 => '47.16',
+    3 => '-117.84',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  18 => 
+  array (
+    0 => 'Latah',
+    1 => 'WA',
+    2 => '47.3',
+    3 => '-117.14',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  19 => 
+  array (
+    0 => 'Liberty Lake',
+    1 => 'WA',
+    2 => '47.63',
+    3 => '-117.09',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  20 => 
+  array (
+    0 => 'Marshall',
+    1 => 'WA',
+    2 => '47.56',
+    3 => '-117.49',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  21 => 
+  array (
+    0 => 'Mead',
+    1 => 'WA',
+    2 => '47.83',
+    3 => '-117.21',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  22 => 
+  array (
+    0 => 'Medical Lake',
+    1 => 'WA',
+    2 => '47.61',
+    3 => '-117.7',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  23 => 
+  array (
+    0 => 'Mica',
+    1 => 'WA',
+    2 => '47.54',
+    3 => '-117.15',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  25 => 
+  array (
+    0 => 'Newman Lake',
+    1 => 'WA',
+    2 => '47.77',
+    3 => '-117.09',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  26 => 
+  array (
+    0 => 'Nine Mile Falls',
+    1 => 'WA',
+    2 => '47.8',
+    3 => '-117.62',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  27 => 
+  array (
+    0 => 'Otis Orchards',
+    1 => 'WA',
+    2 => '47.72',
+    3 => '-117.17',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  29 => 
+  array (
+    0 => 'Reardan',
+    1 => 'WA',
+    2 => '47.69',
+    3 => '-117.86',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  30 => 
+  array (
+    0 => 'Rockford',
+    1 => 'WA',
+    2 => '47.48',
+    3 => '-117.14',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  31 => 
+  array (
+    0 => 'Spangle',
+    1 => 'WA',
+    2 => '47.44',
+    3 => '-117.35',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  32 => 
+  array (
+    0 => 'Sprague',
+    1 => 'WA',
+    2 => '47.25',
+    3 => '-118.04',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  33 => 
+  array (
+    0 => 'Tekoa',
+    1 => 'WA',
+    2 => '47.24',
+    3 => '-117.11',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  34 => 
+  array (
+    0 => 'Tumtum',
+    1 => 'WA',
+    2 => '47.89',
+    3 => '-117.76',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  36 => 
+  array (
+    0 => 'Valleyford',
+    1 => 'WA',
+    2 => '47.53',
+    3 => '-117.26',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  37 => 
+  array (
+    0 => 'Veradale',
+    1 => 'WA',
+    2 => '47.62',
+    3 => '-117.18',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  39 => 
+  array (
+    0 => 'Waverly',
+    1 => 'WA',
+    2 => '47.31',
+    3 => '-117.24',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  40 => 
+  array (
+    0 => 'Wellpinit',
+    1 => 'WA',
+    2 => '47.89',
+    3 => '-117.99',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+);

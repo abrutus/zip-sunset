@@ -1,0 +1,254 @@
+<?php $db= array (
+  '02' => 
+  array (
+    0 => 'Baskett',
+    1 => 'KY',
+    2 => '37.78',
+    3 => '-87.5',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  '03' => 
+  array (
+    0 => 'Blackford',
+    1 => 'KY',
+    2 => '37.44',
+    3 => '-87.93',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  '04' => 
+  array (
+    0 => 'Clay',
+    1 => 'KY',
+    2 => '37.47',
+    3 => '-87.82',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  '06' => 
+  array (
+    0 => 'Corydon',
+    1 => 'KY',
+    2 => '37.73',
+    3 => '-87.7',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  '09' => 
+  array (
+    0 => 'Dixon',
+    1 => 'KY',
+    2 => '37.51',
+    3 => '-87.69',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  10 => 
+  array (
+    0 => 'Earlington',
+    1 => 'KY',
+    2 => '37.27',
+    3 => '-87.51',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  11 => 
+  array (
+    0 => 'Fredonia',
+    1 => 'KY',
+    2 => '37.2',
+    3 => '-88.05',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  13 => 
+  array (
+    0 => 'Hanson',
+    1 => 'KY',
+    2 => '37.41',
+    3 => '-87.47',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  19 => 
+  array (
+    0 => 'Henderson',
+    1 => 'KY',
+    2 => '37.83',
+    3 => '-87.58',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  20 => 
+  array (
+    0 => 'Henderson',
+    1 => 'KY',
+    2 => '37.83',
+    3 => '-87.58',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  31 => 
+  array (
+    0 => 'Madisonville',
+    1 => 'KY',
+    2 => '37.33',
+    3 => '-87.5',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  36 => 
+  array (
+    0 => 'Manitou',
+    1 => 'KY',
+    2 => '37.41',
+    3 => '-87.57',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  40 => 
+  array (
+    0 => 'Mortons Gap',
+    1 => 'KY',
+    2 => '37.23',
+    3 => '-87.47',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  41 => 
+  array (
+    0 => 'Nebo',
+    1 => 'KY',
+    2 => '37.38',
+    3 => '-87.64',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  42 => 
+  array (
+    0 => 'Nortonville',
+    1 => 'KY',
+    2 => '37.18',
+    3 => '-87.45',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  44 => 
+  array (
+    0 => 'Poole',
+    1 => 'KY',
+    2 => '37.64',
+    3 => '-87.64',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  50 => 
+  array (
+    0 => 'Providence',
+    1 => 'KY',
+    2 => '37.39',
+    3 => '-87.75',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  51 => 
+  array (
+    0 => 'Reed',
+    1 => 'KY',
+    2 => '37.87',
+    3 => '-87.37',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  52 => 
+  array (
+    0 => 'Robards',
+    1 => 'KY',
+    2 => '37.67',
+    3 => '-87.52',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  53 => 
+  array (
+    0 => 'Saint Charles',
+    1 => 'KY',
+    2 => '37.18',
+    3 => '-87.55',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  55 => 
+  array (
+    0 => 'Sebree',
+    1 => 'KY',
+    2 => '37.6',
+    3 => '-87.52',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  57 => 
+  array (
+    0 => 'Smith Mills',
+    1 => 'KY',
+    2 => '37.8',
+    3 => '-87.67',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  58 => 
+  array (
+    0 => 'Spottsville',
+    1 => 'KY',
+    2 => '37.82',
+    3 => '-87.42',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  60 => 
+  array (
+    0 => 'Sullivan',
+    1 => 'KY',
+    2 => '37.49',
+    3 => '-87.94',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  61 => 
+  array (
+    0 => 'Uniontown',
+    1 => 'KY',
+    2 => '37.77',
+    3 => '-87.93',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  62 => 
+  array (
+    0 => 'Waverly',
+    1 => 'KY',
+    2 => '37.7',
+    3 => '-87.81',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  63 => 
+  array (
+    0 => 'Wheatcroft',
+    1 => 'KY',
+    2 => '37.48',
+    3 => '-87.86',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  64 => 
+  array (
+    0 => 'White Plains',
+    1 => 'KY',
+    2 => '37.18',
+    3 => '-87.38',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+);

@@ -1,0 +1,443 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Tacoma',
+    1 => 'WA',
+    2 => '47.25',
+    3 => '-122.44',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '02' => 
+  array (
+    0 => 'Tacoma',
+    1 => 'WA',
+    2 => '47.26',
+    3 => '-122.44',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '03' => 
+  array (
+    0 => 'Tacoma',
+    1 => 'WA',
+    2 => '47.26',
+    3 => '-122.45',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '04' => 
+  array (
+    0 => 'Tacoma',
+    1 => 'WA',
+    2 => '47.2',
+    3 => '-122.4',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '05' => 
+  array (
+    0 => 'Tacoma',
+    1 => 'WA',
+    2 => '47.24',
+    3 => '-122.47',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '06' => 
+  array (
+    0 => 'Tacoma',
+    1 => 'WA',
+    2 => '47.26',
+    3 => '-122.51',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '07' => 
+  array (
+    0 => 'Tacoma',
+    1 => 'WA',
+    2 => '47.29',
+    3 => '-122.5',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '08' => 
+  array (
+    0 => 'Tacoma',
+    1 => 'WA',
+    2 => '47.19',
+    3 => '-122.44',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '09' => 
+  array (
+    0 => 'Tacoma',
+    1 => 'WA',
+    2 => '47.21',
+    3 => '-122.47',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  11 => 
+  array (
+    0 => 'Tacoma',
+    1 => 'WA',
+    2 => '47.22',
+    3 => '-122.47',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  12 => 
+  array (
+    0 => 'Tacoma',
+    1 => 'WA',
+    2 => '47.17',
+    3 => '-122.44',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  13 => 
+  array (
+    0 => 'Tacoma',
+    1 => 'WA',
+    2 => '47.2',
+    3 => '-122.48',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  15 => 
+  array (
+    0 => 'Tacoma',
+    1 => 'WA',
+    2 => '47.25',
+    3 => '-122.45',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  16 => 
+  array (
+    0 => 'Tacoma',
+    1 => 'WA',
+    2 => '47.26',
+    3 => '-122.48',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  17 => 
+  array (
+    0 => 'Tacoma',
+    1 => 'WA',
+    2 => '47.24',
+    3 => '-122.43',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  18 => 
+  array (
+    0 => 'Tacoma',
+    1 => 'WA',
+    2 => '47.22',
+    3 => '-122.44',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  19 => 
+  array (
+    0 => 'Tacoma',
+    1 => 'WA',
+    2 => '47.19',
+    3 => '-122.43',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  21 => 
+  array (
+    0 => 'Tacoma',
+    1 => 'WA',
+    2 => '47.26',
+    3 => '-122.39',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  22 => 
+  array (
+    0 => 'Tacoma',
+    1 => 'WA',
+    2 => '47.28',
+    3 => '-122.38',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  24 => 
+  array (
+    0 => 'Tacoma',
+    1 => 'WA',
+    2 => '47.23',
+    3 => '-122.36',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  30 => 
+  array (
+    0 => 'Camp Murray',
+    1 => 'WA',
+    2 => '47.25',
+    3 => '-122.44',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  31 => 
+  array (
+    0 => 'Tacoma',
+    1 => 'WA',
+    2 => '47.05',
+    3 => '-122.55',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  33 => 
+  array (
+    0 => 'Tacoma',
+    1 => 'WA',
+    2 => '47.05',
+    3 => '-122.59',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  38 => 
+  array (
+    0 => 'Mcchord Afb',
+    1 => 'WA',
+    2 => '47.25',
+    3 => '-122.44',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  39 => 
+  array (
+    0 => 'Lakewood',
+    1 => 'WA',
+    2 => '47.12',
+    3 => '-122.5',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  42 => 
+  array (
+    0 => 'Tacoma',
+    1 => 'WA',
+    2 => '47.14',
+    3 => '-122.43',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  43 => 
+  array (
+    0 => 'Tacoma',
+    1 => 'WA',
+    2 => '47.2',
+    3 => '-122.37',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  44 => 
+  array (
+    0 => 'Tacoma',
+    1 => 'WA',
+    2 => '47.15',
+    3 => '-122.44',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  45 => 
+  array (
+    0 => 'Tacoma',
+    1 => 'WA',
+    2 => '47.13',
+    3 => '-122.4',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  46 => 
+  array (
+    0 => 'Tacoma',
+    1 => 'WA',
+    2 => '47.13',
+    3 => '-122.37',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  47 => 
+  array (
+    0 => 'Tacoma',
+    1 => 'WA',
+    2 => '47.14',
+    3 => '-122.44',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  48 => 
+  array (
+    0 => 'Tacoma',
+    1 => 'WA',
+    2 => '47.25',
+    3 => '-122.44',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  50 => 
+  array (
+    0 => 'Tacoma',
+    1 => 'WA',
+    2 => '47.25',
+    3 => '-122.44',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  55 => 
+  array (
+    0 => 'Tacoma',
+    1 => 'WA',
+    2 => '47.25',
+    3 => '-122.44',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  60 => 
+  array (
+    0 => 'Tacoma',
+    1 => 'WA',
+    2 => '47.25',
+    3 => '-122.44',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  64 => 
+  array (
+    0 => 'Tacoma',
+    1 => 'WA',
+    2 => '47.22',
+    3 => '-122.53',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  65 => 
+  array (
+    0 => 'Tacoma',
+    1 => 'WA',
+    2 => '47.24',
+    3 => '-122.53',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  66 => 
+  array (
+    0 => 'Tacoma',
+    1 => 'WA',
+    2 => '47.22',
+    3 => '-122.54',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  67 => 
+  array (
+    0 => 'University Place',
+    1 => 'WA',
+    2 => '47.2',
+    3 => '-122.54',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  71 => 
+  array (
+    0 => 'Tacoma',
+    1 => 'WA',
+    2 => '47.25',
+    3 => '-122.47',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  77 => 
+  array (
+    0 => 'Tacoma',
+    1 => 'WA',
+    2 => '47.25',
+    3 => '-122.44',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  81 => 
+  array (
+    0 => 'Tacoma',
+    1 => 'WA',
+    2 => '47.22',
+    3 => '-122.47',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  90 => 
+  array (
+    0 => 'Tacoma',
+    1 => 'WA',
+    2 => '47.2',
+    3 => '-122.48',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  92 => 
+  array (
+    0 => 'Tacoma',
+    1 => 'WA',
+    2 => '47.12',
+    3 => '-122.55',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  93 => 
+  array (
+    0 => 'Tacoma',
+    1 => 'WA',
+    2 => '47.05',
+    3 => '-122.55',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  96 => 
+  array (
+    0 => 'Lakewood',
+    1 => 'WA',
+    2 => '47.17',
+    3 => '-122.51',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  97 => 
+  array (
+    0 => 'Lakewood',
+    1 => 'WA',
+    2 => '47.18',
+    3 => '-122.54',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  98 => 
+  array (
+    0 => 'Lakewood',
+    1 => 'WA',
+    2 => '47.15',
+    3 => '-122.56',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  99 => 
+  array (
+    0 => 'Lakewood',
+    1 => 'WA',
+    2 => '47.16',
+    3 => '-122.5',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+);

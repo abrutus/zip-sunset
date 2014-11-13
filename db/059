@@ -1,0 +1,65 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Averill',
+    1 => 'VT',
+    2 => '45',
+    3 => '-71.72',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '02' => 
+  array (
+    0 => 'Beecher Falls',
+    1 => 'VT',
+    2 => '45',
+    3 => '-71.51',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '03' => 
+  array (
+    0 => 'Canaan',
+    1 => 'VT',
+    2 => '45',
+    3 => '-71.53',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '04' => 
+  array (
+    0 => 'Gilman',
+    1 => 'VT',
+    2 => '44.41',
+    3 => '-71.71',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '05' => 
+  array (
+    0 => 'Guildhall',
+    1 => 'VT',
+    2 => '44.56',
+    3 => '-71.56',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '06' => 
+  array (
+    0 => 'Lunenburg',
+    1 => 'VT',
+    2 => '44.47',
+    3 => '-71.68',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '07' => 
+  array (
+    0 => 'Norton',
+    1 => 'VT',
+    2 => '45',
+    3 => '-71.8',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

@@ -1,0 +1,362 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Alpine',
+    1 => 'CA',
+    2 => '32.8',
+    3 => '-116.71',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '02' => 
+  array (
+    0 => 'Bonita',
+    1 => 'CA',
+    2 => '32.67',
+    3 => '-117.01',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '03' => 
+  array (
+    0 => 'Alpine',
+    1 => 'CA',
+    2 => '32.83',
+    3 => '-116.76',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '05' => 
+  array (
+    0 => 'Boulevard',
+    1 => 'CA',
+    2 => '32.67',
+    3 => '-116.31',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '06' => 
+  array (
+    0 => 'Campo',
+    1 => 'CA',
+    2 => '32.68',
+    3 => '-116.47',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '08' => 
+  array (
+    0 => 'Bonita',
+    1 => 'CA',
+    2 => '32.65',
+    3 => '-117.02',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '09' => 
+  array (
+    0 => 'Chula Vista',
+    1 => 'CA',
+    2 => '32.61',
+    3 => '-117.06',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  10 => 
+  array (
+    0 => 'Chula Vista',
+    1 => 'CA',
+    2 => '32.63',
+    3 => '-117.05',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  11 => 
+  array (
+    0 => 'Chula Vista',
+    1 => 'CA',
+    2 => '32.61',
+    3 => '-117.03',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  12 => 
+  array (
+    0 => 'Chula Vista',
+    1 => 'CA',
+    2 => '32.64',
+    3 => '-117.08',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  13 => 
+  array (
+    0 => 'Chula Vista',
+    1 => 'CA',
+    2 => '32.64',
+    3 => '-116.98',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  14 => 
+  array (
+    0 => 'Chula Vista',
+    1 => 'CA',
+    2 => '32.66',
+    3 => '-116.94',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  15 => 
+  array (
+    0 => 'Chula Vista',
+    1 => 'CA',
+    2 => '32.6',
+    3 => '-116.93',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  16 => 
+  array (
+    0 => 'Descanso',
+    1 => 'CA',
+    2 => '32.9',
+    3 => '-116.62',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  17 => 
+  array (
+    0 => 'Dulzura',
+    1 => 'CA',
+    2 => '32.62',
+    3 => '-116.67',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  21 => 
+  array (
+    0 => 'Chula Vista',
+    1 => 'CA',
+    2 => '32.65',
+    3 => '-116.95',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  31 => 
+  array (
+    0 => 'Guatay',
+    1 => 'CA',
+    2 => '32.83',
+    3 => '-116.58',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  32 => 
+  array (
+    0 => 'Imperial Beach',
+    1 => 'CA',
+    2 => '32.57',
+    3 => '-117.11',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  33 => 
+  array (
+    0 => 'Imperial Beach',
+    1 => 'CA',
+    2 => '32.58',
+    3 => '-117.11',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  34 => 
+  array (
+    0 => 'Jacumba',
+    1 => 'CA',
+    2 => '32.63',
+    3 => '-116.18',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  35 => 
+  array (
+    0 => 'Jamul',
+    1 => 'CA',
+    2 => '32.69',
+    3 => '-116.8',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  41 => 
+  array (
+    0 => 'La Mesa',
+    1 => 'CA',
+    2 => '32.75',
+    3 => '-116.99',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  42 => 
+  array (
+    0 => 'La Mesa',
+    1 => 'CA',
+    2 => '32.78',
+    3 => '-117.01',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  43 => 
+  array (
+    0 => 'La Mesa',
+    1 => 'CA',
+    2 => '32.77',
+    3 => '-117.01',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  44 => 
+  array (
+    0 => 'La Mesa',
+    1 => 'CA',
+    2 => '32.76',
+    3 => '-117.02',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  45 => 
+  array (
+    0 => 'Lemon Grove',
+    1 => 'CA',
+    2 => '32.73',
+    3 => '-117.03',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  46 => 
+  array (
+    0 => 'Lemon Grove',
+    1 => 'CA',
+    2 => '32.74',
+    3 => '-117.03',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  47 => 
+  array (
+    0 => 'Lincoln Acres',
+    1 => 'CA',
+    2 => '32.66',
+    3 => '-117.07',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  48 => 
+  array (
+    0 => 'Mount Laguna',
+    1 => 'CA',
+    2 => '32.87',
+    3 => '-116.46',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  50 => 
+  array (
+    0 => 'National City',
+    1 => 'CA',
+    2 => '32.67',
+    3 => '-117.09',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  51 => 
+  array (
+    0 => 'National City',
+    1 => 'CA',
+    2 => '32.67',
+    3 => '-117.09',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  62 => 
+  array (
+    0 => 'Pine Valley',
+    1 => 'CA',
+    2 => '32.78',
+    3 => '-116.48',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  63 => 
+  array (
+    0 => 'Potrero',
+    1 => 'CA',
+    2 => '32.63',
+    3 => '-116.59',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  76 => 
+  array (
+    0 => 'Spring Valley',
+    1 => 'CA',
+    2 => '32.74',
+    3 => '-116.98',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  77 => 
+  array (
+    0 => 'Spring Valley',
+    1 => 'CA',
+    2 => '32.71',
+    3 => '-116.99',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  78 => 
+  array (
+    0 => 'Spring Valley',
+    1 => 'CA',
+    2 => '32.71',
+    3 => '-116.94',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  79 => 
+  array (
+    0 => 'Spring Valley',
+    1 => 'CA',
+    2 => '32.73',
+    3 => '-116.97',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  80 => 
+  array (
+    0 => 'Tecate',
+    1 => 'CA',
+    2 => '32.59',
+    3 => '-116.58',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  87 => 
+  array (
+    0 => 'Tecate',
+    1 => 'CA',
+    2 => '32.59',
+    3 => '-116.64',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  90 => 
+  array (
+    0 => 'Potrero',
+    1 => 'CA',
+    2 => '32.6',
+    3 => '-116.61',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+);

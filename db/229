@@ -1,0 +1,443 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Charlottesville',
+    1 => 'VA',
+    2 => '38.03',
+    3 => '-78.48',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '02' => 
+  array (
+    0 => 'Charlottesville',
+    1 => 'VA',
+    2 => '38.03',
+    3 => '-78.48',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '03' => 
+  array (
+    0 => 'Charlottesville',
+    1 => 'VA',
+    2 => '38.03',
+    3 => '-78.48',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '04' => 
+  array (
+    0 => 'Charlottesville',
+    1 => 'VA',
+    2 => '38.03',
+    3 => '-78.48',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '05' => 
+  array (
+    0 => 'Charlottesville',
+    1 => 'VA',
+    2 => '38.03',
+    3 => '-78.48',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '06' => 
+  array (
+    0 => 'Charlottesville',
+    1 => 'VA',
+    2 => '38.03',
+    3 => '-78.48',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '07' => 
+  array (
+    0 => 'Charlottesville',
+    1 => 'VA',
+    2 => '38.03',
+    3 => '-78.48',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '08' => 
+  array (
+    0 => 'Charlottesville',
+    1 => 'VA',
+    2 => '38.03',
+    3 => '-78.48',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '09' => 
+  array (
+    0 => 'Charlottesville',
+    1 => 'VA',
+    2 => '38.03',
+    3 => '-78.48',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  10 => 
+  array (
+    0 => 'Charlottesville',
+    1 => 'VA',
+    2 => '38.03',
+    3 => '-78.48',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  11 => 
+  array (
+    0 => 'Charlottesville',
+    1 => 'VA',
+    2 => '38.03',
+    3 => '-78.48',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  20 => 
+  array (
+    0 => 'Afton',
+    1 => 'VA',
+    2 => '38.03',
+    3 => '-78.83',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  22 => 
+  array (
+    0 => 'Arrington',
+    1 => 'VA',
+    2 => '37.68',
+    3 => '-78.9',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  23 => 
+  array (
+    0 => 'Barboursville',
+    1 => 'VA',
+    2 => '38.17',
+    3 => '-78.28',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  24 => 
+  array (
+    0 => 'Batesville',
+    1 => 'VA',
+    2 => '38.01',
+    3 => '-78.63',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  31 => 
+  array (
+    0 => 'Covesville',
+    1 => 'VA',
+    2 => '37.89',
+    3 => '-78.7',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  32 => 
+  array (
+    0 => 'Crozet',
+    1 => 'VA',
+    2 => '38.06',
+    3 => '-78.69',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  35 => 
+  array (
+    0 => 'Dyke',
+    1 => 'VA',
+    2 => '38.26',
+    3 => '-78.57',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  36 => 
+  array (
+    0 => 'Earlysville',
+    1 => 'VA',
+    2 => '38.15',
+    3 => '-78.48',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  37 => 
+  array (
+    0 => 'Esmont',
+    1 => 'VA',
+    2 => '37.83',
+    3 => '-78.6',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  38 => 
+  array (
+    0 => 'Faber',
+    1 => 'VA',
+    2 => '37.85',
+    3 => '-78.75',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  39 => 
+  array (
+    0 => 'Fishersville',
+    1 => 'VA',
+    2 => '38.09',
+    3 => '-78.96',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  40 => 
+  array (
+    0 => 'Free Union',
+    1 => 'VA',
+    2 => '38.15',
+    3 => '-78.56',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  42 => 
+  array (
+    0 => 'Gordonsville',
+    1 => 'VA',
+    2 => '38.13',
+    3 => '-78.18',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  43 => 
+  array (
+    0 => 'Greenwood',
+    1 => 'VA',
+    2 => '38.05',
+    3 => '-78.77',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  45 => 
+  array (
+    0 => 'Ivy',
+    1 => 'VA',
+    2 => '38.05',
+    3 => '-78.59',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  46 => 
+  array (
+    0 => 'Keene',
+    1 => 'VA',
+    2 => '37.86',
+    3 => '-78.55',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  47 => 
+  array (
+    0 => 'Keswick',
+    1 => 'VA',
+    2 => '38.02',
+    3 => '-78.35',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  48 => 
+  array (
+    0 => 'Locust Dale',
+    1 => 'VA',
+    2 => '38.33',
+    3 => '-78.11',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  49 => 
+  array (
+    0 => 'Lovingston',
+    1 => 'VA',
+    2 => '37.77',
+    3 => '-78.88',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  52 => 
+  array (
+    0 => 'Lyndhurst',
+    1 => 'VA',
+    2 => '37.96',
+    3 => '-78.96',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  57 => 
+  array (
+    0 => 'Montpelier Station',
+    1 => 'VA',
+    2 => '38.19',
+    3 => '-78.11',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  58 => 
+  array (
+    0 => 'Nellysford',
+    1 => 'VA',
+    2 => '37.85',
+    3 => '-78.88',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  59 => 
+  array (
+    0 => 'North Garden',
+    1 => 'VA',
+    2 => '37.94',
+    3 => '-78.63',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  60 => 
+  array (
+    0 => 'Orange',
+    1 => 'VA',
+    2 => '38.24',
+    3 => '-78.11',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  63 => 
+  array (
+    0 => 'Palmyra',
+    1 => 'VA',
+    2 => '37.86',
+    3 => '-78.26',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  64 => 
+  array (
+    0 => 'Piney River',
+    1 => 'VA',
+    2 => '37.71',
+    3 => '-79.02',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  65 => 
+  array (
+    0 => 'Quinque',
+    1 => 'VA',
+    2 => '38.25',
+    3 => '-78.38',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  67 => 
+  array (
+    0 => 'Roseland',
+    1 => 'VA',
+    2 => '37.74',
+    3 => '-78.97',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  68 => 
+  array (
+    0 => 'Ruckersville',
+    1 => 'VA',
+    2 => '38.23',
+    3 => '-78.37',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  69 => 
+  array (
+    0 => 'Schuyler',
+    1 => 'VA',
+    2 => '37.79',
+    3 => '-78.69',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  71 => 
+  array (
+    0 => 'Shipman',
+    1 => 'VA',
+    2 => '37.72',
+    3 => '-78.83',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  72 => 
+  array (
+    0 => 'Somerset',
+    1 => 'VA',
+    2 => '38.2',
+    3 => '-78.23',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  73 => 
+  array (
+    0 => 'Stanardsville',
+    1 => 'VA',
+    2 => '38.3',
+    3 => '-78.43',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  74 => 
+  array (
+    0 => 'Troy',
+    1 => 'VA',
+    2 => '37.94',
+    3 => '-78.24',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  76 => 
+  array (
+    0 => 'Tyro',
+    1 => 'VA',
+    2 => '37.82',
+    3 => '-79',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  80 => 
+  array (
+    0 => 'Waynesboro',
+    1 => 'VA',
+    2 => '38.06',
+    3 => '-78.9',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  87 => 
+  array (
+    0 => 'White Hall',
+    1 => 'VA',
+    2 => '38.11',
+    3 => '-78.66',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  89 => 
+  array (
+    0 => 'Woodberry Forest',
+    1 => 'VA',
+    2 => '38.21',
+    3 => '-78.05',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

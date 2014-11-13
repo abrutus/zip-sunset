@@ -1,0 +1,65 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Palo Alto',
+    1 => 'CA',
+    2 => '37.44',
+    3 => '-122.15',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '02' => 
+  array (
+    0 => 'Palo Alto',
+    1 => 'CA',
+    2 => '37.44',
+    3 => '-122.15',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '03' => 
+  array (
+    0 => 'Palo Alto',
+    1 => 'CA',
+    2 => '37.45',
+    3 => '-122.1',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '04' => 
+  array (
+    0 => 'Palo Alto',
+    1 => 'CA',
+    2 => '37.37',
+    3 => '-122.18',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '05' => 
+  array (
+    0 => 'Stanford',
+    1 => 'CA',
+    2 => '37.41',
+    3 => '-122.17',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '06' => 
+  array (
+    0 => 'Palo Alto',
+    1 => 'CA',
+    2 => '37.41',
+    3 => '-122.13',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '09' => 
+  array (
+    0 => 'Palo Alto',
+    1 => 'CA',
+    2 => '37.41',
+    3 => '-122.16',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+);

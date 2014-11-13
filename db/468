@@ -1,0 +1,389 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Fort Wayne',
+    1 => 'IN',
+    2 => '41.07',
+    3 => '-85.13',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  '02' => 
+  array (
+    0 => 'Fort Wayne',
+    1 => 'IN',
+    2 => '41.07',
+    3 => '-85.13',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  '03' => 
+  array (
+    0 => 'Fort Wayne',
+    1 => 'IN',
+    2 => '41.07',
+    3 => '-85.13',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  '04' => 
+  array (
+    0 => 'Fort Wayne',
+    1 => 'IN',
+    2 => '41.07',
+    3 => '-85.13',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  '05' => 
+  array (
+    0 => 'Fort Wayne',
+    1 => 'IN',
+    2 => '41.07',
+    3 => '-85.13',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  '06' => 
+  array (
+    0 => 'Fort Wayne',
+    1 => 'IN',
+    2 => '41.07',
+    3 => '-85.13',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  '07' => 
+  array (
+    0 => 'Fort Wayne',
+    1 => 'IN',
+    2 => '41.07',
+    3 => '-85.13',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  '08' => 
+  array (
+    0 => 'Fort Wayne',
+    1 => 'IN',
+    2 => '41.07',
+    3 => '-85.13',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  '09' => 
+  array (
+    0 => 'Fort Wayne',
+    1 => 'IN',
+    2 => '41.07',
+    3 => '-85.13',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  14 => 
+  array (
+    0 => 'Fort Wayne',
+    1 => 'IN',
+    2 => '41.07',
+    3 => '-85.13',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  15 => 
+  array (
+    0 => 'Fort Wayne',
+    1 => 'IN',
+    2 => '41.07',
+    3 => '-85.13',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  16 => 
+  array (
+    0 => 'Fort Wayne',
+    1 => 'IN',
+    2 => '41.07',
+    3 => '-85.13',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  18 => 
+  array (
+    0 => 'Fort Wayne',
+    1 => 'IN',
+    2 => '41.07',
+    3 => '-85.13',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  19 => 
+  array (
+    0 => 'Fort Wayne',
+    1 => 'IN',
+    2 => '41.07',
+    3 => '-85.13',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  25 => 
+  array (
+    0 => 'Fort Wayne',
+    1 => 'IN',
+    2 => '41.07',
+    3 => '-85.13',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  35 => 
+  array (
+    0 => 'Fort Wayne',
+    1 => 'IN',
+    2 => '41.07',
+    3 => '-85.13',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  45 => 
+  array (
+    0 => 'Fort Wayne',
+    1 => 'IN',
+    2 => '41.07',
+    3 => '-85.13',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  50 => 
+  array (
+    0 => 'Fort Wayne',
+    1 => 'IN',
+    2 => '41.07',
+    3 => '-85.13',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  51 => 
+  array (
+    0 => 'Fort Wayne',
+    1 => 'IN',
+    2 => '41.07',
+    3 => '-85.13',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  52 => 
+  array (
+    0 => 'Fort Wayne',
+    1 => 'IN',
+    2 => '41.07',
+    3 => '-85.13',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  53 => 
+  array (
+    0 => 'Fort Wayne',
+    1 => 'IN',
+    2 => '41.07',
+    3 => '-85.13',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  54 => 
+  array (
+    0 => 'Fort Wayne',
+    1 => 'IN',
+    2 => '41.07',
+    3 => '-85.13',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  55 => 
+  array (
+    0 => 'Fort Wayne',
+    1 => 'IN',
+    2 => '41.07',
+    3 => '-85.13',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  56 => 
+  array (
+    0 => 'Fort Wayne',
+    1 => 'IN',
+    2 => '41.07',
+    3 => '-85.13',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  57 => 
+  array (
+    0 => 'Fort Wayne',
+    1 => 'IN',
+    2 => '41.07',
+    3 => '-85.13',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  58 => 
+  array (
+    0 => 'Fort Wayne',
+    1 => 'IN',
+    2 => '41.07',
+    3 => '-85.13',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  59 => 
+  array (
+    0 => 'Fort Wayne',
+    1 => 'IN',
+    2 => '41.07',
+    3 => '-85.13',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  60 => 
+  array (
+    0 => 'Fort Wayne',
+    1 => 'IN',
+    2 => '41.07',
+    3 => '-85.13',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  61 => 
+  array (
+    0 => 'Fort Wayne',
+    1 => 'IN',
+    2 => '41.07',
+    3 => '-85.13',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  62 => 
+  array (
+    0 => 'Fort Wayne',
+    1 => 'IN',
+    2 => '41.07',
+    3 => '-85.13',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  63 => 
+  array (
+    0 => 'Fort Wayne',
+    1 => 'IN',
+    2 => '41.07',
+    3 => '-85.13',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  64 => 
+  array (
+    0 => 'Fort Wayne',
+    1 => 'IN',
+    2 => '41.07',
+    3 => '-85.13',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  65 => 
+  array (
+    0 => 'Fort Wayne',
+    1 => 'IN',
+    2 => '41.07',
+    3 => '-85.13',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  66 => 
+  array (
+    0 => 'Fort Wayne',
+    1 => 'IN',
+    2 => '41.07',
+    3 => '-85.13',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  67 => 
+  array (
+    0 => 'Fort Wayne',
+    1 => 'IN',
+    2 => '41.07',
+    3 => '-85.13',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  68 => 
+  array (
+    0 => 'Fort Wayne',
+    1 => 'IN',
+    2 => '41.07',
+    3 => '-85.13',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  69 => 
+  array (
+    0 => 'Fort Wayne',
+    1 => 'IN',
+    2 => '41.07',
+    3 => '-85.13',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  85 => 
+  array (
+    0 => 'Fort Wayne',
+    1 => 'IN',
+    2 => '41.07',
+    3 => '-85.13',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  95 => 
+  array (
+    0 => 'Fort Wayne',
+    1 => 'IN',
+    2 => '41.07',
+    3 => '-85.13',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  96 => 
+  array (
+    0 => 'Fort Wayne',
+    1 => 'IN',
+    2 => '41.07',
+    3 => '-85.13',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  97 => 
+  array (
+    0 => 'Fort Wayne',
+    1 => 'IN',
+    2 => '41.07',
+    3 => '-85.13',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  98 => 
+  array (
+    0 => 'Fort Wayne',
+    1 => 'IN',
+    2 => '41.07',
+    3 => '-85.13',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  99 => 
+  array (
+    0 => 'Fort Wayne',
+    1 => 'IN',
+    2 => '41.07',
+    3 => '-85.13',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+);

@@ -1,0 +1,452 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Saint Paul',
+    1 => 'MN',
+    2 => '44.94',
+    3 => '-93.1',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '02' => 
+  array (
+    0 => 'Saint Paul',
+    1 => 'MN',
+    2 => '44.94',
+    3 => '-93.1',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '03' => 
+  array (
+    0 => 'Saint Paul',
+    1 => 'MN',
+    2 => '44.94',
+    3 => '-93.1',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '04' => 
+  array (
+    0 => 'Saint Paul',
+    1 => 'MN',
+    2 => '44.94',
+    3 => '-93.1',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '05' => 
+  array (
+    0 => 'Saint Paul',
+    1 => 'MN',
+    2 => '44.94',
+    3 => '-93.1',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '06' => 
+  array (
+    0 => 'Saint Paul',
+    1 => 'MN',
+    2 => '44.94',
+    3 => '-93.1',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '07' => 
+  array (
+    0 => 'Saint Paul',
+    1 => 'MN',
+    2 => '44.94',
+    3 => '-93.1',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '08' => 
+  array (
+    0 => 'Saint Paul',
+    1 => 'MN',
+    2 => '44.94',
+    3 => '-93.1',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '09' => 
+  array (
+    0 => 'Saint Paul',
+    1 => 'MN',
+    2 => '44.94',
+    3 => '-93.1',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  10 => 
+  array (
+    0 => 'Saint Paul',
+    1 => 'MN',
+    2 => '44.94',
+    3 => '-93.1',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  11 => 
+  array (
+    0 => 'Saint Paul',
+    1 => 'MN',
+    2 => '44.94',
+    3 => '-93.1',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  12 => 
+  array (
+    0 => 'Saint Paul',
+    1 => 'MN',
+    2 => '44.94',
+    3 => '-93.1',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  13 => 
+  array (
+    0 => 'Saint Paul',
+    1 => 'MN',
+    2 => '44.94',
+    3 => '-93.1',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  14 => 
+  array (
+    0 => 'Saint Paul',
+    1 => 'MN',
+    2 => '44.94',
+    3 => '-93.1',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  15 => 
+  array (
+    0 => 'Saint Paul',
+    1 => 'MN',
+    2 => '44.94',
+    3 => '-93.1',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  16 => 
+  array (
+    0 => 'Saint Paul',
+    1 => 'MN',
+    2 => '44.94',
+    3 => '-93.1',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  17 => 
+  array (
+    0 => 'Saint Paul',
+    1 => 'MN',
+    2 => '44.94',
+    3 => '-93.1',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  18 => 
+  array (
+    0 => 'Saint Paul',
+    1 => 'MN',
+    2 => '44.94',
+    3 => '-93.1',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  19 => 
+  array (
+    0 => 'Saint Paul',
+    1 => 'MN',
+    2 => '44.94',
+    3 => '-93.1',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  20 => 
+  array (
+    0 => 'Saint Paul',
+    1 => 'MN',
+    2 => '44.94',
+    3 => '-93.1',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  21 => 
+  array (
+    0 => 'Saint Paul',
+    1 => 'MN',
+    2 => '44.94',
+    3 => '-93.1',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  22 => 
+  array (
+    0 => 'Saint Paul',
+    1 => 'MN',
+    2 => '44.94',
+    3 => '-93.1',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  23 => 
+  array (
+    0 => 'Saint Paul',
+    1 => 'MN',
+    2 => '44.94',
+    3 => '-93.1',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  24 => 
+  array (
+    0 => 'Saint Paul',
+    1 => 'MN',
+    2 => '44.94',
+    3 => '-93.1',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  25 => 
+  array (
+    0 => 'Saint Paul',
+    1 => 'MN',
+    2 => '44.94',
+    3 => '-93.1',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  26 => 
+  array (
+    0 => 'Saint Paul',
+    1 => 'MN',
+    2 => '44.94',
+    3 => '-93.1',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  27 => 
+  array (
+    0 => 'Saint Paul',
+    1 => 'MN',
+    2 => '44.94',
+    3 => '-93.1',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  28 => 
+  array (
+    0 => 'Saint Paul',
+    1 => 'MN',
+    2 => '44.94',
+    3 => '-93.1',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  29 => 
+  array (
+    0 => 'Saint Paul',
+    1 => 'MN',
+    2 => '44.94',
+    3 => '-93.1',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  30 => 
+  array (
+    0 => 'Saint Paul',
+    1 => 'MN',
+    2 => '44.97',
+    3 => '-93.08',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  33 => 
+  array (
+    0 => 'Saint Paul',
+    1 => 'MN',
+    2 => '44.94',
+    3 => '-93.1',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  44 => 
+  array (
+    0 => 'Saint Paul',
+    1 => 'MN',
+    2 => '44.94',
+    3 => '-93.1',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  45 => 
+  array (
+    0 => 'Saint Paul',
+    1 => 'MN',
+    2 => '44.94',
+    3 => '-93.1',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  46 => 
+  array (
+    0 => 'Saint Paul',
+    1 => 'MN',
+    2 => '44.94',
+    3 => '-93.1',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  50 => 
+  array (
+    0 => 'Mendota',
+    1 => 'MN',
+    2 => '44.88',
+    3 => '-93.15',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  55 => 
+  array (
+    0 => 'Saint Paul',
+    1 => 'MN',
+    2 => '44.94',
+    3 => '-93.1',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  61 => 
+  array (
+    0 => 'Saint Paul',
+    1 => 'MN',
+    2 => '45.01',
+    3 => '-93.15',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  64 => 
+  array (
+    0 => 'Saint Paul',
+    1 => 'MN',
+    2 => '44.94',
+    3 => '-93.1',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  65 => 
+  array (
+    0 => 'Saint Paul',
+    1 => 'MN',
+    2 => '44.94',
+    3 => '-93.1',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  66 => 
+  array (
+    0 => 'Saint Paul',
+    1 => 'MN',
+    2 => '44.94',
+    3 => '-93.1',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  68 => 
+  array (
+    0 => 'Saint Paul',
+    1 => 'MN',
+    2 => '44.94',
+    3 => '-93.1',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  69 => 
+  array (
+    0 => 'Saint Paul',
+    1 => 'MN',
+    2 => '44.94',
+    3 => '-93.09',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  70 => 
+  array (
+    0 => 'Saint Paul',
+    1 => 'MN',
+    2 => '44.94',
+    3 => '-93.1',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  71 => 
+  array (
+    0 => 'Saint Paul',
+    1 => 'MN',
+    2 => '44.94',
+    3 => '-93.1',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  72 => 
+  array (
+    0 => 'Saint Paul',
+    1 => 'MN',
+    2 => '44.94',
+    3 => '-93.1',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  75 => 
+  array (
+    0 => 'Saint Paul',
+    1 => 'MN',
+    2 => '44.94',
+    3 => '-93.1',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  77 => 
+  array (
+    0 => 'Saint Paul',
+    1 => 'MN',
+    2 => '45.01',
+    3 => '-93.15',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  87 => 
+  array (
+    0 => 'Saint Paul',
+    1 => 'MN',
+    2 => '44.94',
+    3 => '-92.91',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  88 => 
+  array (
+    0 => 'Saint Paul',
+    1 => 'MN',
+    2 => '44.94',
+    3 => '-93.1',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  91 => 
+  array (
+    0 => 'Saint Paul',
+    1 => 'MN',
+    2 => '45.07',
+    3 => '-93.19',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+);

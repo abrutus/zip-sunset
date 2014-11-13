@@ -1,0 +1,245 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Wilmington',
+    1 => 'DE',
+    2 => '39.73',
+    3 => '-75.53',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '02' => 
+  array (
+    0 => 'Wilmington',
+    1 => 'DE',
+    2 => '39.73',
+    3 => '-75.53',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '03' => 
+  array (
+    0 => 'Wilmington',
+    1 => 'DE',
+    2 => '39.73',
+    3 => '-75.53',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '04' => 
+  array (
+    0 => 'Wilmington',
+    1 => 'DE',
+    2 => '39.73',
+    3 => '-75.53',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '05' => 
+  array (
+    0 => 'Wilmington',
+    1 => 'DE',
+    2 => '39.73',
+    3 => '-75.53',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '06' => 
+  array (
+    0 => 'Wilmington',
+    1 => 'DE',
+    2 => '39.73',
+    3 => '-75.53',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '07' => 
+  array (
+    0 => 'Wilmington',
+    1 => 'DE',
+    2 => '39.73',
+    3 => '-75.53',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '08' => 
+  array (
+    0 => 'Wilmington',
+    1 => 'DE',
+    2 => '39.73',
+    3 => '-75.53',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '09' => 
+  array (
+    0 => 'Wilmington',
+    1 => 'DE',
+    2 => '39.73',
+    3 => '-75.53',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  10 => 
+  array (
+    0 => 'Wilmington',
+    1 => 'DE',
+    2 => '39.73',
+    3 => '-75.53',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  50 => 
+  array (
+    0 => 'Wilmington',
+    1 => 'DE',
+    2 => '39.73',
+    3 => '-75.53',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  80 => 
+  array (
+    0 => 'Wilmington',
+    1 => 'DE',
+    2 => '39.73',
+    3 => '-75.53',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  84 => 
+  array (
+    0 => 'Wilmington',
+    1 => 'DE',
+    2 => '39.73',
+    3 => '-75.53',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  85 => 
+  array (
+    0 => 'Wilmington',
+    1 => 'DE',
+    2 => '39.73',
+    3 => '-75.53',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  86 => 
+  array (
+    0 => 'Wilmington',
+    1 => 'DE',
+    2 => '39.73',
+    3 => '-75.53',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  87 => 
+  array (
+    0 => 'Wilmington',
+    1 => 'DE',
+    2 => '39.81',
+    3 => '-75.5',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  89 => 
+  array (
+    0 => 'Wilmington',
+    1 => 'DE',
+    2 => '39.74',
+    3 => '-75.54',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  90 => 
+  array (
+    0 => 'Wilmington',
+    1 => 'DE',
+    2 => '39.73',
+    3 => '-75.53',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  91 => 
+  array (
+    0 => 'Wilmington',
+    1 => 'DE',
+    2 => '39.73',
+    3 => '-75.53',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  92 => 
+  array (
+    0 => 'Wilmington',
+    1 => 'DE',
+    2 => '39.73',
+    3 => '-75.53',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  93 => 
+  array (
+    0 => 'Wilmington',
+    1 => 'DE',
+    2 => '39.73',
+    3 => '-75.53',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  94 => 
+  array (
+    0 => 'Wilmington',
+    1 => 'DE',
+    2 => '39.73',
+    3 => '-75.53',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  95 => 
+  array (
+    0 => 'Wilmington',
+    1 => 'DE',
+    2 => '39.73',
+    3 => '-75.53',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  96 => 
+  array (
+    0 => 'Wilmington',
+    1 => 'DE',
+    2 => '39.73',
+    3 => '-75.53',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  97 => 
+  array (
+    0 => 'Wilmington',
+    1 => 'DE',
+    2 => '39.73',
+    3 => '-75.53',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  98 => 
+  array (
+    0 => 'Wilmington',
+    1 => 'DE',
+    2 => '39.73',
+    3 => '-75.53',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  99 => 
+  array (
+    0 => 'Wilmington',
+    1 => 'DE',
+    2 => '39.73',
+    3 => '-75.53',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

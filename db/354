@@ -1,0 +1,416 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Tuscaloosa',
+    1 => 'AL',
+    2 => '33.23',
+    3 => '-87.54',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '02' => 
+  array (
+    0 => 'Tuscaloosa',
+    1 => 'AL',
+    2 => '33.23',
+    3 => '-87.54',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '03' => 
+  array (
+    0 => 'Tuscaloosa',
+    1 => 'AL',
+    2 => '33.23',
+    3 => '-87.54',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '04' => 
+  array (
+    0 => 'Tuscaloosa',
+    1 => 'AL',
+    2 => '33.23',
+    3 => '-87.54',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '05' => 
+  array (
+    0 => 'Tuscaloosa',
+    1 => 'AL',
+    2 => '33.23',
+    3 => '-87.54',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '06' => 
+  array (
+    0 => 'Tuscaloosa',
+    1 => 'AL',
+    2 => '33.23',
+    3 => '-87.54',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '07' => 
+  array (
+    0 => 'Tuscaloosa',
+    1 => 'AL',
+    2 => '33.23',
+    3 => '-87.54',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  40 => 
+  array (
+    0 => 'Abernant',
+    1 => 'AL',
+    2 => '33.26',
+    3 => '-87.16',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  41 => 
+  array (
+    0 => 'Akron',
+    1 => 'AL',
+    2 => '32.87',
+    3 => '-87.73',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  42 => 
+  array (
+    0 => 'Aliceville',
+    1 => 'AL',
+    2 => '33.12',
+    3 => '-88.15',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  43 => 
+  array (
+    0 => 'Boligee',
+    1 => 'AL',
+    2 => '32.75',
+    3 => '-88.02',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  44 => 
+  array (
+    0 => 'Brookwood',
+    1 => 'AL',
+    2 => '33.24',
+    3 => '-87.32',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  46 => 
+  array (
+    0 => 'Buhl',
+    1 => 'AL',
+    2 => '33.25',
+    3 => '-87.73',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  47 => 
+  array (
+    0 => 'Carrollton',
+    1 => 'AL',
+    2 => '33.26',
+    3 => '-88.09',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  48 => 
+  array (
+    0 => 'Clinton',
+    1 => 'AL',
+    2 => '32.93',
+    3 => '-87.98',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  49 => 
+  array (
+    0 => 'Coaling',
+    1 => 'AL',
+    2 => '33.15',
+    3 => '-87.36',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  52 => 
+  array (
+    0 => 'Coker',
+    1 => 'AL',
+    2 => '33.28',
+    3 => '-87.67',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  53 => 
+  array (
+    0 => 'Cottondale',
+    1 => 'AL',
+    2 => '33.16',
+    3 => '-87.36',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  56 => 
+  array (
+    0 => 'Duncanville',
+    1 => 'AL',
+    2 => '33.06',
+    3 => '-87.42',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  57 => 
+  array (
+    0 => 'Echola',
+    1 => 'AL',
+    2 => '33.32',
+    3 => '-87.81',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  58 => 
+  array (
+    0 => 'Elrod',
+    1 => 'AL',
+    2 => '33.36',
+    3 => '-87.8',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  59 => 
+  array (
+    0 => 'Emelle',
+    1 => 'AL',
+    2 => '32.72',
+    3 => '-88.31',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  60 => 
+  array (
+    0 => 'Epes',
+    1 => 'AL',
+    2 => '32.69',
+    3 => '-88.12',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  61 => 
+  array (
+    0 => 'Ethelsville',
+    1 => 'AL',
+    2 => '33.41',
+    3 => '-88.21',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  62 => 
+  array (
+    0 => 'Eutaw',
+    1 => 'AL',
+    2 => '32.84',
+    3 => '-87.89',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  63 => 
+  array (
+    0 => 'Fosters',
+    1 => 'AL',
+    2 => '33.12',
+    3 => '-87.72',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  64 => 
+  array (
+    0 => 'Gainesville',
+    1 => 'AL',
+    2 => '32.81',
+    3 => '-88.15',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  66 => 
+  array (
+    0 => 'Gordo',
+    1 => 'AL',
+    2 => '33.32',
+    3 => '-87.9',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  68 => 
+  array (
+    0 => 'Kellerman',
+    1 => 'AL',
+    2 => '33.31',
+    3 => '-87.32',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  69 => 
+  array (
+    0 => 'Knoxville',
+    1 => 'AL',
+    2 => '32.97',
+    3 => '-87.8',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  70 => 
+  array (
+    0 => 'Livingston',
+    1 => 'AL',
+    2 => '32.59',
+    3 => '-88.18',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  71 => 
+  array (
+    0 => 'Mc Shan',
+    1 => 'AL',
+    2 => '33.38',
+    3 => '-88.14',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  73 => 
+  array (
+    0 => 'Northport',
+    1 => 'AL',
+    2 => '33.24',
+    3 => '-87.59',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  74 => 
+  array (
+    0 => 'Moundville',
+    1 => 'AL',
+    2 => '32.99',
+    3 => '-87.63',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  75 => 
+  array (
+    0 => 'Northport',
+    1 => 'AL',
+    2 => '33.24',
+    3 => '-87.59',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  76 => 
+  array (
+    0 => 'Northport',
+    1 => 'AL',
+    2 => '33.24',
+    3 => '-87.59',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  77 => 
+  array (
+    0 => 'Panola',
+    1 => 'AL',
+    2 => '32.96',
+    3 => '-88.29',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  78 => 
+  array (
+    0 => 'Peterson',
+    1 => 'AL',
+    2 => '33.31',
+    3 => '-87.32',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  80 => 
+  array (
+    0 => 'Ralph',
+    1 => 'AL',
+    2 => '33.05',
+    3 => '-87.76',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  81 => 
+  array (
+    0 => 'Reform',
+    1 => 'AL',
+    2 => '33.37',
+    3 => '-88.01',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  82 => 
+  array (
+    0 => 'Samantha',
+    1 => 'AL',
+    2 => '33.45',
+    3 => '-87.66',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  85 => 
+  array (
+    0 => 'Tuscaloosa',
+    1 => 'AL',
+    2 => '33.23',
+    3 => '-87.54',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  86 => 
+  array (
+    0 => 'Tuscaloosa',
+    1 => 'AL',
+    2 => '33.23',
+    3 => '-87.54',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  87 => 
+  array (
+    0 => 'Tuscaloosa',
+    1 => 'AL',
+    2 => '33.23',
+    3 => '-87.54',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  90 => 
+  array (
+    0 => 'Vance',
+    1 => 'AL',
+    2 => '33.17',
+    3 => '-87.22',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  91 => 
+  array (
+    0 => 'West Greene',
+    1 => 'AL',
+    2 => '32.94',
+    3 => '-88.1',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+);

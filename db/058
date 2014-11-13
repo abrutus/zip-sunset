@@ -1,0 +1,416 @@
+<?php $db= array (
+  19 => 
+  array (
+    0 => 'Saint Johnsbury',
+    1 => 'VT',
+    2 => '44.41',
+    3 => '-71.97',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  20 => 
+  array (
+    0 => 'Albany',
+    1 => 'VT',
+    2 => '44.73',
+    3 => '-72.38',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  21 => 
+  array (
+    0 => 'Barnet',
+    1 => 'VT',
+    2 => '44.3',
+    3 => '-72.05',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  22 => 
+  array (
+    0 => 'Barton',
+    1 => 'VT',
+    2 => '44.74',
+    3 => '-72.17',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  23 => 
+  array (
+    0 => 'Beebe Plain',
+    1 => 'VT',
+    2 => '45',
+    3 => '-72.14',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  24 => 
+  array (
+    0 => 'Concord',
+    1 => 'VT',
+    2 => '44.43',
+    3 => '-71.88',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  25 => 
+  array (
+    0 => 'Coventry',
+    1 => 'VT',
+    2 => '44.87',
+    3 => '-72.27',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  26 => 
+  array (
+    0 => 'Craftsbury',
+    1 => 'VT',
+    2 => '44.63',
+    3 => '-72.37',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  27 => 
+  array (
+    0 => 'Craftsbury Common',
+    1 => 'VT',
+    2 => '44.65',
+    3 => '-72.41',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  28 => 
+  array (
+    0 => 'Danville',
+    1 => 'VT',
+    2 => '44.42',
+    3 => '-72.13',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  29 => 
+  array (
+    0 => 'Derby',
+    1 => 'VT',
+    2 => '44.92',
+    3 => '-72.12',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  30 => 
+  array (
+    0 => 'Derby Line',
+    1 => 'VT',
+    2 => '45',
+    3 => '-72.1',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  32 => 
+  array (
+    0 => 'East Burke',
+    1 => 'VT',
+    2 => '44.6',
+    3 => '-71.92',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  33 => 
+  array (
+    0 => 'East Charleston',
+    1 => 'VT',
+    2 => '44.83',
+    3 => '-72',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  36 => 
+  array (
+    0 => 'East Hardwick',
+    1 => 'VT',
+    2 => '44.52',
+    3 => '-72.3',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  37 => 
+  array (
+    0 => 'East Haven',
+    1 => 'VT',
+    2 => '44.67',
+    3 => '-71.9',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  38 => 
+  array (
+    0 => 'East Saint Johnsbury',
+    1 => 'VT',
+    2 => '44.44',
+    3 => '-71.95',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  39 => 
+  array (
+    0 => 'Glover',
+    1 => 'VT',
+    2 => '44.7',
+    3 => '-72.18',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  40 => 
+  array (
+    0 => 'Granby',
+    1 => 'VT',
+    2 => '44.57',
+    3 => '-71.77',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  41 => 
+  array (
+    0 => 'Greensboro',
+    1 => 'VT',
+    2 => '44.58',
+    3 => '-72.28',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  42 => 
+  array (
+    0 => 'Greensboro Bend',
+    1 => 'VT',
+    2 => '44.54',
+    3 => '-72.21',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  43 => 
+  array (
+    0 => 'Hardwick',
+    1 => 'VT',
+    2 => '44.5',
+    3 => '-72.37',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  45 => 
+  array (
+    0 => 'Irasburg',
+    1 => 'VT',
+    2 => '44.81',
+    3 => '-72.28',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  46 => 
+  array (
+    0 => 'Island Pond',
+    1 => 'VT',
+    2 => '44.81',
+    3 => '-71.88',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  47 => 
+  array (
+    0 => 'Lowell',
+    1 => 'VT',
+    2 => '44.8',
+    3 => '-72.45',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  48 => 
+  array (
+    0 => 'Lower Waterford',
+    1 => 'VT',
+    2 => '44.35',
+    3 => '-71.92',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  49 => 
+  array (
+    0 => 'Lyndon',
+    1 => 'VT',
+    2 => '44.5',
+    3 => '-71.97',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  50 => 
+  array (
+    0 => 'Lyndon Center',
+    1 => 'VT',
+    2 => '44.55',
+    3 => '-72.04',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  51 => 
+  array (
+    0 => 'Lyndonville',
+    1 => 'VT',
+    2 => '44.53',
+    3 => '-72',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  53 => 
+  array (
+    0 => 'Morgan',
+    1 => 'VT',
+    2 => '44.89',
+    3 => '-71.96',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  55 => 
+  array (
+    0 => 'Newport',
+    1 => 'VT',
+    2 => '44.93',
+    3 => '-72.2',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  57 => 
+  array (
+    0 => 'Newport Center',
+    1 => 'VT',
+    2 => '44.95',
+    3 => '-72.3',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  58 => 
+  array (
+    0 => 'North Concord',
+    1 => 'VT',
+    2 => '44.56',
+    3 => '-71.77',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  59 => 
+  array (
+    0 => 'North Troy',
+    1 => 'VT',
+    2 => '44.99',
+    3 => '-72.4',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  60 => 
+  array (
+    0 => 'Orleans',
+    1 => 'VT',
+    2 => '44.81',
+    3 => '-72.2',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  61 => 
+  array (
+    0 => 'Passumpsic',
+    1 => 'VT',
+    2 => '44.38',
+    3 => '-72.03',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  62 => 
+  array (
+    0 => 'Peacham',
+    1 => 'VT',
+    2 => '44.33',
+    3 => '-72.17',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  63 => 
+  array (
+    0 => 'Saint Johnsbury Center',
+    1 => 'VT',
+    2 => '44.47',
+    3 => '-72',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  66 => 
+  array (
+    0 => 'Sheffield',
+    1 => 'VT',
+    2 => '44.6',
+    3 => '-72.12',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  67 => 
+  array (
+    0 => 'Sutton',
+    1 => 'VT',
+    2 => '44.66',
+    3 => '-72.03',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  68 => 
+  array (
+    0 => 'Troy',
+    1 => 'VT',
+    2 => '44.93',
+    3 => '-72.38',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  71 => 
+  array (
+    0 => 'West Burke',
+    1 => 'VT',
+    2 => '44.64',
+    3 => '-71.98',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  72 => 
+  array (
+    0 => 'West Charleston',
+    1 => 'VT',
+    2 => '44.86',
+    3 => '-72.05',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  73 => 
+  array (
+    0 => 'West Danville',
+    1 => 'VT',
+    2 => '44.46',
+    3 => '-72.22',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  74 => 
+  array (
+    0 => 'Westfield',
+    1 => 'VT',
+    2 => '44.88',
+    3 => '-72.42',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  75 => 
+  array (
+    0 => 'West Glover',
+    1 => 'VT',
+    2 => '44.69',
+    3 => '-72.26',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

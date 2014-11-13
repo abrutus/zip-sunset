@@ -1,0 +1,155 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'North East',
+    1 => 'MD',
+    2 => '39.6',
+    3 => '-75.94',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '02' => 
+  array (
+    0 => 'Perry Point',
+    1 => 'MD',
+    2 => '39.6',
+    3 => '-75.95',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '03' => 
+  array (
+    0 => 'Perryville',
+    1 => 'MD',
+    2 => '39.57',
+    3 => '-76.06',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '04' => 
+  array (
+    0 => 'Port Deposit',
+    1 => 'MD',
+    2 => '39.6',
+    3 => '-76.11',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  11 => 
+  array (
+    0 => 'Rising Sun',
+    1 => 'MD',
+    2 => '39.69',
+    3 => '-76.06',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  12 => 
+  array (
+    0 => 'Warwick',
+    1 => 'MD',
+    2 => '39.42',
+    3 => '-75.8',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  13 => 
+  array (
+    0 => 'Cecilton',
+    1 => 'MD',
+    2 => '39.4',
+    3 => '-75.86',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  14 => 
+  array (
+    0 => 'Charlestown',
+    1 => 'MD',
+    2 => '39.57',
+    3 => '-75.97',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  15 => 
+  array (
+    0 => 'Chesapeake City',
+    1 => 'MD',
+    2 => '39.52',
+    3 => '-75.81',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  16 => 
+  array (
+    0 => 'Childs',
+    1 => 'MD',
+    2 => '39.65',
+    3 => '-75.85',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  17 => 
+  array (
+    0 => 'Colora',
+    1 => 'MD',
+    2 => '39.66',
+    3 => '-76.09',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  18 => 
+  array (
+    0 => 'Conowingo',
+    1 => 'MD',
+    2 => '39.68',
+    3 => '-76.16',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  19 => 
+  array (
+    0 => 'Earleville',
+    1 => 'MD',
+    2 => '39.41',
+    3 => '-75.93',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  20 => 
+  array (
+    0 => 'Elk Mills',
+    1 => 'MD',
+    2 => '39.65',
+    3 => '-75.85',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  21 => 
+  array (
+    0 => 'Elkton',
+    1 => 'MD',
+    2 => '39.6',
+    3 => '-75.82',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  22 => 
+  array (
+    0 => 'Elkton',
+    1 => 'MD',
+    2 => '39.6',
+    3 => '-75.82',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  30 => 
+  array (
+    0 => 'Georgetown',
+    1 => 'MD',
+    2 => '39.39',
+    3 => '-75.87',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

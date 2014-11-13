@@ -1,0 +1,425 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Albuquerque',
+    1 => 'NM',
+    2 => '35.11',
+    3 => '-106.62',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  '02' => 
+  array (
+    0 => 'Albuquerque',
+    1 => 'NM',
+    2 => '35.11',
+    3 => '-106.62',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  '03' => 
+  array (
+    0 => 'Albuquerque',
+    1 => 'NM',
+    2 => '35.11',
+    3 => '-106.62',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  '04' => 
+  array (
+    0 => 'Albuquerque',
+    1 => 'NM',
+    2 => '35.11',
+    3 => '-106.62',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  '05' => 
+  array (
+    0 => 'Albuquerque',
+    1 => 'NM',
+    2 => '35.11',
+    3 => '-106.62',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  '06' => 
+  array (
+    0 => 'Albuquerque',
+    1 => 'NM',
+    2 => '35.11',
+    3 => '-106.62',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  '07' => 
+  array (
+    0 => 'Albuquerque',
+    1 => 'NM',
+    2 => '35.11',
+    3 => '-106.62',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  '08' => 
+  array (
+    0 => 'Albuquerque',
+    1 => 'NM',
+    2 => '35.11',
+    3 => '-106.62',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  '09' => 
+  array (
+    0 => 'Albuquerque',
+    1 => 'NM',
+    2 => '35.11',
+    3 => '-106.62',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  10 => 
+  array (
+    0 => 'Albuquerque',
+    1 => 'NM',
+    2 => '35.11',
+    3 => '-106.62',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  11 => 
+  array (
+    0 => 'Albuquerque',
+    1 => 'NM',
+    2 => '35.11',
+    3 => '-106.62',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  12 => 
+  array (
+    0 => 'Albuquerque',
+    1 => 'NM',
+    2 => '35.11',
+    3 => '-106.62',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  13 => 
+  array (
+    0 => 'Albuquerque',
+    1 => 'NM',
+    2 => '35.11',
+    3 => '-106.62',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  14 => 
+  array (
+    0 => 'Albuquerque',
+    1 => 'NM',
+    2 => '35.11',
+    3 => '-106.62',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  15 => 
+  array (
+    0 => 'Albuquerque',
+    1 => 'NM',
+    2 => '35.11',
+    3 => '-106.62',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  16 => 
+  array (
+    0 => 'Albuquerque',
+    1 => 'NM',
+    2 => '35.11',
+    3 => '-106.62',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  17 => 
+  array (
+    0 => 'Kirtland Afb',
+    1 => 'NM',
+    2 => '35.05',
+    3 => '-106.59',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  19 => 
+  array (
+    0 => 'Albuquerque',
+    1 => 'NM',
+    2 => '35.11',
+    3 => '-106.62',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  20 => 
+  array (
+    0 => 'Albuquerque',
+    1 => 'NM',
+    2 => '35.11',
+    3 => '-106.62',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  21 => 
+  array (
+    0 => 'Albuquerque',
+    1 => 'NM',
+    2 => '35.11',
+    3 => '-106.62',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  22 => 
+  array (
+    0 => 'Albuquerque',
+    1 => 'NM',
+    2 => '35.11',
+    3 => '-106.62',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  23 => 
+  array (
+    0 => 'Albuquerque',
+    1 => 'NM',
+    2 => '35.11',
+    3 => '-106.62',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  24 => 
+  array (
+    0 => 'Rio Rancho',
+    1 => 'NM',
+    2 => '35.27',
+    3 => '-106.66',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  25 => 
+  array (
+    0 => 'Albuquerque',
+    1 => 'NM',
+    2 => '35.11',
+    3 => '-106.62',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  31 => 
+  array (
+    0 => 'Albuquerque',
+    1 => 'NM',
+    2 => '35.11',
+    3 => '-106.62',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  44 => 
+  array (
+    0 => 'Rio Rancho',
+    1 => 'NM',
+    2 => '35.32',
+    3 => '-106.71',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  51 => 
+  array (
+    0 => 'Albuquerque',
+    1 => 'NM',
+    2 => '35.08',
+    3 => '-106.65',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  53 => 
+  array (
+    0 => 'Albuquerque',
+    1 => 'NM',
+    2 => '35.11',
+    3 => '-106.62',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  54 => 
+  array (
+    0 => 'Albuquerque',
+    1 => 'NM',
+    2 => '35.11',
+    3 => '-106.62',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  58 => 
+  array (
+    0 => 'Albuquerque',
+    1 => 'NM',
+    2 => '35.11',
+    3 => '-106.62',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  65 => 
+  array (
+    0 => 'Albuquerque',
+    1 => 'NM',
+    2 => '35.08',
+    3 => '-106.64',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  74 => 
+  array (
+    0 => 'Rio Rancho',
+    1 => 'NM',
+    2 => '35.27',
+    3 => '-106.66',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  76 => 
+  array (
+    0 => 'Albuquerque',
+    1 => 'NM',
+    2 => '35.11',
+    3 => '-106.62',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  81 => 
+  array (
+    0 => 'Albuquerque',
+    1 => 'NM',
+    2 => '35.11',
+    3 => '-106.62',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  84 => 
+  array (
+    0 => 'Albuquerque',
+    1 => 'NM',
+    2 => '35.11',
+    3 => '-106.62',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  85 => 
+  array (
+    0 => 'Albuquerque',
+    1 => 'NM',
+    2 => '35.11',
+    3 => '-106.62',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  87 => 
+  array (
+    0 => 'Albuquerque',
+    1 => 'NM',
+    2 => '35.11',
+    3 => '-106.62',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  90 => 
+  array (
+    0 => 'Albuquerque',
+    1 => 'NM',
+    2 => '35.11',
+    3 => '-106.62',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  91 => 
+  array (
+    0 => 'Albuquerque',
+    1 => 'NM',
+    2 => '35.11',
+    3 => '-106.62',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  92 => 
+  array (
+    0 => 'Albuquerque',
+    1 => 'NM',
+    2 => '35.11',
+    3 => '-106.62',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  93 => 
+  array (
+    0 => 'Albuquerque',
+    1 => 'NM',
+    2 => '35.11',
+    3 => '-106.62',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  94 => 
+  array (
+    0 => 'Albuquerque',
+    1 => 'NM',
+    2 => '35.11',
+    3 => '-106.62',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  95 => 
+  array (
+    0 => 'Albuquerque',
+    1 => 'NM',
+    2 => '35.11',
+    3 => '-106.62',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  96 => 
+  array (
+    0 => 'Albuquerque',
+    1 => 'NM',
+    2 => '35.11',
+    3 => '-106.62',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  97 => 
+  array (
+    0 => 'Albuquerque',
+    1 => 'NM',
+    2 => '35.11',
+    3 => '-106.62',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  98 => 
+  array (
+    0 => 'Albuquerque',
+    1 => 'NM',
+    2 => '35.11',
+    3 => '-106.62',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  99 => 
+  array (
+    0 => 'Albuquerque',
+    1 => 'NM',
+    2 => '35.11',
+    3 => '-106.62',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+);

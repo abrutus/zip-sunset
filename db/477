@@ -1,0 +1,326 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Evansville',
+    1 => 'IN',
+    2 => '37.98',
+    3 => '-87.54',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  '02' => 
+  array (
+    0 => 'Evansville',
+    1 => 'IN',
+    2 => '37.98',
+    3 => '-87.54',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  '03' => 
+  array (
+    0 => 'Evansville',
+    1 => 'IN',
+    2 => '37.98',
+    3 => '-87.54',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  '04' => 
+  array (
+    0 => 'Evansville',
+    1 => 'IN',
+    2 => '37.98',
+    3 => '-87.54',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  '05' => 
+  array (
+    0 => 'Evansville',
+    1 => 'IN',
+    2 => '37.98',
+    3 => '-87.54',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  '06' => 
+  array (
+    0 => 'Evansville',
+    1 => 'IN',
+    2 => '37.98',
+    3 => '-87.54',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  '08' => 
+  array (
+    0 => 'Evansville',
+    1 => 'IN',
+    2 => '37.98',
+    3 => '-87.54',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  10 => 
+  array (
+    0 => 'Evansville',
+    1 => 'IN',
+    2 => '37.98',
+    3 => '-87.54',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  11 => 
+  array (
+    0 => 'Evansville',
+    1 => 'IN',
+    2 => '37.98',
+    3 => '-87.54',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  12 => 
+  array (
+    0 => 'Evansville',
+    1 => 'IN',
+    2 => '37.98',
+    3 => '-87.54',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  13 => 
+  array (
+    0 => 'Evansville',
+    1 => 'IN',
+    2 => '37.98',
+    3 => '-87.54',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  14 => 
+  array (
+    0 => 'Evansville',
+    1 => 'IN',
+    2 => '37.98',
+    3 => '-87.54',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  15 => 
+  array (
+    0 => 'Evansville',
+    1 => 'IN',
+    2 => '37.98',
+    3 => '-87.54',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  16 => 
+  array (
+    0 => 'Evansville',
+    1 => 'IN',
+    2 => '37.98',
+    3 => '-87.54',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  19 => 
+  array (
+    0 => 'Evansville',
+    1 => 'IN',
+    2 => '37.98',
+    3 => '-87.54',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  20 => 
+  array (
+    0 => 'Evansville',
+    1 => 'IN',
+    2 => '37.98',
+    3 => '-87.54',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  21 => 
+  array (
+    0 => 'Evansville',
+    1 => 'IN',
+    2 => '37.98',
+    3 => '-87.54',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  22 => 
+  array (
+    0 => 'Evansville',
+    1 => 'IN',
+    2 => '37.98',
+    3 => '-87.54',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  24 => 
+  array (
+    0 => 'Evansville',
+    1 => 'IN',
+    2 => '37.98',
+    3 => '-87.54',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  25 => 
+  array (
+    0 => 'Evansville',
+    1 => 'IN',
+    2 => '37.98',
+    3 => '-87.54',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  27 => 
+  array (
+    0 => 'Evansville',
+    1 => 'IN',
+    2 => '38.08',
+    3 => '-87.52',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  28 => 
+  array (
+    0 => 'Evansville',
+    1 => 'IN',
+    2 => '37.98',
+    3 => '-87.54',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  30 => 
+  array (
+    0 => 'Evansville',
+    1 => 'IN',
+    2 => '37.98',
+    3 => '-87.54',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  31 => 
+  array (
+    0 => 'Evansville',
+    1 => 'IN',
+    2 => '37.98',
+    3 => '-87.54',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  32 => 
+  array (
+    0 => 'Evansville',
+    1 => 'IN',
+    2 => '37.98',
+    3 => '-87.54',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  33 => 
+  array (
+    0 => 'Evansville',
+    1 => 'IN',
+    2 => '37.98',
+    3 => '-87.54',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  34 => 
+  array (
+    0 => 'Evansville',
+    1 => 'IN',
+    2 => '37.98',
+    3 => '-87.54',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  35 => 
+  array (
+    0 => 'Evansville',
+    1 => 'IN',
+    2 => '37.98',
+    3 => '-87.54',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  36 => 
+  array (
+    0 => 'Evansville',
+    1 => 'IN',
+    2 => '37.98',
+    3 => '-87.54',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  37 => 
+  array (
+    0 => 'Evansville',
+    1 => 'IN',
+    2 => '37.98',
+    3 => '-87.54',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  39 => 
+  array (
+    0 => 'Evansville',
+    1 => 'IN',
+    2 => '38.02',
+    3 => '-87.57',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  40 => 
+  array (
+    0 => 'Evansville',
+    1 => 'IN',
+    2 => '37.98',
+    3 => '-87.54',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  41 => 
+  array (
+    0 => 'Evansville',
+    1 => 'IN',
+    2 => '37.97',
+    3 => '-87.56',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  44 => 
+  array (
+    0 => 'Evansville',
+    1 => 'IN',
+    2 => '37.91',
+    3 => '-87.64',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  47 => 
+  array (
+    0 => 'Evansville',
+    1 => 'IN',
+    2 => '37.98',
+    3 => '-87.54',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  50 => 
+  array (
+    0 => 'Evansville',
+    1 => 'IN',
+    2 => '37.98',
+    3 => '-87.54',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+);

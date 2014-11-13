@@ -1,0 +1,209 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Van Nuys',
+    1 => 'CA',
+    2 => '34.17',
+    3 => '-118.43',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '02' => 
+  array (
+    0 => 'Panorama City',
+    1 => 'CA',
+    2 => '34.22',
+    3 => '-118.44',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '03' => 
+  array (
+    0 => 'Sherman Oaks',
+    1 => 'CA',
+    2 => '34.14',
+    3 => '-118.46',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '04' => 
+  array (
+    0 => 'Van Nuys',
+    1 => 'CA',
+    2 => '34.17',
+    3 => '-118.43',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '05' => 
+  array (
+    0 => 'Van Nuys',
+    1 => 'CA',
+    2 => '34.2',
+    3 => '-118.44',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '06' => 
+  array (
+    0 => 'Van Nuys',
+    1 => 'CA',
+    2 => '34.19',
+    3 => '-118.49',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '07' => 
+  array (
+    0 => 'Van Nuys',
+    1 => 'CA',
+    2 => '34.19',
+    3 => '-118.44',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '08' => 
+  array (
+    0 => 'Van Nuys',
+    1 => 'CA',
+    2 => '34.17',
+    3 => '-118.43',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '09' => 
+  array (
+    0 => 'Van Nuys',
+    1 => 'CA',
+    2 => '34.2',
+    3 => '-118.49',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  10 => 
+  array (
+    0 => 'Van Nuys',
+    1 => 'CA',
+    2 => '34.2',
+    3 => '-118.49',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  11 => 
+  array (
+    0 => 'Van Nuys',
+    1 => 'CA',
+    2 => '34.17',
+    3 => '-118.46',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  12 => 
+  array (
+    0 => 'Panorama City',
+    1 => 'CA',
+    2 => '34.22',
+    3 => '-118.44',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  13 => 
+  array (
+    0 => 'Sherman Oaks',
+    1 => 'CA',
+    2 => '34.16',
+    3 => '-118.45',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  16 => 
+  array (
+    0 => 'Encino',
+    1 => 'CA',
+    2 => '34.17',
+    3 => '-118.51',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  23 => 
+  array (
+    0 => 'Sherman Oaks',
+    1 => 'CA',
+    2 => '34.14',
+    3 => '-118.42',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  26 => 
+  array (
+    0 => 'Encino',
+    1 => 'CA',
+    2 => '34.15',
+    3 => '-118.51',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  36 => 
+  array (
+    0 => 'Encino',
+    1 => 'CA',
+    2 => '34.15',
+    3 => '-118.49',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  70 => 
+  array (
+    0 => 'Van Nuys',
+    1 => 'CA',
+    2 => '34.17',
+    3 => '-118.61',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  82 => 
+  array (
+    0 => 'Van Nuys',
+    1 => 'CA',
+    2 => '34.2',
+    3 => '-118.47',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  95 => 
+  array (
+    0 => 'Sherman Oaks',
+    1 => 'CA',
+    2 => '34.15',
+    3 => '-118.44',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  96 => 
+  array (
+    0 => 'Van Nuys',
+    1 => 'CA',
+    2 => '34.16',
+    3 => '-118.45',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  97 => 
+  array (
+    0 => 'Van Nuys',
+    1 => 'CA',
+    2 => '34.2',
+    3 => '-118.47',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  99 => 
+  array (
+    0 => 'Van Nuys',
+    1 => 'CA',
+    2 => '34.2',
+    3 => '-118.45',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+);

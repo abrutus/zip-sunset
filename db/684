@@ -1,0 +1,506 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Mc Cool Junction',
+    1 => 'NE',
+    2 => '40.74',
+    3 => '-97.59',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '02' => 
+  array (
+    0 => 'Malcolm',
+    1 => 'NE',
+    2 => '40.9',
+    3 => '-96.86',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '03' => 
+  array (
+    0 => 'Manley',
+    1 => 'NE',
+    2 => '40.91',
+    3 => '-96.16',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '04' => 
+  array (
+    0 => 'Martell',
+    1 => 'NE',
+    2 => '40.65',
+    3 => '-96.74',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '05' => 
+  array (
+    0 => 'Milford',
+    1 => 'NE',
+    2 => '40.77',
+    3 => '-97.05',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '06' => 
+  array (
+    0 => 'Milligan',
+    1 => 'NE',
+    2 => '40.49',
+    3 => '-97.38',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '07' => 
+  array (
+    0 => 'Murdock',
+    1 => 'NE',
+    2 => '40.92',
+    3 => '-96.28',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '09' => 
+  array (
+    0 => 'Murray',
+    1 => 'NE',
+    2 => '40.91',
+    3 => '-95.92',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  10 => 
+  array (
+    0 => 'Nebraska City',
+    1 => 'NE',
+    2 => '40.67',
+    3 => '-95.86',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  13 => 
+  array (
+    0 => 'Nehawka',
+    1 => 'NE',
+    2 => '40.82',
+    3 => '-95.98',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  14 => 
+  array (
+    0 => 'Nemaha',
+    1 => 'NE',
+    2 => '40.33',
+    3 => '-95.67',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  15 => 
+  array (
+    0 => 'Odell',
+    1 => 'NE',
+    2 => '40.05',
+    3 => '-96.8',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  16 => 
+  array (
+    0 => 'Ohiowa',
+    1 => 'NE',
+    2 => '40.41',
+    3 => '-97.45',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  17 => 
+  array (
+    0 => 'Otoe',
+    1 => 'NE',
+    2 => '40.72',
+    3 => '-96.12',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  18 => 
+  array (
+    0 => 'Palmyra',
+    1 => 'NE',
+    2 => '40.7',
+    3 => '-96.39',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  19 => 
+  array (
+    0 => 'Panama',
+    1 => 'NE',
+    2 => '40.59',
+    3 => '-96.51',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  20 => 
+  array (
+    0 => 'Pawnee City',
+    1 => 'NE',
+    2 => '40.11',
+    3 => '-96.15',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  21 => 
+  array (
+    0 => 'Peru',
+    1 => 'NE',
+    2 => '40.47',
+    3 => '-95.73',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  22 => 
+  array (
+    0 => 'Pickrell',
+    1 => 'NE',
+    2 => '40.37',
+    3 => '-96.72',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  23 => 
+  array (
+    0 => 'Pleasant Dale',
+    1 => 'NE',
+    2 => '40.79',
+    3 => '-96.93',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  24 => 
+  array (
+    0 => 'Plymouth',
+    1 => 'NE',
+    2 => '40.3',
+    3 => '-96.98',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  28 => 
+  array (
+    0 => 'Raymond',
+    1 => 'NE',
+    2 => '40.95',
+    3 => '-96.78',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  29 => 
+  array (
+    0 => 'Reynolds',
+    1 => 'NE',
+    2 => '40.04',
+    3 => '-97.31',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  30 => 
+  array (
+    0 => 'Roca',
+    1 => 'NE',
+    2 => '40.65',
+    3 => '-96.66',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  31 => 
+  array (
+    0 => 'Rulo',
+    1 => 'NE',
+    2 => '40.05',
+    3 => '-95.43',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  33 => 
+  array (
+    0 => 'Salem',
+    1 => 'NE',
+    2 => '40.07',
+    3 => '-95.72',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  34 => 
+  array (
+    0 => 'Seward',
+    1 => 'NE',
+    2 => '40.91',
+    3 => '-97.09',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  36 => 
+  array (
+    0 => 'Shickley',
+    1 => 'NE',
+    2 => '40.41',
+    3 => '-97.72',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  37 => 
+  array (
+    0 => 'Shubert',
+    1 => 'NE',
+    2 => '40.23',
+    3 => '-95.68',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  38 => 
+  array (
+    0 => 'Sprague',
+    1 => 'NE',
+    2 => '40.62',
+    3 => '-96.74',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  39 => 
+  array (
+    0 => 'Staplehurst',
+    1 => 'NE',
+    2 => '40.97',
+    3 => '-97.17',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  40 => 
+  array (
+    0 => 'Steele City',
+    1 => 'NE',
+    2 => '40.03',
+    3 => '-97.02',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  41 => 
+  array (
+    0 => 'Steinauer',
+    1 => 'NE',
+    2 => '40.2',
+    3 => '-96.23',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  42 => 
+  array (
+    0 => 'Stella',
+    1 => 'NE',
+    2 => '40.23',
+    3 => '-95.77',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  43 => 
+  array (
+    0 => 'Sterling',
+    1 => 'NE',
+    2 => '40.46',
+    3 => '-96.37',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  44 => 
+  array (
+    0 => 'Strang',
+    1 => 'NE',
+    2 => '40.41',
+    3 => '-97.58',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  45 => 
+  array (
+    0 => 'Swanton',
+    1 => 'NE',
+    2 => '40.37',
+    3 => '-97.07',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  46 => 
+  array (
+    0 => 'Syracuse',
+    1 => 'NE',
+    2 => '40.66',
+    3 => '-96.18',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  47 => 
+  array (
+    0 => 'Table Rock',
+    1 => 'NE',
+    2 => '40.17',
+    3 => '-96.08',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  48 => 
+  array (
+    0 => 'Talmage',
+    1 => 'NE',
+    2 => '40.53',
+    3 => '-96.02',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  50 => 
+  array (
+    0 => 'Tecumseh',
+    1 => 'NE',
+    2 => '40.37',
+    3 => '-96.18',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  52 => 
+  array (
+    0 => 'Ong',
+    1 => 'NE',
+    2 => '40.39',
+    3 => '-97.83',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  53 => 
+  array (
+    0 => 'Tobias',
+    1 => 'NE',
+    2 => '40.41',
+    3 => '-97.33',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  54 => 
+  array (
+    0 => 'Unadilla',
+    1 => 'NE',
+    2 => '40.68',
+    3 => '-96.27',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  55 => 
+  array (
+    0 => 'Union',
+    1 => 'NE',
+    2 => '40.81',
+    3 => '-95.92',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  56 => 
+  array (
+    0 => 'Utica',
+    1 => 'NE',
+    2 => '40.89',
+    3 => '-97.34',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  57 => 
+  array (
+    0 => 'Verdon',
+    1 => 'NE',
+    2 => '40.14',
+    3 => '-95.71',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  58 => 
+  array (
+    0 => 'Virginia',
+    1 => 'NE',
+    2 => '40.24',
+    3 => '-96.49',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  60 => 
+  array (
+    0 => 'Waco',
+    1 => 'NE',
+    2 => '40.89',
+    3 => '-97.46',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  61 => 
+  array (
+    0 => 'Walton',
+    1 => 'NE',
+    2 => '40.74',
+    3 => '-96.51',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  62 => 
+  array (
+    0 => 'Waverly',
+    1 => 'NE',
+    2 => '40.91',
+    3 => '-96.53',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  63 => 
+  array (
+    0 => 'Weeping Water',
+    1 => 'NE',
+    2 => '40.86',
+    3 => '-96.13',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  64 => 
+  array (
+    0 => 'Western',
+    1 => 'NE',
+    2 => '40.39',
+    3 => '-97.19',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  65 => 
+  array (
+    0 => 'Wilber',
+    1 => 'NE',
+    2 => '40.48',
+    3 => '-96.96',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  66 => 
+  array (
+    0 => 'Wymore',
+    1 => 'NE',
+    2 => '40.12',
+    3 => '-96.66',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  67 => 
+  array (
+    0 => 'York',
+    1 => 'NE',
+    2 => '40.87',
+    3 => '-97.59',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+);

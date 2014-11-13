@@ -1,0 +1,254 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Mobridge',
+    1 => 'SD',
+    2 => '45.54',
+    3 => '-100.43',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  20 => 
+  array (
+    0 => 'Bison',
+    1 => 'SD',
+    2 => '45.52',
+    3 => '-102.46',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  21 => 
+  array (
+    0 => 'Bullhead',
+    1 => 'SD',
+    2 => '45.76',
+    3 => '-101.08',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  22 => 
+  array (
+    0 => 'Cherry Creek',
+    1 => 'SD',
+    2 => '44.6',
+    3 => '-101.5',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  23 => 
+  array (
+    0 => 'Dupree',
+    1 => 'SD',
+    2 => '45.04',
+    3 => '-101.6',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  25 => 
+  array (
+    0 => 'Eagle Butte',
+    1 => 'SD',
+    2 => '45',
+    3 => '-101.23',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  26 => 
+  array (
+    0 => 'Faith',
+    1 => 'SD',
+    2 => '45.02',
+    3 => '-102.03',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  30 => 
+  array (
+    0 => 'Glencross',
+    1 => 'SD',
+    2 => '45.43',
+    3 => '-100.88',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  31 => 
+  array (
+    0 => 'Glenham',
+    1 => 'SD',
+    2 => '45.53',
+    3 => '-100.27',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  32 => 
+  array (
+    0 => 'Herreid',
+    1 => 'SD',
+    2 => '45.83',
+    3 => '-100.07',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  34 => 
+  array (
+    0 => 'Keldron',
+    1 => 'SD',
+    2 => '45.93',
+    3 => '-101.8',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  36 => 
+  array (
+    0 => 'Lantry',
+    1 => 'SD',
+    2 => '45.02',
+    3 => '-101.43',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  39 => 
+  array (
+    0 => 'Little Eagle',
+    1 => 'SD',
+    2 => '45.68',
+    3 => '-100.79',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  40 => 
+  array (
+    0 => 'Lodgepole',
+    1 => 'SD',
+    2 => '45.8',
+    3 => '-102.66',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  41 => 
+  array (
+    0 => 'Mc Intosh',
+    1 => 'SD',
+    2 => '45.92',
+    3 => '-101.35',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  42 => 
+  array (
+    0 => 'Mc Laughlin',
+    1 => 'SD',
+    2 => '45.81',
+    3 => '-100.81',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  45 => 
+  array (
+    0 => 'Morristown',
+    1 => 'SD',
+    2 => '45.93',
+    3 => '-101.71',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  46 => 
+  array (
+    0 => 'Mound City',
+    1 => 'SD',
+    2 => '45.72',
+    3 => '-100.06',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  48 => 
+  array (
+    0 => 'Pollock',
+    1 => 'SD',
+    2 => '45.9',
+    3 => '-100.29',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  49 => 
+  array (
+    0 => 'Prairie City',
+    1 => 'SD',
+    2 => '45.53',
+    3 => '-102.8',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  50 => 
+  array (
+    0 => 'Ralph',
+    1 => 'SD',
+    2 => '45.77',
+    3 => '-103.06',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  52 => 
+  array (
+    0 => 'Ridgeview',
+    1 => 'SD',
+    2 => '45.08',
+    3 => '-100.8',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  56 => 
+  array (
+    0 => 'Timber Lake',
+    1 => 'SD',
+    2 => '45.42',
+    3 => '-101.07',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  57 => 
+  array (
+    0 => 'Trail City',
+    1 => 'SD',
+    2 => '45.47',
+    3 => '-100.73',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  58 => 
+  array (
+    0 => 'Wakpala',
+    1 => 'SD',
+    2 => '45.65',
+    3 => '-100.53',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  59 => 
+  array (
+    0 => 'Walker',
+    1 => 'SD',
+    2 => '45.91',
+    3 => '-101.09',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  60 => 
+  array (
+    0 => 'Watauga',
+    1 => 'SD',
+    2 => '45.92',
+    3 => '-101.54',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  61 => 
+  array (
+    0 => 'Whitehorse',
+    1 => 'SD',
+    2 => '45.29',
+    3 => '-100.92',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+);

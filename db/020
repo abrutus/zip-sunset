@@ -1,0 +1,353 @@
+<?php $db= array (
+  18 => 
+  array (
+    0 => 'Accord',
+    1 => 'MA',
+    2 => '42.17',
+    3 => '-70.88',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  19 => 
+  array (
+    0 => 'Bellingham',
+    1 => 'MA',
+    2 => '42.09',
+    3 => '-71.47',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  20 => 
+  array (
+    0 => 'Brant Rock',
+    1 => 'MA',
+    2 => '42.08',
+    3 => '-70.64',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  21 => 
+  array (
+    0 => 'Canton',
+    1 => 'MA',
+    2 => '42.15',
+    3 => '-71.13',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  25 => 
+  array (
+    0 => 'Cohasset',
+    1 => 'MA',
+    2 => '42.23',
+    3 => '-70.8',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  26 => 
+  array (
+    0 => 'Dedham',
+    1 => 'MA',
+    2 => '42.24',
+    3 => '-71.17',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  27 => 
+  array (
+    0 => 'Dedham',
+    1 => 'MA',
+    2 => '42.24',
+    3 => '-71.17',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  30 => 
+  array (
+    0 => 'Dover',
+    1 => 'MA',
+    2 => '42.24',
+    3 => '-71.27',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  31 => 
+  array (
+    0 => 'East Mansfield',
+    1 => 'MA',
+    2 => '42.02',
+    3 => '-71.17',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  32 => 
+  array (
+    0 => 'East Walpole',
+    1 => 'MA',
+    2 => '42.15',
+    3 => '-71.21',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  35 => 
+  array (
+    0 => 'Foxboro',
+    1 => 'MA',
+    2 => '42.06',
+    3 => '-71.24',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  38 => 
+  array (
+    0 => 'Franklin',
+    1 => 'MA',
+    2 => '42.08',
+    3 => '-71.38',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  40 => 
+  array (
+    0 => 'Greenbush',
+    1 => 'MA',
+    2 => '42.19',
+    3 => '-70.76',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  41 => 
+  array (
+    0 => 'Green Harbor',
+    1 => 'MA',
+    2 => '42.1',
+    3 => '-70.71',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  43 => 
+  array (
+    0 => 'Hingham',
+    1 => 'MA',
+    2 => '42.23',
+    3 => '-70.88',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  44 => 
+  array (
+    0 => 'Hingham',
+    1 => 'MA',
+    2 => '42.23',
+    3 => '-70.88',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  45 => 
+  array (
+    0 => 'Hull',
+    1 => 'MA',
+    2 => '42.3',
+    3 => '-70.9',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  47 => 
+  array (
+    0 => 'Humarock',
+    1 => 'MA',
+    2 => '42.19',
+    3 => '-70.76',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  48 => 
+  array (
+    0 => 'Mansfield',
+    1 => 'MA',
+    2 => '42.02',
+    3 => '-71.21',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  50 => 
+  array (
+    0 => 'Marshfield',
+    1 => 'MA',
+    2 => '42.09',
+    3 => '-70.7',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  51 => 
+  array (
+    0 => 'Marshfield Hills',
+    1 => 'MA',
+    2 => '42.15',
+    3 => '-70.73',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  52 => 
+  array (
+    0 => 'Medfield',
+    1 => 'MA',
+    2 => '42.18',
+    3 => '-71.3',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  53 => 
+  array (
+    0 => 'Medway',
+    1 => 'MA',
+    2 => '42.13',
+    3 => '-71.4',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  54 => 
+  array (
+    0 => 'Millis',
+    1 => 'MA',
+    2 => '42.16',
+    3 => '-71.35',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  55 => 
+  array (
+    0 => 'Minot',
+    1 => 'MA',
+    2 => '42.19',
+    3 => '-70.76',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  56 => 
+  array (
+    0 => 'Norfolk',
+    1 => 'MA',
+    2 => '42.11',
+    3 => '-71.31',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  59 => 
+  array (
+    0 => 'North Marshfield',
+    1 => 'MA',
+    2 => '42.1',
+    3 => '-70.71',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  60 => 
+  array (
+    0 => 'North Scituate',
+    1 => 'MA',
+    2 => '42.21',
+    3 => '-70.76',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  61 => 
+  array (
+    0 => 'Norwell',
+    1 => 'MA',
+    2 => '42.16',
+    3 => '-70.78',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  62 => 
+  array (
+    0 => 'Norwood',
+    1 => 'MA',
+    2 => '42.18',
+    3 => '-71.19',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  65 => 
+  array (
+    0 => 'Ocean Bluff',
+    1 => 'MA',
+    2 => '42.1',
+    3 => '-70.71',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  66 => 
+  array (
+    0 => 'Scituate',
+    1 => 'MA',
+    2 => '42.18',
+    3 => '-70.73',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  67 => 
+  array (
+    0 => 'Sharon',
+    1 => 'MA',
+    2 => '42.11',
+    3 => '-71.18',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  70 => 
+  array (
+    0 => 'Sheldonville',
+    1 => 'MA',
+    2 => '42.05',
+    3 => '-71.35',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  71 => 
+  array (
+    0 => 'South Walpole',
+    1 => 'MA',
+    2 => '42.09',
+    3 => '-71.27',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  72 => 
+  array (
+    0 => 'Stoughton',
+    1 => 'MA',
+    2 => '42.11',
+    3 => '-71.1',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  81 => 
+  array (
+    0 => 'Walpole',
+    1 => 'MA',
+    2 => '42.13',
+    3 => '-71.24',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  90 => 
+  array (
+    0 => 'Westwood',
+    1 => 'MA',
+    2 => '42.21',
+    3 => '-71.21',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  93 => 
+  array (
+    0 => 'Wrentham',
+    1 => 'MA',
+    2 => '42.06',
+    3 => '-71.33',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

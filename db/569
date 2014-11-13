@@ -1,0 +1,101 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Parcel Return Service',
+    1 => 'DC',
+    2 => '38.9',
+    3 => '-77.04',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '02' => 
+  array (
+    0 => 'Parcel Return Service',
+    1 => 'DC',
+    2 => '38.89',
+    3 => '-77.03',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '04' => 
+  array (
+    0 => 'Parcel Return Service',
+    1 => 'DC',
+    2 => '38.89',
+    3 => '-77.03',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  15 => 
+  array (
+    0 => 'Parcel Return Service',
+    1 => 'DC',
+    2 => '38.92',
+    3 => '-76.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  20 => 
+  array (
+    0 => 'Parcel Return Service',
+    1 => 'DC',
+    2 => '38.9',
+    3 => '-77.04',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  33 => 
+  array (
+    0 => 'Parcel Return Service',
+    1 => 'DC',
+    2 => '38.86',
+    3 => '-76.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  44 => 
+  array (
+    0 => 'Parcel Return Service',
+    1 => 'DC',
+    2 => '38.86',
+    3 => '-76.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  45 => 
+  array (
+    0 => 'Parcel Return Service',
+    1 => 'DC',
+    2 => '38.89',
+    3 => '-77.03',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  50 => 
+  array (
+    0 => 'Parcel Return Service',
+    1 => 'DC',
+    2 => '38.89',
+    3 => '-77.03',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  65 => 
+  array (
+    0 => 'Parcel Return Service',
+    1 => 'DC',
+    2 => '38.89',
+    3 => '-77.03',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  72 => 
+  array (
+    0 => 'Parcel Return Service',
+    1 => 'DC',
+    2 => '38.86',
+    3 => '-76.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

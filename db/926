@@ -1,0 +1,560 @@
+<?php $db= array (
+  '02' => 
+  array (
+    0 => 'Irvine',
+    1 => 'CA',
+    2 => '33.74',
+    3 => '-117.76',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '03' => 
+  array (
+    0 => 'Irvine',
+    1 => 'CA',
+    2 => '33.62',
+    3 => '-117.79',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '04' => 
+  array (
+    0 => 'Irvine',
+    1 => 'CA',
+    2 => '33.69',
+    3 => '-117.78',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '05' => 
+  array (
+    0 => 'Huntington Beach',
+    1 => 'CA',
+    2 => '33.71',
+    3 => '-118',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '06' => 
+  array (
+    0 => 'Irvine',
+    1 => 'CA',
+    2 => '33.7',
+    3 => '-117.79',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '07' => 
+  array (
+    0 => 'Laguna Niguel',
+    1 => 'CA',
+    2 => '33.52',
+    3 => '-117.7',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '09' => 
+  array (
+    0 => 'El Toro',
+    1 => 'CA',
+    2 => '33.59',
+    3 => '-117.7',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  10 => 
+  array (
+    0 => 'Foothill Ranch',
+    1 => 'CA',
+    2 => '33.7',
+    3 => '-117.67',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  12 => 
+  array (
+    0 => 'Irvine',
+    1 => 'CA',
+    2 => '33.63',
+    3 => '-117.81',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  14 => 
+  array (
+    0 => 'Irvine',
+    1 => 'CA',
+    2 => '33.68',
+    3 => '-117.85',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  15 => 
+  array (
+    0 => 'Huntington Beach',
+    1 => 'CA',
+    2 => '33.65',
+    3 => '-117.96',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  16 => 
+  array (
+    0 => 'Irvine',
+    1 => 'CA',
+    2 => '33.64',
+    3 => '-117.83',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  17 => 
+  array (
+    0 => 'Irvine',
+    1 => 'CA',
+    2 => '33.63',
+    3 => '-117.83',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  18 => 
+  array (
+    0 => 'Irvine',
+    1 => 'CA',
+    2 => '33.67',
+    3 => '-117.73',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  19 => 
+  array (
+    0 => 'Irvine',
+    1 => 'CA',
+    2 => '33.66',
+    3 => '-117.76',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  20 => 
+  array (
+    0 => 'Irvine',
+    1 => 'CA',
+    2 => '33.7',
+    3 => '-117.76',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  23 => 
+  array (
+    0 => 'Irvine',
+    1 => 'CA',
+    2 => '33.69',
+    3 => '-117.81',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  24 => 
+  array (
+    0 => 'Capistrano Beach',
+    1 => 'CA',
+    2 => '33.45',
+    3 => '-117.66',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  25 => 
+  array (
+    0 => 'Corona Del Mar',
+    1 => 'CA',
+    2 => '33.6',
+    3 => '-117.86',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  26 => 
+  array (
+    0 => 'Costa Mesa',
+    1 => 'CA',
+    2 => '33.67',
+    3 => '-117.9',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  27 => 
+  array (
+    0 => 'Costa Mesa',
+    1 => 'CA',
+    2 => '33.64',
+    3 => '-117.91',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  28 => 
+  array (
+    0 => 'Costa Mesa',
+    1 => 'CA',
+    2 => '33.64',
+    3 => '-117.91',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  29 => 
+  array (
+    0 => 'Dana Point',
+    1 => 'CA',
+    2 => '33.47',
+    3 => '-117.7',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  30 => 
+  array (
+    0 => 'Lake Forest',
+    1 => 'CA',
+    2 => '33.64',
+    3 => '-117.67',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  37 => 
+  array (
+    0 => 'Laguna Woods',
+    1 => 'CA',
+    2 => '33.61',
+    3 => '-117.72',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  46 => 
+  array (
+    0 => 'Huntington Beach',
+    1 => 'CA',
+    2 => '33.66',
+    3 => '-117.97',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  47 => 
+  array (
+    0 => 'Huntington Beach',
+    1 => 'CA',
+    2 => '33.72',
+    3 => '-118',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  48 => 
+  array (
+    0 => 'Huntington Beach',
+    1 => 'CA',
+    2 => '33.67',
+    3 => '-118',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  49 => 
+  array (
+    0 => 'Huntington Beach',
+    1 => 'CA',
+    2 => '33.71',
+    3 => '-118.04',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  50 => 
+  array (
+    0 => 'East Irvine',
+    1 => 'CA',
+    2 => '33.67',
+    3 => '-117.75',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  51 => 
+  array (
+    0 => 'Laguna Beach',
+    1 => 'CA',
+    2 => '33.55',
+    3 => '-117.78',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  52 => 
+  array (
+    0 => 'Laguna Beach',
+    1 => 'CA',
+    2 => '33.54',
+    3 => '-117.78',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  53 => 
+  array (
+    0 => 'Laguna Hills',
+    1 => 'CA',
+    2 => '33.6',
+    3 => '-117.71',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  54 => 
+  array (
+    0 => 'Laguna Hills',
+    1 => 'CA',
+    2 => '33.6',
+    3 => '-117.71',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  55 => 
+  array (
+    0 => 'Midway City',
+    1 => 'CA',
+    2 => '33.74',
+    3 => '-117.98',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  56 => 
+  array (
+    0 => 'Aliso Viejo',
+    1 => 'CA',
+    2 => '33.57',
+    3 => '-117.72',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  57 => 
+  array (
+    0 => 'Newport Coast',
+    1 => 'CA',
+    2 => '33.6',
+    3 => '-117.82',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  58 => 
+  array (
+    0 => 'Newport Beach',
+    1 => 'CA',
+    2 => '33.63',
+    3 => '-117.86',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  59 => 
+  array (
+    0 => 'Newport Beach',
+    1 => 'CA',
+    2 => '33.62',
+    3 => '-117.92',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  60 => 
+  array (
+    0 => 'Newport Beach',
+    1 => 'CA',
+    2 => '33.62',
+    3 => '-117.87',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  61 => 
+  array (
+    0 => 'Newport Beach',
+    1 => 'CA',
+    2 => '33.6',
+    3 => '-117.9',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  62 => 
+  array (
+    0 => 'Newport Beach',
+    1 => 'CA',
+    2 => '33.6',
+    3 => '-117.89',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  63 => 
+  array (
+    0 => 'Newport Beach',
+    1 => 'CA',
+    2 => '33.62',
+    3 => '-117.93',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  72 => 
+  array (
+    0 => 'San Clemente',
+    1 => 'CA',
+    2 => '33.42',
+    3 => '-117.62',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  73 => 
+  array (
+    0 => 'San Clemente',
+    1 => 'CA',
+    2 => '33.48',
+    3 => '-117.61',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  74 => 
+  array (
+    0 => 'San Clemente',
+    1 => 'CA',
+    2 => '33.43',
+    3 => '-117.62',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  75 => 
+  array (
+    0 => 'San Juan Capistrano',
+    1 => 'CA',
+    2 => '33.52',
+    3 => '-117.61',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  76 => 
+  array (
+    0 => 'Silverado',
+    1 => 'CA',
+    2 => '33.75',
+    3 => '-117.63',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  77 => 
+  array (
+    0 => 'Laguna Niguel',
+    1 => 'CA',
+    2 => '33.53',
+    3 => '-117.7',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  78 => 
+  array (
+    0 => 'Trabuco Canyon',
+    1 => 'CA',
+    2 => '33.66',
+    3 => '-117.59',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  79 => 
+  array (
+    0 => 'Trabuco Canyon',
+    1 => 'CA',
+    2 => '33.61',
+    3 => '-117.54',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  83 => 
+  array (
+    0 => 'Westminster',
+    1 => 'CA',
+    2 => '33.74',
+    3 => '-117.99',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  84 => 
+  array (
+    0 => 'Westminster',
+    1 => 'CA',
+    2 => '33.76',
+    3 => '-118',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  85 => 
+  array (
+    0 => 'Westminster',
+    1 => 'CA',
+    2 => '33.75',
+    3 => '-117.99',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  88 => 
+  array (
+    0 => 'Rancho Santa Margarita',
+    1 => 'CA',
+    2 => '33.61',
+    3 => '-117.61',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  90 => 
+  array (
+    0 => 'Mission Viejo',
+    1 => 'CA',
+    2 => '33.61',
+    3 => '-117.64',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  91 => 
+  array (
+    0 => 'Mission Viejo',
+    1 => 'CA',
+    2 => '33.6',
+    3 => '-117.66',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  92 => 
+  array (
+    0 => 'Mission Viejo',
+    1 => 'CA',
+    2 => '33.6',
+    3 => '-117.64',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  93 => 
+  array (
+    0 => 'San Juan Capistrano',
+    1 => 'CA',
+    2 => '33.49',
+    3 => '-117.66',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  94 => 
+  array (
+    0 => 'Ladera Ranch',
+    1 => 'CA',
+    2 => '33.56',
+    3 => '-117.63',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  97 => 
+  array (
+    0 => 'Irvine',
+    1 => 'CA',
+    2 => '33.64',
+    3 => '-117.84',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  98 => 
+  array (
+    0 => 'Aliso Viejo',
+    1 => 'CA',
+    2 => '33.67',
+    3 => '-117.83',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+);

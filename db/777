@@ -1,0 +1,128 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Beaumont',
+    1 => 'TX',
+    2 => '30.08',
+    3 => '-94.14',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '02' => 
+  array (
+    0 => 'Beaumont',
+    1 => 'TX',
+    2 => '30.08',
+    3 => '-94.14',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '03' => 
+  array (
+    0 => 'Beaumont',
+    1 => 'TX',
+    2 => '30.08',
+    3 => '-94.14',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '04' => 
+  array (
+    0 => 'Beaumont',
+    1 => 'TX',
+    2 => '30.08',
+    3 => '-94.14',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '05' => 
+  array (
+    0 => 'Beaumont',
+    1 => 'TX',
+    2 => '30.08',
+    3 => '-94.14',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '06' => 
+  array (
+    0 => 'Beaumont',
+    1 => 'TX',
+    2 => '30.08',
+    3 => '-94.14',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '07' => 
+  array (
+    0 => 'Beaumont',
+    1 => 'TX',
+    2 => '30.08',
+    3 => '-94.14',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '08' => 
+  array (
+    0 => 'Beaumont',
+    1 => 'TX',
+    2 => '30.08',
+    3 => '-94.14',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '09' => 
+  array (
+    0 => 'Beaumont',
+    1 => 'TX',
+    2 => '30.14',
+    3 => '-94.14',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  10 => 
+  array (
+    0 => 'Beaumont',
+    1 => 'TX',
+    2 => '30.08',
+    3 => '-94.14',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  13 => 
+  array (
+    0 => 'Beaumont',
+    1 => 'TX',
+    2 => '30.08',
+    3 => '-94.14',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  20 => 
+  array (
+    0 => 'Beaumont',
+    1 => 'TX',
+    2 => '30.08',
+    3 => '-94.14',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  25 => 
+  array (
+    0 => 'Beaumont',
+    1 => 'TX',
+    2 => '30.08',
+    3 => '-94.14',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  26 => 
+  array (
+    0 => 'Beaumont',
+    1 => 'TX',
+    2 => '30.08',
+    3 => '-94.14',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+);

@@ -1,0 +1,146 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Springfield',
+    1 => 'MO',
+    2 => '37.19',
+    3 => '-93.28',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '02' => 
+  array (
+    0 => 'Springfield',
+    1 => 'MO',
+    2 => '37.19',
+    3 => '-93.28',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '03' => 
+  array (
+    0 => 'Springfield',
+    1 => 'MO',
+    2 => '37.19',
+    3 => '-93.28',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '04' => 
+  array (
+    0 => 'Springfield',
+    1 => 'MO',
+    2 => '37.19',
+    3 => '-93.28',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '05' => 
+  array (
+    0 => 'Springfield',
+    1 => 'MO',
+    2 => '37.19',
+    3 => '-93.28',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '06' => 
+  array (
+    0 => 'Springfield',
+    1 => 'MO',
+    2 => '37.19',
+    3 => '-93.28',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '07' => 
+  array (
+    0 => 'Springfield',
+    1 => 'MO',
+    2 => '37.19',
+    3 => '-93.28',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '08' => 
+  array (
+    0 => 'Springfield',
+    1 => 'MO',
+    2 => '37.19',
+    3 => '-93.28',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '09' => 
+  array (
+    0 => 'Springfield',
+    1 => 'MO',
+    2 => '37.19',
+    3 => '-93.28',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  10 => 
+  array (
+    0 => 'Springfield',
+    1 => 'MO',
+    2 => '37.19',
+    3 => '-93.28',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  14 => 
+  array (
+    0 => 'Springfield',
+    1 => 'MO',
+    2 => '37.19',
+    3 => '-93.28',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  17 => 
+  array (
+    0 => 'Springfield',
+    1 => 'MO',
+    2 => '37.19',
+    3 => '-93.28',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  90 => 
+  array (
+    0 => 'Springfield',
+    1 => 'MO',
+    2 => '37.19',
+    3 => '-93.28',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  97 => 
+  array (
+    0 => 'Springfield',
+    1 => 'MO',
+    2 => '37.19',
+    3 => '-93.27',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  98 => 
+  array (
+    0 => 'Springfield',
+    1 => 'MO',
+    2 => '37.19',
+    3 => '-93.28',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  99 => 
+  array (
+    0 => 'Springfield',
+    1 => 'MO',
+    2 => '37.19',
+    3 => '-93.28',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+);

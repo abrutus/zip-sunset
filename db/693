@@ -1,0 +1,245 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Alliance',
+    1 => 'NE',
+    2 => '42.1',
+    3 => '-102.87',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  31 => 
+  array (
+    0 => 'Angora',
+    1 => 'NE',
+    2 => '41.87',
+    3 => '-103.1',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  33 => 
+  array (
+    0 => 'Ashby',
+    1 => 'NE',
+    2 => '42.02',
+    3 => '-101.93',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  35 => 
+  array (
+    0 => 'Bingham',
+    1 => 'NE',
+    2 => '42.01',
+    3 => '-102.06',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  36 => 
+  array (
+    0 => 'Bridgeport',
+    1 => 'NE',
+    2 => '41.66',
+    3 => '-103.09',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  37 => 
+  array (
+    0 => 'Chadron',
+    1 => 'NE',
+    2 => '42.82',
+    3 => '-103',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  39 => 
+  array (
+    0 => 'Crawford',
+    1 => 'NE',
+    2 => '42.68',
+    3 => '-103.41',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  40 => 
+  array (
+    0 => 'Ellsworth',
+    1 => 'NE',
+    2 => '42.06',
+    3 => '-102.28',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  41 => 
+  array (
+    0 => 'Gering',
+    1 => 'NE',
+    2 => '41.82',
+    3 => '-103.66',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  43 => 
+  array (
+    0 => 'Gordon',
+    1 => 'NE',
+    2 => '42.8',
+    3 => '-102.2',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  45 => 
+  array (
+    0 => 'Harrisburg',
+    1 => 'NE',
+    2 => '41.55',
+    3 => '-103.74',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  46 => 
+  array (
+    0 => 'Harrison',
+    1 => 'NE',
+    2 => '42.68',
+    3 => '-103.88',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  47 => 
+  array (
+    0 => 'Hay Springs',
+    1 => 'NE',
+    2 => '42.68',
+    3 => '-102.68',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  48 => 
+  array (
+    0 => 'Hemingford',
+    1 => 'NE',
+    2 => '42.32',
+    3 => '-103.07',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  50 => 
+  array (
+    0 => 'Hyannis',
+    1 => 'NE',
+    2 => '42',
+    3 => '-101.76',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  51 => 
+  array (
+    0 => 'Lakeside',
+    1 => 'NE',
+    2 => '42.06',
+    3 => '-102.46',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  52 => 
+  array (
+    0 => 'Lyman',
+    1 => 'NE',
+    2 => '41.91',
+    3 => '-104.03',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  53 => 
+  array (
+    0 => 'Mcgrew',
+    1 => 'NE',
+    2 => '41.74',
+    3 => '-103.41',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  54 => 
+  array (
+    0 => 'Marsland',
+    1 => 'NE',
+    2 => '42.44',
+    3 => '-103.3',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  55 => 
+  array (
+    0 => 'Melbeta',
+    1 => 'NE',
+    2 => '41.78',
+    3 => '-103.51',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  56 => 
+  array (
+    0 => 'Minatare',
+    1 => 'NE',
+    2 => '41.81',
+    3 => '-103.5',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  57 => 
+  array (
+    0 => 'Mitchell',
+    1 => 'NE',
+    2 => '41.94',
+    3 => '-103.8',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  60 => 
+  array (
+    0 => 'Rushville',
+    1 => 'NE',
+    2 => '42.71',
+    3 => '-102.46',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  61 => 
+  array (
+    0 => 'Scottsbluff',
+    1 => 'NE',
+    2 => '41.86',
+    3 => '-103.66',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  63 => 
+  array (
+    0 => 'Scottsbluff',
+    1 => 'NE',
+    2 => '41.86',
+    3 => '-103.66',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  65 => 
+  array (
+    0 => 'Whiteclay',
+    1 => 'NE',
+    2 => '42.95',
+    3 => '-102.59',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  67 => 
+  array (
+    0 => 'Whitney',
+    1 => 'NE',
+    2 => '42.78',
+    3 => '-103.25',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+);

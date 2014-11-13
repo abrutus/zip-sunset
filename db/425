@@ -1,0 +1,137 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Somerset',
+    1 => 'KY',
+    2 => '37.08',
+    3 => '-84.6',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  '02' => 
+  array (
+    0 => 'Somerset',
+    1 => 'KY',
+    2 => '37.08',
+    3 => '-84.6',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  '03' => 
+  array (
+    0 => 'Somerset',
+    1 => 'KY',
+    2 => '37.08',
+    3 => '-84.6',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  16 => 
+  array (
+    0 => 'Bethelridge',
+    1 => 'KY',
+    2 => '37.23',
+    3 => '-84.76',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  19 => 
+  array (
+    0 => 'Burnside',
+    1 => 'KY',
+    2 => '36.98',
+    3 => '-84.6',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  33 => 
+  array (
+    0 => 'Ferguson',
+    1 => 'KY',
+    2 => '37.06',
+    3 => '-84.59',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  39 => 
+  array (
+    0 => 'Liberty',
+    1 => 'KY',
+    2 => '37.31',
+    3 => '-84.93',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  41 => 
+  array (
+    0 => 'Middleburg',
+    1 => 'KY',
+    2 => '37.35',
+    3 => '-84.81',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  44 => 
+  array (
+    0 => 'Nancy',
+    1 => 'KY',
+    2 => '37.07',
+    3 => '-84.75',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  53 => 
+  array (
+    0 => 'Science Hill',
+    1 => 'KY',
+    2 => '37.17',
+    3 => '-84.63',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  58 => 
+  array (
+    0 => 'Tateville',
+    1 => 'KY',
+    2 => '36.96',
+    3 => '-84.58',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  64 => 
+  array (
+    0 => 'West Somerset',
+    1 => 'KY',
+    2 => '37.09',
+    3 => '-84.64',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  65 => 
+  array (
+    0 => 'Windsor',
+    1 => 'KY',
+    2 => '37.13',
+    3 => '-84.91',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  66 => 
+  array (
+    0 => 'Yosemite',
+    1 => 'KY',
+    2 => '37.35',
+    3 => '-84.83',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  67 => 
+  array (
+    0 => 'Eubank',
+    1 => 'KY',
+    2 => '37.27',
+    3 => '-84.65',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+);

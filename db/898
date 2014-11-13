@@ -1,0 +1,173 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Elko',
+    1 => 'NV',
+    2 => '40.95',
+    3 => '-115.79',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '02' => 
+  array (
+    0 => 'Elko',
+    1 => 'NV',
+    2 => '40.85',
+    3 => '-115.71',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '03' => 
+  array (
+    0 => 'Elko',
+    1 => 'NV',
+    2 => '40.74',
+    3 => '-115.88',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  15 => 
+  array (
+    0 => 'Spring Creek',
+    1 => 'NV',
+    2 => '40.55',
+    3 => '-115.61',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  20 => 
+  array (
+    0 => 'Battle Mountain',
+    1 => 'NV',
+    2 => '40.47',
+    3 => '-117.03',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  21 => 
+  array (
+    0 => 'Crescent Valley',
+    1 => 'NV',
+    2 => '40.52',
+    3 => '-116.36',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  22 => 
+  array (
+    0 => 'Carlin',
+    1 => 'NV',
+    2 => '40.73',
+    3 => '-116.1',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  23 => 
+  array (
+    0 => 'Deeth',
+    1 => 'NV',
+    2 => '41.4',
+    3 => '-115.48',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  24 => 
+  array (
+    0 => 'Halleck',
+    1 => 'NV',
+    2 => '41.02',
+    3 => '-115.41',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  25 => 
+  array (
+    0 => 'Jackpot',
+    1 => 'NV',
+    2 => '41.85',
+    3 => '-114.75',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  26 => 
+  array (
+    0 => 'Jarbidge',
+    1 => 'NV',
+    2 => '41.83',
+    3 => '-115.54',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  28 => 
+  array (
+    0 => 'Lamoille',
+    1 => 'NV',
+    2 => '40.76',
+    3 => '-115.41',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  30 => 
+  array (
+    0 => 'Montello',
+    1 => 'NV',
+    2 => '41.22',
+    3 => '-114.23',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  31 => 
+  array (
+    0 => 'Mountain City',
+    1 => 'NV',
+    2 => '41.77',
+    3 => '-116.08',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  32 => 
+  array (
+    0 => 'Owyhee',
+    1 => 'NV',
+    2 => '41.91',
+    3 => '-116.18',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  33 => 
+  array (
+    0 => 'Ruby Valley',
+    1 => 'NV',
+    2 => '40.49',
+    3 => '-115.32',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  34 => 
+  array (
+    0 => 'Tuscarora',
+    1 => 'NV',
+    2 => '41.45',
+    3 => '-116.27',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  35 => 
+  array (
+    0 => 'Wells',
+    1 => 'NV',
+    2 => '41.35',
+    3 => '-114.8',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  83 => 
+  array (
+    0 => 'West Wendover',
+    1 => 'NV',
+    2 => '40.87',
+    3 => '-114.15',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+);

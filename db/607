@@ -1,0 +1,47 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Chicago',
+    1 => 'IL',
+    2 => '41.83',
+    3 => '-87.68',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '06' => 
+  array (
+    0 => 'Harwood Heights',
+    1 => 'IL',
+    2 => '41.96',
+    3 => '-87.8',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '07' => 
+  array (
+    0 => 'Elmwood Park',
+    1 => 'IL',
+    2 => '41.92',
+    3 => '-87.81',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  12 => 
+  array (
+    0 => 'Lincolnwood',
+    1 => 'IL',
+    2 => '42',
+    3 => '-87.73',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  14 => 
+  array (
+    0 => 'Niles',
+    1 => 'IL',
+    2 => '42.02',
+    3 => '-87.8',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+);

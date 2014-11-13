@@ -1,0 +1,488 @@
+<?php $db= array (
+  '03' => 
+  array (
+    0 => 'Homer',
+    1 => 'AK',
+    2 => '59.4',
+    3 => '-151.32',
+    4 => -9,
+    5 => 'America/Anchorage',
+  ),
+  '04' => 
+  array (
+    0 => 'Hooper Bay',
+    1 => 'AK',
+    2 => '61.6',
+    3 => '-165.74',
+    4 => -9,
+    5 => 'America/Nome',
+  ),
+  '05' => 
+  array (
+    0 => 'Hope',
+    1 => 'AK',
+    2 => '60.84',
+    3 => '-149.4',
+    4 => -9,
+    5 => 'America/Anchorage',
+  ),
+  '06' => 
+  array (
+    0 => 'Iliamna',
+    1 => 'AK',
+    2 => '59.52',
+    3 => '-154.4',
+    4 => -9,
+    5 => 'America/Anchorage',
+  ),
+  '08' => 
+  array (
+    0 => 'Karluk',
+    1 => 'AK',
+    2 => '57.6',
+    3 => '-154.33',
+    4 => -9,
+    5 => 'America/Anchorage',
+  ),
+  10 => 
+  array (
+    0 => 'Kasilof',
+    1 => 'AK',
+    2 => '60.28',
+    3 => '-151.26',
+    4 => -9,
+    5 => 'America/Anchorage',
+  ),
+  11 => 
+  array (
+    0 => 'Kenai',
+    1 => 'AK',
+    2 => '60.66',
+    3 => '-150.9',
+    4 => -9,
+    5 => 'America/Anchorage',
+  ),
+  13 => 
+  array (
+    0 => 'King Salmon',
+    1 => 'AK',
+    2 => '58.75',
+    3 => '-156.54',
+    4 => -9,
+    5 => 'America/Anchorage',
+  ),
+  15 => 
+  array (
+    0 => 'Kodiak',
+    1 => 'AK',
+    2 => '57.79',
+    3 => '-152.4',
+    4 => -9,
+    5 => 'America/Anchorage',
+  ),
+  19 => 
+  array (
+    0 => 'Kodiak',
+    1 => 'AK',
+    2 => '57.79',
+    3 => '-152.4',
+    4 => -9,
+    5 => 'America/Anchorage',
+  ),
+  20 => 
+  array (
+    0 => 'Kotlik',
+    1 => 'AK',
+    2 => '62.84',
+    3 => '-163.65',
+    4 => -9,
+    5 => 'America/Nome',
+  ),
+  24 => 
+  array (
+    0 => 'Larsen Bay',
+    1 => 'AK',
+    2 => '57.48',
+    3 => '-153.99',
+    4 => -9,
+    5 => 'America/Anchorage',
+  ),
+  29 => 
+  array (
+    0 => 'Wasilla',
+    1 => 'AK',
+    2 => '61.58',
+    3 => '-149.44',
+    4 => -9,
+    5 => 'America/Anchorage',
+  ),
+  31 => 
+  array (
+    0 => 'Moose Pass',
+    1 => 'AK',
+    2 => '60.57',
+    3 => '-149.45',
+    4 => -9,
+    5 => 'America/Anchorage',
+  ),
+  32 => 
+  array (
+    0 => 'Mountain Village',
+    1 => 'AK',
+    2 => '62.09',
+    3 => '-163.71',
+    4 => -9,
+    5 => 'America/Nome',
+  ),
+  33 => 
+  array (
+    0 => 'Naknek',
+    1 => 'AK',
+    2 => '58.8',
+    3 => '-156.73',
+    4 => -9,
+    5 => 'America/Anchorage',
+  ),
+  35 => 
+  array (
+    0 => 'Nikiski',
+    1 => 'AK',
+    2 => '60.91',
+    3 => '-150.7',
+    4 => -9,
+    5 => 'America/Anchorage',
+  ),
+  39 => 
+  array (
+    0 => 'Ninilchik',
+    1 => 'AK',
+    2 => '60.07',
+    3 => '-151.42',
+    4 => -9,
+    5 => 'America/Anchorage',
+  ),
+  40 => 
+  array (
+    0 => 'Nondalton',
+    1 => 'AK',
+    2 => '59.96',
+    3 => '-154.87',
+    4 => -9,
+    5 => 'America/Anchorage',
+  ),
+  43 => 
+  array (
+    0 => 'Old Harbor',
+    1 => 'AK',
+    2 => '57.21',
+    3 => '-153.32',
+    4 => -9,
+    5 => 'America/Anchorage',
+  ),
+  44 => 
+  array (
+    0 => 'Ouzinkie',
+    1 => 'AK',
+    2 => '57.93',
+    3 => '-152.42',
+    4 => -9,
+    5 => 'America/Anchorage',
+  ),
+  45 => 
+  array (
+    0 => 'Palmer',
+    1 => 'AK',
+    2 => '61.6',
+    3 => '-148.46',
+    4 => -9,
+    5 => 'America/Anchorage',
+  ),
+  47 => 
+  array (
+    0 => 'Pedro Bay',
+    1 => 'AK',
+    2 => '59.86',
+    3 => '-154.03',
+    4 => -9,
+    5 => 'America/Anchorage',
+  ),
+  48 => 
+  array (
+    0 => 'Perryville',
+    1 => 'AK',
+    2 => '55.9',
+    3 => '-159.27',
+    4 => -9,
+    5 => 'America/Anchorage',
+  ),
+  50 => 
+  array (
+    0 => 'Pilot Station',
+    1 => 'AK',
+    2 => '61.94',
+    3 => '-162.88',
+    4 => -9,
+    5 => 'America/Nome',
+  ),
+  52 => 
+  array (
+    0 => 'Big Lake',
+    1 => 'AK',
+    2 => '61.46',
+    3 => '-150.09',
+    4 => -9,
+    5 => 'America/Anchorage',
+  ),
+  53 => 
+  array (
+    0 => 'Port Alsworth',
+    1 => 'AK',
+    2 => '60.46',
+    3 => '-154.19',
+    4 => -9,
+    5 => 'America/Anchorage',
+  ),
+  54 => 
+  array (
+    0 => 'Wasilla',
+    1 => 'AK',
+    2 => '61.52',
+    3 => '-149.57',
+    4 => -9,
+    5 => 'America/Anchorage',
+  ),
+  57 => 
+  array (
+    0 => 'Russian Mission',
+    1 => 'AK',
+    2 => '61.81',
+    3 => '-161.44',
+    4 => -9,
+    5 => 'America/Nome',
+  ),
+  58 => 
+  array (
+    0 => 'Saint Marys',
+    1 => 'AK',
+    2 => '62.06',
+    3 => '-163.29',
+    4 => -9,
+    5 => 'America/Nome',
+  ),
+  59 => 
+  array (
+    0 => 'Saint Michael',
+    1 => 'AK',
+    2 => '63.47',
+    3 => '-162.11',
+    4 => -9,
+    5 => 'America/Nome',
+  ),
+  62 => 
+  array (
+    0 => 'Scammon Bay',
+    1 => 'AK',
+    2 => '61.74',
+    3 => '-165.47',
+    4 => -9,
+    5 => 'America/Nome',
+  ),
+  63 => 
+  array (
+    0 => 'Seldovia',
+    1 => 'AK',
+    2 => '59.39',
+    3 => '-151.66',
+    4 => -9,
+    5 => 'America/Anchorage',
+  ),
+  64 => 
+  array (
+    0 => 'Seward',
+    1 => 'AK',
+    2 => '60.05',
+    3 => '-149.33',
+    4 => -9,
+    5 => 'America/Anchorage',
+  ),
+  66 => 
+  array (
+    0 => 'Nunam Iqua',
+    1 => 'AK',
+    2 => '62.09',
+    3 => '-165.18',
+    4 => -9,
+    5 => 'America/Nome',
+  ),
+  67 => 
+  array (
+    0 => 'Skwentna',
+    1 => 'AK',
+    2 => '61.93',
+    3 => '-151.73',
+    4 => -9,
+    5 => 'America/Anchorage',
+  ),
+  69 => 
+  array (
+    0 => 'Soldotna',
+    1 => 'AK',
+    2 => '60.32',
+    3 => '-150.79',
+    4 => -9,
+    5 => 'America/Anchorage',
+  ),
+  70 => 
+  array (
+    0 => 'South Naknek',
+    1 => 'AK',
+    2 => '58.67',
+    3 => '-156.98',
+    4 => -9,
+    5 => 'America/Anchorage',
+  ),
+  71 => 
+  array (
+    0 => 'Stebbins',
+    1 => 'AK',
+    2 => '63.47',
+    3 => '-162.28',
+    4 => -9,
+    5 => 'America/Nome',
+  ),
+  72 => 
+  array (
+    0 => 'Sterling',
+    1 => 'AK',
+    2 => '60.54',
+    3 => '-150.79',
+    4 => -9,
+    5 => 'America/Anchorage',
+  ),
+  74 => 
+  array (
+    0 => 'Sutton',
+    1 => 'AK',
+    2 => '61.86',
+    3 => '-148.29',
+    4 => -9,
+    5 => 'America/Anchorage',
+  ),
+  76 => 
+  array (
+    0 => 'Talkeetna',
+    1 => 'AK',
+    2 => '62.42',
+    3 => '-148.76',
+    4 => -9,
+    5 => 'America/Anchorage',
+  ),
+  77 => 
+  array (
+    0 => 'Tatitlek',
+    1 => 'AK',
+    2 => '60.88',
+    3 => '-146.65',
+    4 => -9,
+    5 => 'America/Anchorage',
+  ),
+  82 => 
+  array (
+    0 => 'Tyonek',
+    1 => 'AK',
+    2 => '61.08',
+    3 => '-151.16',
+    4 => -9,
+    5 => 'America/Anchorage',
+  ),
+  83 => 
+  array (
+    0 => 'Trapper Creek',
+    1 => 'AK',
+    2 => '62.69',
+    3 => '-151.07',
+    4 => -9,
+    5 => 'America/Anchorage',
+  ),
+  84 => 
+  array (
+    0 => 'Unalakleet',
+    1 => 'AK',
+    2 => '64.09',
+    3 => '-160.36',
+    4 => -9,
+    5 => 'America/Nome',
+  ),
+  86 => 
+  array (
+    0 => 'Valdez',
+    1 => 'AK',
+    2 => '61.4',
+    3 => '-145.66',
+    4 => -9,
+    5 => 'America/Anchorage',
+  ),
+  87 => 
+  array (
+    0 => 'Wasilla',
+    1 => 'AK',
+    2 => '61.36',
+    3 => '-150.07',
+    4 => -9,
+    5 => 'America/Anchorage',
+  ),
+  88 => 
+  array (
+    0 => 'Willow',
+    1 => 'AK',
+    2 => '61.89',
+    3 => '-149.73',
+    4 => -9,
+    5 => 'America/Anchorage',
+  ),
+  89 => 
+  array (
+    0 => 'Yakutat',
+    1 => 'AK',
+    2 => '59.51',
+    3 => '-139.71',
+    4 => -9,
+    5 => 'America/Yakutat',
+  ),
+  93 => 
+  array (
+    0 => 'Whittier',
+    1 => 'AK',
+    2 => '60.28',
+    3 => '-148.3',
+    4 => -9,
+    5 => 'America/Anchorage',
+  ),
+  94 => 
+  array (
+    0 => 'Houston',
+    1 => 'AK',
+    2 => '61.66',
+    3 => '-149.68',
+    4 => -9,
+    5 => 'America/Anchorage',
+  ),
+  95 => 
+  array (
+    0 => 'Anchorage',
+    1 => 'AK',
+    2 => '61.45',
+    3 => '-150.63',
+    4 => -9,
+    5 => 'America/Anchorage',
+  ),
+  97 => 
+  array (
+    0 => 'Kodiak',
+    1 => 'AK',
+    2 => '57.55',
+    3 => '-153.43',
+    4 => -9,
+    5 => 'America/Anchorage',
+  ),
+);

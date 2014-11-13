@@ -1,0 +1,416 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Wenatchee',
+    1 => 'WA',
+    2 => '47.37',
+    3 => '-120.35',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '02' => 
+  array (
+    0 => 'East Wenatchee',
+    1 => 'WA',
+    2 => '47.49',
+    3 => '-120.19',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '07' => 
+  array (
+    0 => 'Wenatchee',
+    1 => 'WA',
+    2 => '47.37',
+    3 => '-120.29',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  11 => 
+  array (
+    0 => 'Ardenvoir',
+    1 => 'WA',
+    2 => '47.72',
+    3 => '-120.36',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  12 => 
+  array (
+    0 => 'Brewster',
+    1 => 'WA',
+    2 => '48.15',
+    3 => '-119.82',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  13 => 
+  array (
+    0 => 'Bridgeport',
+    1 => 'WA',
+    2 => '47.97',
+    3 => '-119.59',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  14 => 
+  array (
+    0 => 'Carlton',
+    1 => 'WA',
+    2 => '48.23',
+    3 => '-120.28',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  15 => 
+  array (
+    0 => 'Cashmere',
+    1 => 'WA',
+    2 => '47.55',
+    3 => '-120.48',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  16 => 
+  array (
+    0 => 'Chelan',
+    1 => 'WA',
+    2 => '47.89',
+    3 => '-119.99',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  17 => 
+  array (
+    0 => 'Chelan Falls',
+    1 => 'WA',
+    2 => '47.79',
+    3 => '-119.99',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  19 => 
+  array (
+    0 => 'Conconully',
+    1 => 'WA',
+    2 => '48.55',
+    3 => '-119.81',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  21 => 
+  array (
+    0 => 'Dryden',
+    1 => 'WA',
+    2 => '47.54',
+    3 => '-120.55',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  22 => 
+  array (
+    0 => 'Entiat',
+    1 => 'WA',
+    2 => '47.79',
+    3 => '-120.44',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  23 => 
+  array (
+    0 => 'Ephrata',
+    1 => 'WA',
+    2 => '47.27',
+    3 => '-119.59',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  24 => 
+  array (
+    0 => 'George',
+    1 => 'WA',
+    2 => '47.07',
+    3 => '-119.85',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  26 => 
+  array (
+    0 => 'Leavenworth',
+    1 => 'WA',
+    2 => '47.81',
+    3 => '-120.86',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  27 => 
+  array (
+    0 => 'Loomis',
+    1 => 'WA',
+    2 => '48.87',
+    3 => '-119.73',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  28 => 
+  array (
+    0 => 'Malaga',
+    1 => 'WA',
+    2 => '47.32',
+    3 => '-120.19',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  29 => 
+  array (
+    0 => 'Malott',
+    1 => 'WA',
+    2 => '48.3',
+    3 => '-119.77',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  30 => 
+  array (
+    0 => 'Mansfield',
+    1 => 'WA',
+    2 => '47.89',
+    3 => '-119.5',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  31 => 
+  array (
+    0 => 'Manson',
+    1 => 'WA',
+    2 => '47.97',
+    3 => '-120.15',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  32 => 
+  array (
+    0 => 'Marlin',
+    1 => 'WA',
+    2 => '47.27',
+    3 => '-119.04',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  33 => 
+  array (
+    0 => 'Mazama',
+    1 => 'WA',
+    2 => '48.59',
+    3 => '-120.39',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  34 => 
+  array (
+    0 => 'Methow',
+    1 => 'WA',
+    2 => '48.14',
+    3 => '-120.05',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  36 => 
+  array (
+    0 => 'Monitor',
+    1 => 'WA',
+    2 => '47.47',
+    3 => '-120.41',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  37 => 
+  array (
+    0 => 'Moses Lake',
+    1 => 'WA',
+    2 => '47.19',
+    3 => '-119.3',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  40 => 
+  array (
+    0 => 'Okanogan',
+    1 => 'WA',
+    2 => '48.22',
+    3 => '-119.45',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  41 => 
+  array (
+    0 => 'Omak',
+    1 => 'WA',
+    2 => '48.36',
+    3 => '-119.27',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  43 => 
+  array (
+    0 => 'Orondo',
+    1 => 'WA',
+    2 => '47.72',
+    3 => '-120.15',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  44 => 
+  array (
+    0 => 'Oroville',
+    1 => 'WA',
+    2 => '48.87',
+    3 => '-119.22',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  45 => 
+  array (
+    0 => 'Palisades',
+    1 => 'WA',
+    2 => '47.38',
+    3 => '-119.96',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  46 => 
+  array (
+    0 => 'Pateros',
+    1 => 'WA',
+    2 => '48.05',
+    3 => '-120.05',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  47 => 
+  array (
+    0 => 'Peshastin',
+    1 => 'WA',
+    2 => '47.51',
+    3 => '-120.62',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  48 => 
+  array (
+    0 => 'Quincy',
+    1 => 'WA',
+    2 => '47.17',
+    3 => '-119.8',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  49 => 
+  array (
+    0 => 'Riverside',
+    1 => 'WA',
+    2 => '48.56',
+    3 => '-119.35',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  50 => 
+  array (
+    0 => 'Rock Island',
+    1 => 'WA',
+    2 => '47.35',
+    3 => '-120.05',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  51 => 
+  array (
+    0 => 'Soap Lake',
+    1 => 'WA',
+    2 => '47.41',
+    3 => '-119.43',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  52 => 
+  array (
+    0 => 'Stehekin',
+    1 => 'WA',
+    2 => '48.34',
+    3 => '-120.7',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  53 => 
+  array (
+    0 => 'Stratford',
+    1 => 'WA',
+    2 => '47.44',
+    3 => '-119.27',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  55 => 
+  array (
+    0 => 'Tonasket',
+    1 => 'WA',
+    2 => '48.68',
+    3 => '-119.3',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  56 => 
+  array (
+    0 => 'Twisp',
+    1 => 'WA',
+    2 => '48.32',
+    3 => '-119.93',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  57 => 
+  array (
+    0 => 'Warden',
+    1 => 'WA',
+    2 => '47.01',
+    3 => '-119.12',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  58 => 
+  array (
+    0 => 'Waterville',
+    1 => 'WA',
+    2 => '47.69',
+    3 => '-119.88',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  59 => 
+  array (
+    0 => 'Wauconda',
+    1 => 'WA',
+    2 => '48.82',
+    3 => '-118.95',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  60 => 
+  array (
+    0 => 'Wilson Creek',
+    1 => 'WA',
+    2 => '47.46',
+    3 => '-119.14',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  62 => 
+  array (
+    0 => 'Winthrop',
+    1 => 'WA',
+    2 => '48.5',
+    3 => '-120.33',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+);

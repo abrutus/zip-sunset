@@ -1,0 +1,65 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Liberal',
+    1 => 'KS',
+    2 => '37.04',
+    3 => '-100.93',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '05' => 
+  array (
+    0 => 'Liberal',
+    1 => 'KS',
+    2 => '37.04',
+    3 => '-100.93',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  50 => 
+  array (
+    0 => 'Elkhart',
+    1 => 'KS',
+    2 => '37',
+    3 => '-101.89',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  51 => 
+  array (
+    0 => 'Hugoton',
+    1 => 'KS',
+    2 => '37.17',
+    3 => '-101.34',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  52 => 
+  array (
+    0 => 'Moscow',
+    1 => 'KS',
+    2 => '37.32',
+    3 => '-101.2',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  53 => 
+  array (
+    0 => 'Richfield',
+    1 => 'KS',
+    2 => '37.26',
+    3 => '-101.78',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  54 => 
+  array (
+    0 => 'Rolla',
+    1 => 'KS',
+    2 => '37.11',
+    3 => '-101.63',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+);

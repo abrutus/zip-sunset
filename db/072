@@ -1,0 +1,74 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Elizabeth',
+    1 => 'NJ',
+    2 => '40.66',
+    3 => '-74.19',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '02' => 
+  array (
+    0 => 'Elizabeth',
+    1 => 'NJ',
+    2 => '40.66',
+    3 => '-74.19',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '03' => 
+  array (
+    0 => 'Roselle',
+    1 => 'NJ',
+    2 => '40.65',
+    3 => '-74.26',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '04' => 
+  array (
+    0 => 'Roselle Park',
+    1 => 'NJ',
+    2 => '40.66',
+    3 => '-74.26',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '05' => 
+  array (
+    0 => 'Hillside',
+    1 => 'NJ',
+    2 => '40.69',
+    3 => '-74.23',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '06' => 
+  array (
+    0 => 'Elizabethport',
+    1 => 'NJ',
+    2 => '40.66',
+    3 => '-74.19',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '07' => 
+  array (
+    0 => 'Elizabeth',
+    1 => 'NJ',
+    2 => '40.66',
+    3 => '-74.19',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '08' => 
+  array (
+    0 => 'Elizabeth',
+    1 => 'NJ',
+    2 => '40.66',
+    3 => '-74.19',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

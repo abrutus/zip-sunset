@@ -1,0 +1,461 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Hartford',
+    1 => 'CT',
+    2 => '41.76',
+    3 => '-72.68',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '02' => 
+  array (
+    0 => 'Hartford',
+    1 => 'CT',
+    2 => '41.76',
+    3 => '-72.68',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '03' => 
+  array (
+    0 => 'Hartford',
+    1 => 'CT',
+    2 => '41.76',
+    3 => '-72.68',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '04' => 
+  array (
+    0 => 'Hartford',
+    1 => 'CT',
+    2 => '41.76',
+    3 => '-72.68',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '05' => 
+  array (
+    0 => 'Hartford',
+    1 => 'CT',
+    2 => '41.76',
+    3 => '-72.68',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '06' => 
+  array (
+    0 => 'Hartford',
+    1 => 'CT',
+    2 => '41.76',
+    3 => '-72.68',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '07' => 
+  array (
+    0 => 'West Hartford',
+    1 => 'CT',
+    2 => '41.75',
+    3 => '-72.74',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '08' => 
+  array (
+    0 => 'East Hartford',
+    1 => 'CT',
+    2 => '41.76',
+    3 => '-72.61',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '09' => 
+  array (
+    0 => 'Wethersfield',
+    1 => 'CT',
+    2 => '41.7',
+    3 => '-72.67',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  10 => 
+  array (
+    0 => 'West Hartford',
+    1 => 'CT',
+    2 => '41.75',
+    3 => '-72.74',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  11 => 
+  array (
+    0 => 'Newington',
+    1 => 'CT',
+    2 => '41.68',
+    3 => '-72.73',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  12 => 
+  array (
+    0 => 'Hartford',
+    1 => 'CT',
+    2 => '41.76',
+    3 => '-72.68',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  14 => 
+  array (
+    0 => 'Hartford',
+    1 => 'CT',
+    2 => '41.76',
+    3 => '-72.68',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  15 => 
+  array (
+    0 => 'Hartford',
+    1 => 'CT',
+    2 => '41.76',
+    3 => '-72.68',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  17 => 
+  array (
+    0 => 'West Hartford',
+    1 => 'CT',
+    2 => '41.75',
+    3 => '-72.74',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  18 => 
+  array (
+    0 => 'East Hartford',
+    1 => 'CT',
+    2 => '41.76',
+    3 => '-72.61',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  19 => 
+  array (
+    0 => 'West Hartford',
+    1 => 'CT',
+    2 => '41.75',
+    3 => '-72.74',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  20 => 
+  array (
+    0 => 'Hartford',
+    1 => 'CT',
+    2 => '41.76',
+    3 => '-72.68',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  23 => 
+  array (
+    0 => 'Hartford',
+    1 => 'CT',
+    2 => '41.76',
+    3 => '-72.68',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  26 => 
+  array (
+    0 => 'Hartford',
+    1 => 'CT',
+    2 => '41.76',
+    3 => '-72.68',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  27 => 
+  array (
+    0 => 'West Hartford',
+    1 => 'CT',
+    2 => '41.75',
+    3 => '-72.74',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  28 => 
+  array (
+    0 => 'East Hartford',
+    1 => 'CT',
+    2 => '41.76',
+    3 => '-72.61',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  29 => 
+  array (
+    0 => 'Wethersfield',
+    1 => 'CT',
+    2 => '41.7',
+    3 => '-72.67',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  31 => 
+  array (
+    0 => 'Newington',
+    1 => 'CT',
+    2 => '41.68',
+    3 => '-72.73',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  32 => 
+  array (
+    0 => 'Hartford',
+    1 => 'CT',
+    2 => '41.76',
+    3 => '-72.68',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  33 => 
+  array (
+    0 => 'West Hartford',
+    1 => 'CT',
+    2 => '41.75',
+    3 => '-72.74',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  34 => 
+  array (
+    0 => 'Hartford',
+    1 => 'CT',
+    2 => '41.76',
+    3 => '-72.68',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  37 => 
+  array (
+    0 => 'West Hartford',
+    1 => 'CT',
+    2 => '41.75',
+    3 => '-72.74',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  38 => 
+  array (
+    0 => 'East Hartford',
+    1 => 'CT',
+    2 => '41.76',
+    3 => '-72.61',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  40 => 
+  array (
+    0 => 'Hartford',
+    1 => 'CT',
+    2 => '41.76',
+    3 => '-72.68',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  41 => 
+  array (
+    0 => 'Hartford',
+    1 => 'CT',
+    2 => '41.76',
+    3 => '-72.68',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  42 => 
+  array (
+    0 => 'Hartford',
+    1 => 'CT',
+    2 => '41.76',
+    3 => '-72.68',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  43 => 
+  array (
+    0 => 'Hartford',
+    1 => 'CT',
+    2 => '41.76',
+    3 => '-72.68',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  44 => 
+  array (
+    0 => 'Hartford',
+    1 => 'CT',
+    2 => '41.76',
+    3 => '-72.68',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  45 => 
+  array (
+    0 => 'Hartford',
+    1 => 'CT',
+    2 => '41.76',
+    3 => '-72.68',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  46 => 
+  array (
+    0 => 'Hartford',
+    1 => 'CT',
+    2 => '41.76',
+    3 => '-72.68',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  47 => 
+  array (
+    0 => 'Hartford',
+    1 => 'CT',
+    2 => '41.76',
+    3 => '-72.68',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  50 => 
+  array (
+    0 => 'Hartford',
+    1 => 'CT',
+    2 => '41.76',
+    3 => '-72.68',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  51 => 
+  array (
+    0 => 'Hartford',
+    1 => 'CT',
+    2 => '41.76',
+    3 => '-72.68',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  52 => 
+  array (
+    0 => 'Hartford',
+    1 => 'CT',
+    2 => '41.76',
+    3 => '-72.68',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  53 => 
+  array (
+    0 => 'Hartford',
+    1 => 'CT',
+    2 => '41.76',
+    3 => '-72.68',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  54 => 
+  array (
+    0 => 'Hartford',
+    1 => 'CT',
+    2 => '41.76',
+    3 => '-72.68',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  55 => 
+  array (
+    0 => 'Hartford',
+    1 => 'CT',
+    2 => '41.76',
+    3 => '-72.68',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  56 => 
+  array (
+    0 => 'Hartford',
+    1 => 'CT',
+    2 => '41.76',
+    3 => '-72.68',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  60 => 
+  array (
+    0 => 'Hartford',
+    1 => 'CT',
+    2 => '41.76',
+    3 => '-72.68',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  61 => 
+  array (
+    0 => 'Hartford',
+    1 => 'CT',
+    2 => '41.76',
+    3 => '-72.68',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  67 => 
+  array (
+    0 => 'Hartford',
+    1 => 'CT',
+    2 => '41.76',
+    3 => '-72.68',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  76 => 
+  array (
+    0 => 'Hartford',
+    1 => 'CT',
+    2 => '41.76',
+    3 => '-72.68',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  80 => 
+  array (
+    0 => 'Hartford',
+    1 => 'CT',
+    2 => '41.76',
+    3 => '-72.68',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  83 => 
+  array (
+    0 => 'Hartford',
+    1 => 'CT',
+    2 => '41.76',
+    3 => '-72.68',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  99 => 
+  array (
+    0 => 'Hartford',
+    1 => 'CT',
+    2 => '41.76',
+    3 => '-72.68',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

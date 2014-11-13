@@ -1,0 +1,605 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Bradenton',
+    1 => 'FL',
+    2 => '27.48',
+    3 => '-82.57',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '02' => 
+  array (
+    0 => 'Bradenton',
+    1 => 'FL',
+    2 => '27.48',
+    3 => '-82.57',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '03' => 
+  array (
+    0 => 'Bradenton',
+    1 => 'FL',
+    2 => '27.48',
+    3 => '-82.57',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '04' => 
+  array (
+    0 => 'Bradenton',
+    1 => 'FL',
+    2 => '27.48',
+    3 => '-82.57',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '05' => 
+  array (
+    0 => 'Bradenton',
+    1 => 'FL',
+    2 => '27.48',
+    3 => '-82.57',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '06' => 
+  array (
+    0 => 'Bradenton',
+    1 => 'FL',
+    2 => '27.48',
+    3 => '-82.57',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '07' => 
+  array (
+    0 => 'Bradenton',
+    1 => 'FL',
+    2 => '27.48',
+    3 => '-82.57',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '08' => 
+  array (
+    0 => 'Bradenton',
+    1 => 'FL',
+    2 => '27.48',
+    3 => '-82.57',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '09' => 
+  array (
+    0 => 'Bradenton',
+    1 => 'FL',
+    2 => '27.48',
+    3 => '-82.57',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  10 => 
+  array (
+    0 => 'Bradenton',
+    1 => 'FL',
+    2 => '27.48',
+    3 => '-82.57',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  11 => 
+  array (
+    0 => 'Bradenton',
+    1 => 'FL',
+    2 => '27.48',
+    3 => '-82.57',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  12 => 
+  array (
+    0 => 'Bradenton',
+    1 => 'FL',
+    2 => '27.48',
+    3 => '-82.57',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  15 => 
+  array (
+    0 => 'Cortez',
+    1 => 'FL',
+    2 => '27.46',
+    3 => '-82.67',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  16 => 
+  array (
+    0 => 'Anna Maria',
+    1 => 'FL',
+    2 => '27.53',
+    3 => '-82.73',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  17 => 
+  array (
+    0 => 'Bradenton Beach',
+    1 => 'FL',
+    2 => '27.46',
+    3 => '-82.69',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  18 => 
+  array (
+    0 => 'Holmes Beach',
+    1 => 'FL',
+    2 => '27.51',
+    3 => '-82.71',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  19 => 
+  array (
+    0 => 'Parrish',
+    1 => 'FL',
+    2 => '27.58',
+    3 => '-82.42',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  20 => 
+  array (
+    0 => 'Palmetto',
+    1 => 'FL',
+    2 => '27.52',
+    3 => '-82.57',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  21 => 
+  array (
+    0 => 'Palmetto',
+    1 => 'FL',
+    2 => '27.52',
+    3 => '-82.57',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  22 => 
+  array (
+    0 => 'Ellenton',
+    1 => 'FL',
+    2 => '27.52',
+    3 => '-82.52',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  23 => 
+  array (
+    0 => 'Englewood',
+    1 => 'FL',
+    2 => '26.95',
+    3 => '-82.35',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  24 => 
+  array (
+    0 => 'Englewood',
+    1 => 'FL',
+    2 => '26.95',
+    3 => '-82.35',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  29 => 
+  array (
+    0 => 'Osprey',
+    1 => 'FL',
+    2 => '27.19',
+    3 => '-82.49',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  30 => 
+  array (
+    0 => 'Sarasota',
+    1 => 'FL',
+    2 => '27.33',
+    3 => '-82.54',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  31 => 
+  array (
+    0 => 'Sarasota',
+    1 => 'FL',
+    2 => '27.33',
+    3 => '-82.54',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  32 => 
+  array (
+    0 => 'Sarasota',
+    1 => 'FL',
+    2 => '27.33',
+    3 => '-82.54',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  33 => 
+  array (
+    0 => 'Sarasota',
+    1 => 'FL',
+    2 => '27.33',
+    3 => '-82.54',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  34 => 
+  array (
+    0 => 'Sarasota',
+    1 => 'FL',
+    2 => '27.33',
+    3 => '-82.54',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  35 => 
+  array (
+    0 => 'Sarasota',
+    1 => 'FL',
+    2 => '27.33',
+    3 => '-82.54',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  36 => 
+  array (
+    0 => 'Sarasota',
+    1 => 'FL',
+    2 => '27.33',
+    3 => '-82.54',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  37 => 
+  array (
+    0 => 'Sarasota',
+    1 => 'FL',
+    2 => '27.33',
+    3 => '-82.54',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  38 => 
+  array (
+    0 => 'Sarasota',
+    1 => 'FL',
+    2 => '27.33',
+    3 => '-82.54',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  39 => 
+  array (
+    0 => 'Sarasota',
+    1 => 'FL',
+    2 => '27.33',
+    3 => '-82.54',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  40 => 
+  array (
+    0 => 'Sarasota',
+    1 => 'FL',
+    2 => '27.33',
+    3 => '-82.54',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  41 => 
+  array (
+    0 => 'Sarasota',
+    1 => 'FL',
+    2 => '27.33',
+    3 => '-82.54',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  42 => 
+  array (
+    0 => 'Sarasota',
+    1 => 'FL',
+    2 => '27.33',
+    3 => '-82.54',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  43 => 
+  array (
+    0 => 'Sarasota',
+    1 => 'FL',
+    2 => '27.33',
+    3 => '-82.54',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  50 => 
+  array (
+    0 => 'Terra Ceia',
+    1 => 'FL',
+    2 => '27.58',
+    3 => '-82.58',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  51 => 
+  array (
+    0 => 'Myakka City',
+    1 => 'FL',
+    2 => '27.35',
+    3 => '-82.16',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  60 => 
+  array (
+    0 => 'Sarasota',
+    1 => 'FL',
+    2 => '27.42',
+    3 => '-82.54',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  64 => 
+  array (
+    0 => 'Oneco',
+    1 => 'FL',
+    2 => '27.44',
+    3 => '-82.54',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  65 => 
+  array (
+    0 => 'Arcadia',
+    1 => 'FL',
+    2 => '27.21',
+    3 => '-81.85',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  66 => 
+  array (
+    0 => 'Arcadia',
+    1 => 'FL',
+    2 => '27.21',
+    3 => '-81.85',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  67 => 
+  array (
+    0 => 'Fort Ogden',
+    1 => 'FL',
+    2 => '27.09',
+    3 => '-81.95',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  68 => 
+  array (
+    0 => 'Nocatee',
+    1 => 'FL',
+    2 => '27.16',
+    3 => '-81.89',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  69 => 
+  array (
+    0 => 'Arcadia',
+    1 => 'FL',
+    2 => '27.21',
+    3 => '-81.85',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  70 => 
+  array (
+    0 => 'Tallevast',
+    1 => 'FL',
+    2 => '27.44',
+    3 => '-82.51',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  72 => 
+  array (
+    0 => 'Laurel',
+    1 => 'FL',
+    2 => '27.14',
+    3 => '-82.46',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  74 => 
+  array (
+    0 => 'Nokomis',
+    1 => 'FL',
+    2 => '27.12',
+    3 => '-82.43',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  75 => 
+  array (
+    0 => 'Nokomis',
+    1 => 'FL',
+    2 => '27.12',
+    3 => '-82.43',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  76 => 
+  array (
+    0 => 'Sarasota',
+    1 => 'FL',
+    2 => '27.33',
+    3 => '-82.54',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  77 => 
+  array (
+    0 => 'Sarasota',
+    1 => 'FL',
+    2 => '27.33',
+    3 => '-82.54',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  78 => 
+  array (
+    0 => 'Sarasota',
+    1 => 'FL',
+    2 => '27.33',
+    3 => '-82.54',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  80 => 
+  array (
+    0 => 'Bradenton',
+    1 => 'FL',
+    2 => '27.48',
+    3 => '-82.57',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  81 => 
+  array (
+    0 => 'Bradenton',
+    1 => 'FL',
+    2 => '27.48',
+    3 => '-82.57',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  82 => 
+  array (
+    0 => 'Bradenton',
+    1 => 'FL',
+    2 => '27.48',
+    3 => '-82.57',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  84 => 
+  array (
+    0 => 'Venice',
+    1 => 'FL',
+    2 => '27.09',
+    3 => '-82.43',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  85 => 
+  array (
+    0 => 'Venice',
+    1 => 'FL',
+    2 => '27.09',
+    3 => '-82.43',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  86 => 
+  array (
+    0 => 'North Port',
+    1 => 'FL',
+    2 => '27.04',
+    3 => '-82.19',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  87 => 
+  array (
+    0 => 'North Port',
+    1 => 'FL',
+    2 => '27.04',
+    3 => '-82.19',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  88 => 
+  array (
+    0 => 'North Port',
+    1 => 'FL',
+    2 => '27.04',
+    3 => '-82.19',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  89 => 
+  array (
+    0 => 'North Port',
+    1 => 'FL',
+    2 => '27.04',
+    3 => '-82.19',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  90 => 
+  array (
+    0 => 'North Port',
+    1 => 'FL',
+    2 => '27.04',
+    3 => '-82.24',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  91 => 
+  array (
+    0 => 'North Port',
+    1 => 'FL',
+    2 => '27.17',
+    3 => '-82.28',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  92 => 
+  array (
+    0 => 'Venice',
+    1 => 'FL',
+    2 => '27.09',
+    3 => '-82.43',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  93 => 
+  array (
+    0 => 'Venice',
+    1 => 'FL',
+    2 => '27.09',
+    3 => '-82.43',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  95 => 
+  array (
+    0 => 'Englewood',
+    1 => 'FL',
+    2 => '26.95',
+    3 => '-82.35',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

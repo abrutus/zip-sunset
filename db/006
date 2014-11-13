@@ -1,0 +1,65 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Adjuntas',
+    1 => 'PR',
+    2 => '18.16',
+    3 => '-66.72',
+    4 => -4,
+    5 => 'America/Puerto_Rico',
+  ),
+  '03' => 
+  array (
+    0 => 'Aguadilla',
+    1 => 'PR',
+    2 => '18.43',
+    3 => '-67.15',
+    4 => -4,
+    5 => 'America/Puerto_Rico',
+  ),
+  '06' => 
+  array (
+    0 => 'Maricao',
+    1 => 'PR',
+    2 => '18.18',
+    3 => '-66.98',
+    4 => -4,
+    5 => 'America/Puerto_Rico',
+  ),
+  12 => 
+  array (
+    0 => 'Arecibo',
+    1 => 'PR',
+    2 => '18.45',
+    3 => '-66.73',
+    4 => -4,
+    5 => 'America/Puerto_Rico',
+  ),
+  16 => 
+  array (
+    0 => 'Bajadero',
+    1 => 'PR',
+    2 => '18.4',
+    3 => '-66.66',
+    4 => -4,
+    5 => 'America/Puerto_Rico',
+  ),
+  17 => 
+  array (
+    0 => 'Barceloneta',
+    1 => 'PR',
+    2 => '18.45',
+    3 => '-66.53',
+    4 => -4,
+    5 => 'America/Puerto_Rico',
+  ),
+  52 => 
+  array (
+    0 => 'Garrochales',
+    1 => 'PR',
+    2 => '18.45',
+    3 => '-66.6',
+    4 => -4,
+    5 => 'America/Puerto_Rico',
+  ),
+);

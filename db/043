@@ -1,0 +1,236 @@
+<?php $db= array (
+  30 => 
+  array (
+    0 => 'Augusta',
+    1 => 'ME',
+    2 => '44.33',
+    3 => '-69.72',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  32 => 
+  array (
+    0 => 'Augusta',
+    1 => 'ME',
+    2 => '44.33',
+    3 => '-69.72',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  33 => 
+  array (
+    0 => 'Augusta',
+    1 => 'ME',
+    2 => '44.33',
+    3 => '-69.72',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  36 => 
+  array (
+    0 => 'Augusta',
+    1 => 'ME',
+    2 => '44.33',
+    3 => '-69.72',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  38 => 
+  array (
+    0 => 'Augusta',
+    1 => 'ME',
+    2 => '44.33',
+    3 => '-69.72',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  41 => 
+  array (
+    0 => 'Coopers Mills',
+    1 => 'ME',
+    2 => '44.27',
+    3 => '-69.49',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  42 => 
+  array (
+    0 => 'Dresden',
+    1 => 'ME',
+    2 => '44.1',
+    3 => '-69.72',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  43 => 
+  array (
+    0 => 'East Winthrop',
+    1 => 'ME',
+    2 => '44.33',
+    3 => '-69.9',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  44 => 
+  array (
+    0 => 'Farmingdale',
+    1 => 'ME',
+    2 => '44.25',
+    3 => '-69.78',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  45 => 
+  array (
+    0 => 'Gardiner',
+    1 => 'ME',
+    2 => '44.19',
+    3 => '-69.78',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  46 => 
+  array (
+    0 => 'Randolph',
+    1 => 'ME',
+    2 => '44.23',
+    3 => '-69.75',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  47 => 
+  array (
+    0 => 'Hallowell',
+    1 => 'ME',
+    2 => '44.29',
+    3 => '-69.81',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  48 => 
+  array (
+    0 => 'Jefferson',
+    1 => 'ME',
+    2 => '44.2',
+    3 => '-69.45',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  49 => 
+  array (
+    0 => 'Kents Hill',
+    1 => 'ME',
+    2 => '44.43',
+    3 => '-70.07',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  50 => 
+  array (
+    0 => 'Litchfield',
+    1 => 'ME',
+    2 => '44.13',
+    3 => '-69.96',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  51 => 
+  array (
+    0 => 'Manchester',
+    1 => 'ME',
+    2 => '44.32',
+    3 => '-69.86',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  52 => 
+  array (
+    0 => 'Mount Vernon',
+    1 => 'ME',
+    2 => '44.5',
+    3 => '-69.98',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  53 => 
+  array (
+    0 => 'Whitefield',
+    1 => 'ME',
+    2 => '44.17',
+    3 => '-69.62',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  54 => 
+  array (
+    0 => 'Palermo',
+    1 => 'ME',
+    2 => '44.4',
+    3 => '-69.47',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  55 => 
+  array (
+    0 => 'Readfield',
+    1 => 'ME',
+    2 => '44.38',
+    3 => '-69.96',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  57 => 
+  array (
+    0 => 'Richmond',
+    1 => 'ME',
+    2 => '44.08',
+    3 => '-69.79',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  58 => 
+  array (
+    0 => 'South China',
+    1 => 'ME',
+    2 => '44.39',
+    3 => '-69.58',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  59 => 
+  array (
+    0 => 'South Gardiner',
+    1 => 'ME',
+    2 => '44.17',
+    3 => '-69.78',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  60 => 
+  array (
+    0 => 'Vienna',
+    1 => 'ME',
+    2 => '44.53',
+    3 => '-69.98',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  63 => 
+  array (
+    0 => 'Windsor',
+    1 => 'ME',
+    2 => '44.31',
+    3 => '-69.58',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  64 => 
+  array (
+    0 => 'Winthrop',
+    1 => 'ME',
+    2 => '44.31',
+    3 => '-69.96',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

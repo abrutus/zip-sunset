@@ -1,0 +1,164 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Silver Spring',
+    1 => 'MD',
+    2 => '39.01',
+    3 => '-77.02',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '02' => 
+  array (
+    0 => 'Silver Spring',
+    1 => 'MD',
+    2 => '39.01',
+    3 => '-77.02',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '03' => 
+  array (
+    0 => 'Silver Spring',
+    1 => 'MD',
+    2 => '39.01',
+    3 => '-77.02',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '04' => 
+  array (
+    0 => 'Silver Spring',
+    1 => 'MD',
+    2 => '39.01',
+    3 => '-77.02',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '05' => 
+  array (
+    0 => 'Silver Spring',
+    1 => 'MD',
+    2 => '39.01',
+    3 => '-77.02',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '06' => 
+  array (
+    0 => 'Silver Spring',
+    1 => 'MD',
+    2 => '39.01',
+    3 => '-77.02',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '07' => 
+  array (
+    0 => 'Silver Spring',
+    1 => 'MD',
+    2 => '39.01',
+    3 => '-77.02',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '08' => 
+  array (
+    0 => 'Silver Spring',
+    1 => 'MD',
+    2 => '39.01',
+    3 => '-77.02',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  10 => 
+  array (
+    0 => 'Silver Spring',
+    1 => 'MD',
+    2 => '39.01',
+    3 => '-77.02',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  11 => 
+  array (
+    0 => 'Silver Spring',
+    1 => 'MD',
+    2 => '39.01',
+    3 => '-77.02',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  12 => 
+  array (
+    0 => 'Takoma Park',
+    1 => 'MD',
+    2 => '38.98',
+    3 => '-77',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  13 => 
+  array (
+    0 => 'Takoma Park',
+    1 => 'MD',
+    2 => '38.98',
+    3 => '-77',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  14 => 
+  array (
+    0 => 'Silver Spring',
+    1 => 'MD',
+    2 => '39.01',
+    3 => '-77.02',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  15 => 
+  array (
+    0 => 'Silver Spring',
+    1 => 'MD',
+    2 => '39.01',
+    3 => '-77.02',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  16 => 
+  array (
+    0 => 'Silver Spring',
+    1 => 'MD',
+    2 => '39.01',
+    3 => '-77.02',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  18 => 
+  array (
+    0 => 'Silver Spring',
+    1 => 'MD',
+    2 => '39.01',
+    3 => '-77.02',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  93 => 
+  array (
+    0 => 'Silver Spring',
+    1 => 'MD',
+    2 => '39.03',
+    3 => '-76.98',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  97 => 
+  array (
+    0 => 'Silver Spring',
+    1 => 'MD',
+    2 => '39.01',
+    3 => '-77.02',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

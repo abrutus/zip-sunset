@@ -1,0 +1,92 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Yonkers',
+    1 => 'NY',
+    2 => '40.94',
+    3 => '-73.86',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '02' => 
+  array (
+    0 => 'Yonkers',
+    1 => 'NY',
+    2 => '40.94',
+    3 => '-73.86',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '03' => 
+  array (
+    0 => 'Yonkers',
+    1 => 'NY',
+    2 => '40.94',
+    3 => '-73.86',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '04' => 
+  array (
+    0 => 'Yonkers',
+    1 => 'NY',
+    2 => '40.94',
+    3 => '-73.86',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '05' => 
+  array (
+    0 => 'Yonkers',
+    1 => 'NY',
+    2 => '40.94',
+    3 => '-73.86',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '06' => 
+  array (
+    0 => 'Hastings On Hudson',
+    1 => 'NY',
+    2 => '40.98',
+    3 => '-73.87',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '07' => 
+  array (
+    0 => 'Tuckahoe',
+    1 => 'NY',
+    2 => '40.95',
+    3 => '-73.82',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '08' => 
+  array (
+    0 => 'Bronxville',
+    1 => 'NY',
+    2 => '40.93',
+    3 => '-73.82',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '09' => 
+  array (
+    0 => 'Eastchester',
+    1 => 'NY',
+    2 => '40.95',
+    3 => '-73.8',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  10 => 
+  array (
+    0 => 'Yonkers',
+    1 => 'NY',
+    2 => '40.94',
+    3 => '-73.86',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

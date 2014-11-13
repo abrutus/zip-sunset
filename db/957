@@ -1,0 +1,263 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Alta',
+    1 => 'CA',
+    2 => '39.21',
+    3 => '-120.79',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '03' => 
+  array (
+    0 => 'Applegate',
+    1 => 'CA',
+    2 => '39',
+    3 => '-120.99',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '09' => 
+  array (
+    0 => 'Camino',
+    1 => 'CA',
+    2 => '38.74',
+    3 => '-120.68',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  12 => 
+  array (
+    0 => 'Chicago Park',
+    1 => 'CA',
+    2 => '39.16',
+    3 => '-120.95',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  13 => 
+  array (
+    0 => 'Colfax',
+    1 => 'CA',
+    2 => '39.09',
+    3 => '-120.92',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  14 => 
+  array (
+    0 => 'Dutch Flat',
+    1 => 'CA',
+    2 => '39.19',
+    3 => '-120.83',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  15 => 
+  array (
+    0 => 'Emigrant Gap',
+    1 => 'CA',
+    2 => '39.25',
+    3 => '-120.69',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  17 => 
+  array (
+    0 => 'Gold Run',
+    1 => 'CA',
+    2 => '39.13',
+    3 => '-120.83',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  20 => 
+  array (
+    0 => 'Kyburz',
+    1 => 'CA',
+    2 => '38.77',
+    3 => '-120.26',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  21 => 
+  array (
+    0 => 'Echo Lake',
+    1 => 'CA',
+    2 => '38.84',
+    3 => '-120.07',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  22 => 
+  array (
+    0 => 'Meadow Vista',
+    1 => 'CA',
+    2 => '39',
+    3 => '-121.03',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  24 => 
+  array (
+    0 => 'Norden',
+    1 => 'CA',
+    2 => '39.31',
+    3 => '-120.43',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  26 => 
+  array (
+    0 => 'Pollock Pines',
+    1 => 'CA',
+    2 => '38.74',
+    3 => '-120.57',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  28 => 
+  array (
+    0 => 'Soda Springs',
+    1 => 'CA',
+    2 => '39.27',
+    3 => '-120.41',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  35 => 
+  array (
+    0 => 'Twin Bridges',
+    1 => 'CA',
+    2 => '38.83',
+    3 => '-120.18',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  36 => 
+  array (
+    0 => 'Weimar',
+    1 => 'CA',
+    2 => '39.03',
+    3 => '-120.96',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  41 => 
+  array (
+    0 => 'Rancho Cordova',
+    1 => 'CA',
+    2 => '38.58',
+    3 => '-121.3',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  42 => 
+  array (
+    0 => 'Rancho Cordova',
+    1 => 'CA',
+    2 => '38.57',
+    3 => '-121.17',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  46 => 
+  array (
+    0 => 'Granite Bay',
+    1 => 'CA',
+    2 => '38.76',
+    3 => '-121.16',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  47 => 
+  array (
+    0 => 'Roseville',
+    1 => 'CA',
+    2 => '38.78',
+    3 => '-121.37',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  57 => 
+  array (
+    0 => 'Elk Grove',
+    1 => 'CA',
+    2 => '38.35',
+    3 => '-121.42',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  58 => 
+  array (
+    0 => 'Elk Grove',
+    1 => 'CA',
+    2 => '38.34',
+    3 => '-121.42',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  59 => 
+  array (
+    0 => 'Elk Grove',
+    1 => 'CA',
+    2 => '38.4',
+    3 => '-121.37',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  62 => 
+  array (
+    0 => 'El Dorado Hills',
+    1 => 'CA',
+    2 => '38.68',
+    3 => '-121.05',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  63 => 
+  array (
+    0 => 'Folsom',
+    1 => 'CA',
+    2 => '38.67',
+    3 => '-121.17',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  65 => 
+  array (
+    0 => 'Rocklin',
+    1 => 'CA',
+    2 => '38.81',
+    3 => '-121.28',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  76 => 
+  array (
+    0 => 'Woodland',
+    1 => 'CA',
+    2 => '38.69',
+    3 => '-121.68',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  98 => 
+  array (
+    0 => 'West Sacramento',
+    1 => 'CA',
+    2 => '38.57',
+    3 => '-121.56',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  99 => 
+  array (
+    0 => 'West Sacramento',
+    1 => 'CA',
+    2 => '38.53',
+    3 => '-121.55',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+);

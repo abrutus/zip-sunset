@@ -1,0 +1,497 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Salt Lake City',
+    1 => 'UT',
+    2 => '40.75',
+    3 => '-111.9',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  '02' => 
+  array (
+    0 => 'Salt Lake City',
+    1 => 'UT',
+    2 => '40.75',
+    3 => '-111.86',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  '03' => 
+  array (
+    0 => 'Salt Lake City',
+    1 => 'UT',
+    2 => '40.79',
+    3 => '-111.82',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  '04' => 
+  array (
+    0 => 'Salt Lake City',
+    1 => 'UT',
+    2 => '40.74',
+    3 => '-111.98',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  '05' => 
+  array (
+    0 => 'Salt Lake City',
+    1 => 'UT',
+    2 => '40.73',
+    3 => '-111.85',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  '06' => 
+  array (
+    0 => 'Salt Lake City',
+    1 => 'UT',
+    2 => '40.7',
+    3 => '-111.85',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  '07' => 
+  array (
+    0 => 'Salt Lake City',
+    1 => 'UT',
+    2 => '40.65',
+    3 => '-111.88',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  '08' => 
+  array (
+    0 => 'Salt Lake City',
+    1 => 'UT',
+    2 => '40.78',
+    3 => '-111.73',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  '09' => 
+  array (
+    0 => 'Salt Lake City',
+    1 => 'UT',
+    2 => '40.7',
+    3 => '-111.71',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  10 => 
+  array (
+    0 => 'Salt Lake City',
+    1 => 'UT',
+    2 => '40.75',
+    3 => '-111.9',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  11 => 
+  array (
+    0 => 'Salt Lake City',
+    1 => 'UT',
+    2 => '40.75',
+    3 => '-111.88',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  12 => 
+  array (
+    0 => 'Salt Lake City',
+    1 => 'UT',
+    2 => '40.76',
+    3 => '-111.84',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  13 => 
+  array (
+    0 => 'Salt Lake City',
+    1 => 'UT',
+    2 => '40.76',
+    3 => '-111.83',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  14 => 
+  array (
+    0 => 'Salt Lake City',
+    1 => 'UT',
+    2 => '40.77',
+    3 => '-111.89',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  15 => 
+  array (
+    0 => 'Salt Lake City',
+    1 => 'UT',
+    2 => '40.71',
+    3 => '-111.89',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  16 => 
+  array (
+    0 => 'Salt Lake City',
+    1 => 'UT',
+    2 => '40.81',
+    3 => '-111.94',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  17 => 
+  array (
+    0 => 'Salt Lake City',
+    1 => 'UT',
+    2 => '40.65',
+    3 => '-111.83',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  18 => 
+  array (
+    0 => 'Salt Lake City',
+    1 => 'UT',
+    2 => '40.65',
+    3 => '-112.01',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  19 => 
+  array (
+    0 => 'Salt Lake City',
+    1 => 'UT',
+    2 => '40.7',
+    3 => '-111.94',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  20 => 
+  array (
+    0 => 'Salt Lake City',
+    1 => 'UT',
+    2 => '40.69',
+    3 => '-111.99',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  21 => 
+  array (
+    0 => 'Salt Lake City',
+    1 => 'UT',
+    2 => '40.62',
+    3 => '-111.71',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  22 => 
+  array (
+    0 => 'Salt Lake City',
+    1 => 'UT',
+    2 => '40.79',
+    3 => '-111.96',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  23 => 
+  array (
+    0 => 'Salt Lake City',
+    1 => 'UT',
+    2 => '40.65',
+    3 => '-111.92',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  24 => 
+  array (
+    0 => 'Salt Lake City',
+    1 => 'UT',
+    2 => '40.67',
+    3 => '-111.79',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  25 => 
+  array (
+    0 => 'Salt Lake City',
+    1 => 'UT',
+    2 => '40.7',
+    3 => '-111.94',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  26 => 
+  array (
+    0 => 'Salt Lake City',
+    1 => 'UT',
+    2 => '40.7',
+    3 => '-111.94',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  27 => 
+  array (
+    0 => 'Salt Lake City',
+    1 => 'UT',
+    2 => '40.7',
+    3 => '-111.94',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  28 => 
+  array (
+    0 => 'Salt Lake City',
+    1 => 'UT',
+    2 => '40.7',
+    3 => '-112.05',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  30 => 
+  array (
+    0 => 'Salt Lake City',
+    1 => 'UT',
+    2 => '40.7',
+    3 => '-111.94',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  31 => 
+  array (
+    0 => 'Salt Lake City',
+    1 => 'UT',
+    2 => '40.7',
+    3 => '-111.94',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  32 => 
+  array (
+    0 => 'Salt Lake City',
+    1 => 'UT',
+    2 => '40.76',
+    3 => '-111.84',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  33 => 
+  array (
+    0 => 'Salt Lake City',
+    1 => 'UT',
+    2 => '40.76',
+    3 => '-111.89',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  34 => 
+  array (
+    0 => 'Salt Lake City',
+    1 => 'UT',
+    2 => '40.77',
+    3 => '-111.94',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  36 => 
+  array (
+    0 => 'Salt Lake City',
+    1 => 'UT',
+    2 => '40.76',
+    3 => '-111.88',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  38 => 
+  array (
+    0 => 'Salt Lake City',
+    1 => 'UT',
+    2 => '40.75',
+    3 => '-111.88',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  39 => 
+  array (
+    0 => 'Salt Lake City',
+    1 => 'UT',
+    2 => '40.76',
+    3 => '-111.88',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  41 => 
+  array (
+    0 => 'Salt Lake City',
+    1 => 'UT',
+    2 => '40.66',
+    3 => '-111.86',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  43 => 
+  array (
+    0 => 'Salt Lake City',
+    1 => 'UT',
+    2 => '40.77',
+    3 => '-111.88',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  44 => 
+  array (
+    0 => 'Salt Lake City',
+    1 => 'UT',
+    2 => '40.76',
+    3 => '-111.89',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  45 => 
+  array (
+    0 => 'Salt Lake City',
+    1 => 'UT',
+    2 => '40.75',
+    3 => '-111.9',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  47 => 
+  array (
+    0 => 'Salt Lake City',
+    1 => 'UT',
+    2 => '40.75',
+    3 => '-111.88',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  48 => 
+  array (
+    0 => 'Salt Lake City',
+    1 => 'UT',
+    2 => '40.75',
+    3 => '-111.83',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  50 => 
+  array (
+    0 => 'Salt Lake City',
+    1 => 'UT',
+    2 => '40.77',
+    3 => '-111.88',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  51 => 
+  array (
+    0 => 'Salt Lake City',
+    1 => 'UT',
+    2 => '40.78',
+    3 => '-111.94',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  52 => 
+  array (
+    0 => 'Salt Lake City',
+    1 => 'UT',
+    2 => '40.72',
+    3 => '-111.86',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  57 => 
+  array (
+    0 => 'Salt Lake City',
+    1 => 'UT',
+    2 => '40.65',
+    3 => '-111.88',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  58 => 
+  array (
+    0 => 'Salt Lake City',
+    1 => 'UT',
+    2 => '40.73',
+    3 => '-111.81',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  65 => 
+  array (
+    0 => 'Salt Lake City',
+    1 => 'UT',
+    2 => '40.71',
+    3 => '-111.89',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  70 => 
+  array (
+    0 => 'Salt Lake City',
+    1 => 'UT',
+    2 => '40.69',
+    3 => '-112.01',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  71 => 
+  array (
+    0 => 'Salt Lake City',
+    1 => 'UT',
+    2 => '40.62',
+    3 => '-111.8',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  80 => 
+  array (
+    0 => 'Salt Lake City',
+    1 => 'UT',
+    2 => '40.77',
+    3 => '-111.9',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  84 => 
+  array (
+    0 => 'Salt Lake City',
+    1 => 'UT',
+    2 => '40.67',
+    3 => '-111.95',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  89 => 
+  array (
+    0 => 'Salt Lake City',
+    1 => 'UT',
+    2 => '40.76',
+    3 => '-111.89',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  90 => 
+  array (
+    0 => 'Salt Lake City',
+    1 => 'UT',
+    2 => '40.72',
+    3 => '-111.88',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  99 => 
+  array (
+    0 => 'Salt Lake City',
+    1 => 'UT',
+    2 => '40.72',
+    3 => '-111.94',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+);

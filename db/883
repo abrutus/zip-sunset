@@ -1,0 +1,299 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Carrizozo',
+    1 => 'NM',
+    2 => '33.64',
+    3 => '-105.88',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  10 => 
+  array (
+    0 => 'Alamogordo',
+    1 => 'NM',
+    2 => '32.88',
+    3 => '-105.95',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  11 => 
+  array (
+    0 => 'Alamogordo',
+    1 => 'NM',
+    2 => '32.88',
+    3 => '-105.95',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  12 => 
+  array (
+    0 => 'Alto',
+    1 => 'NM',
+    2 => '33.39',
+    3 => '-105.68',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  14 => 
+  array (
+    0 => 'Bent',
+    1 => 'NM',
+    2 => '33.15',
+    3 => '-105.88',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  16 => 
+  array (
+    0 => 'Capitan',
+    1 => 'NM',
+    2 => '33.54',
+    3 => '-105.59',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  17 => 
+  array (
+    0 => 'Cloudcroft',
+    1 => 'NM',
+    2 => '32.95',
+    3 => '-105.73',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  18 => 
+  array (
+    0 => 'Corona',
+    1 => 'NM',
+    2 => '34.24',
+    3 => '-105.59',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  21 => 
+  array (
+    0 => 'Encino',
+    1 => 'NM',
+    2 => '34.65',
+    3 => '-105.45',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  23 => 
+  array (
+    0 => 'Fort Stanton',
+    1 => 'NM',
+    2 => '33.49',
+    3 => '-105.52',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  24 => 
+  array (
+    0 => 'Glencoe',
+    1 => 'NM',
+    2 => '33.4',
+    3 => '-105.44',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  25 => 
+  array (
+    0 => 'High Rolls Mountain Park',
+    1 => 'NM',
+    2 => '32.97',
+    3 => '-105.79',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  30 => 
+  array (
+    0 => 'Holloman Air Force Base',
+    1 => 'NM',
+    2 => '32.83',
+    3 => '-106.11',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  36 => 
+  array (
+    0 => 'Hondo',
+    1 => 'NM',
+    2 => '33.38',
+    3 => '-105.27',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  37 => 
+  array (
+    0 => 'La Luz',
+    1 => 'NM',
+    2 => '32.97',
+    3 => '-105.93',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  38 => 
+  array (
+    0 => 'Lincoln',
+    1 => 'NM',
+    2 => '33.49',
+    3 => '-105.38',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  39 => 
+  array (
+    0 => 'Mayhill',
+    1 => 'NM',
+    2 => '32.88',
+    3 => '-105.47',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  40 => 
+  array (
+    0 => 'Mescalero',
+    1 => 'NM',
+    2 => '33.15',
+    3 => '-105.79',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  41 => 
+  array (
+    0 => 'Nogal',
+    1 => 'NM',
+    2 => '33.55',
+    3 => '-105.7',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  42 => 
+  array (
+    0 => 'Orogrande',
+    1 => 'NM',
+    2 => '32.37',
+    3 => '-106.08',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  43 => 
+  array (
+    0 => 'Picacho',
+    1 => 'NM',
+    2 => '33.35',
+    3 => '-105.14',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  44 => 
+  array (
+    0 => 'Pinon',
+    1 => 'NM',
+    2 => '32.61',
+    3 => '-105.39',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  45 => 
+  array (
+    0 => 'Ruidoso',
+    1 => 'NM',
+    2 => '33.36',
+    3 => '-105.64',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  46 => 
+  array (
+    0 => 'Ruidoso Downs',
+    1 => 'NM',
+    2 => '33.33',
+    3 => '-105.6',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  47 => 
+  array (
+    0 => 'Sacramento',
+    1 => 'NM',
+    2 => '32.79',
+    3 => '-105.56',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  48 => 
+  array (
+    0 => 'San Patricio',
+    1 => 'NM',
+    2 => '33.4',
+    3 => '-105.32',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  49 => 
+  array (
+    0 => 'Sunspot',
+    1 => 'NM',
+    2 => '32.8',
+    3 => '-105.78',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  50 => 
+  array (
+    0 => 'Timberon',
+    1 => 'NM',
+    2 => '32.63',
+    3 => '-105.69',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  51 => 
+  array (
+    0 => 'Tinnie',
+    1 => 'NM',
+    2 => '33.27',
+    3 => '-105.13',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  52 => 
+  array (
+    0 => 'Tularosa',
+    1 => 'NM',
+    2 => '33.07',
+    3 => '-106.02',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  53 => 
+  array (
+    0 => 'Vaughn',
+    1 => 'NM',
+    2 => '34.6',
+    3 => '-105.21',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  54 => 
+  array (
+    0 => 'Weed',
+    1 => 'NM',
+    2 => '32.8',
+    3 => '-105.51',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  55 => 
+  array (
+    0 => 'Ruidoso',
+    1 => 'NM',
+    2 => '33.36',
+    3 => '-105.64',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+);

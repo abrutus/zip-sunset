@@ -1,0 +1,452 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Waterbury',
+    1 => 'CT',
+    2 => '41.55',
+    3 => '-73.03',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '02' => 
+  array (
+    0 => 'Waterbury',
+    1 => 'CT',
+    2 => '41.55',
+    3 => '-73.03',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '03' => 
+  array (
+    0 => 'Waterbury',
+    1 => 'CT',
+    2 => '41.55',
+    3 => '-73.03',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '04' => 
+  array (
+    0 => 'Waterbury',
+    1 => 'CT',
+    2 => '41.55',
+    3 => '-73.03',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '05' => 
+  array (
+    0 => 'Waterbury',
+    1 => 'CT',
+    2 => '41.55',
+    3 => '-73.03',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '06' => 
+  array (
+    0 => 'Waterbury',
+    1 => 'CT',
+    2 => '41.55',
+    3 => '-73.03',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '08' => 
+  array (
+    0 => 'Waterbury',
+    1 => 'CT',
+    2 => '41.55',
+    3 => '-73.03',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  10 => 
+  array (
+    0 => 'Waterbury',
+    1 => 'CT',
+    2 => '41.55',
+    3 => '-73.03',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  12 => 
+  array (
+    0 => 'Prospect',
+    1 => 'CT',
+    2 => '41.49',
+    3 => '-72.97',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  16 => 
+  array (
+    0 => 'Wolcott',
+    1 => 'CT',
+    2 => '41.61',
+    3 => '-72.98',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  20 => 
+  array (
+    0 => 'Waterbury',
+    1 => 'CT',
+    2 => '41.55',
+    3 => '-73.03',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  21 => 
+  array (
+    0 => 'Waterbury',
+    1 => 'CT',
+    2 => '41.55',
+    3 => '-73.03',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  22 => 
+  array (
+    0 => 'Waterbury',
+    1 => 'CT',
+    2 => '41.55',
+    3 => '-73.03',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  23 => 
+  array (
+    0 => 'Waterbury',
+    1 => 'CT',
+    2 => '41.55',
+    3 => '-73.03',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  24 => 
+  array (
+    0 => 'Waterbury',
+    1 => 'CT',
+    2 => '41.55',
+    3 => '-73.03',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  25 => 
+  array (
+    0 => 'Waterbury',
+    1 => 'CT',
+    2 => '41.55',
+    3 => '-73.03',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  26 => 
+  array (
+    0 => 'Waterbury',
+    1 => 'CT',
+    2 => '41.55',
+    3 => '-73.03',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  49 => 
+  array (
+    0 => 'Waterbury',
+    1 => 'CT',
+    2 => '41.55',
+    3 => '-73.03',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  50 => 
+  array (
+    0 => 'Bantam',
+    1 => 'CT',
+    2 => '41.72',
+    3 => '-73.24',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  51 => 
+  array (
+    0 => 'Bethlehem',
+    1 => 'CT',
+    2 => '41.63',
+    3 => '-73.21',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  52 => 
+  array (
+    0 => 'Bridgewater',
+    1 => 'CT',
+    2 => '41.52',
+    3 => '-73.36',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  53 => 
+  array (
+    0 => 'Cornwall',
+    1 => 'CT',
+    2 => '41.84',
+    3 => '-73.33',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  54 => 
+  array (
+    0 => 'Cornwall Bridge',
+    1 => 'CT',
+    2 => '41.81',
+    3 => '-73.37',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  55 => 
+  array (
+    0 => 'Gaylordsville',
+    1 => 'CT',
+    2 => '41.64',
+    3 => '-73.48',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  56 => 
+  array (
+    0 => 'Goshen',
+    1 => 'CT',
+    2 => '41.85',
+    3 => '-73.23',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  57 => 
+  array (
+    0 => 'Kent',
+    1 => 'CT',
+    2 => '41.72',
+    3 => '-73.47',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  58 => 
+  array (
+    0 => 'Lakeside',
+    1 => 'CT',
+    2 => '41.68',
+    3 => '-73.23',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  59 => 
+  array (
+    0 => 'Litchfield',
+    1 => 'CT',
+    2 => '41.74',
+    3 => '-73.19',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  62 => 
+  array (
+    0 => 'Middlebury',
+    1 => 'CT',
+    2 => '41.52',
+    3 => '-73.12',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  63 => 
+  array (
+    0 => 'Morris',
+    1 => 'CT',
+    2 => '41.68',
+    3 => '-73.17',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  70 => 
+  array (
+    0 => 'Naugatuck',
+    1 => 'CT',
+    2 => '41.48',
+    3 => '-73.05',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  76 => 
+  array (
+    0 => 'New Milford',
+    1 => 'CT',
+    2 => '41.58',
+    3 => '-73.4',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  77 => 
+  array (
+    0 => 'New Preston Marble Dale',
+    1 => 'CT',
+    2 => '41.69',
+    3 => '-73.34',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  78 => 
+  array (
+    0 => 'Northfield',
+    1 => 'CT',
+    2 => '41.71',
+    3 => '-73.12',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  79 => 
+  array (
+    0 => 'Oakville',
+    1 => 'CT',
+    2 => '41.59',
+    3 => '-73.08',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  81 => 
+  array (
+    0 => 'Pequabuck',
+    1 => 'CT',
+    2 => '41.67',
+    3 => '-73',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  82 => 
+  array (
+    0 => 'Plymouth',
+    1 => 'CT',
+    2 => '41.65',
+    3 => '-73.04',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  83 => 
+  array (
+    0 => 'Roxbury',
+    1 => 'CT',
+    2 => '41.55',
+    3 => '-73.3',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  84 => 
+  array (
+    0 => 'Sherman',
+    1 => 'CT',
+    2 => '41.58',
+    3 => '-73.5',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  85 => 
+  array (
+    0 => 'South Kent',
+    1 => 'CT',
+    2 => '41.69',
+    3 => '-73.46',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  86 => 
+  array (
+    0 => 'Terryville',
+    1 => 'CT',
+    2 => '41.67',
+    3 => '-73',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  87 => 
+  array (
+    0 => 'Thomaston',
+    1 => 'CT',
+    2 => '41.67',
+    3 => '-73.07',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  90 => 
+  array (
+    0 => 'Torrington',
+    1 => 'CT',
+    2 => '41.83',
+    3 => '-73.12',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  91 => 
+  array (
+    0 => 'Harwinton',
+    1 => 'CT',
+    2 => '41.75',
+    3 => '-73.05',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  92 => 
+  array (
+    0 => 'Torrington',
+    1 => 'CT',
+    2 => '41.77',
+    3 => '-73.06',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  93 => 
+  array (
+    0 => 'Washington',
+    1 => 'CT',
+    2 => '41.63',
+    3 => '-73.28',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  94 => 
+  array (
+    0 => 'Washington Depot',
+    1 => 'CT',
+    2 => '41.65',
+    3 => '-73.32',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  95 => 
+  array (
+    0 => 'Watertown',
+    1 => 'CT',
+    2 => '41.61',
+    3 => '-73.12',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  96 => 
+  array (
+    0 => 'West Cornwall',
+    1 => 'CT',
+    2 => '41.87',
+    3 => '-73.33',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  98 => 
+  array (
+    0 => 'Woodbury',
+    1 => 'CT',
+    2 => '41.56',
+    3 => '-73.2',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

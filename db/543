@@ -1,0 +1,110 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Green Bay',
+    1 => 'WI',
+    2 => '44.52',
+    3 => '-87.98',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '02' => 
+  array (
+    0 => 'Green Bay',
+    1 => 'WI',
+    2 => '44.52',
+    3 => '-87.98',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '03' => 
+  array (
+    0 => 'Green Bay',
+    1 => 'WI',
+    2 => '44.52',
+    3 => '-87.98',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '04' => 
+  array (
+    0 => 'Green Bay',
+    1 => 'WI',
+    2 => '44.52',
+    3 => '-87.98',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '05' => 
+  array (
+    0 => 'Green Bay',
+    1 => 'WI',
+    2 => '44.52',
+    3 => '-87.98',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '06' => 
+  array (
+    0 => 'Green Bay',
+    1 => 'WI',
+    2 => '44.52',
+    3 => '-87.98',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '07' => 
+  array (
+    0 => 'Green Bay',
+    1 => 'WI',
+    2 => '44.52',
+    3 => '-87.98',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '08' => 
+  array (
+    0 => 'Green Bay',
+    1 => 'WI',
+    2 => '44.52',
+    3 => '-87.98',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  11 => 
+  array (
+    0 => 'Green Bay',
+    1 => 'WI',
+    2 => '44.52',
+    3 => '-87.98',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  13 => 
+  array (
+    0 => 'Green Bay',
+    1 => 'WI',
+    2 => '44.52',
+    3 => '-87.98',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  24 => 
+  array (
+    0 => 'Green Bay',
+    1 => 'WI',
+    2 => '44.52',
+    3 => '-87.98',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  44 => 
+  array (
+    0 => 'Green Bay',
+    1 => 'WI',
+    2 => '44.52',
+    3 => '-87.98',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+);

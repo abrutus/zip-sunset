@@ -1,0 +1,182 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Chattanooga',
+    1 => 'TN',
+    2 => '35.06',
+    3 => '-85.25',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '02' => 
+  array (
+    0 => 'Chattanooga',
+    1 => 'TN',
+    2 => '35.06',
+    3 => '-85.25',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '03' => 
+  array (
+    0 => 'Chattanooga',
+    1 => 'TN',
+    2 => '35.06',
+    3 => '-85.25',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '04' => 
+  array (
+    0 => 'Chattanooga',
+    1 => 'TN',
+    2 => '35.06',
+    3 => '-85.25',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '05' => 
+  array (
+    0 => 'Chattanooga',
+    1 => 'TN',
+    2 => '35.06',
+    3 => '-85.25',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '06' => 
+  array (
+    0 => 'Chattanooga',
+    1 => 'TN',
+    2 => '35.06',
+    3 => '-85.25',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '07' => 
+  array (
+    0 => 'Chattanooga',
+    1 => 'TN',
+    2 => '35.06',
+    3 => '-85.25',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '08' => 
+  array (
+    0 => 'Chattanooga',
+    1 => 'TN',
+    2 => '35.06',
+    3 => '-85.25',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '09' => 
+  array (
+    0 => 'Chattanooga',
+    1 => 'TN',
+    2 => '35.06',
+    3 => '-85.25',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  10 => 
+  array (
+    0 => 'Chattanooga',
+    1 => 'TN',
+    2 => '35.06',
+    3 => '-85.25',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  11 => 
+  array (
+    0 => 'Chattanooga',
+    1 => 'TN',
+    2 => '35.06',
+    3 => '-85.25',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  12 => 
+  array (
+    0 => 'Chattanooga',
+    1 => 'TN',
+    2 => '35.06',
+    3 => '-85.25',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  14 => 
+  array (
+    0 => 'Chattanooga',
+    1 => 'TN',
+    2 => '35.06',
+    3 => '-85.25',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  15 => 
+  array (
+    0 => 'Chattanooga',
+    1 => 'TN',
+    2 => '35.06',
+    3 => '-85.25',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  16 => 
+  array (
+    0 => 'Chattanooga',
+    1 => 'TN',
+    2 => '35.06',
+    3 => '-85.25',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  19 => 
+  array (
+    0 => 'Chattanooga',
+    1 => 'TN',
+    2 => '35.06',
+    3 => '-85.25',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  21 => 
+  array (
+    0 => 'Chattanooga',
+    1 => 'TN',
+    2 => '35.06',
+    3 => '-85.25',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  22 => 
+  array (
+    0 => 'Chattanooga',
+    1 => 'TN',
+    2 => '35.06',
+    3 => '-85.25',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  24 => 
+  array (
+    0 => 'Chattanooga',
+    1 => 'TN',
+    2 => '35.06',
+    3 => '-85.25',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  50 => 
+  array (
+    0 => 'Chattanooga',
+    1 => 'TN',
+    2 => '35.06',
+    3 => '-85.25',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

@@ -1,0 +1,74 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Portsmouth',
+    1 => 'VA',
+    2 => '36.83',
+    3 => '-76.29',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '02' => 
+  array (
+    0 => 'Portsmouth',
+    1 => 'VA',
+    2 => '36.83',
+    3 => '-76.29',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '03' => 
+  array (
+    0 => 'Portsmouth',
+    1 => 'VA',
+    2 => '36.83',
+    3 => '-76.29',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '04' => 
+  array (
+    0 => 'Portsmouth',
+    1 => 'VA',
+    2 => '36.83',
+    3 => '-76.29',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '05' => 
+  array (
+    0 => 'Portsmouth',
+    1 => 'VA',
+    2 => '36.83',
+    3 => '-76.29',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '07' => 
+  array (
+    0 => 'Portsmouth',
+    1 => 'VA',
+    2 => '36.83',
+    3 => '-76.29',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '08' => 
+  array (
+    0 => 'Portsmouth',
+    1 => 'VA',
+    2 => '36.83',
+    3 => '-76.29',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '09' => 
+  array (
+    0 => 'Portsmouth',
+    1 => 'VA',
+    2 => '36.83',
+    3 => '-76.29',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

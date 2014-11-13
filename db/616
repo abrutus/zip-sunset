@@ -1,0 +1,299 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Peoria',
+    1 => 'IL',
+    2 => '40.74',
+    3 => '-89.6',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '02' => 
+  array (
+    0 => 'Peoria',
+    1 => 'IL',
+    2 => '40.74',
+    3 => '-89.6',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '03' => 
+  array (
+    0 => 'Peoria',
+    1 => 'IL',
+    2 => '40.74',
+    3 => '-89.6',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '04' => 
+  array (
+    0 => 'Peoria',
+    1 => 'IL',
+    2 => '40.74',
+    3 => '-89.6',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '05' => 
+  array (
+    0 => 'Peoria',
+    1 => 'IL',
+    2 => '40.74',
+    3 => '-89.6',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '06' => 
+  array (
+    0 => 'Peoria',
+    1 => 'IL',
+    2 => '40.74',
+    3 => '-89.6',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '07' => 
+  array (
+    0 => 'Peoria',
+    1 => 'IL',
+    2 => '40.74',
+    3 => '-89.6',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  10 => 
+  array (
+    0 => 'Creve Coeur',
+    1 => 'IL',
+    2 => '40.64',
+    3 => '-89.59',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  11 => 
+  array (
+    0 => 'East Peoria',
+    1 => 'IL',
+    2 => '40.67',
+    3 => '-89.54',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  12 => 
+  array (
+    0 => 'Peoria',
+    1 => 'IL',
+    2 => '40.74',
+    3 => '-89.6',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  13 => 
+  array (
+    0 => 'Peoria',
+    1 => 'IL',
+    2 => '40.74',
+    3 => '-89.6',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  14 => 
+  array (
+    0 => 'Peoria',
+    1 => 'IL',
+    2 => '40.74',
+    3 => '-89.6',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  15 => 
+  array (
+    0 => 'Peoria',
+    1 => 'IL',
+    2 => '40.74',
+    3 => '-89.6',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  16 => 
+  array (
+    0 => 'Peoria Heights',
+    1 => 'IL',
+    2 => '40.74',
+    3 => '-89.57',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  25 => 
+  array (
+    0 => 'Peoria',
+    1 => 'IL',
+    2 => '40.74',
+    3 => '-89.6',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  29 => 
+  array (
+    0 => 'Peoria',
+    1 => 'IL',
+    2 => '40.74',
+    3 => '-89.6',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  30 => 
+  array (
+    0 => 'Peoria',
+    1 => 'IL',
+    2 => '40.74',
+    3 => '-89.6',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  33 => 
+  array (
+    0 => 'Peoria',
+    1 => 'IL',
+    2 => '40.74',
+    3 => '-89.6',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  34 => 
+  array (
+    0 => 'Peoria',
+    1 => 'IL',
+    2 => '40.74',
+    3 => '-89.6',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  35 => 
+  array (
+    0 => 'East Peoria',
+    1 => 'IL',
+    2 => '40.74',
+    3 => '-89.6',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  36 => 
+  array (
+    0 => 'Peoria',
+    1 => 'IL',
+    2 => '40.74',
+    3 => '-89.6',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  37 => 
+  array (
+    0 => 'Peoria',
+    1 => 'IL',
+    2 => '40.74',
+    3 => '-89.6',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  38 => 
+  array (
+    0 => 'Peoria',
+    1 => 'IL',
+    2 => '40.74',
+    3 => '-89.6',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  39 => 
+  array (
+    0 => 'Peoria',
+    1 => 'IL',
+    2 => '40.74',
+    3 => '-89.6',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  41 => 
+  array (
+    0 => 'Peoria',
+    1 => 'IL',
+    2 => '40.74',
+    3 => '-89.6',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  43 => 
+  array (
+    0 => 'Peoria',
+    1 => 'IL',
+    2 => '40.74',
+    3 => '-89.6',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  50 => 
+  array (
+    0 => 'Peoria',
+    1 => 'IL',
+    2 => '40.74',
+    3 => '-89.6',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  51 => 
+  array (
+    0 => 'Peoria',
+    1 => 'IL',
+    2 => '40.74',
+    3 => '-89.6',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  52 => 
+  array (
+    0 => 'Peoria',
+    1 => 'IL',
+    2 => '40.74',
+    3 => '-89.6',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  53 => 
+  array (
+    0 => 'Peoria',
+    1 => 'IL',
+    2 => '40.74',
+    3 => '-89.6',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  54 => 
+  array (
+    0 => 'Peoria',
+    1 => 'IL',
+    2 => '40.74',
+    3 => '-89.6',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  55 => 
+  array (
+    0 => 'Peoria',
+    1 => 'IL',
+    2 => '40.74',
+    3 => '-89.6',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  56 => 
+  array (
+    0 => 'Peoria',
+    1 => 'IL',
+    2 => '40.74',
+    3 => '-89.6',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+);

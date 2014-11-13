@@ -1,0 +1,839 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Alameda',
+    1 => 'CA',
+    2 => '37.77',
+    3 => '-122.27',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '02' => 
+  array (
+    0 => 'Alameda',
+    1 => 'CA',
+    2 => '37.73',
+    3 => '-122.24',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '03' => 
+  array (
+    0 => 'American Canyon',
+    1 => 'CA',
+    2 => '38.18',
+    3 => '-122.25',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '05' => 
+  array (
+    0 => 'Discovery Bay',
+    1 => 'CA',
+    2 => '37.86',
+    3 => '-121.64',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '06' => 
+  array (
+    0 => 'Danville',
+    1 => 'CA',
+    2 => '37.78',
+    3 => '-121.88',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '07' => 
+  array (
+    0 => 'Alamo',
+    1 => 'CA',
+    2 => '37.84',
+    3 => '-121.97',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '08' => 
+  array (
+    0 => 'Angwin',
+    1 => 'CA',
+    2 => '38.57',
+    3 => '-122.44',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '09' => 
+  array (
+    0 => 'Antioch',
+    1 => 'CA',
+    2 => '37.99',
+    3 => '-121.81',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  10 => 
+  array (
+    0 => 'Benicia',
+    1 => 'CA',
+    2 => '38.11',
+    3 => '-122.13',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  11 => 
+  array (
+    0 => 'Bethel Island',
+    1 => 'CA',
+    2 => '38.07',
+    3 => '-121.62',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  12 => 
+  array (
+    0 => 'Birds Landing',
+    1 => 'CA',
+    2 => '38.12',
+    3 => '-121.81',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  13 => 
+  array (
+    0 => 'Brentwood',
+    1 => 'CA',
+    2 => '37.87',
+    3 => '-121.68',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  14 => 
+  array (
+    0 => 'Byron',
+    1 => 'CA',
+    2 => '37.85',
+    3 => '-121.62',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  15 => 
+  array (
+    0 => 'Calistoga',
+    1 => 'CA',
+    2 => '38.62',
+    3 => '-122.61',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  16 => 
+  array (
+    0 => 'Canyon',
+    1 => 'CA',
+    2 => '37.82',
+    3 => '-122.16',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  17 => 
+  array (
+    0 => 'Clayton',
+    1 => 'CA',
+    2 => '37.88',
+    3 => '-121.84',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  18 => 
+  array (
+    0 => 'Concord',
+    1 => 'CA',
+    2 => '37.95',
+    3 => '-122.02',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  19 => 
+  array (
+    0 => 'Concord',
+    1 => 'CA',
+    2 => '37.99',
+    3 => '-122',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  20 => 
+  array (
+    0 => 'Concord',
+    1 => 'CA',
+    2 => '38',
+    3 => '-122.03',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  21 => 
+  array (
+    0 => 'Concord',
+    1 => 'CA',
+    2 => '37.97',
+    3 => '-121.96',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  22 => 
+  array (
+    0 => 'Concord',
+    1 => 'CA',
+    2 => '38.01',
+    3 => '-122.02',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  23 => 
+  array (
+    0 => 'Pleasant Hill',
+    1 => 'CA',
+    2 => '37.95',
+    3 => '-122.07',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  24 => 
+  array (
+    0 => 'Concord',
+    1 => 'CA',
+    2 => '37.97',
+    3 => '-122.05',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  25 => 
+  array (
+    0 => 'Crockett',
+    1 => 'CA',
+    2 => '38.04',
+    3 => '-122.23',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  26 => 
+  array (
+    0 => 'Danville',
+    1 => 'CA',
+    2 => '37.81',
+    3 => '-121.97',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  27 => 
+  array (
+    0 => 'Concord',
+    1 => 'CA',
+    2 => '37.97',
+    3 => '-122.05',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  28 => 
+  array (
+    0 => 'Diablo',
+    1 => 'CA',
+    2 => '37.83',
+    3 => '-121.95',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  29 => 
+  array (
+    0 => 'Concord',
+    1 => 'CA',
+    2 => '37.87',
+    3 => '-122.04',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  30 => 
+  array (
+    0 => 'El Cerrito',
+    1 => 'CA',
+    2 => '37.91',
+    3 => '-122.3',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  31 => 
+  array (
+    0 => 'Antioch',
+    1 => 'CA',
+    2 => '37.96',
+    3 => '-121.76',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  33 => 
+  array (
+    0 => 'Fairfield',
+    1 => 'CA',
+    2 => '38.28',
+    3 => '-122',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  34 => 
+  array (
+    0 => 'Fairfield',
+    1 => 'CA',
+    2 => '38.23',
+    3 => '-122.12',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  35 => 
+  array (
+    0 => 'Travis Afb',
+    1 => 'CA',
+    2 => '38.26',
+    3 => '-121.93',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  36 => 
+  array (
+    0 => 'Fremont',
+    1 => 'CA',
+    2 => '37.56',
+    3 => '-121.98',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  37 => 
+  array (
+    0 => 'Fremont',
+    1 => 'CA',
+    2 => '37.55',
+    3 => '-122.01',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  38 => 
+  array (
+    0 => 'Fremont',
+    1 => 'CA',
+    2 => '37.5',
+    3 => '-121.96',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  39 => 
+  array (
+    0 => 'Fremont',
+    1 => 'CA',
+    2 => '37.51',
+    3 => '-121.89',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  40 => 
+  array (
+    0 => 'Hayward',
+    1 => 'CA',
+    2 => '37.65',
+    3 => '-122.09',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  41 => 
+  array (
+    0 => 'Hayward',
+    1 => 'CA',
+    2 => '37.67',
+    3 => '-122.08',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  42 => 
+  array (
+    0 => 'Hayward',
+    1 => 'CA',
+    2 => '37.65',
+    3 => '-122.04',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  43 => 
+  array (
+    0 => 'Hayward',
+    1 => 'CA',
+    2 => '37.67',
+    3 => '-122.08',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  44 => 
+  array (
+    0 => 'Hayward',
+    1 => 'CA',
+    2 => '37.63',
+    3 => '-122.04',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  45 => 
+  array (
+    0 => 'Hayward',
+    1 => 'CA',
+    2 => '37.62',
+    3 => '-122.11',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  46 => 
+  array (
+    0 => 'Castro Valley',
+    1 => 'CA',
+    2 => '37.7',
+    3 => '-122.08',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  47 => 
+  array (
+    0 => 'Hercules',
+    1 => 'CA',
+    2 => '38.01',
+    3 => '-122.25',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  48 => 
+  array (
+    0 => 'Knightsen',
+    1 => 'CA',
+    2 => '37.97',
+    3 => '-121.65',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  49 => 
+  array (
+    0 => 'Lafayette',
+    1 => 'CA',
+    2 => '37.9',
+    3 => '-122.11',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  50 => 
+  array (
+    0 => 'Livermore',
+    1 => 'CA',
+    2 => '37.68',
+    3 => '-121.75',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  51 => 
+  array (
+    0 => 'Livermore',
+    1 => 'CA',
+    2 => '37.77',
+    3 => '-121.75',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  52 => 
+  array (
+    0 => 'Castro Valley',
+    1 => 'CA',
+    2 => '37.69',
+    3 => '-122.01',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  53 => 
+  array (
+    0 => 'Martinez',
+    1 => 'CA',
+    2 => '37.98',
+    3 => '-122.15',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  55 => 
+  array (
+    0 => 'Fremont',
+    1 => 'CA',
+    2 => '37.55',
+    3 => '-122.07',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  56 => 
+  array (
+    0 => 'Moraga',
+    1 => 'CA',
+    2 => '37.83',
+    3 => '-122.1',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  57 => 
+  array (
+    0 => 'Hayward',
+    1 => 'CA',
+    2 => '37.62',
+    3 => '-122.1',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  58 => 
+  array (
+    0 => 'Napa',
+    1 => 'CA',
+    2 => '38.55',
+    3 => '-122.15',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  59 => 
+  array (
+    0 => 'Napa',
+    1 => 'CA',
+    2 => '38.23',
+    3 => '-122.29',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  60 => 
+  array (
+    0 => 'Newark',
+    1 => 'CA',
+    2 => '37.51',
+    3 => '-122.04',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  61 => 
+  array (
+    0 => 'Oakley',
+    1 => 'CA',
+    2 => '37.99',
+    3 => '-121.68',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  62 => 
+  array (
+    0 => 'Oakville',
+    1 => 'CA',
+    2 => '38.42',
+    3 => '-122.4',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  63 => 
+  array (
+    0 => 'Orinda',
+    1 => 'CA',
+    2 => '37.89',
+    3 => '-122.19',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  64 => 
+  array (
+    0 => 'Pinole',
+    1 => 'CA',
+    2 => '37.99',
+    3 => '-122.27',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  65 => 
+  array (
+    0 => 'Pittsburg',
+    1 => 'CA',
+    2 => '38',
+    3 => '-121.83',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  66 => 
+  array (
+    0 => 'Pleasanton',
+    1 => 'CA',
+    2 => '37.65',
+    3 => '-121.85',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  67 => 
+  array (
+    0 => 'Pope Valley',
+    1 => 'CA',
+    2 => '38.67',
+    3 => '-122.44',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  68 => 
+  array (
+    0 => 'Dublin',
+    1 => 'CA',
+    2 => '37.71',
+    3 => '-121.91',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  69 => 
+  array (
+    0 => 'Port Costa',
+    1 => 'CA',
+    2 => '38.03',
+    3 => '-122.19',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  70 => 
+  array (
+    0 => 'Moraga',
+    1 => 'CA',
+    2 => '38.11',
+    3 => '-122.13',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  71 => 
+  array (
+    0 => 'Rio Vista',
+    1 => 'CA',
+    2 => '38.18',
+    3 => '-121.73',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  72 => 
+  array (
+    0 => 'Rodeo',
+    1 => 'CA',
+    2 => '38.03',
+    3 => '-122.23',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  73 => 
+  array (
+    0 => 'Rutherford',
+    1 => 'CA',
+    2 => '38.45',
+    3 => '-122.41',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  74 => 
+  array (
+    0 => 'Saint Helena',
+    1 => 'CA',
+    2 => '38.55',
+    3 => '-122.39',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  75 => 
+  array (
+    0 => 'Moraga',
+    1 => 'CA',
+    2 => '37.84',
+    3 => '-122.12',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  76 => 
+  array (
+    0 => 'Deer Park',
+    1 => 'CA',
+    2 => '38.55',
+    3 => '-122.47',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  77 => 
+  array (
+    0 => 'San Leandro',
+    1 => 'CA',
+    2 => '37.71',
+    3 => '-122.16',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  78 => 
+  array (
+    0 => 'San Leandro',
+    1 => 'CA',
+    2 => '37.7',
+    3 => '-122.12',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  79 => 
+  array (
+    0 => 'San Leandro',
+    1 => 'CA',
+    2 => '37.68',
+    3 => '-122.15',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  80 => 
+  array (
+    0 => 'San Lorenzo',
+    1 => 'CA',
+    2 => '37.68',
+    3 => '-122.13',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  81 => 
+  array (
+    0 => 'Napa',
+    1 => 'CA',
+    2 => '38.29',
+    3 => '-122.28',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  82 => 
+  array (
+    0 => 'San Ramon',
+    1 => 'CA',
+    2 => '37.76',
+    3 => '-121.93',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  83 => 
+  array (
+    0 => 'San Ramon',
+    1 => 'CA',
+    2 => '37.78',
+    3 => '-121.99',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  85 => 
+  array (
+    0 => 'Suisun City',
+    1 => 'CA',
+    2 => '38.16',
+    3 => '-121.93',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  86 => 
+  array (
+    0 => 'Sunol',
+    1 => 'CA',
+    2 => '37.56',
+    3 => '-121.84',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  87 => 
+  array (
+    0 => 'Union City',
+    1 => 'CA',
+    2 => '37.59',
+    3 => '-122.06',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  88 => 
+  array (
+    0 => 'Pleasanton',
+    1 => 'CA',
+    2 => '37.67',
+    3 => '-121.93',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  89 => 
+  array (
+    0 => 'Vallejo',
+    1 => 'CA',
+    2 => '38.13',
+    3 => '-122.25',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  90 => 
+  array (
+    0 => 'Vallejo',
+    1 => 'CA',
+    2 => '38.09',
+    3 => '-122.25',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  91 => 
+  array (
+    0 => 'Vallejo',
+    1 => 'CA',
+    2 => '38.11',
+    3 => '-122.2',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  92 => 
+  array (
+    0 => 'Vallejo',
+    1 => 'CA',
+    2 => '38.11',
+    3 => '-122.29',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  95 => 
+  array (
+    0 => 'Walnut Creek',
+    1 => 'CA',
+    2 => '37.86',
+    3 => '-122.07',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  96 => 
+  array (
+    0 => 'Walnut Creek',
+    1 => 'CA',
+    2 => '37.89',
+    3 => '-122.03',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  97 => 
+  array (
+    0 => 'Walnut Creek',
+    1 => 'CA',
+    2 => '37.91',
+    3 => '-122.07',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  98 => 
+  array (
+    0 => 'Walnut Creek',
+    1 => 'CA',
+    2 => '37.91',
+    3 => '-122.01',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  99 => 
+  array (
+    0 => 'Yountville',
+    1 => 'CA',
+    2 => '38.41',
+    3 => '-122.36',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+);

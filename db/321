@@ -1,0 +1,587 @@
+<?php $db= array (
+  '05' => 
+  array (
+    0 => 'Barberville',
+    1 => 'FL',
+    2 => '29.18',
+    3 => '-81.42',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  10 => 
+  array (
+    0 => 'Bunnell',
+    1 => 'FL',
+    2 => '29.46',
+    3 => '-81.25',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  11 => 
+  array (
+    0 => 'Candler',
+    1 => 'FL',
+    2 => '29.04',
+    3 => '-81.89',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  12 => 
+  array (
+    0 => 'Crescent City',
+    1 => 'FL',
+    2 => '29.43',
+    3 => '-81.51',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  13 => 
+  array (
+    0 => 'Citra',
+    1 => 'FL',
+    2 => '29.41',
+    3 => '-82.11',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  14 => 
+  array (
+    0 => 'Daytona Beach',
+    1 => 'FL',
+    2 => '29.19',
+    3 => '-81.05',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  15 => 
+  array (
+    0 => 'Daytona Beach',
+    1 => 'FL',
+    2 => '29.19',
+    3 => '-81.05',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  16 => 
+  array (
+    0 => 'Daytona Beach',
+    1 => 'FL',
+    2 => '29.19',
+    3 => '-81.05',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  17 => 
+  array (
+    0 => 'Daytona Beach',
+    1 => 'FL',
+    2 => '29.19',
+    3 => '-81.05',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  18 => 
+  array (
+    0 => 'Daytona Beach',
+    1 => 'FL',
+    2 => '29.19',
+    3 => '-81.05',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  19 => 
+  array (
+    0 => 'Daytona Beach',
+    1 => 'FL',
+    2 => '29.19',
+    3 => '-81.05',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  20 => 
+  array (
+    0 => 'Daytona Beach',
+    1 => 'FL',
+    2 => '29.19',
+    3 => '-81.05',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  21 => 
+  array (
+    0 => 'Daytona Beach',
+    1 => 'FL',
+    2 => '29.19',
+    3 => '-81.05',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  22 => 
+  array (
+    0 => 'Daytona Beach',
+    1 => 'FL',
+    2 => '29.19',
+    3 => '-81.05',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  23 => 
+  array (
+    0 => 'Port Orange',
+    1 => 'FL',
+    2 => '29.19',
+    3 => '-81.05',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  24 => 
+  array (
+    0 => 'Daytona Beach',
+    1 => 'FL',
+    2 => '29.19',
+    3 => '-81.05',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  25 => 
+  array (
+    0 => 'Daytona Beach',
+    1 => 'FL',
+    2 => '29.19',
+    3 => '-81.05',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  26 => 
+  array (
+    0 => 'Daytona Beach',
+    1 => 'FL',
+    2 => '29.19',
+    3 => '-81.05',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  27 => 
+  array (
+    0 => 'Port Orange',
+    1 => 'FL',
+    2 => '29.19',
+    3 => '-81.05',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  28 => 
+  array (
+    0 => 'Port Orange',
+    1 => 'FL',
+    2 => '29.1',
+    3 => '-81',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  29 => 
+  array (
+    0 => 'Port Orange',
+    1 => 'FL',
+    2 => '29.1',
+    3 => '-81',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  30 => 
+  array (
+    0 => 'De Leon Springs',
+    1 => 'FL',
+    2 => '29.11',
+    3 => '-81.35',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  31 => 
+  array (
+    0 => 'East Palatka',
+    1 => 'FL',
+    2 => '29.65',
+    3 => '-81.59',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  32 => 
+  array (
+    0 => 'Edgewater',
+    1 => 'FL',
+    2 => '28.96',
+    3 => '-80.9',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  33 => 
+  array (
+    0 => 'Eastlake Weir',
+    1 => 'FL',
+    2 => '29.04',
+    3 => '-81.89',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  35 => 
+  array (
+    0 => 'Palm Coast',
+    1 => 'FL',
+    2 => '29.57',
+    3 => '-81.21',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  37 => 
+  array (
+    0 => 'Palm Coast',
+    1 => 'FL',
+    2 => '29.57',
+    3 => '-81.21',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  38 => 
+  array (
+    0 => 'Grandin',
+    1 => 'FL',
+    2 => '29.72',
+    3 => '-81.92',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  39 => 
+  array (
+    0 => 'Georgetown',
+    1 => 'FL',
+    2 => '29.39',
+    3 => '-81.63',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  40 => 
+  array (
+    0 => 'Florahome',
+    1 => 'FL',
+    2 => '29.73',
+    3 => '-81.88',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  41 => 
+  array (
+    0 => 'Edgewater',
+    1 => 'FL',
+    2 => '28.96',
+    3 => '-80.9',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  42 => 
+  array (
+    0 => 'Palm Coast',
+    1 => 'FL',
+    2 => '29.57',
+    3 => '-81.21',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  43 => 
+  array (
+    0 => 'Palm Coast',
+    1 => 'FL',
+    2 => '29.42',
+    3 => '-81.16',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  47 => 
+  array (
+    0 => 'Hollister',
+    1 => 'FL',
+    2 => '29.62',
+    3 => '-81.81',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  48 => 
+  array (
+    0 => 'Interlachen',
+    1 => 'FL',
+    2 => '29.61',
+    3 => '-81.89',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  49 => 
+  array (
+    0 => 'Edgar',
+    1 => 'FL',
+    2 => '29.61',
+    3 => '-81.89',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  57 => 
+  array (
+    0 => 'Lake Como',
+    1 => 'FL',
+    2 => '29.48',
+    3 => '-81.57',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  58 => 
+  array (
+    0 => 'Lady Lake',
+    1 => 'FL',
+    2 => '28.92',
+    3 => '-81.92',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  59 => 
+  array (
+    0 => 'Lady Lake',
+    1 => 'FL',
+    2 => '28.92',
+    3 => '-81.92',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  60 => 
+  array (
+    0 => 'Lake Geneva',
+    1 => 'FL',
+    2 => '29.77',
+    3 => '-82.01',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  62 => 
+  array (
+    0 => 'The Villages',
+    1 => 'FL',
+    2 => '28.92',
+    3 => '-81.92',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  63 => 
+  array (
+    0 => 'The Villages',
+    1 => 'FL',
+    2 => '28.93',
+    3 => '-81.95',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  64 => 
+  array (
+    0 => 'Palm Coast',
+    1 => 'FL',
+    2 => '29.57',
+    3 => '-81.21',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  68 => 
+  array (
+    0 => 'New Smyrna Beach',
+    1 => 'FL',
+    2 => '29.02',
+    3 => '-80.92',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  69 => 
+  array (
+    0 => 'New Smyrna Beach',
+    1 => 'FL',
+    2 => '29.02',
+    3 => '-80.92',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  70 => 
+  array (
+    0 => 'New Smyrna Beach',
+    1 => 'FL',
+    2 => '29.02',
+    3 => '-80.92',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  73 => 
+  array (
+    0 => 'Ormond Beach',
+    1 => 'FL',
+    2 => '29.28',
+    3 => '-81.06',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  74 => 
+  array (
+    0 => 'Ormond Beach',
+    1 => 'FL',
+    2 => '29.28',
+    3 => '-81.06',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  75 => 
+  array (
+    0 => 'Ormond Beach',
+    1 => 'FL',
+    2 => '29.28',
+    3 => '-81.06',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  76 => 
+  array (
+    0 => 'Ormond Beach',
+    1 => 'FL',
+    2 => '29.28',
+    3 => '-81.06',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  77 => 
+  array (
+    0 => 'Palatka',
+    1 => 'FL',
+    2 => '29.64',
+    3 => '-81.65',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  78 => 
+  array (
+    0 => 'Palatka',
+    1 => 'FL',
+    2 => '29.64',
+    3 => '-81.65',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  79 => 
+  array (
+    0 => 'Ocklawaha',
+    1 => 'FL',
+    2 => '29.04',
+    3 => '-81.92',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  80 => 
+  array (
+    0 => 'Pierson',
+    1 => 'FL',
+    2 => '29.23',
+    3 => '-81.46',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  81 => 
+  array (
+    0 => 'Pomona Park',
+    1 => 'FL',
+    2 => '29.49',
+    3 => '-81.59',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  82 => 
+  array (
+    0 => 'Orange Springs',
+    1 => 'FL',
+    2 => '29.5',
+    3 => '-81.94',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  83 => 
+  array (
+    0 => 'Ocklawaha',
+    1 => 'FL',
+    2 => '29.04',
+    3 => '-81.92',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  85 => 
+  array (
+    0 => 'Putnam Hall',
+    1 => 'FL',
+    2 => '29.73',
+    3 => '-81.95',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  87 => 
+  array (
+    0 => 'San Mateo',
+    1 => 'FL',
+    2 => '29.6',
+    3 => '-81.58',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  89 => 
+  array (
+    0 => 'Satsuma',
+    1 => 'FL',
+    2 => '29.55',
+    3 => '-81.65',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  90 => 
+  array (
+    0 => 'Seville',
+    1 => 'FL',
+    2 => '29.31',
+    3 => '-81.49',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  92 => 
+  array (
+    0 => 'Sparr',
+    1 => 'FL',
+    2 => '29.33',
+    3 => '-82.11',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  93 => 
+  array (
+    0 => 'Welaka',
+    1 => 'FL',
+    2 => '29.48',
+    3 => '-81.66',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  95 => 
+  array (
+    0 => 'Weirsdale',
+    1 => 'FL',
+    2 => '28.98',
+    3 => '-81.92',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  98 => 
+  array (
+    0 => 'Daytona Beach',
+    1 => 'FL',
+    2 => '29.19',
+    3 => '-81.05',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

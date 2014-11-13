@@ -1,0 +1,47 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Niagara Falls',
+    1 => 'NY',
+    2 => '43.09',
+    3 => '-79.01',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '02' => 
+  array (
+    0 => 'Niagara Falls',
+    1 => 'NY',
+    2 => '43.09',
+    3 => '-79.01',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '03' => 
+  array (
+    0 => 'Niagara Falls',
+    1 => 'NY',
+    2 => '43.09',
+    3 => '-79.01',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '04' => 
+  array (
+    0 => 'Niagara Falls',
+    1 => 'NY',
+    2 => '43.09',
+    3 => '-79.01',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '05' => 
+  array (
+    0 => 'Niagara Falls',
+    1 => 'NY',
+    2 => '43.09',
+    3 => '-79.01',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

@@ -1,0 +1,38 @@
+<?php $db= array (
+  23 => 
+  array (
+    0 => 'Patillas',
+    1 => 'PR',
+    2 => '18',
+    3 => '-66.01',
+    4 => -4,
+    5 => 'America/Puerto_Rico',
+  ),
+  29 => 
+  array (
+    0 => 'Canovanas',
+    1 => 'PR',
+    2 => '18.37',
+    3 => '-65.9',
+    4 => -4,
+    5 => 'America/Puerto_Rico',
+  ),
+  57 => 
+  array (
+    0 => 'Santa Isabel',
+    1 => 'PR',
+    2 => '17.97',
+    3 => '-66.4',
+    4 => -4,
+    5 => 'America/Puerto_Rico',
+  ),
+  86 => 
+  array (
+    0 => 'La Plata',
+    1 => 'PR',
+    2 => '18.16',
+    3 => '-66.23',
+    4 => -4,
+    5 => 'America/Puerto_Rico',
+  ),
+);

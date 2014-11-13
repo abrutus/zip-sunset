@@ -1,0 +1,164 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Scranton',
+    1 => 'PA',
+    2 => '41.4',
+    3 => '-75.66',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '02' => 
+  array (
+    0 => 'Scranton',
+    1 => 'PA',
+    2 => '41.4',
+    3 => '-75.66',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '03' => 
+  array (
+    0 => 'Scranton',
+    1 => 'PA',
+    2 => '41.4',
+    3 => '-75.66',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '04' => 
+  array (
+    0 => 'Scranton',
+    1 => 'PA',
+    2 => '41.4',
+    3 => '-75.66',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '05' => 
+  array (
+    0 => 'Scranton',
+    1 => 'PA',
+    2 => '41.4',
+    3 => '-75.66',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '07' => 
+  array (
+    0 => 'Moosic',
+    1 => 'PA',
+    2 => '41.35',
+    3 => '-75.72',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '08' => 
+  array (
+    0 => 'Scranton',
+    1 => 'PA',
+    2 => '41.4',
+    3 => '-75.66',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '09' => 
+  array (
+    0 => 'Scranton',
+    1 => 'PA',
+    2 => '41.4',
+    3 => '-75.66',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  10 => 
+  array (
+    0 => 'Scranton',
+    1 => 'PA',
+    2 => '41.4',
+    3 => '-75.66',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  12 => 
+  array (
+    0 => 'Scranton',
+    1 => 'PA',
+    2 => '41.4',
+    3 => '-75.66',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  14 => 
+  array (
+    0 => 'Scranton',
+    1 => 'PA',
+    2 => '41.37',
+    3 => '-75.68',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  15 => 
+  array (
+    0 => 'Scranton',
+    1 => 'PA',
+    2 => '41.4',
+    3 => '-75.66',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  17 => 
+  array (
+    0 => 'Taylor',
+    1 => 'PA',
+    2 => '41.39',
+    3 => '-75.71',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  18 => 
+  array (
+    0 => 'Old Forge',
+    1 => 'PA',
+    2 => '41.37',
+    3 => '-75.73',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  19 => 
+  array (
+    0 => 'Scranton',
+    1 => 'PA',
+    2 => '41.47',
+    3 => '-75.62',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  22 => 
+  array (
+    0 => 'Scranton',
+    1 => 'PA',
+    2 => '41.43',
+    3 => '-75.64',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  40 => 
+  array (
+    0 => 'Scranton',
+    1 => 'PA',
+    2 => '41.4',
+    3 => '-75.66',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  77 => 
+  array (
+    0 => 'Scranton',
+    1 => 'PA',
+    2 => '41.4',
+    3 => '-75.66',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

@@ -1,0 +1,119 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Beaver Bay',
+    1 => 'MN',
+    2 => '47.25',
+    3 => '-91.29',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '02' => 
+  array (
+    0 => 'Brimson',
+    1 => 'MN',
+    2 => '47.27',
+    3 => '-91.86',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '03' => 
+  array (
+    0 => 'Finland',
+    1 => 'MN',
+    2 => '47.41',
+    3 => '-91.24',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '04' => 
+  array (
+    0 => 'Grand Marais',
+    1 => 'MN',
+    2 => '47.75',
+    3 => '-90.34',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '05' => 
+  array (
+    0 => 'Grand Portage',
+    1 => 'MN',
+    2 => '47.96',
+    3 => '-89.68',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '06' => 
+  array (
+    0 => 'Hovland',
+    1 => 'MN',
+    2 => '47.83',
+    3 => '-89.97',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '07' => 
+  array (
+    0 => 'Isabella',
+    1 => 'MN',
+    2 => '47.61',
+    3 => '-91.35',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '09' => 
+  array (
+    0 => 'Knife River',
+    1 => 'MN',
+    2 => '46.95',
+    3 => '-91.78',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  12 => 
+  array (
+    0 => 'Lutsen',
+    1 => 'MN',
+    2 => '47.63',
+    3 => '-90.71',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  13 => 
+  array (
+    0 => 'Schroeder',
+    1 => 'MN',
+    2 => '47.69',
+    3 => '-90.96',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  14 => 
+  array (
+    0 => 'Silver Bay',
+    1 => 'MN',
+    2 => '47.29',
+    3 => '-91.27',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  15 => 
+  array (
+    0 => 'Tofte',
+    1 => 'MN',
+    2 => '47.55',
+    3 => '-90.88',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  16 => 
+  array (
+    0 => 'Two Harbors',
+    1 => 'MN',
+    2 => '47.03',
+    3 => '-91.67',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+);

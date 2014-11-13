@@ -1,0 +1,101 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Abilene',
+    1 => 'TX',
+    2 => '32.45',
+    3 => '-99.73',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '02' => 
+  array (
+    0 => 'Abilene',
+    1 => 'TX',
+    2 => '32.45',
+    3 => '-99.73',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '03' => 
+  array (
+    0 => 'Abilene',
+    1 => 'TX',
+    2 => '32.45',
+    3 => '-99.73',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '04' => 
+  array (
+    0 => 'Abilene',
+    1 => 'TX',
+    2 => '32.45',
+    3 => '-99.73',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '05' => 
+  array (
+    0 => 'Abilene',
+    1 => 'TX',
+    2 => '32.45',
+    3 => '-99.73',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '06' => 
+  array (
+    0 => 'Abilene',
+    1 => 'TX',
+    2 => '32.45',
+    3 => '-99.73',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '07' => 
+  array (
+    0 => 'Dyess Afb',
+    1 => 'TX',
+    2 => '32.42',
+    3 => '-99.86',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '08' => 
+  array (
+    0 => 'Abilene',
+    1 => 'TX',
+    2 => '32.45',
+    3 => '-99.73',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  97 => 
+  array (
+    0 => 'Abilene',
+    1 => 'TX',
+    2 => '32.45',
+    3 => '-99.73',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  98 => 
+  array (
+    0 => 'Abilene',
+    1 => 'TX',
+    2 => '32.45',
+    3 => '-99.73',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  99 => 
+  array (
+    0 => 'Abilene',
+    1 => 'TX',
+    2 => '32.45',
+    3 => '-99.73',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+);

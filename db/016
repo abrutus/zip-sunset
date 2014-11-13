@@ -1,0 +1,164 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Worcester',
+    1 => 'MA',
+    2 => '42.26',
+    3 => '-71.8',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '02' => 
+  array (
+    0 => 'Worcester',
+    1 => 'MA',
+    2 => '42.26',
+    3 => '-71.8',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '03' => 
+  array (
+    0 => 'Worcester',
+    1 => 'MA',
+    2 => '42.26',
+    3 => '-71.8',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '04' => 
+  array (
+    0 => 'Worcester',
+    1 => 'MA',
+    2 => '42.26',
+    3 => '-71.8',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '05' => 
+  array (
+    0 => 'Worcester',
+    1 => 'MA',
+    2 => '42.26',
+    3 => '-71.8',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '06' => 
+  array (
+    0 => 'Worcester',
+    1 => 'MA',
+    2 => '42.26',
+    3 => '-71.8',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '07' => 
+  array (
+    0 => 'Worcester',
+    1 => 'MA',
+    2 => '42.26',
+    3 => '-71.8',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '08' => 
+  array (
+    0 => 'Worcester',
+    1 => 'MA',
+    2 => '42.26',
+    3 => '-71.8',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '09' => 
+  array (
+    0 => 'Worcester',
+    1 => 'MA',
+    2 => '42.26',
+    3 => '-71.8',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  10 => 
+  array (
+    0 => 'Worcester',
+    1 => 'MA',
+    2 => '42.26',
+    3 => '-71.8',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  11 => 
+  array (
+    0 => 'Cherry Valley',
+    1 => 'MA',
+    2 => '42.23',
+    3 => '-71.87',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  12 => 
+  array (
+    0 => 'Paxton',
+    1 => 'MA',
+    2 => '42.31',
+    3 => '-71.93',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  13 => 
+  array (
+    0 => 'Worcester',
+    1 => 'MA',
+    2 => '42.26',
+    3 => '-71.8',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  14 => 
+  array (
+    0 => 'Worcester',
+    1 => 'MA',
+    2 => '42.26',
+    3 => '-71.8',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  15 => 
+  array (
+    0 => 'Worcester',
+    1 => 'MA',
+    2 => '42.26',
+    3 => '-71.8',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  53 => 
+  array (
+    0 => 'Worcester',
+    1 => 'MA',
+    2 => '42.26',
+    3 => '-71.8',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  54 => 
+  array (
+    0 => 'Worcester',
+    1 => 'MA',
+    2 => '42.26',
+    3 => '-71.8',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  55 => 
+  array (
+    0 => 'Worcester',
+    1 => 'MA',
+    2 => '42.26',
+    3 => '-71.8',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

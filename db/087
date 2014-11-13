@@ -1,0 +1,254 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Lakewood',
+    1 => 'NJ',
+    2 => '40.09',
+    3 => '-74.21',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  20 => 
+  array (
+    0 => 'Allenwood',
+    1 => 'NJ',
+    2 => '40.13',
+    3 => '-74.09',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  21 => 
+  array (
+    0 => 'Bayville',
+    1 => 'NJ',
+    2 => '39.91',
+    3 => '-74.21',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  22 => 
+  array (
+    0 => 'Beachwood',
+    1 => 'NJ',
+    2 => '39.92',
+    3 => '-74.2',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  23 => 
+  array (
+    0 => 'Brick',
+    1 => 'NJ',
+    2 => '40.06',
+    3 => '-74.11',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  24 => 
+  array (
+    0 => 'Brick',
+    1 => 'NJ',
+    2 => '40.06',
+    3 => '-74.11',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  30 => 
+  array (
+    0 => 'Brielle',
+    1 => 'NJ',
+    2 => '40.1',
+    3 => '-74.06',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  31 => 
+  array (
+    0 => 'Forked River',
+    1 => 'NJ',
+    2 => '39.84',
+    3 => '-74.19',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  32 => 
+  array (
+    0 => 'Island Heights',
+    1 => 'NJ',
+    2 => '39.94',
+    3 => '-74.14',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  33 => 
+  array (
+    0 => 'Lakehurst',
+    1 => 'NJ',
+    2 => '40.01',
+    3 => '-74.32',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  34 => 
+  array (
+    0 => 'Lanoka Harbor',
+    1 => 'NJ',
+    2 => '39.86',
+    3 => '-74.16',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  35 => 
+  array (
+    0 => 'Lavallette',
+    1 => 'NJ',
+    2 => '39.96',
+    3 => '-74.06',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  36 => 
+  array (
+    0 => 'Manasquan',
+    1 => 'NJ',
+    2 => '40.11',
+    3 => '-74.03',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  38 => 
+  array (
+    0 => 'Mantoloking',
+    1 => 'NJ',
+    2 => '40.04',
+    3 => '-74.04',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  39 => 
+  array (
+    0 => 'Normandy Beach',
+    1 => 'NJ',
+    2 => '40',
+    3 => '-74.06',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  40 => 
+  array (
+    0 => 'Ocean Gate',
+    1 => 'NJ',
+    2 => '39.92',
+    3 => '-74.13',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  41 => 
+  array (
+    0 => 'Pine Beach',
+    1 => 'NJ',
+    2 => '39.93',
+    3 => '-74.17',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  42 => 
+  array (
+    0 => 'Point Pleasant Beach',
+    1 => 'NJ',
+    2 => '40.09',
+    3 => '-74.04',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  50 => 
+  array (
+    0 => 'Sea Girt',
+    1 => 'NJ',
+    2 => '40.12',
+    3 => '-74.03',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  51 => 
+  array (
+    0 => 'Seaside Heights',
+    1 => 'NJ',
+    2 => '39.94',
+    3 => '-74.07',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  52 => 
+  array (
+    0 => 'Seaside Park',
+    1 => 'NJ',
+    2 => '39.79',
+    3 => '-74.09',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  53 => 
+  array (
+    0 => 'Toms River',
+    1 => 'NJ',
+    2 => '39.95',
+    3 => '-74.18',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  54 => 
+  array (
+    0 => 'Toms River',
+    1 => 'NJ',
+    2 => '39.95',
+    3 => '-74.18',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  55 => 
+  array (
+    0 => 'Toms River',
+    1 => 'NJ',
+    2 => '39.95',
+    3 => '-74.18',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  56 => 
+  array (
+    0 => 'Toms River',
+    1 => 'NJ',
+    2 => '39.95',
+    3 => '-74.18',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  57 => 
+  array (
+    0 => 'Toms River',
+    1 => 'NJ',
+    2 => '39.95',
+    3 => '-74.18',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  58 => 
+  array (
+    0 => 'Waretown',
+    1 => 'NJ',
+    2 => '39.78',
+    3 => '-74.19',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  59 => 
+  array (
+    0 => 'Manchester Township',
+    1 => 'NJ',
+    2 => '39.93',
+    3 => '-74.39',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

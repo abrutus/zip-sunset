@@ -1,0 +1,281 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Greenfield',
+    1 => 'MA',
+    2 => '42.58',
+    3 => '-72.59',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '02' => 
+  array (
+    0 => 'Greenfield',
+    1 => 'MA',
+    2 => '42.58',
+    3 => '-72.59',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  30 => 
+  array (
+    0 => 'Ashfield',
+    1 => 'MA',
+    2 => '42.53',
+    3 => '-72.78',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  31 => 
+  array (
+    0 => 'Athol',
+    1 => 'MA',
+    2 => '42.59',
+    3 => '-72.23',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  37 => 
+  array (
+    0 => 'Bernardston',
+    1 => 'MA',
+    2 => '42.66',
+    3 => '-72.55',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  38 => 
+  array (
+    0 => 'Buckland',
+    1 => 'MA',
+    2 => '42.6',
+    3 => '-72.78',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  39 => 
+  array (
+    0 => 'Charlemont',
+    1 => 'MA',
+    2 => '42.63',
+    3 => '-72.88',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  40 => 
+  array (
+    0 => 'Colrain',
+    1 => 'MA',
+    2 => '42.66',
+    3 => '-72.68',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  41 => 
+  array (
+    0 => 'Conway',
+    1 => 'MA',
+    2 => '42.51',
+    3 => '-72.68',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  42 => 
+  array (
+    0 => 'Deerfield',
+    1 => 'MA',
+    2 => '42.55',
+    3 => '-72.6',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  43 => 
+  array (
+    0 => 'Drury',
+    1 => 'MA',
+    2 => '42.68',
+    3 => '-72.98',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  44 => 
+  array (
+    0 => 'Erving',
+    1 => 'MA',
+    2 => '42.6',
+    3 => '-72.4',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  46 => 
+  array (
+    0 => 'Heath',
+    1 => 'MA',
+    2 => '42.66',
+    3 => '-72.83',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  47 => 
+  array (
+    0 => 'Lake Pleasant',
+    1 => 'MA',
+    2 => '42.53',
+    3 => '-72.54',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  49 => 
+  array (
+    0 => 'Millers Falls',
+    1 => 'MA',
+    2 => '42.59',
+    3 => '-72.55',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  50 => 
+  array (
+    0 => 'Monroe Bridge',
+    1 => 'MA',
+    2 => '42.72',
+    3 => '-72.98',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  51 => 
+  array (
+    0 => 'Montague',
+    1 => 'MA',
+    2 => '42.53',
+    3 => '-72.53',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  54 => 
+  array (
+    0 => 'Gill',
+    1 => 'MA',
+    2 => '42.7',
+    3 => '-72.43',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  55 => 
+  array (
+    0 => 'New Salem',
+    1 => 'MA',
+    2 => '42.5',
+    3 => '-72.33',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  60 => 
+  array (
+    0 => 'Northfield',
+    1 => 'MA',
+    2 => '42.7',
+    3 => '-72.43',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  64 => 
+  array (
+    0 => 'Orange',
+    1 => 'MA',
+    2 => '42.59',
+    3 => '-72.3',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  66 => 
+  array (
+    0 => 'Petersham',
+    1 => 'MA',
+    2 => '42.48',
+    3 => '-72.18',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  67 => 
+  array (
+    0 => 'Rowe',
+    1 => 'MA',
+    2 => '42.7',
+    3 => '-72.9',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  68 => 
+  array (
+    0 => 'Royalston',
+    1 => 'MA',
+    2 => '42.68',
+    3 => '-72.18',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  70 => 
+  array (
+    0 => 'Shelburne Falls',
+    1 => 'MA',
+    2 => '42.6',
+    3 => '-72.74',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  73 => 
+  array (
+    0 => 'South Deerfield',
+    1 => 'MA',
+    2 => '42.47',
+    3 => '-72.59',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  75 => 
+  array (
+    0 => 'Sunderland',
+    1 => 'MA',
+    2 => '42.46',
+    3 => '-72.58',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  76 => 
+  array (
+    0 => 'Turners Falls',
+    1 => 'MA',
+    2 => '42.59',
+    3 => '-72.55',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  78 => 
+  array (
+    0 => 'Warwick',
+    1 => 'MA',
+    2 => '42.68',
+    3 => '-72.33',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  79 => 
+  array (
+    0 => 'Wendell',
+    1 => 'MA',
+    2 => '42.55',
+    3 => '-72.4',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  80 => 
+  array (
+    0 => 'Wendell Depot',
+    1 => 'MA',
+    2 => '42.58',
+    3 => '-72.37',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

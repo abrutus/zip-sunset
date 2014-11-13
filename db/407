@@ -1,0 +1,164 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Corbin',
+    1 => 'KY',
+    2 => '36.93',
+    3 => '-84.1',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  '02' => 
+  array (
+    0 => 'Corbin',
+    1 => 'KY',
+    2 => '36.93',
+    3 => '-84.1',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  24 => 
+  array (
+    0 => 'Bush',
+    1 => 'KY',
+    2 => '37.09',
+    3 => '-83.87',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  30 => 
+  array (
+    0 => 'Emlyn',
+    1 => 'KY',
+    2 => '36.7',
+    3 => '-84.14',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  34 => 
+  array (
+    0 => 'Gray',
+    1 => 'KY',
+    2 => '36.94',
+    3 => '-84',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  37 => 
+  array (
+    0 => 'Keavy',
+    1 => 'KY',
+    2 => '37',
+    3 => '-84.16',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  40 => 
+  array (
+    0 => 'Lily',
+    1 => 'KY',
+    2 => '37.02',
+    3 => '-84.07',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  41 => 
+  array (
+    0 => 'London',
+    1 => 'KY',
+    2 => '37.12',
+    3 => '-84.08',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  42 => 
+  array (
+    0 => 'London',
+    1 => 'KY',
+    2 => '37.12',
+    3 => '-84.08',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  43 => 
+  array (
+    0 => 'London',
+    1 => 'KY',
+    2 => '37.12',
+    3 => '-84.08',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  44 => 
+  array (
+    0 => 'London',
+    1 => 'KY',
+    2 => '37.12',
+    3 => '-84.08',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  45 => 
+  array (
+    0 => 'London',
+    1 => 'KY',
+    2 => '37.12',
+    3 => '-84.08',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  54 => 
+  array (
+    0 => 'Nevisdale',
+    1 => 'KY',
+    2 => '36.65',
+    3 => '-84.11',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  55 => 
+  array (
+    0 => 'Pittsburg',
+    1 => 'KY',
+    2 => '37.16',
+    3 => '-84.1',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  59 => 
+  array (
+    0 => 'Rockholds',
+    1 => 'KY',
+    2 => '36.82',
+    3 => '-84.11',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  63 => 
+  array (
+    0 => 'Siler',
+    1 => 'KY',
+    2 => '36.69',
+    3 => '-83.96',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  69 => 
+  array (
+    0 => 'Williamsburg',
+    1 => 'KY',
+    2 => '36.73',
+    3 => '-84.16',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  71 => 
+  array (
+    0 => 'Woodbine',
+    1 => 'KY',
+    2 => '36.9',
+    3 => '-84.08',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+);

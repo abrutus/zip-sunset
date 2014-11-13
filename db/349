@@ -1,0 +1,290 @@
+<?php $db= array (
+  45 => 
+  array (
+    0 => 'Fort Pierce',
+    1 => 'FL',
+    2 => '27.44',
+    3 => '-80.32',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  46 => 
+  array (
+    0 => 'Fort Pierce',
+    1 => 'FL',
+    2 => '27.44',
+    3 => '-80.32',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  47 => 
+  array (
+    0 => 'Fort Pierce',
+    1 => 'FL',
+    2 => '27.44',
+    3 => '-80.32',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  48 => 
+  array (
+    0 => 'Fort Pierce',
+    1 => 'FL',
+    2 => '27.44',
+    3 => '-80.32',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  49 => 
+  array (
+    0 => 'Fort Pierce',
+    1 => 'FL',
+    2 => '27.44',
+    3 => '-80.32',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  50 => 
+  array (
+    0 => 'Fort Pierce',
+    1 => 'FL',
+    2 => '27.44',
+    3 => '-80.32',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  51 => 
+  array (
+    0 => 'Fort Pierce',
+    1 => 'FL',
+    2 => '27.44',
+    3 => '-80.32',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  52 => 
+  array (
+    0 => 'Port Saint Lucie',
+    1 => 'FL',
+    2 => '27.27',
+    3 => '-80.35',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  53 => 
+  array (
+    0 => 'Port Saint Lucie',
+    1 => 'FL',
+    2 => '27.27',
+    3 => '-80.35',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  54 => 
+  array (
+    0 => 'Fort Pierce',
+    1 => 'FL',
+    2 => '27.44',
+    3 => '-80.32',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  56 => 
+  array (
+    0 => 'Indiantown',
+    1 => 'FL',
+    2 => '27.03',
+    3 => '-80.46',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  57 => 
+  array (
+    0 => 'Jensen Beach',
+    1 => 'FL',
+    2 => '27.23',
+    3 => '-80.23',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  58 => 
+  array (
+    0 => 'Jensen Beach',
+    1 => 'FL',
+    2 => '27.23',
+    3 => '-80.23',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  72 => 
+  array (
+    0 => 'Okeechobee',
+    1 => 'FL',
+    2 => '27.24',
+    3 => '-80.82',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  73 => 
+  array (
+    0 => 'Okeechobee',
+    1 => 'FL',
+    2 => '27.24',
+    3 => '-80.82',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  74 => 
+  array (
+    0 => 'Okeechobee',
+    1 => 'FL',
+    2 => '27.24',
+    3 => '-80.82',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  79 => 
+  array (
+    0 => 'Fort Pierce',
+    1 => 'FL',
+    2 => '27.44',
+    3 => '-80.32',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  81 => 
+  array (
+    0 => 'Fort Pierce',
+    1 => 'FL',
+    2 => '27.44',
+    3 => '-80.32',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  82 => 
+  array (
+    0 => 'Fort Pierce',
+    1 => 'FL',
+    2 => '27.44',
+    3 => '-80.32',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  83 => 
+  array (
+    0 => 'Port Saint Lucie',
+    1 => 'FL',
+    2 => '27.27',
+    3 => '-80.35',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  84 => 
+  array (
+    0 => 'Port Saint Lucie',
+    1 => 'FL',
+    2 => '27.27',
+    3 => '-80.35',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  85 => 
+  array (
+    0 => 'Port Saint Lucie',
+    1 => 'FL',
+    2 => '27.27',
+    3 => '-80.35',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  86 => 
+  array (
+    0 => 'Port Saint Lucie',
+    1 => 'FL',
+    2 => '27.27',
+    3 => '-80.35',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  87 => 
+  array (
+    0 => 'Port Saint Lucie',
+    1 => 'FL',
+    2 => '27.27',
+    3 => '-80.35',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  88 => 
+  array (
+    0 => 'Port Saint Lucie',
+    1 => 'FL',
+    2 => '27.27',
+    3 => '-80.35',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  90 => 
+  array (
+    0 => 'Palm City',
+    1 => 'FL',
+    2 => '27.16',
+    3 => '-80.26',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  91 => 
+  array (
+    0 => 'Palm City',
+    1 => 'FL',
+    2 => '27.16',
+    3 => '-80.26',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  92 => 
+  array (
+    0 => 'Port Salerno',
+    1 => 'FL',
+    2 => '27.14',
+    3 => '-80.18',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  94 => 
+  array (
+    0 => 'Stuart',
+    1 => 'FL',
+    2 => '27.19',
+    3 => '-80.24',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  95 => 
+  array (
+    0 => 'Stuart',
+    1 => 'FL',
+    2 => '27.19',
+    3 => '-80.24',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  96 => 
+  array (
+    0 => 'Stuart',
+    1 => 'FL',
+    2 => '27.19',
+    3 => '-80.24',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  97 => 
+  array (
+    0 => 'Stuart',
+    1 => 'FL',
+    2 => '27.19',
+    3 => '-80.24',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

@@ -1,0 +1,416 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Columbus',
+    1 => 'OH',
+    2 => '39.98',
+    3 => '-82.98',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '02' => 
+  array (
+    0 => 'Columbus',
+    1 => 'OH',
+    2 => '39.98',
+    3 => '-82.98',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '03' => 
+  array (
+    0 => 'Columbus',
+    1 => 'OH',
+    2 => '39.98',
+    3 => '-82.98',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '04' => 
+  array (
+    0 => 'Columbus',
+    1 => 'OH',
+    2 => '39.98',
+    3 => '-82.98',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '05' => 
+  array (
+    0 => 'Columbus',
+    1 => 'OH',
+    2 => '39.98',
+    3 => '-82.98',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '06' => 
+  array (
+    0 => 'Columbus',
+    1 => 'OH',
+    2 => '39.98',
+    3 => '-82.98',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '07' => 
+  array (
+    0 => 'Columbus',
+    1 => 'OH',
+    2 => '39.98',
+    3 => '-82.98',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '09' => 
+  array (
+    0 => 'Columbus',
+    1 => 'OH',
+    2 => '39.98',
+    3 => '-82.98',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  10 => 
+  array (
+    0 => 'Columbus',
+    1 => 'OH',
+    2 => '39.98',
+    3 => '-82.98',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  11 => 
+  array (
+    0 => 'Columbus',
+    1 => 'OH',
+    2 => '39.98',
+    3 => '-82.98',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  12 => 
+  array (
+    0 => 'Columbus',
+    1 => 'OH',
+    2 => '39.98',
+    3 => '-82.98',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  13 => 
+  array (
+    0 => 'Columbus',
+    1 => 'OH',
+    2 => '39.98',
+    3 => '-82.98',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  14 => 
+  array (
+    0 => 'Columbus',
+    1 => 'OH',
+    2 => '39.98',
+    3 => '-82.98',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  15 => 
+  array (
+    0 => 'Columbus',
+    1 => 'OH',
+    2 => '39.98',
+    3 => '-82.98',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  16 => 
+  array (
+    0 => 'Columbus',
+    1 => 'OH',
+    2 => '39.98',
+    3 => '-82.98',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  17 => 
+  array (
+    0 => 'Columbus',
+    1 => 'OH',
+    2 => '39.98',
+    3 => '-82.98',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  18 => 
+  array (
+    0 => 'Columbus',
+    1 => 'OH',
+    2 => '39.98',
+    3 => '-82.98',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  19 => 
+  array (
+    0 => 'Columbus',
+    1 => 'OH',
+    2 => '39.98',
+    3 => '-82.98',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  20 => 
+  array (
+    0 => 'Columbus',
+    1 => 'OH',
+    2 => '39.98',
+    3 => '-82.98',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  21 => 
+  array (
+    0 => 'Columbus',
+    1 => 'OH',
+    2 => '39.98',
+    3 => '-82.98',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  22 => 
+  array (
+    0 => 'Columbus',
+    1 => 'OH',
+    2 => '39.98',
+    3 => '-82.98',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  23 => 
+  array (
+    0 => 'Columbus',
+    1 => 'OH',
+    2 => '39.98',
+    3 => '-82.98',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  24 => 
+  array (
+    0 => 'Columbus',
+    1 => 'OH',
+    2 => '39.98',
+    3 => '-82.98',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  26 => 
+  array (
+    0 => 'Columbus',
+    1 => 'OH',
+    2 => '39.98',
+    3 => '-82.98',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  27 => 
+  array (
+    0 => 'Columbus',
+    1 => 'OH',
+    2 => '39.98',
+    3 => '-82.98',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  28 => 
+  array (
+    0 => 'Columbus',
+    1 => 'OH',
+    2 => '39.98',
+    3 => '-82.98',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  29 => 
+  array (
+    0 => 'Columbus',
+    1 => 'OH',
+    2 => '39.98',
+    3 => '-82.98',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  30 => 
+  array (
+    0 => 'Columbus',
+    1 => 'OH',
+    2 => '39.98',
+    3 => '-82.98',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  31 => 
+  array (
+    0 => 'Columbus',
+    1 => 'OH',
+    2 => '39.98',
+    3 => '-82.98',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  32 => 
+  array (
+    0 => 'Columbus',
+    1 => 'OH',
+    2 => '39.98',
+    3 => '-82.98',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  34 => 
+  array (
+    0 => 'Columbus',
+    1 => 'OH',
+    2 => '39.98',
+    3 => '-82.98',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  35 => 
+  array (
+    0 => 'Columbus',
+    1 => 'OH',
+    2 => '39.98',
+    3 => '-82.98',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  36 => 
+  array (
+    0 => 'Columbus',
+    1 => 'OH',
+    2 => '39.98',
+    3 => '-82.98',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  40 => 
+  array (
+    0 => 'Columbus',
+    1 => 'OH',
+    2 => '39.98',
+    3 => '-82.98',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  51 => 
+  array (
+    0 => 'Columbus',
+    1 => 'OH',
+    2 => '39.98',
+    3 => '-82.98',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  60 => 
+  array (
+    0 => 'Columbus',
+    1 => 'OH',
+    2 => '39.98',
+    3 => '-82.98',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  65 => 
+  array (
+    0 => 'Columbus',
+    1 => 'OH',
+    2 => '39.96',
+    3 => '-82.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  66 => 
+  array (
+    0 => 'Columbus',
+    1 => 'OH',
+    2 => '39.98',
+    3 => '-82.98',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  68 => 
+  array (
+    0 => 'Columbus',
+    1 => 'OH',
+    2 => '39.98',
+    3 => '-82.98',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  70 => 
+  array (
+    0 => 'Columbus',
+    1 => 'OH',
+    2 => '39.98',
+    3 => '-82.98',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  71 => 
+  array (
+    0 => 'Columbus',
+    1 => 'OH',
+    2 => '39.98',
+    3 => '-82.98',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  72 => 
+  array (
+    0 => 'Columbus',
+    1 => 'OH',
+    2 => '39.98',
+    3 => '-82.98',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  79 => 
+  array (
+    0 => 'Columbus',
+    1 => 'OH',
+    2 => '39.98',
+    3 => '-82.98',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  87 => 
+  array (
+    0 => 'Columbus',
+    1 => 'OH',
+    2 => '39.98',
+    3 => '-82.98',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  91 => 
+  array (
+    0 => 'Columbus',
+    1 => 'OH',
+    2 => '39.98',
+    3 => '-82.98',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  99 => 
+  array (
+    0 => 'Columbus',
+    1 => 'OH',
+    2 => '40.03',
+    3 => '-82.86',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

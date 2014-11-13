@@ -1,0 +1,218 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Baker',
+    1 => 'WV',
+    2 => '39.04',
+    3 => '-78.74',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '02' => 
+  array (
+    0 => 'Brandywine',
+    1 => 'WV',
+    2 => '38.62',
+    3 => '-79.24',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '04' => 
+  array (
+    0 => 'Circleville',
+    1 => 'WV',
+    2 => '38.67',
+    3 => '-79.49',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '07' => 
+  array (
+    0 => 'Franklin',
+    1 => 'WV',
+    2 => '38.64',
+    3 => '-79.33',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '08' => 
+  array (
+    0 => 'High View',
+    1 => 'WV',
+    2 => '39.23',
+    3 => '-78.4',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  10 => 
+  array (
+    0 => 'Lost City',
+    1 => 'WV',
+    2 => '38.92',
+    3 => '-78.83',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  12 => 
+  array (
+    0 => 'Mathias',
+    1 => 'WV',
+    2 => '38.87',
+    3 => '-78.86',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  14 => 
+  array (
+    0 => 'Riverton',
+    1 => 'WV',
+    2 => '38.74',
+    3 => '-79.43',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  15 => 
+  array (
+    0 => 'Sugar Grove',
+    1 => 'WV',
+    2 => '38.51',
+    3 => '-79.32',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  17 => 
+  array (
+    0 => 'Bloomery',
+    1 => 'WV',
+    2 => '39.38',
+    3 => '-78.37',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  18 => 
+  array (
+    0 => 'Fisher',
+    1 => 'WV',
+    2 => '39.05',
+    3 => '-79',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  23 => 
+  array (
+    0 => 'Capon Springs',
+    1 => 'WV',
+    2 => '39.13',
+    3 => '-78.48',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  33 => 
+  array (
+    0 => 'Maysville',
+    1 => 'WV',
+    2 => '39.11',
+    3 => '-79.16',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  36 => 
+  array (
+    0 => 'Moorefield',
+    1 => 'WV',
+    2 => '39.06',
+    3 => '-78.96',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  38 => 
+  array (
+    0 => 'Milam',
+    1 => 'WV',
+    2 => '38.81',
+    3 => '-79.09',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  45 => 
+  array (
+    0 => 'Old Fields',
+    1 => 'WV',
+    2 => '39.14',
+    3 => '-78.95',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  47 => 
+  array (
+    0 => 'Petersburg',
+    1 => 'WV',
+    2 => '38.99',
+    3 => '-79.12',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  51 => 
+  array (
+    0 => 'Wardensville',
+    1 => 'WV',
+    2 => '39.07',
+    3 => '-78.59',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  52 => 
+  array (
+    0 => 'Purgitsville',
+    1 => 'WV',
+    2 => '39.23',
+    3 => '-78.92',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  55 => 
+  array (
+    0 => 'Cabins',
+    1 => 'WV',
+    2 => '38.99',
+    3 => '-79.2',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  65 => 
+  array (
+    0 => 'Yellow Spring',
+    1 => 'WV',
+    2 => '39.18',
+    3 => '-78.49',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  66 => 
+  array (
+    0 => 'Upper Tract',
+    1 => 'WV',
+    2 => '38.79',
+    3 => '-79.25',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  84 => 
+  array (
+    0 => 'Seneca Rocks',
+    1 => 'WV',
+    2 => '38.83',
+    3 => '-79.37',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  86 => 
+  array (
+    0 => 'Onego',
+    1 => 'WV',
+    2 => '38.81',
+    3 => '-79.47',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

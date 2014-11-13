@@ -1,0 +1,254 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Lincoln',
+    1 => 'NE',
+    2 => '40.81',
+    3 => '-96.68',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '02' => 
+  array (
+    0 => 'Lincoln',
+    1 => 'NE',
+    2 => '40.81',
+    3 => '-96.68',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '03' => 
+  array (
+    0 => 'Lincoln',
+    1 => 'NE',
+    2 => '40.81',
+    3 => '-96.68',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '04' => 
+  array (
+    0 => 'Lincoln',
+    1 => 'NE',
+    2 => '40.81',
+    3 => '-96.68',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '05' => 
+  array (
+    0 => 'Lincoln',
+    1 => 'NE',
+    2 => '40.81',
+    3 => '-96.68',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '06' => 
+  array (
+    0 => 'Lincoln',
+    1 => 'NE',
+    2 => '40.81',
+    3 => '-96.68',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '07' => 
+  array (
+    0 => 'Lincoln',
+    1 => 'NE',
+    2 => '40.81',
+    3 => '-96.68',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '08' => 
+  array (
+    0 => 'Lincoln',
+    1 => 'NE',
+    2 => '40.81',
+    3 => '-96.68',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '09' => 
+  array (
+    0 => 'Lincoln',
+    1 => 'NE',
+    2 => '40.81',
+    3 => '-96.68',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  10 => 
+  array (
+    0 => 'Lincoln',
+    1 => 'NE',
+    2 => '40.81',
+    3 => '-96.68',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  12 => 
+  array (
+    0 => 'Lincoln',
+    1 => 'NE',
+    2 => '40.81',
+    3 => '-96.68',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  14 => 
+  array (
+    0 => 'Lincoln',
+    1 => 'NE',
+    2 => '40.81',
+    3 => '-96.68',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  16 => 
+  array (
+    0 => 'Lincoln',
+    1 => 'NE',
+    2 => '40.81',
+    3 => '-96.68',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  17 => 
+  array (
+    0 => 'Lincoln',
+    1 => 'NE',
+    2 => '40.81',
+    3 => '-96.68',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  20 => 
+  array (
+    0 => 'Lincoln',
+    1 => 'NE',
+    2 => '40.81',
+    3 => '-96.68',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  21 => 
+  array (
+    0 => 'Lincoln',
+    1 => 'NE',
+    2 => '40.81',
+    3 => '-96.68',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  22 => 
+  array (
+    0 => 'Lincoln',
+    1 => 'NE',
+    2 => '40.81',
+    3 => '-96.68',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  23 => 
+  array (
+    0 => 'Lincoln',
+    1 => 'NE',
+    2 => '40.81',
+    3 => '-96.68',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  24 => 
+  array (
+    0 => 'Lincoln',
+    1 => 'NE',
+    2 => '40.81',
+    3 => '-96.68',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  26 => 
+  array (
+    0 => 'Lincoln',
+    1 => 'NE',
+    2 => '40.81',
+    3 => '-96.68',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  27 => 
+  array (
+    0 => 'Lincoln',
+    1 => 'NE',
+    2 => '40.81',
+    3 => '-96.68',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  28 => 
+  array (
+    0 => 'Lincoln',
+    1 => 'NE',
+    2 => '40.81',
+    3 => '-96.68',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  29 => 
+  array (
+    0 => 'Lincoln',
+    1 => 'NE',
+    2 => '40.81',
+    3 => '-96.68',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  31 => 
+  array (
+    0 => 'Lincoln',
+    1 => 'NE',
+    2 => '40.81',
+    3 => '-96.68',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  32 => 
+  array (
+    0 => 'Lincoln',
+    1 => 'NE',
+    2 => '40.81',
+    3 => '-96.68',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  42 => 
+  array (
+    0 => 'Lincoln',
+    1 => 'NE',
+    2 => '40.81',
+    3 => '-96.68',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  83 => 
+  array (
+    0 => 'Lincoln',
+    1 => 'NE',
+    2 => '40.81',
+    3 => '-96.68',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  88 => 
+  array (
+    0 => 'Lincoln',
+    1 => 'NE',
+    2 => '40.81',
+    3 => '-96.68',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+);

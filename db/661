@@ -1,0 +1,146 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Kansas City',
+    1 => 'KS',
+    2 => '39.1',
+    3 => '-94.62',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '02' => 
+  array (
+    0 => 'Kansas City',
+    1 => 'KS',
+    2 => '39.1',
+    3 => '-94.62',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '03' => 
+  array (
+    0 => 'Kansas City',
+    1 => 'KS',
+    2 => '39.1',
+    3 => '-94.62',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '04' => 
+  array (
+    0 => 'Kansas City',
+    1 => 'KS',
+    2 => '39.1',
+    3 => '-94.62',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '05' => 
+  array (
+    0 => 'Kansas City',
+    1 => 'KS',
+    2 => '39.1',
+    3 => '-94.62',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '06' => 
+  array (
+    0 => 'Kansas City',
+    1 => 'KS',
+    2 => '39.1',
+    3 => '-94.62',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '09' => 
+  array (
+    0 => 'Kansas City',
+    1 => 'KS',
+    2 => '39.1',
+    3 => '-94.62',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  10 => 
+  array (
+    0 => 'Kansas City',
+    1 => 'KS',
+    2 => '39.1',
+    3 => '-94.62',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  11 => 
+  array (
+    0 => 'Kansas City',
+    1 => 'KS',
+    2 => '39.1',
+    3 => '-94.62',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  12 => 
+  array (
+    0 => 'Kansas City',
+    1 => 'KS',
+    2 => '39.1',
+    3 => '-94.62',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  13 => 
+  array (
+    0 => 'Edwardsville',
+    1 => 'KS',
+    2 => '39.07',
+    3 => '-94.81',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  15 => 
+  array (
+    0 => 'Kansas City',
+    1 => 'KS',
+    2 => '39.1',
+    3 => '-94.62',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  17 => 
+  array (
+    0 => 'Kansas City',
+    1 => 'KS',
+    2 => '39.1',
+    3 => '-94.62',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  18 => 
+  array (
+    0 => 'Kansas City',
+    1 => 'KS',
+    2 => '39.1',
+    3 => '-94.62',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  19 => 
+  array (
+    0 => 'Kansas City',
+    1 => 'KS',
+    2 => '39.1',
+    3 => '-94.62',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  60 => 
+  array (
+    0 => 'Kansas City',
+    1 => 'KS',
+    2 => '39.1',
+    3 => '-94.62',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+);

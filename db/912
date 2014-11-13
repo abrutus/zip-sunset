@@ -1,0 +1,146 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Glendale',
+    1 => 'CA',
+    2 => '34.17',
+    3 => '-118.29',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '02' => 
+  array (
+    0 => 'Glendale',
+    1 => 'CA',
+    2 => '34.16',
+    3 => '-118.26',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '03' => 
+  array (
+    0 => 'Glendale',
+    1 => 'CA',
+    2 => '34.15',
+    3 => '-118.26',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '04' => 
+  array (
+    0 => 'Glendale',
+    1 => 'CA',
+    2 => '34.13',
+    3 => '-118.26',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '05' => 
+  array (
+    0 => 'Glendale',
+    1 => 'CA',
+    2 => '34.13',
+    3 => '-118.24',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '06' => 
+  array (
+    0 => 'Glendale',
+    1 => 'CA',
+    2 => '34.16',
+    3 => '-118.2',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '07' => 
+  array (
+    0 => 'Glendale',
+    1 => 'CA',
+    2 => '34.18',
+    3 => '-118.25',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '08' => 
+  array (
+    0 => 'Glendale',
+    1 => 'CA',
+    2 => '34.19',
+    3 => '-118.24',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '09' => 
+  array (
+    0 => 'Glendale',
+    1 => 'CA',
+    2 => '34.14',
+    3 => '-118.25',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  10 => 
+  array (
+    0 => 'Glendale',
+    1 => 'CA',
+    2 => '34.14',
+    3 => '-118.25',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  14 => 
+  array (
+    0 => 'La Crescenta',
+    1 => 'CA',
+    2 => '34.23',
+    3 => '-118.24',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  21 => 
+  array (
+    0 => 'Glendale',
+    1 => 'CA',
+    2 => '34.16',
+    3 => '-118.28',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  22 => 
+  array (
+    0 => 'Glendale',
+    1 => 'CA',
+    2 => '34.16',
+    3 => '-118.26',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  24 => 
+  array (
+    0 => 'La Crescenta',
+    1 => 'CA',
+    2 => '34.23',
+    3 => '-118.25',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  25 => 
+  array (
+    0 => 'Glendale',
+    1 => 'CA',
+    2 => '34.12',
+    3 => '-118.25',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  26 => 
+  array (
+    0 => 'Glendale',
+    1 => 'CA',
+    2 => '34.16',
+    3 => '-118.21',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+);

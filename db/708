@@ -1,0 +1,389 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Baton Rouge',
+    1 => 'LA',
+    2 => '30.44',
+    3 => '-91.12',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '02' => 
+  array (
+    0 => 'Baton Rouge',
+    1 => 'LA',
+    2 => '30.44',
+    3 => '-91.12',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '03' => 
+  array (
+    0 => 'Baton Rouge',
+    1 => 'LA',
+    2 => '30.44',
+    3 => '-91.12',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '04' => 
+  array (
+    0 => 'Baton Rouge',
+    1 => 'LA',
+    2 => '30.44',
+    3 => '-91.12',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '05' => 
+  array (
+    0 => 'Baton Rouge',
+    1 => 'LA',
+    2 => '30.44',
+    3 => '-91.12',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '06' => 
+  array (
+    0 => 'Baton Rouge',
+    1 => 'LA',
+    2 => '30.44',
+    3 => '-91.12',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '07' => 
+  array (
+    0 => 'Baton Rouge',
+    1 => 'LA',
+    2 => '30.44',
+    3 => '-91.12',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '08' => 
+  array (
+    0 => 'Baton Rouge',
+    1 => 'LA',
+    2 => '30.44',
+    3 => '-91.12',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '09' => 
+  array (
+    0 => 'Baton Rouge',
+    1 => 'LA',
+    2 => '30.44',
+    3 => '-91.12',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  10 => 
+  array (
+    0 => 'Baton Rouge',
+    1 => 'LA',
+    2 => '30.44',
+    3 => '-91.12',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  11 => 
+  array (
+    0 => 'Baton Rouge',
+    1 => 'LA',
+    2 => '30.44',
+    3 => '-91.12',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  12 => 
+  array (
+    0 => 'Baton Rouge',
+    1 => 'LA',
+    2 => '30.44',
+    3 => '-91.12',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  13 => 
+  array (
+    0 => 'Baton Rouge',
+    1 => 'LA',
+    2 => '30.44',
+    3 => '-91.12',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  14 => 
+  array (
+    0 => 'Baton Rouge',
+    1 => 'LA',
+    2 => '30.44',
+    3 => '-91.12',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  15 => 
+  array (
+    0 => 'Baton Rouge',
+    1 => 'LA',
+    2 => '30.44',
+    3 => '-91.12',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  16 => 
+  array (
+    0 => 'Baton Rouge',
+    1 => 'LA',
+    2 => '30.44',
+    3 => '-91.12',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  17 => 
+  array (
+    0 => 'Baton Rouge',
+    1 => 'LA',
+    2 => '30.44',
+    3 => '-91.12',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  18 => 
+  array (
+    0 => 'Baton Rouge',
+    1 => 'LA',
+    2 => '30.44',
+    3 => '-91.12',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  19 => 
+  array (
+    0 => 'Baton Rouge',
+    1 => 'LA',
+    2 => '30.44',
+    3 => '-91.12',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  20 => 
+  array (
+    0 => 'Baton Rouge',
+    1 => 'LA',
+    2 => '30.44',
+    3 => '-91.12',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  21 => 
+  array (
+    0 => 'Baton Rouge',
+    1 => 'LA',
+    2 => '30.44',
+    3 => '-91.12',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  22 => 
+  array (
+    0 => 'Baton Rouge',
+    1 => 'LA',
+    2 => '30.44',
+    3 => '-91.12',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  23 => 
+  array (
+    0 => 'Baton Rouge',
+    1 => 'LA',
+    2 => '30.44',
+    3 => '-91.12',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  25 => 
+  array (
+    0 => 'Baton Rouge',
+    1 => 'LA',
+    2 => '30.44',
+    3 => '-91.12',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  26 => 
+  array (
+    0 => 'Baton Rouge',
+    1 => 'LA',
+    2 => '30.44',
+    3 => '-91.12',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  27 => 
+  array (
+    0 => 'Baton Rouge',
+    1 => 'LA',
+    2 => '30.44',
+    3 => '-91.12',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  31 => 
+  array (
+    0 => 'Baton Rouge',
+    1 => 'LA',
+    2 => '30.44',
+    3 => '-91.12',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  33 => 
+  array (
+    0 => 'Baton Rouge',
+    1 => 'LA',
+    2 => '30.44',
+    3 => '-91.12',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  35 => 
+  array (
+    0 => 'Baton Rouge',
+    1 => 'LA',
+    2 => '30.44',
+    3 => '-91.12',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  36 => 
+  array (
+    0 => 'Baton Rouge',
+    1 => 'LA',
+    2 => '30.44',
+    3 => '-91.12',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  37 => 
+  array (
+    0 => 'Baton Rouge',
+    1 => 'LA',
+    2 => '30.44',
+    3 => '-91.12',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  73 => 
+  array (
+    0 => 'Baton Rouge',
+    1 => 'LA',
+    2 => '30.45',
+    3 => '-91.18',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  74 => 
+  array (
+    0 => 'Baton Rouge',
+    1 => 'LA',
+    2 => '30.44',
+    3 => '-91.12',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  79 => 
+  array (
+    0 => 'Baton Rouge',
+    1 => 'LA',
+    2 => '30.44',
+    3 => '-91.12',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  83 => 
+  array (
+    0 => 'Baton Rouge',
+    1 => 'LA',
+    2 => '30.44',
+    3 => '-91.18',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  84 => 
+  array (
+    0 => 'Baton Rouge',
+    1 => 'LA',
+    2 => '30.44',
+    3 => '-91.12',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  91 => 
+  array (
+    0 => 'Baton Rouge',
+    1 => 'LA',
+    2 => '30.45',
+    3 => '-91.18',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  92 => 
+  array (
+    0 => 'Baton Rouge',
+    1 => 'LA',
+    2 => '30.44',
+    3 => '-91.12',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  93 => 
+  array (
+    0 => 'Baton Rouge',
+    1 => 'LA',
+    2 => '30.44',
+    3 => '-91.12',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  94 => 
+  array (
+    0 => 'Baton Rouge',
+    1 => 'LA',
+    2 => '30.44',
+    3 => '-91.12',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  95 => 
+  array (
+    0 => 'Baton Rouge',
+    1 => 'LA',
+    2 => '30.44',
+    3 => '-91.12',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  96 => 
+  array (
+    0 => 'Baton Rouge',
+    1 => 'LA',
+    2 => '30.44',
+    3 => '-91.12',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  98 => 
+  array (
+    0 => 'Baton Rouge',
+    1 => 'LA',
+    2 => '30.44',
+    3 => '-91.12',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+);

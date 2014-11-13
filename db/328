@@ -1,0 +1,560 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Orlando',
+    1 => 'FL',
+    2 => '28.5',
+    3 => '-81.37',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '02' => 
+  array (
+    0 => 'Orlando',
+    1 => 'FL',
+    2 => '28.5',
+    3 => '-81.37',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '03' => 
+  array (
+    0 => 'Orlando',
+    1 => 'FL',
+    2 => '28.5',
+    3 => '-81.37',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '04' => 
+  array (
+    0 => 'Orlando',
+    1 => 'FL',
+    2 => '28.5',
+    3 => '-81.37',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '05' => 
+  array (
+    0 => 'Orlando',
+    1 => 'FL',
+    2 => '28.5',
+    3 => '-81.37',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '06' => 
+  array (
+    0 => 'Orlando',
+    1 => 'FL',
+    2 => '28.5',
+    3 => '-81.37',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '07' => 
+  array (
+    0 => 'Orlando',
+    1 => 'FL',
+    2 => '28.5',
+    3 => '-81.37',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '08' => 
+  array (
+    0 => 'Orlando',
+    1 => 'FL',
+    2 => '28.5',
+    3 => '-81.37',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '09' => 
+  array (
+    0 => 'Orlando',
+    1 => 'FL',
+    2 => '28.5',
+    3 => '-81.37',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  10 => 
+  array (
+    0 => 'Orlando',
+    1 => 'FL',
+    2 => '28.5',
+    3 => '-81.37',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  11 => 
+  array (
+    0 => 'Orlando',
+    1 => 'FL',
+    2 => '28.5',
+    3 => '-81.37',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  12 => 
+  array (
+    0 => 'Orlando',
+    1 => 'FL',
+    2 => '28.5',
+    3 => '-81.37',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  14 => 
+  array (
+    0 => 'Orlando',
+    1 => 'FL',
+    2 => '28.5',
+    3 => '-81.37',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  15 => 
+  array (
+    0 => 'Orlando',
+    1 => 'FL',
+    2 => '28.5',
+    3 => '-81.37',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  16 => 
+  array (
+    0 => 'Orlando',
+    1 => 'FL',
+    2 => '28.5',
+    3 => '-81.37',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  17 => 
+  array (
+    0 => 'Orlando',
+    1 => 'FL',
+    2 => '28.5',
+    3 => '-81.37',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  18 => 
+  array (
+    0 => 'Orlando',
+    1 => 'FL',
+    2 => '28.5',
+    3 => '-81.37',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  19 => 
+  array (
+    0 => 'Orlando',
+    1 => 'FL',
+    2 => '28.5',
+    3 => '-81.37',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  20 => 
+  array (
+    0 => 'Orlando',
+    1 => 'FL',
+    2 => '28.5',
+    3 => '-81.37',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  21 => 
+  array (
+    0 => 'Orlando',
+    1 => 'FL',
+    2 => '28.5',
+    3 => '-81.37',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  22 => 
+  array (
+    0 => 'Orlando',
+    1 => 'FL',
+    2 => '28.5',
+    3 => '-81.37',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  24 => 
+  array (
+    0 => 'Orlando',
+    1 => 'FL',
+    2 => '28.5',
+    3 => '-81.37',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  25 => 
+  array (
+    0 => 'Orlando',
+    1 => 'FL',
+    2 => '28.5',
+    3 => '-81.37',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  26 => 
+  array (
+    0 => 'Orlando',
+    1 => 'FL',
+    2 => '28.5',
+    3 => '-81.37',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  27 => 
+  array (
+    0 => 'Orlando',
+    1 => 'FL',
+    2 => '28.5',
+    3 => '-81.37',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  28 => 
+  array (
+    0 => 'Orlando',
+    1 => 'FL',
+    2 => '28.5',
+    3 => '-81.37',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  29 => 
+  array (
+    0 => 'Orlando',
+    1 => 'FL',
+    2 => '28.5',
+    3 => '-81.37',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  30 => 
+  array (
+    0 => 'Orlando',
+    1 => 'FL',
+    2 => '28.37',
+    3 => '-81.55',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  31 => 
+  array (
+    0 => 'Orlando',
+    1 => 'FL',
+    2 => '28.5',
+    3 => '-81.37',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  32 => 
+  array (
+    0 => 'Orlando',
+    1 => 'FL',
+    2 => '28.5',
+    3 => '-81.37',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  33 => 
+  array (
+    0 => 'Orlando',
+    1 => 'FL',
+    2 => '28.5',
+    3 => '-81.37',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  34 => 
+  array (
+    0 => 'Orlando',
+    1 => 'FL',
+    2 => '28.5',
+    3 => '-81.37',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  35 => 
+  array (
+    0 => 'Orlando',
+    1 => 'FL',
+    2 => '28.5',
+    3 => '-81.37',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  36 => 
+  array (
+    0 => 'Orlando',
+    1 => 'FL',
+    2 => '28.5',
+    3 => '-81.37',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  37 => 
+  array (
+    0 => 'Orlando',
+    1 => 'FL',
+    2 => '28.5',
+    3 => '-81.37',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  39 => 
+  array (
+    0 => 'Orlando',
+    1 => 'FL',
+    2 => '28.5',
+    3 => '-81.37',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  53 => 
+  array (
+    0 => 'Orlando',
+    1 => 'FL',
+    2 => '28.5',
+    3 => '-81.37',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  54 => 
+  array (
+    0 => 'Orlando',
+    1 => 'FL',
+    2 => '28.5',
+    3 => '-81.37',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  55 => 
+  array (
+    0 => 'Orlando',
+    1 => 'FL',
+    2 => '28.5',
+    3 => '-81.37',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  56 => 
+  array (
+    0 => 'Orlando',
+    1 => 'FL',
+    2 => '28.5',
+    3 => '-81.37',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  57 => 
+  array (
+    0 => 'Orlando',
+    1 => 'FL',
+    2 => '28.5',
+    3 => '-81.37',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  58 => 
+  array (
+    0 => 'Orlando',
+    1 => 'FL',
+    2 => '28.5',
+    3 => '-81.37',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  59 => 
+  array (
+    0 => 'Orlando',
+    1 => 'FL',
+    2 => '28.5',
+    3 => '-81.37',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  60 => 
+  array (
+    0 => 'Orlando',
+    1 => 'FL',
+    2 => '28.5',
+    3 => '-81.37',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  61 => 
+  array (
+    0 => 'Orlando',
+    1 => 'FL',
+    2 => '28.5',
+    3 => '-81.37',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  62 => 
+  array (
+    0 => 'Orlando',
+    1 => 'FL',
+    2 => '28.5',
+    3 => '-81.37',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  67 => 
+  array (
+    0 => 'Orlando',
+    1 => 'FL',
+    2 => '28.5',
+    3 => '-81.37',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  68 => 
+  array (
+    0 => 'Orlando',
+    1 => 'FL',
+    2 => '28.5',
+    3 => '-81.37',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  69 => 
+  array (
+    0 => 'Orlando',
+    1 => 'FL',
+    2 => '28.5',
+    3 => '-81.37',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  72 => 
+  array (
+    0 => 'Orlando',
+    1 => 'FL',
+    2 => '28.5',
+    3 => '-81.37',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  77 => 
+  array (
+    0 => 'Orlando',
+    1 => 'FL',
+    2 => '28.5',
+    3 => '-81.37',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  78 => 
+  array (
+    0 => 'Orlando',
+    1 => 'FL',
+    2 => '28.5',
+    3 => '-81.37',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  85 => 
+  array (
+    0 => 'Orlando',
+    1 => 'FL',
+    2 => '28.54',
+    3 => '-81.38',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  86 => 
+  array (
+    0 => 'Orlando',
+    1 => 'FL',
+    2 => '28.5',
+    3 => '-81.37',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  87 => 
+  array (
+    0 => 'Orlando',
+    1 => 'FL',
+    2 => '28.5',
+    3 => '-81.37',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  90 => 
+  array (
+    0 => 'Orlando',
+    1 => 'FL',
+    2 => '28.46',
+    3 => '-81.38',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  91 => 
+  array (
+    0 => 'Orlando',
+    1 => 'FL',
+    2 => '28.5',
+    3 => '-81.37',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  93 => 
+  array (
+    0 => 'Orlando',
+    1 => 'FL',
+    2 => '28.42',
+    3 => '-81.3',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  96 => 
+  array (
+    0 => 'Orlando',
+    1 => 'FL',
+    2 => '28.32',
+    3 => '-81.23',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  97 => 
+  array (
+    0 => 'Orlando',
+    1 => 'FL',
+    2 => '28.5',
+    3 => '-81.37',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  98 => 
+  array (
+    0 => 'Orlando',
+    1 => 'FL',
+    2 => '28.53',
+    3 => '-81.37',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  99 => 
+  array (
+    0 => 'Orlando',
+    1 => 'FL',
+    2 => '28.5',
+    3 => '-81.37',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

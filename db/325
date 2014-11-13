@@ -1,0 +1,515 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Pensacola',
+    1 => 'FL',
+    2 => '30.44',
+    3 => '-87.18',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '02' => 
+  array (
+    0 => 'Pensacola',
+    1 => 'FL',
+    2 => '30.44',
+    3 => '-87.18',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '03' => 
+  array (
+    0 => 'Pensacola',
+    1 => 'FL',
+    2 => '30.44',
+    3 => '-87.18',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '04' => 
+  array (
+    0 => 'Pensacola',
+    1 => 'FL',
+    2 => '30.44',
+    3 => '-87.18',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '05' => 
+  array (
+    0 => 'Pensacola',
+    1 => 'FL',
+    2 => '30.44',
+    3 => '-87.18',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '06' => 
+  array (
+    0 => 'Pensacola',
+    1 => 'FL',
+    2 => '30.44',
+    3 => '-87.18',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '07' => 
+  array (
+    0 => 'Pensacola',
+    1 => 'FL',
+    2 => '30.44',
+    3 => '-87.18',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '08' => 
+  array (
+    0 => 'Pensacola',
+    1 => 'FL',
+    2 => '30.44',
+    3 => '-87.18',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '09' => 
+  array (
+    0 => 'Pensacola',
+    1 => 'FL',
+    2 => '30.44',
+    3 => '-87.18',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  11 => 
+  array (
+    0 => 'Pensacola',
+    1 => 'FL',
+    2 => '30.44',
+    3 => '-87.18',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  12 => 
+  array (
+    0 => 'Pensacola',
+    1 => 'FL',
+    2 => '30.44',
+    3 => '-87.18',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  13 => 
+  array (
+    0 => 'Pensacola',
+    1 => 'FL',
+    2 => '30.44',
+    3 => '-87.18',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  14 => 
+  array (
+    0 => 'Pensacola',
+    1 => 'FL',
+    2 => '30.44',
+    3 => '-87.18',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  16 => 
+  array (
+    0 => 'Pensacola',
+    1 => 'FL',
+    2 => '30.44',
+    3 => '-87.18',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  20 => 
+  array (
+    0 => 'Pensacola',
+    1 => 'FL',
+    2 => '30.44',
+    3 => '-87.18',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  21 => 
+  array (
+    0 => 'Pensacola',
+    1 => 'FL',
+    2 => '30.44',
+    3 => '-87.18',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  22 => 
+  array (
+    0 => 'Pensacola',
+    1 => 'FL',
+    2 => '30.44',
+    3 => '-87.18',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  23 => 
+  array (
+    0 => 'Pensacola',
+    1 => 'FL',
+    2 => '30.44',
+    3 => '-87.18',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  24 => 
+  array (
+    0 => 'Pensacola',
+    1 => 'FL',
+    2 => '30.44',
+    3 => '-87.18',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  26 => 
+  array (
+    0 => 'Pensacola',
+    1 => 'FL',
+    2 => '30.44',
+    3 => '-87.18',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  30 => 
+  array (
+    0 => 'Bagdad',
+    1 => 'FL',
+    2 => '30.58',
+    3 => '-87.03',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  31 => 
+  array (
+    0 => 'Baker',
+    1 => 'FL',
+    2 => '30.79',
+    3 => '-86.68',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  33 => 
+  array (
+    0 => 'Cantonment',
+    1 => 'FL',
+    2 => '30.6',
+    3 => '-87.34',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  34 => 
+  array (
+    0 => 'Pensacola',
+    1 => 'FL',
+    2 => '30.44',
+    3 => '-87.18',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  35 => 
+  array (
+    0 => 'Century',
+    1 => 'FL',
+    2 => '30.97',
+    3 => '-87.26',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  36 => 
+  array (
+    0 => 'Crestview',
+    1 => 'FL',
+    2 => '30.75',
+    3 => '-86.57',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  37 => 
+  array (
+    0 => 'Milligan',
+    1 => 'FL',
+    2 => '30.75',
+    3 => '-86.64',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  38 => 
+  array (
+    0 => 'Paxton',
+    1 => 'FL',
+    2 => '30.97',
+    3 => '-86.31',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  39 => 
+  array (
+    0 => 'Crestview',
+    1 => 'FL',
+    2 => '30.75',
+    3 => '-86.57',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  40 => 
+  array (
+    0 => 'Destin',
+    1 => 'FL',
+    2 => '30.4',
+    3 => '-86.49',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  41 => 
+  array (
+    0 => 'Destin',
+    1 => 'FL',
+    2 => '30.4',
+    3 => '-86.49',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  44 => 
+  array (
+    0 => 'Hurlburt Field',
+    1 => 'FL',
+    2 => '30.42',
+    3 => '-86.69',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  47 => 
+  array (
+    0 => 'Fort Walton Beach',
+    1 => 'FL',
+    2 => '30.42',
+    3 => '-86.61',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  48 => 
+  array (
+    0 => 'Fort Walton Beach',
+    1 => 'FL',
+    2 => '30.42',
+    3 => '-86.61',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  49 => 
+  array (
+    0 => 'Fort Walton Beach',
+    1 => 'FL',
+    2 => '30.42',
+    3 => '-86.61',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  50 => 
+  array (
+    0 => 'Miramar Beach',
+    1 => 'FL',
+    2 => '30.39',
+    3 => '-86.31',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  59 => 
+  array (
+    0 => 'Pensacola',
+    1 => 'FL',
+    2 => '30.44',
+    3 => '-87.18',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  60 => 
+  array (
+    0 => 'Gonzalez',
+    1 => 'FL',
+    2 => '30.57',
+    3 => '-87.29',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  61 => 
+  array (
+    0 => 'Gulf Breeze',
+    1 => 'FL',
+    2 => '30.36',
+    3 => '-87.17',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  62 => 
+  array (
+    0 => 'Gulf Breeze',
+    1 => 'FL',
+    2 => '30.36',
+    3 => '-87.17',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  63 => 
+  array (
+    0 => 'Gulf Breeze',
+    1 => 'FL',
+    2 => '30.65',
+    3 => '-86.88',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  65 => 
+  array (
+    0 => 'Jay',
+    1 => 'FL',
+    2 => '30.95',
+    3 => '-87.15',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  66 => 
+  array (
+    0 => 'Navarre',
+    1 => 'FL',
+    2 => '30.36',
+    3 => '-87.17',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  68 => 
+  array (
+    0 => 'Mc David',
+    1 => 'FL',
+    2 => '30.86',
+    3 => '-87.46',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  69 => 
+  array (
+    0 => 'Mary Esther',
+    1 => 'FL',
+    2 => '30.41',
+    3 => '-86.66',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  70 => 
+  array (
+    0 => 'Milton',
+    1 => 'FL',
+    2 => '30.63',
+    3 => '-87.04',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  71 => 
+  array (
+    0 => 'Milton',
+    1 => 'FL',
+    2 => '30.63',
+    3 => '-87.04',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  72 => 
+  array (
+    0 => 'Milton',
+    1 => 'FL',
+    2 => '30.63',
+    3 => '-87.04',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  77 => 
+  array (
+    0 => 'Molino',
+    1 => 'FL',
+    2 => '30.71',
+    3 => '-87.32',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  78 => 
+  array (
+    0 => 'Niceville',
+    1 => 'FL',
+    2 => '30.53',
+    3 => '-86.48',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  79 => 
+  array (
+    0 => 'Shalimar',
+    1 => 'FL',
+    2 => '30.44',
+    3 => '-86.57',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  80 => 
+  array (
+    0 => 'Valparaiso',
+    1 => 'FL',
+    2 => '30.49',
+    3 => '-86.5',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  83 => 
+  array (
+    0 => 'Milton',
+    1 => 'FL',
+    2 => '30.63',
+    3 => '-87.04',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  88 => 
+  array (
+    0 => 'Niceville',
+    1 => 'FL',
+    2 => '30.53',
+    3 => '-86.48',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  90 => 
+  array (
+    0 => 'Pensacola',
+    1 => 'FL',
+    2 => '30.44',
+    3 => '-87.18',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  91 => 
+  array (
+    0 => 'Pensacola',
+    1 => 'FL',
+    2 => '30.44',
+    3 => '-87.18',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  92 => 
+  array (
+    0 => 'Pensacola',
+    1 => 'FL',
+    2 => '30.44',
+    3 => '-87.18',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+);

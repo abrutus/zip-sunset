@@ -1,0 +1,416 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Mc Donough',
+    1 => 'NY',
+    2 => '42.49',
+    3 => '-75.76',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '02' => 
+  array (
+    0 => 'Maine',
+    1 => 'NY',
+    2 => '42.19',
+    3 => '-76.06',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '03' => 
+  array (
+    0 => 'Marathon',
+    1 => 'NY',
+    2 => '42.44',
+    3 => '-76.03',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '04' => 
+  array (
+    0 => 'Masonville',
+    1 => 'NY',
+    2 => '42.24',
+    3 => '-75.37',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '06' => 
+  array (
+    0 => 'Meridale',
+    1 => 'NY',
+    2 => '42.36',
+    3 => '-74.95',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '07' => 
+  array (
+    0 => 'Milford',
+    1 => 'NY',
+    2 => '42.59',
+    3 => '-74.94',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '08' => 
+  array (
+    0 => 'Morris',
+    1 => 'NY',
+    2 => '42.54',
+    3 => '-75.24',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '09' => 
+  array (
+    0 => 'Mount Upton',
+    1 => 'NY',
+    2 => '42.42',
+    3 => '-75.38',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  10 => 
+  array (
+    0 => 'Mount Vision',
+    1 => 'NY',
+    2 => '42.57',
+    3 => '-75.05',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  11 => 
+  array (
+    0 => 'Newark Valley',
+    1 => 'NY',
+    2 => '42.22',
+    3 => '-76.18',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  12 => 
+  array (
+    0 => 'Nichols',
+    1 => 'NY',
+    2 => '42',
+    3 => '-77.26',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  13 => 
+  array (
+    0 => 'Nineveh',
+    1 => 'NY',
+    2 => '42.19',
+    3 => '-75.6',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  14 => 
+  array (
+    0 => 'North Norwich',
+    1 => 'NY',
+    2 => '42.61',
+    3 => '-75.53',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  15 => 
+  array (
+    0 => 'Norwich',
+    1 => 'NY',
+    2 => '42.53',
+    3 => '-75.52',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  20 => 
+  array (
+    0 => 'Oneonta',
+    1 => 'NY',
+    2 => '42.45',
+    3 => '-75.06',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  25 => 
+  array (
+    0 => 'Otego',
+    1 => 'NY',
+    2 => '42.39',
+    3 => '-75.17',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  26 => 
+  array (
+    0 => 'Ouaquaga',
+    1 => 'NY',
+    2 => '42.12',
+    3 => '-75.64',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  27 => 
+  array (
+    0 => 'Owego',
+    1 => 'NY',
+    2 => '42.1',
+    3 => '-76.26',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  30 => 
+  array (
+    0 => 'Oxford',
+    1 => 'NY',
+    2 => '42.44',
+    3 => '-75.59',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  32 => 
+  array (
+    0 => 'Plymouth',
+    1 => 'NY',
+    2 => '42.61',
+    3 => '-75.6',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  33 => 
+  array (
+    0 => 'Port Crane',
+    1 => 'NY',
+    2 => '42.16',
+    3 => '-75.83',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  34 => 
+  array (
+    0 => 'Portlandville',
+    1 => 'NY',
+    2 => '42.53',
+    3 => '-74.96',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  35 => 
+  array (
+    0 => 'Richford',
+    1 => 'NY',
+    2 => '42.35',
+    3 => '-76.2',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  37 => 
+  array (
+    0 => 'Shinhopple',
+    1 => 'NY',
+    2 => '42.03',
+    3 => '-75.06',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  38 => 
+  array (
+    0 => 'Sidney',
+    1 => 'NY',
+    2 => '42.31',
+    3 => '-75.39',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  39 => 
+  array (
+    0 => 'Sidney Center',
+    1 => 'NY',
+    2 => '42.29',
+    3 => '-75.25',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  40 => 
+  array (
+    0 => 'Smithboro',
+    1 => 'NY',
+    2 => '42.03',
+    3 => '-76.4',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  41 => 
+  array (
+    0 => 'Smithville Flats',
+    1 => 'NY',
+    2 => '42.39',
+    3 => '-75.8',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  42 => 
+  array (
+    0 => 'South Kortright',
+    1 => 'NY',
+    2 => '42.37',
+    3 => '-74.72',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  43 => 
+  array (
+    0 => 'South New Berlin',
+    1 => 'NY',
+    2 => '42.53',
+    3 => '-75.35',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  44 => 
+  array (
+    0 => 'South Plymouth',
+    1 => 'NY',
+    2 => '42.58',
+    3 => '-75.56',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  45 => 
+  array (
+    0 => 'Tioga Center',
+    1 => 'NY',
+    2 => '42.05',
+    3 => '-76.34',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  46 => 
+  array (
+    0 => 'Treadwell',
+    1 => 'NY',
+    2 => '42.34',
+    3 => '-75.05',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  47 => 
+  array (
+    0 => 'Trout Creek',
+    1 => 'NY',
+    2 => '42.2',
+    3 => '-75.27',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  48 => 
+  array (
+    0 => 'Tunnel',
+    1 => 'NY',
+    2 => '42.21',
+    3 => '-75.72',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  49 => 
+  array (
+    0 => 'Unadilla',
+    1 => 'NY',
+    2 => '42.32',
+    3 => '-75.31',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  50 => 
+  array (
+    0 => 'Vestal',
+    1 => 'NY',
+    2 => '42.08',
+    3 => '-76.05',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  51 => 
+  array (
+    0 => 'Vestal',
+    1 => 'NY',
+    2 => '42.08',
+    3 => '-76.05',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  56 => 
+  array (
+    0 => 'Walton',
+    1 => 'NY',
+    2 => '42.16',
+    3 => '-75.13',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  59 => 
+  array (
+    0 => 'Wells Bridge',
+    1 => 'NY',
+    2 => '42.36',
+    3 => '-75.24',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  60 => 
+  array (
+    0 => 'West Davenport',
+    1 => 'NY',
+    2 => '42.43',
+    3 => '-74.97',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  61 => 
+  array (
+    0 => 'West Oneonta',
+    1 => 'NY',
+    2 => '42.44',
+    3 => '-75.11',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  62 => 
+  array (
+    0 => 'Whitney Point',
+    1 => 'NY',
+    2 => '42.33',
+    3 => '-75.96',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  63 => 
+  array (
+    0 => 'Willet',
+    1 => 'NY',
+    2 => '42.46',
+    3 => '-75.91',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  64 => 
+  array (
+    0 => 'Willseyville',
+    1 => 'NY',
+    2 => '42.29',
+    3 => '-76.37',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  65 => 
+  array (
+    0 => 'Windsor',
+    1 => 'NY',
+    2 => '42.07',
+    3 => '-75.64',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

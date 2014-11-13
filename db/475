@@ -1,0 +1,461 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Washington',
+    1 => 'IN',
+    2 => '38.65',
+    3 => '-87.17',
+    4 => -5,
+    5 => 'America/Indiana/Vincennes',
+  ),
+  12 => 
+  array (
+    0 => 'Bicknell',
+    1 => 'IN',
+    2 => '38.77',
+    3 => '-87.3',
+    4 => -5,
+    5 => 'America/Indiana/Vincennes',
+  ),
+  14 => 
+  array (
+    0 => 'Branchville',
+    1 => 'IN',
+    2 => '38.16',
+    3 => '-86.58',
+    4 => -6,
+    5 => 'America/Indiana/Tell_City',
+  ),
+  15 => 
+  array (
+    0 => 'Bristow',
+    1 => 'IN',
+    2 => '38.13',
+    3 => '-86.71',
+    4 => -6,
+    5 => 'America/Indiana/Tell_City',
+  ),
+  16 => 
+  array (
+    0 => 'Bruceville',
+    1 => 'IN',
+    2 => '38.75',
+    3 => '-87.41',
+    4 => -5,
+    5 => 'America/Indiana/Vincennes',
+  ),
+  19 => 
+  array (
+    0 => 'Cannelburg',
+    1 => 'IN',
+    2 => '38.66',
+    3 => '-86.99',
+    4 => -5,
+    5 => 'America/Indiana/Vincennes',
+  ),
+  20 => 
+  array (
+    0 => 'Cannelton',
+    1 => 'IN',
+    2 => '37.91',
+    3 => '-86.73',
+    4 => -6,
+    5 => 'America/Indiana/Tell_City',
+  ),
+  21 => 
+  array (
+    0 => 'Celestine',
+    1 => 'IN',
+    2 => '38.38',
+    3 => '-86.78',
+    4 => -5,
+    5 => 'America/Indiana/Vincennes',
+  ),
+  22 => 
+  array (
+    0 => 'Crane',
+    1 => 'IN',
+    2 => '38.89',
+    3 => '-86.9',
+    4 => -5,
+    5 => 'America/Indiana/Vincennes',
+  ),
+  24 => 
+  array (
+    0 => 'Decker',
+    1 => 'IN',
+    2 => '38.51',
+    3 => '-87.52',
+    4 => -5,
+    5 => 'America/Indiana/Vincennes',
+  ),
+  25 => 
+  array (
+    0 => 'Derby',
+    1 => 'IN',
+    2 => '38.03',
+    3 => '-86.53',
+    4 => -6,
+    5 => 'America/Indiana/Tell_City',
+  ),
+  27 => 
+  array (
+    0 => 'Dubois',
+    1 => 'IN',
+    2 => '38.45',
+    3 => '-86.8',
+    4 => -5,
+    5 => 'America/Indiana/Vincennes',
+  ),
+  28 => 
+  array (
+    0 => 'Edwardsport',
+    1 => 'IN',
+    2 => '38.81',
+    3 => '-87.25',
+    4 => -5,
+    5 => 'America/Indiana/Vincennes',
+  ),
+  29 => 
+  array (
+    0 => 'Elnora',
+    1 => 'IN',
+    2 => '38.87',
+    3 => '-87.08',
+    4 => -5,
+    5 => 'America/Indiana/Vincennes',
+  ),
+  31 => 
+  array (
+    0 => 'Evanston',
+    1 => 'IN',
+    2 => '38.02',
+    3 => '-86.83',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  35 => 
+  array (
+    0 => 'Freelandville',
+    1 => 'IN',
+    2 => '38.87',
+    3 => '-87.34',
+    4 => -5,
+    5 => 'America/Indiana/Vincennes',
+  ),
+  36 => 
+  array (
+    0 => 'Fulda',
+    1 => 'IN',
+    2 => '38.11',
+    3 => '-86.83',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  41 => 
+  array (
+    0 => 'Holland',
+    1 => 'IN',
+    2 => '38.24',
+    3 => '-87.03',
+    4 => -5,
+    5 => 'America/Indiana/Vincennes',
+  ),
+  42 => 
+  array (
+    0 => 'Huntingburg',
+    1 => 'IN',
+    2 => '38.29',
+    3 => '-86.95',
+    4 => -5,
+    5 => 'America/Indiana/Vincennes',
+  ),
+  45 => 
+  array (
+    0 => 'Ireland',
+    1 => 'IN',
+    2 => '38.41',
+    3 => '-87',
+    4 => -5,
+    5 => 'America/Indiana/Vincennes',
+  ),
+  46 => 
+  array (
+    0 => 'Jasper',
+    1 => 'IN',
+    2 => '38.39',
+    3 => '-86.93',
+    4 => -5,
+    5 => 'America/Indiana/Vincennes',
+  ),
+  47 => 
+  array (
+    0 => 'Jasper',
+    1 => 'IN',
+    2 => '38.39',
+    3 => '-86.93',
+    4 => -5,
+    5 => 'America/Indiana/Vincennes',
+  ),
+  49 => 
+  array (
+    0 => 'Jasper',
+    1 => 'IN',
+    2 => '38.39',
+    3 => '-86.93',
+    4 => -5,
+    5 => 'America/Indiana/Vincennes',
+  ),
+  50 => 
+  array (
+    0 => 'Lamar',
+    1 => 'IN',
+    2 => '38.04',
+    3 => '-86.96',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  51 => 
+  array (
+    0 => 'Leopold',
+    1 => 'IN',
+    2 => '38.1',
+    3 => '-86.58',
+    4 => -6,
+    5 => 'America/Indiana/Tell_City',
+  ),
+  52 => 
+  array (
+    0 => 'Lincoln City',
+    1 => 'IN',
+    2 => '38.12',
+    3 => '-86.98',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  56 => 
+  array (
+    0 => 'Mariah Hill',
+    1 => 'IN',
+    2 => '38.13',
+    3 => '-86.84',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  57 => 
+  array (
+    0 => 'Monroe City',
+    1 => 'IN',
+    2 => '38.61',
+    3 => '-87.35',
+    4 => -5,
+    5 => 'America/Indiana/Vincennes',
+  ),
+  58 => 
+  array (
+    0 => 'Montgomery',
+    1 => 'IN',
+    2 => '38.66',
+    3 => '-87.04',
+    4 => -5,
+    5 => 'America/Indiana/Vincennes',
+  ),
+  61 => 
+  array (
+    0 => 'Oaktown',
+    1 => 'IN',
+    2 => '38.87',
+    3 => '-87.44',
+    4 => -5,
+    5 => 'America/Indiana/Vincennes',
+  ),
+  62 => 
+  array (
+    0 => 'Odon',
+    1 => 'IN',
+    2 => '38.84',
+    3 => '-86.98',
+    4 => -5,
+    5 => 'America/Indiana/Vincennes',
+  ),
+  64 => 
+  array (
+    0 => 'Otwell',
+    1 => 'IN',
+    2 => '38.48',
+    3 => '-87.1',
+    4 => -5,
+    5 => 'America/Indiana/Petersburg',
+  ),
+  67 => 
+  array (
+    0 => 'Petersburg',
+    1 => 'IN',
+    2 => '38.49',
+    3 => '-87.28',
+    4 => -5,
+    5 => 'America/Indiana/Petersburg',
+  ),
+  68 => 
+  array (
+    0 => 'Plainville',
+    1 => 'IN',
+    2 => '38.8',
+    3 => '-87.15',
+    4 => -5,
+    5 => 'America/Indiana/Vincennes',
+  ),
+  73 => 
+  array (
+    0 => 'Ragsdale',
+    1 => 'IN',
+    2 => '38.75',
+    3 => '-87.32',
+    4 => -5,
+    5 => 'America/Indiana/Vincennes',
+  ),
+  74 => 
+  array (
+    0 => 'Rome',
+    1 => 'IN',
+    2 => '37.93',
+    3 => '-86.52',
+    4 => -6,
+    5 => 'America/Indiana/Tell_City',
+  ),
+  75 => 
+  array (
+    0 => 'Saint Anthony',
+    1 => 'IN',
+    2 => '38.33',
+    3 => '-86.82',
+    4 => -5,
+    5 => 'America/Indiana/Vincennes',
+  ),
+  76 => 
+  array (
+    0 => 'Saint Croix',
+    1 => 'IN',
+    2 => '38.22',
+    3 => '-86.61',
+    4 => -6,
+    5 => 'America/Indiana/Tell_City',
+  ),
+  78 => 
+  array (
+    0 => 'Sandborn',
+    1 => 'IN',
+    2 => '38.89',
+    3 => '-87.18',
+    4 => -5,
+    5 => 'America/Indiana/Vincennes',
+  ),
+  79 => 
+  array (
+    0 => 'Santa Claus',
+    1 => 'IN',
+    2 => '38.11',
+    3 => '-86.92',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  80 => 
+  array (
+    0 => 'Schnellville',
+    1 => 'IN',
+    2 => '38.33',
+    3 => '-86.75',
+    4 => -5,
+    5 => 'America/Indiana/Vincennes',
+  ),
+  81 => 
+  array (
+    0 => 'Shoals',
+    1 => 'IN',
+    2 => '38.66',
+    3 => '-86.79',
+    4 => -5,
+    5 => 'America/Indiana/Vincennes',
+  ),
+  84 => 
+  array (
+    0 => 'Spurgeon',
+    1 => 'IN',
+    2 => '38.25',
+    3 => '-87.25',
+    4 => -5,
+    5 => 'America/Indiana/Petersburg',
+  ),
+  85 => 
+  array (
+    0 => 'Stendal',
+    1 => 'IN',
+    2 => '38.27',
+    3 => '-87.12',
+    4 => -5,
+    5 => 'America/Indiana/Petersburg',
+  ),
+  86 => 
+  array (
+    0 => 'Tell City',
+    1 => 'IN',
+    2 => '37.94',
+    3 => '-86.75',
+    4 => -6,
+    5 => 'America/Indiana/Tell_City',
+  ),
+  88 => 
+  array (
+    0 => 'Troy',
+    1 => 'IN',
+    2 => '38',
+    3 => '-86.81',
+    4 => -6,
+    5 => 'America/Indiana/Tell_City',
+  ),
+  90 => 
+  array (
+    0 => 'Velpen',
+    1 => 'IN',
+    2 => '38.37',
+    3 => '-87.1',
+    4 => -5,
+    5 => 'America/Indiana/Petersburg',
+  ),
+  91 => 
+  array (
+    0 => 'Vincennes',
+    1 => 'IN',
+    2 => '38.67',
+    3 => '-87.51',
+    4 => -5,
+    5 => 'America/Indiana/Vincennes',
+  ),
+  96 => 
+  array (
+    0 => 'Westphalia',
+    1 => 'IN',
+    2 => '38.86',
+    3 => '-87.23',
+    4 => -5,
+    5 => 'America/Indiana/Vincennes',
+  ),
+  97 => 
+  array (
+    0 => 'Wheatland',
+    1 => 'IN',
+    2 => '38.66',
+    3 => '-87.3',
+    4 => -5,
+    5 => 'America/Indiana/Vincennes',
+  ),
+  98 => 
+  array (
+    0 => 'Winslow',
+    1 => 'IN',
+    2 => '38.38',
+    3 => '-87.21',
+    4 => -5,
+    5 => 'America/Indiana/Petersburg',
+  ),
+);

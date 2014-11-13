@@ -1,0 +1,65 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Evanston',
+    1 => 'IL',
+    2 => '42.04',
+    3 => '-87.68',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '02' => 
+  array (
+    0 => 'Evanston',
+    1 => 'IL',
+    2 => '42.04',
+    3 => '-87.68',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '03' => 
+  array (
+    0 => 'Evanston',
+    1 => 'IL',
+    2 => '42.04',
+    3 => '-87.68',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '04' => 
+  array (
+    0 => 'Evanston',
+    1 => 'IL',
+    2 => '42.04',
+    3 => '-87.68',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '08' => 
+  array (
+    0 => 'Evanston',
+    1 => 'IL',
+    2 => '42.04',
+    3 => '-87.68',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '09' => 
+  array (
+    0 => 'Evanston',
+    1 => 'IL',
+    2 => '42.04',
+    3 => '-87.68',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  90 => 
+  array (
+    0 => 'Chicago',
+    1 => 'IL',
+    2 => '41.85',
+    3 => '-87.65',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+);

@@ -1,0 +1,218 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Bakersfield',
+    1 => 'CA',
+    2 => '35.38',
+    3 => '-119.02',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '02' => 
+  array (
+    0 => 'Bakersfield',
+    1 => 'CA',
+    2 => '35.37',
+    3 => '-119.02',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '03' => 
+  array (
+    0 => 'Bakersfield',
+    1 => 'CA',
+    2 => '35.55',
+    3 => '-118.92',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '04' => 
+  array (
+    0 => 'Bakersfield',
+    1 => 'CA',
+    2 => '35.33',
+    3 => '-119.02',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '05' => 
+  array (
+    0 => 'Bakersfield',
+    1 => 'CA',
+    2 => '35.39',
+    3 => '-118.98',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '06' => 
+  array (
+    0 => 'Bakersfield',
+    1 => 'CA',
+    2 => '35.43',
+    3 => '-118.83',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '07' => 
+  array (
+    0 => 'Bakersfield',
+    1 => 'CA',
+    2 => '35.2',
+    3 => '-118.86',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '08' => 
+  array (
+    0 => 'Bakersfield',
+    1 => 'CA',
+    2 => '35.54',
+    3 => '-118.91',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '09' => 
+  array (
+    0 => 'Bakersfield',
+    1 => 'CA',
+    2 => '35.34',
+    3 => '-119.07',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  11 => 
+  array (
+    0 => 'Bakersfield',
+    1 => 'CA',
+    2 => '35.18',
+    3 => '-119.21',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  12 => 
+  array (
+    0 => 'Bakersfield',
+    1 => 'CA',
+    2 => '35.38',
+    3 => '-119.22',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  13 => 
+  array (
+    0 => 'Bakersfield',
+    1 => 'CA',
+    2 => '35.15',
+    3 => '-119.06',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  14 => 
+  array (
+    0 => 'Bakersfield',
+    1 => 'CA',
+    2 => '35.38',
+    3 => '-119.2',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  80 => 
+  array (
+    0 => 'Bakersfield',
+    1 => 'CA',
+    2 => '35.55',
+    3 => '-118.92',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  81 => 
+  array (
+    0 => 'Bakersfield',
+    1 => 'CA',
+    2 => '35.37',
+    3 => '-119.01',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  82 => 
+  array (
+    0 => 'Bakersfield',
+    1 => 'CA',
+    2 => '35.25',
+    3 => '-119',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  83 => 
+  array (
+    0 => 'Bakersfield',
+    1 => 'CA',
+    2 => '35.26',
+    3 => '-119.03',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  84 => 
+  array (
+    0 => 'Bakersfield',
+    1 => 'CA',
+    2 => '35.37',
+    3 => '-119.01',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  85 => 
+  array (
+    0 => 'Bakersfield',
+    1 => 'CA',
+    2 => '35.37',
+    3 => '-118.99',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  86 => 
+  array (
+    0 => 'Bakersfield',
+    1 => 'CA',
+    2 => '35.37',
+    3 => '-118.95',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  87 => 
+  array (
+    0 => 'Bakersfield',
+    1 => 'CA',
+    2 => '35.35',
+    3 => '-118.95',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  88 => 
+  array (
+    0 => 'Bakersfield',
+    1 => 'CA',
+    2 => '35.41',
+    3 => '-119.02',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  89 => 
+  array (
+    0 => 'Bakersfield',
+    1 => 'CA',
+    2 => '35.35',
+    3 => '-119.06',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  90 => 
+  array (
+    0 => 'Bakersfield',
+    1 => 'CA',
+    2 => '35.35',
+    3 => '-119',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+);

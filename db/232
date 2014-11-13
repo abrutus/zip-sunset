@@ -1,0 +1,443 @@
+<?php $db= array (
+  18 => 
+  array (
+    0 => 'Richmond',
+    1 => 'VA',
+    2 => '37.55',
+    3 => '-77.46',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  19 => 
+  array (
+    0 => 'Richmond',
+    1 => 'VA',
+    2 => '37.55',
+    3 => '-77.46',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  20 => 
+  array (
+    0 => 'Richmond',
+    1 => 'VA',
+    2 => '37.55',
+    3 => '-77.46',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  21 => 
+  array (
+    0 => 'Richmond',
+    1 => 'VA',
+    2 => '37.55',
+    3 => '-77.46',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  22 => 
+  array (
+    0 => 'Richmond',
+    1 => 'VA',
+    2 => '37.55',
+    3 => '-77.46',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  23 => 
+  array (
+    0 => 'Richmond',
+    1 => 'VA',
+    2 => '37.55',
+    3 => '-77.46',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  24 => 
+  array (
+    0 => 'Richmond',
+    1 => 'VA',
+    2 => '37.55',
+    3 => '-77.46',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  25 => 
+  array (
+    0 => 'Richmond',
+    1 => 'VA',
+    2 => '37.55',
+    3 => '-77.46',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  26 => 
+  array (
+    0 => 'Richmond',
+    1 => 'VA',
+    2 => '37.55',
+    3 => '-77.46',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  27 => 
+  array (
+    0 => 'Richmond',
+    1 => 'VA',
+    2 => '37.55',
+    3 => '-77.46',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  28 => 
+  array (
+    0 => 'Henrico',
+    1 => 'VA',
+    2 => '37.55',
+    3 => '-77.46',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  29 => 
+  array (
+    0 => 'Henrico',
+    1 => 'VA',
+    2 => '37.55',
+    3 => '-77.46',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  30 => 
+  array (
+    0 => 'Richmond',
+    1 => 'VA',
+    2 => '37.55',
+    3 => '-77.46',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  31 => 
+  array (
+    0 => 'Henrico',
+    1 => 'VA',
+    2 => '37.55',
+    3 => '-77.46',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  32 => 
+  array (
+    0 => 'Richmond',
+    1 => 'VA',
+    2 => '37.55',
+    3 => '-77.46',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  33 => 
+  array (
+    0 => 'Henrico',
+    1 => 'VA',
+    2 => '37.55',
+    3 => '-77.46',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  34 => 
+  array (
+    0 => 'Richmond',
+    1 => 'VA',
+    2 => '37.55',
+    3 => '-77.46',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  35 => 
+  array (
+    0 => 'Richmond',
+    1 => 'VA',
+    2 => '37.55',
+    3 => '-77.46',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  36 => 
+  array (
+    0 => 'Richmond',
+    1 => 'VA',
+    2 => '37.55',
+    3 => '-77.46',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  37 => 
+  array (
+    0 => 'Richmond',
+    1 => 'VA',
+    2 => '37.55',
+    3 => '-77.46',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  38 => 
+  array (
+    0 => 'Henrico',
+    1 => 'VA',
+    2 => '37.55',
+    3 => '-77.46',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  40 => 
+  array (
+    0 => 'Richmond',
+    1 => 'VA',
+    2 => '37.55',
+    3 => '-77.46',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  41 => 
+  array (
+    0 => 'Richmond',
+    1 => 'VA',
+    2 => '37.55',
+    3 => '-77.46',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  42 => 
+  array (
+    0 => 'Henrico',
+    1 => 'VA',
+    2 => '37.55',
+    3 => '-77.46',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  49 => 
+  array (
+    0 => 'Richmond',
+    1 => 'VA',
+    2 => '37.55',
+    3 => '-77.46',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  50 => 
+  array (
+    0 => 'Richmond',
+    1 => 'VA',
+    2 => '37.55',
+    3 => '-77.46',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  55 => 
+  array (
+    0 => 'Henrico',
+    1 => 'VA',
+    2 => '37.55',
+    3 => '-77.46',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  60 => 
+  array (
+    0 => 'Richmond',
+    1 => 'VA',
+    2 => '37.55',
+    3 => '-77.46',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  61 => 
+  array (
+    0 => 'Richmond',
+    1 => 'VA',
+    2 => '37.55',
+    3 => '-77.46',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  69 => 
+  array (
+    0 => 'Richmond',
+    1 => 'VA',
+    2 => '37.55',
+    3 => '-77.46',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  73 => 
+  array (
+    0 => 'Henrico',
+    1 => 'VA',
+    2 => '37.55',
+    3 => '-77.46',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  74 => 
+  array (
+    0 => 'Richmond',
+    1 => 'VA',
+    2 => '37.55',
+    3 => '-77.46',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  76 => 
+  array (
+    0 => 'Richmond',
+    1 => 'VA',
+    2 => '37.55',
+    3 => '-77.46',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  78 => 
+  array (
+    0 => 'Richmond',
+    1 => 'VA',
+    2 => '37.55',
+    3 => '-77.46',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  79 => 
+  array (
+    0 => 'Richmond',
+    1 => 'VA',
+    2 => '37.55',
+    3 => '-77.46',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  82 => 
+  array (
+    0 => 'Richmond',
+    1 => 'VA',
+    2 => '37.55',
+    3 => '-77.46',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  84 => 
+  array (
+    0 => 'Richmond',
+    1 => 'VA',
+    2 => '37.55',
+    3 => '-77.46',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  85 => 
+  array (
+    0 => 'Richmond',
+    1 => 'VA',
+    2 => '37.55',
+    3 => '-77.46',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  86 => 
+  array (
+    0 => 'Richmond',
+    1 => 'VA',
+    2 => '37.55',
+    3 => '-77.46',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  88 => 
+  array (
+    0 => 'Henrico',
+    1 => 'VA',
+    2 => '37.55',
+    3 => '-77.46',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  89 => 
+  array (
+    0 => 'Richmond',
+    1 => 'VA',
+    2 => '37.55',
+    3 => '-77.46',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  90 => 
+  array (
+    0 => 'Richmond',
+    1 => 'VA',
+    2 => '37.55',
+    3 => '-77.46',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  91 => 
+  array (
+    0 => 'Richmond',
+    1 => 'VA',
+    2 => '37.55',
+    3 => '-77.46',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  92 => 
+  array (
+    0 => 'Richmond',
+    1 => 'VA',
+    2 => '37.55',
+    3 => '-77.46',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  93 => 
+  array (
+    0 => 'Richmond',
+    1 => 'VA',
+    2 => '37.55',
+    3 => '-77.46',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  94 => 
+  array (
+    0 => 'Henrico',
+    1 => 'VA',
+    2 => '37.55',
+    3 => '-77.46',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  95 => 
+  array (
+    0 => 'Richmond',
+    1 => 'VA',
+    2 => '37.55',
+    3 => '-77.45',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  97 => 
+  array (
+    0 => 'Richmond',
+    1 => 'VA',
+    2 => '37.55',
+    3 => '-77.46',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  98 => 
+  array (
+    0 => 'Richmond',
+    1 => 'VA',
+    2 => '37.55',
+    3 => '-77.46',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

@@ -1,0 +1,101 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Asheville',
+    1 => 'NC',
+    2 => '35.57',
+    3 => '-82.54',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '02' => 
+  array (
+    0 => 'Asheville',
+    1 => 'NC',
+    2 => '35.57',
+    3 => '-82.54',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '03' => 
+  array (
+    0 => 'Asheville',
+    1 => 'NC',
+    2 => '35.57',
+    3 => '-82.54',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '04' => 
+  array (
+    0 => 'Asheville',
+    1 => 'NC',
+    2 => '35.57',
+    3 => '-82.54',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '05' => 
+  array (
+    0 => 'Asheville',
+    1 => 'NC',
+    2 => '35.57',
+    3 => '-82.54',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '06' => 
+  array (
+    0 => 'Asheville',
+    1 => 'NC',
+    2 => '35.57',
+    3 => '-82.54',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  10 => 
+  array (
+    0 => 'Asheville',
+    1 => 'NC',
+    2 => '35.57',
+    3 => '-82.54',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  13 => 
+  array (
+    0 => 'Asheville',
+    1 => 'NC',
+    2 => '35.57',
+    3 => '-82.54',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  14 => 
+  array (
+    0 => 'Asheville',
+    1 => 'NC',
+    2 => '35.57',
+    3 => '-82.54',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  15 => 
+  array (
+    0 => 'Asheville',
+    1 => 'NC',
+    2 => '35.57',
+    3 => '-82.54',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  16 => 
+  array (
+    0 => 'Asheville',
+    1 => 'NC',
+    2 => '35.57',
+    3 => '-82.54',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

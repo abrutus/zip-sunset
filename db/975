@@ -1,0 +1,236 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Medford',
+    1 => 'OR',
+    2 => '42.28',
+    3 => '-122.9',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '02' => 
+  array (
+    0 => 'Central Point',
+    1 => 'OR',
+    2 => '42.39',
+    3 => '-122.93',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '03' => 
+  array (
+    0 => 'White City',
+    1 => 'OR',
+    2 => '42.56',
+    3 => '-122.92',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '04' => 
+  array (
+    0 => 'Medford',
+    1 => 'OR',
+    2 => '42.33',
+    3 => '-122.79',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  20 => 
+  array (
+    0 => 'Ashland',
+    1 => 'OR',
+    2 => '42.15',
+    3 => '-122.53',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  22 => 
+  array (
+    0 => 'Butte Falls',
+    1 => 'OR',
+    2 => '42.53',
+    3 => '-122.53',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  23 => 
+  array (
+    0 => 'Cave Junction',
+    1 => 'OR',
+    2 => '42.11',
+    3 => '-123.6',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  24 => 
+  array (
+    0 => 'Eagle Point',
+    1 => 'OR',
+    2 => '42.46',
+    3 => '-122.66',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  25 => 
+  array (
+    0 => 'Gold Hill',
+    1 => 'OR',
+    2 => '42.48',
+    3 => '-123.06',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  26 => 
+  array (
+    0 => 'Grants Pass',
+    1 => 'OR',
+    2 => '42.53',
+    3 => '-123.34',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  27 => 
+  array (
+    0 => 'Grants Pass',
+    1 => 'OR',
+    2 => '42.37',
+    3 => '-123.39',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  28 => 
+  array (
+    0 => 'Grants Pass',
+    1 => 'OR',
+    2 => '42.43',
+    3 => '-123.32',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  30 => 
+  array (
+    0 => 'Jacksonville',
+    1 => 'OR',
+    2 => '42.18',
+    3 => '-123.04',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  31 => 
+  array (
+    0 => 'Kerby',
+    1 => 'OR',
+    2 => '42.2',
+    3 => '-123.65',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  32 => 
+  array (
+    0 => 'Merlin',
+    1 => 'OR',
+    2 => '42.56',
+    3 => '-123.56',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  33 => 
+  array (
+    0 => 'Murphy',
+    1 => 'OR',
+    2 => '42.33',
+    3 => '-123.28',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  34 => 
+  array (
+    0 => 'O Brien',
+    1 => 'OR',
+    2 => '42.04',
+    3 => '-123.71',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  35 => 
+  array (
+    0 => 'Phoenix',
+    1 => 'OR',
+    2 => '42.26',
+    3 => '-122.81',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  36 => 
+  array (
+    0 => 'Prospect',
+    1 => 'OR',
+    2 => '42.82',
+    3 => '-122.51',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  37 => 
+  array (
+    0 => 'Rogue River',
+    1 => 'OR',
+    2 => '42.54',
+    3 => '-123.1',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  38 => 
+  array (
+    0 => 'Selma',
+    1 => 'OR',
+    2 => '42.26',
+    3 => '-123.59',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  39 => 
+  array (
+    0 => 'Shady Cove',
+    1 => 'OR',
+    2 => '42.61',
+    3 => '-122.8',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  40 => 
+  array (
+    0 => 'Talent',
+    1 => 'OR',
+    2 => '42.2',
+    3 => '-122.81',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  41 => 
+  array (
+    0 => 'Trail',
+    1 => 'OR',
+    2 => '42.72',
+    3 => '-122.73',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  43 => 
+  array (
+    0 => 'Wilderville',
+    1 => 'OR',
+    2 => '42.4',
+    3 => '-123.57',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  44 => 
+  array (
+    0 => 'Williams',
+    1 => 'OR',
+    2 => '42.14',
+    3 => '-123.32',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+);

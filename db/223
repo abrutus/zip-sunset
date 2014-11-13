@@ -1,0 +1,200 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Alexandria',
+    1 => 'VA',
+    2 => '38.82',
+    3 => '-77.08',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '02' => 
+  array (
+    0 => 'Alexandria',
+    1 => 'VA',
+    2 => '38.82',
+    3 => '-77.08',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '03' => 
+  array (
+    0 => 'Alexandria',
+    1 => 'VA',
+    2 => '38.82',
+    3 => '-77.08',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '04' => 
+  array (
+    0 => 'Alexandria',
+    1 => 'VA',
+    2 => '38.82',
+    3 => '-77.08',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '05' => 
+  array (
+    0 => 'Alexandria',
+    1 => 'VA',
+    2 => '38.82',
+    3 => '-77.08',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '06' => 
+  array (
+    0 => 'Alexandria',
+    1 => 'VA',
+    2 => '38.82',
+    3 => '-77.08',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '07' => 
+  array (
+    0 => 'Alexandria',
+    1 => 'VA',
+    2 => '38.82',
+    3 => '-77.08',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '08' => 
+  array (
+    0 => 'Alexandria',
+    1 => 'VA',
+    2 => '38.82',
+    3 => '-77.08',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '09' => 
+  array (
+    0 => 'Alexandria',
+    1 => 'VA',
+    2 => '38.82',
+    3 => '-77.08',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  10 => 
+  array (
+    0 => 'Alexandria',
+    1 => 'VA',
+    2 => '38.82',
+    3 => '-77.08',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  11 => 
+  array (
+    0 => 'Alexandria',
+    1 => 'VA',
+    2 => '38.82',
+    3 => '-77.08',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  12 => 
+  array (
+    0 => 'Alexandria',
+    1 => 'VA',
+    2 => '38.82',
+    3 => '-77.08',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  13 => 
+  array (
+    0 => 'Alexandria',
+    1 => 'VA',
+    2 => '38.82',
+    3 => '-77.08',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  14 => 
+  array (
+    0 => 'Alexandria',
+    1 => 'VA',
+    2 => '38.82',
+    3 => '-77.08',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  15 => 
+  array (
+    0 => 'Alexandria',
+    1 => 'VA',
+    2 => '38.82',
+    3 => '-77.08',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  20 => 
+  array (
+    0 => 'Alexandria',
+    1 => 'VA',
+    2 => '38.82',
+    3 => '-77.08',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  21 => 
+  array (
+    0 => 'Alexandria',
+    1 => 'VA',
+    2 => '38.8',
+    3 => '-77.05',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  31 => 
+  array (
+    0 => 'Alexandria',
+    1 => 'VA',
+    2 => '38.82',
+    3 => '-77.08',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  32 => 
+  array (
+    0 => 'Alexandria',
+    1 => 'VA',
+    2 => '38.82',
+    3 => '-77.08',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  33 => 
+  array (
+    0 => 'Alexandria',
+    1 => 'VA',
+    2 => '38.82',
+    3 => '-77.08',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  34 => 
+  array (
+    0 => 'Alexandria',
+    1 => 'VA',
+    2 => '38.82',
+    3 => '-77.08',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  36 => 
+  array (
+    0 => 'Alexandria',
+    1 => 'VA',
+    2 => '38.8',
+    3 => '-77.04',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

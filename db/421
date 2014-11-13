@@ -1,0 +1,245 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Bowling Green',
+    1 => 'KY',
+    2 => '36.97',
+    3 => '-86.44',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  '02' => 
+  array (
+    0 => 'Bowling Green',
+    1 => 'KY',
+    2 => '36.97',
+    3 => '-86.44',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  '03' => 
+  array (
+    0 => 'Bowling Green',
+    1 => 'KY',
+    2 => '36.97',
+    3 => '-86.44',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  '04' => 
+  array (
+    0 => 'Bowling Green',
+    1 => 'KY',
+    2 => '36.97',
+    3 => '-86.44',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  20 => 
+  array (
+    0 => 'Adolphus',
+    1 => 'KY',
+    2 => '36.67',
+    3 => '-86.27',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  22 => 
+  array (
+    0 => 'Alvaton',
+    1 => 'KY',
+    2 => '36.86',
+    3 => '-86.35',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  23 => 
+  array (
+    0 => 'Austin',
+    1 => 'KY',
+    2 => '36.81',
+    3 => '-86.01',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  24 => 
+  array (
+    0 => 'Beaumont',
+    1 => 'KY',
+    2 => '36.86',
+    3 => '-85.63',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  27 => 
+  array (
+    0 => 'Cave City',
+    1 => 'KY',
+    2 => '37.13',
+    3 => '-85.96',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  28 => 
+  array (
+    0 => 'Drake',
+    1 => 'KY',
+    2 => '36.82',
+    3 => '-86.39',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  30 => 
+  array (
+    0 => 'Eighty Eight',
+    1 => 'KY',
+    2 => '36.91',
+    3 => '-85.76',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  31 => 
+  array (
+    0 => 'Etoile',
+    1 => 'KY',
+    2 => '36.81',
+    3 => '-85.91',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  34 => 
+  array (
+    0 => 'Franklin',
+    1 => 'KY',
+    2 => '36.72',
+    3 => '-86.57',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  35 => 
+  array (
+    0 => 'Franklin',
+    1 => 'KY',
+    2 => '36.72',
+    3 => '-86.57',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  40 => 
+  array (
+    0 => 'Gamaliel',
+    1 => 'KY',
+    2 => '36.63',
+    3 => '-85.79',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  41 => 
+  array (
+    0 => 'Glasgow',
+    1 => 'KY',
+    2 => '36.99',
+    3 => '-85.92',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  42 => 
+  array (
+    0 => 'Glasgow',
+    1 => 'KY',
+    2 => '36.99',
+    3 => '-85.92',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  51 => 
+  array (
+    0 => 'Hestand',
+    1 => 'KY',
+    2 => '36.65',
+    3 => '-85.61',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  52 => 
+  array (
+    0 => 'Hiseville',
+    1 => 'KY',
+    2 => '37.1',
+    3 => '-85.81',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  53 => 
+  array (
+    0 => 'Holland',
+    1 => 'KY',
+    2 => '36.7',
+    3 => '-86.06',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  54 => 
+  array (
+    0 => 'Knob Lick',
+    1 => 'KY',
+    2 => '37.08',
+    3 => '-85.68',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  56 => 
+  array (
+    0 => 'Lucas',
+    1 => 'KY',
+    2 => '36.88',
+    3 => '-86.03',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  57 => 
+  array (
+    0 => 'Mount Hermon',
+    1 => 'KY',
+    2 => '36.8',
+    3 => '-85.81',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  59 => 
+  array (
+    0 => 'Oakland',
+    1 => 'KY',
+    2 => '37.04',
+    3 => '-86.25',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  63 => 
+  array (
+    0 => 'Rocky Hill',
+    1 => 'KY',
+    2 => '37.06',
+    3 => '-86.1',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  64 => 
+  array (
+    0 => 'Scottsville',
+    1 => 'KY',
+    2 => '36.74',
+    3 => '-86.19',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  67 => 
+  array (
+    0 => 'Tompkinsville',
+    1 => 'KY',
+    2 => '36.7',
+    3 => '-85.69',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+);

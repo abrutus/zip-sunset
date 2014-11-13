@@ -1,0 +1,299 @@
+<?php $db= array (
+  '03' => 
+  array (
+    0 => 'Annandale',
+    1 => 'VA',
+    2 => '38.83',
+    3 => '-77.21',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '09' => 
+  array (
+    0 => 'Burke',
+    1 => 'VA',
+    2 => '38.78',
+    3 => '-77.27',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  15 => 
+  array (
+    0 => 'Burke',
+    1 => 'VA',
+    2 => '38.78',
+    3 => '-77.27',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  25 => 
+  array (
+    0 => 'Dumfries',
+    1 => 'VA',
+    2 => '38.6',
+    3 => '-77.34',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  26 => 
+  array (
+    0 => 'Dumfries',
+    1 => 'VA',
+    2 => '38.56',
+    3 => '-77.32',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  27 => 
+  array (
+    0 => 'Dunn Loring',
+    1 => 'VA',
+    2 => '38.89',
+    3 => '-77.23',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  30 => 
+  array (
+    0 => 'Fairfax',
+    1 => 'VA',
+    2 => '38.85',
+    3 => '-77.29',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  31 => 
+  array (
+    0 => 'Fairfax',
+    1 => 'VA',
+    2 => '38.85',
+    3 => '-77.29',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  32 => 
+  array (
+    0 => 'Fairfax',
+    1 => 'VA',
+    2 => '38.85',
+    3 => '-77.29',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  33 => 
+  array (
+    0 => 'Fairfax',
+    1 => 'VA',
+    2 => '38.85',
+    3 => '-77.29',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  34 => 
+  array (
+    0 => 'Fairfax',
+    1 => 'VA',
+    2 => '38.85',
+    3 => '-77.29',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  35 => 
+  array (
+    0 => 'Fairfax',
+    1 => 'VA',
+    2 => '38.85',
+    3 => '-77.29',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  36 => 
+  array (
+    0 => 'Fairfax',
+    1 => 'VA',
+    2 => '38.85',
+    3 => '-77.29',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  37 => 
+  array (
+    0 => 'Fairfax',
+    1 => 'VA',
+    2 => '38.85',
+    3 => '-77.29',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  38 => 
+  array (
+    0 => 'Fairfax',
+    1 => 'VA',
+    2 => '38.85',
+    3 => '-77.29',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  39 => 
+  array (
+    0 => 'Fairfax Station',
+    1 => 'VA',
+    2 => '38.8',
+    3 => '-77.32',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  40 => 
+  array (
+    0 => 'Falls Church',
+    1 => 'VA',
+    2 => '38.88',
+    3 => '-77.17',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  41 => 
+  array (
+    0 => 'Falls Church',
+    1 => 'VA',
+    2 => '38.88',
+    3 => '-77.17',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  42 => 
+  array (
+    0 => 'Falls Church',
+    1 => 'VA',
+    2 => '38.88',
+    3 => '-77.17',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  43 => 
+  array (
+    0 => 'Falls Church',
+    1 => 'VA',
+    2 => '38.88',
+    3 => '-77.17',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  44 => 
+  array (
+    0 => 'Falls Church',
+    1 => 'VA',
+    2 => '38.88',
+    3 => '-77.17',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  46 => 
+  array (
+    0 => 'Falls Church',
+    1 => 'VA',
+    2 => '38.88',
+    3 => '-77.17',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  47 => 
+  array (
+    0 => 'Falls Church',
+    1 => 'VA',
+    2 => '38.86',
+    3 => '-77.22',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  60 => 
+  array (
+    0 => 'Fort Belvoir',
+    1 => 'VA',
+    2 => '38.7',
+    3 => '-77.14',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  66 => 
+  array (
+    0 => 'Great Falls',
+    1 => 'VA',
+    2 => '39.01',
+    3 => '-77.28',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  67 => 
+  array (
+    0 => 'Greenway',
+    1 => 'VA',
+    2 => '38.93',
+    3 => '-77.16',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  79 => 
+  array (
+    0 => 'Lorton',
+    1 => 'VA',
+    2 => '38.7',
+    3 => '-77.24',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  81 => 
+  array (
+    0 => 'Merrifield',
+    1 => 'VA',
+    2 => '38.87',
+    3 => '-77.24',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  82 => 
+  array (
+    0 => 'Merrifield',
+    1 => 'VA',
+    2 => '38.87',
+    3 => '-77.24',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  92 => 
+  array (
+    0 => 'Herndon',
+    1 => 'VA',
+    2 => '38.96',
+    3 => '-77.38',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  93 => 
+  array (
+    0 => 'Ashburn',
+    1 => 'VA',
+    2 => '39.04',
+    3 => '-77.48',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  95 => 
+  array (
+    0 => 'Herndon',
+    1 => 'VA',
+    2 => '38.96',
+    3 => '-77.38',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  96 => 
+  array (
+    0 => 'Reston',
+    1 => 'VA',
+    2 => '38.95',
+    3 => '-77.34',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

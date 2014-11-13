@@ -1,0 +1,704 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Portsmouth',
+    1 => 'NH',
+    2 => '43.05',
+    3 => '-70.78',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '02' => 
+  array (
+    0 => 'Portsmouth',
+    1 => 'NH',
+    2 => '43.05',
+    3 => '-70.78',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '03' => 
+  array (
+    0 => 'Portsmouth',
+    1 => 'NH',
+    2 => '43.05',
+    3 => '-70.78',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '04' => 
+  array (
+    0 => 'Portsmouth',
+    1 => 'NH',
+    2 => '43.05',
+    3 => '-70.78',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '05' => 
+  array (
+    0 => 'Newington',
+    1 => 'NH',
+    2 => '43.23',
+    3 => '-70.82',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '09' => 
+  array (
+    0 => 'Alton',
+    1 => 'NH',
+    2 => '43.45',
+    3 => '-71.21',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  10 => 
+  array (
+    0 => 'Alton Bay',
+    1 => 'NH',
+    2 => '43.48',
+    3 => '-71.24',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  11 => 
+  array (
+    0 => 'Atkinson',
+    1 => 'NH',
+    2 => '42.83',
+    3 => '-71.14',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  12 => 
+  array (
+    0 => 'Bartlett',
+    1 => 'NH',
+    2 => '44.08',
+    3 => '-71.27',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  13 => 
+  array (
+    0 => 'Center Conway',
+    1 => 'NH',
+    2 => '43.97',
+    3 => '-71.04',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  14 => 
+  array (
+    0 => 'Center Ossipee',
+    1 => 'NH',
+    2 => '43.76',
+    3 => '-71.12',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  15 => 
+  array (
+    0 => 'Center Strafford',
+    1 => 'NH',
+    2 => '43.26',
+    3 => '-71.11',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  16 => 
+  array (
+    0 => 'Center Tuftonboro',
+    1 => 'NH',
+    2 => '43.71',
+    3 => '-71.25',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  17 => 
+  array (
+    0 => 'Chocorua',
+    1 => 'NH',
+    2 => '43.89',
+    3 => '-71.24',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  18 => 
+  array (
+    0 => 'Conway',
+    1 => 'NH',
+    2 => '43.97',
+    3 => '-71.12',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  19 => 
+  array (
+    0 => 'Danville',
+    1 => 'NH',
+    2 => '42.91',
+    3 => '-71.12',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  20 => 
+  array (
+    0 => 'Dover',
+    1 => 'NH',
+    2 => '43.19',
+    3 => '-70.87',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  21 => 
+  array (
+    0 => 'Dover',
+    1 => 'NH',
+    2 => '43.19',
+    3 => '-70.87',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  22 => 
+  array (
+    0 => 'Dover',
+    1 => 'NH',
+    2 => '43.19',
+    3 => '-70.87',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  23 => 
+  array (
+    0 => 'Madbury',
+    1 => 'NH',
+    2 => '43.17',
+    3 => '-70.93',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  24 => 
+  array (
+    0 => 'Durham',
+    1 => 'NH',
+    2 => '43.13',
+    3 => '-70.92',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  25 => 
+  array (
+    0 => 'Barrington',
+    1 => 'NH',
+    2 => '43.22',
+    3 => '-71.04',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  26 => 
+  array (
+    0 => 'East Hampstead',
+    1 => 'NH',
+    2 => '42.88',
+    3 => '-71.13',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  27 => 
+  array (
+    0 => 'East Kingston',
+    1 => 'NH',
+    2 => '42.92',
+    3 => '-71.01',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  30 => 
+  array (
+    0 => 'East Wakefield',
+    1 => 'NH',
+    2 => '43.64',
+    3 => '-71',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  32 => 
+  array (
+    0 => 'Eaton Center',
+    1 => 'NH',
+    2 => '43.9',
+    3 => '-71.06',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  33 => 
+  array (
+    0 => 'Exeter',
+    1 => 'NH',
+    2 => '42.97',
+    3 => '-70.94',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  35 => 
+  array (
+    0 => 'Farmington',
+    1 => 'NH',
+    2 => '43.4',
+    3 => '-71.07',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  36 => 
+  array (
+    0 => 'Freedom',
+    1 => 'NH',
+    2 => '43.81',
+    3 => '-71.03',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  37 => 
+  array (
+    0 => 'Gilmanton Iron Works',
+    1 => 'NH',
+    2 => '43.43',
+    3 => '-71.34',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  38 => 
+  array (
+    0 => 'Glen',
+    1 => 'NH',
+    2 => '44.1',
+    3 => '-71.17',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  39 => 
+  array (
+    0 => 'Rochester',
+    1 => 'NH',
+    2 => '43.3',
+    3 => '-70.97',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  40 => 
+  array (
+    0 => 'Greenland',
+    1 => 'NH',
+    2 => '43.03',
+    3 => '-70.83',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  41 => 
+  array (
+    0 => 'Hampstead',
+    1 => 'NH',
+    2 => '42.87',
+    3 => '-71.18',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  42 => 
+  array (
+    0 => 'Hampton',
+    1 => 'NH',
+    2 => '42.94',
+    3 => '-70.82',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  43 => 
+  array (
+    0 => 'Hampton',
+    1 => 'NH',
+    2 => '42.94',
+    3 => '-70.82',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  44 => 
+  array (
+    0 => 'Hampton Falls',
+    1 => 'NH',
+    2 => '42.91',
+    3 => '-70.86',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  45 => 
+  array (
+    0 => 'Intervale',
+    1 => 'NH',
+    2 => '44.15',
+    3 => '-71.06',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  46 => 
+  array (
+    0 => 'Jackson',
+    1 => 'NH',
+    2 => '44.14',
+    3 => '-71.18',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  47 => 
+  array (
+    0 => 'Kearsarge',
+    1 => 'NH',
+    2 => '44.06',
+    3 => '-71.06',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  48 => 
+  array (
+    0 => 'Kingston',
+    1 => 'NH',
+    2 => '42.93',
+    3 => '-71.05',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  49 => 
+  array (
+    0 => 'Madison',
+    1 => 'NH',
+    2 => '43.89',
+    3 => '-71.14',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  50 => 
+  array (
+    0 => 'Melvin Village',
+    1 => 'NH',
+    2 => '43.69',
+    3 => '-71.28',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  51 => 
+  array (
+    0 => 'Milton',
+    1 => 'NH',
+    2 => '43.4',
+    3 => '-70.98',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  52 => 
+  array (
+    0 => 'Milton Mills',
+    1 => 'NH',
+    2 => '43.5',
+    3 => '-70.97',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  53 => 
+  array (
+    0 => 'Mirror Lake',
+    1 => 'NH',
+    2 => '43.63',
+    3 => '-71.28',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  54 => 
+  array (
+    0 => 'New Castle',
+    1 => 'NH',
+    2 => '43.05',
+    3 => '-70.72',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  55 => 
+  array (
+    0 => 'New Durham',
+    1 => 'NH',
+    2 => '43.43',
+    3 => '-71.17',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  56 => 
+  array (
+    0 => 'Newfields',
+    1 => 'NH',
+    2 => '43.03',
+    3 => '-70.93',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  57 => 
+  array (
+    0 => 'Newmarket',
+    1 => 'NH',
+    2 => '43.07',
+    3 => '-70.94',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  58 => 
+  array (
+    0 => 'Newton',
+    1 => 'NH',
+    2 => '42.86',
+    3 => '-71.03',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  59 => 
+  array (
+    0 => 'Newton Junction',
+    1 => 'NH',
+    2 => '42.86',
+    3 => '-71.04',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  60 => 
+  array (
+    0 => 'North Conway',
+    1 => 'NH',
+    2 => '44.05',
+    3 => '-71.12',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  61 => 
+  array (
+    0 => 'Lee',
+    1 => 'NH',
+    2 => '43.1',
+    3 => '-71.01',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  62 => 
+  array (
+    0 => 'North Hampton',
+    1 => 'NH',
+    2 => '42.97',
+    3 => '-70.83',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  64 => 
+  array (
+    0 => 'Ossipee',
+    1 => 'NH',
+    2 => '43.68',
+    3 => '-71.11',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  65 => 
+  array (
+    0 => 'Plaistow',
+    1 => 'NH',
+    2 => '42.83',
+    3 => '-71.09',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  66 => 
+  array (
+    0 => 'Rochester',
+    1 => 'NH',
+    2 => '43.3',
+    3 => '-70.97',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  67 => 
+  array (
+    0 => 'Rochester',
+    1 => 'NH',
+    2 => '43.3',
+    3 => '-70.97',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  68 => 
+  array (
+    0 => 'Rochester',
+    1 => 'NH',
+    2 => '43.3',
+    3 => '-70.97',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  69 => 
+  array (
+    0 => 'Rollinsford',
+    1 => 'NH',
+    2 => '43.23',
+    3 => '-70.82',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  70 => 
+  array (
+    0 => 'Rye',
+    1 => 'NH',
+    2 => '43.01',
+    3 => '-70.77',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  71 => 
+  array (
+    0 => 'Rye Beach',
+    1 => 'NH',
+    2 => '43.01',
+    3 => '-70.76',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  72 => 
+  array (
+    0 => 'Sanbornville',
+    1 => 'NH',
+    2 => '43.56',
+    3 => '-71.01',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  73 => 
+  array (
+    0 => 'Sandown',
+    1 => 'NH',
+    2 => '42.92',
+    3 => '-71.18',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  74 => 
+  array (
+    0 => 'Seabrook',
+    1 => 'NH',
+    2 => '42.89',
+    3 => '-70.87',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  75 => 
+  array (
+    0 => 'Silver Lake',
+    1 => 'NH',
+    2 => '43.87',
+    3 => '-71.19',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  78 => 
+  array (
+    0 => 'Somersworth',
+    1 => 'NH',
+    2 => '43.25',
+    3 => '-70.88',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  82 => 
+  array (
+    0 => 'Effingham',
+    1 => 'NH',
+    2 => '43.71',
+    3 => '-71',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  83 => 
+  array (
+    0 => 'South Tamworth',
+    1 => 'NH',
+    2 => '43.83',
+    3 => '-71.31',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  84 => 
+  array (
+    0 => 'Strafford',
+    1 => 'NH',
+    2 => '43.32',
+    3 => '-71.18',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  85 => 
+  array (
+    0 => 'Stratham',
+    1 => 'NH',
+    2 => '43.02',
+    3 => '-70.91',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  86 => 
+  array (
+    0 => 'Tamworth',
+    1 => 'NH',
+    2 => '43.85',
+    3 => '-71.26',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  87 => 
+  array (
+    0 => 'Union',
+    1 => 'NH',
+    2 => '43.45',
+    3 => '-71.03',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  90 => 
+  array (
+    0 => 'West Ossipee',
+    1 => 'NH',
+    2 => '43.83',
+    3 => '-71.2',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  94 => 
+  array (
+    0 => 'Wolfeboro',
+    1 => 'NH',
+    2 => '43.58',
+    3 => '-71.2',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  96 => 
+  array (
+    0 => 'Wolfeboro Falls',
+    1 => 'NH',
+    2 => '43.59',
+    3 => '-71.24',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  97 => 
+  array (
+    0 => 'Wonalancet',
+    1 => 'NH',
+    2 => '43.87',
+    3 => '-71.28',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

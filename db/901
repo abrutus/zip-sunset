@@ -1,0 +1,38 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Los Angeles',
+    1 => 'CA',
+    2 => '33.99',
+    3 => '-118.16',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '02' => 
+  array (
+    0 => 'Los Angeles',
+    1 => 'CA',
+    2 => '34.01',
+    3 => '-118.19',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '03' => 
+  array (
+    0 => 'Los Angeles',
+    1 => 'CA',
+    2 => '33.99',
+    3 => '-118.16',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  89 => 
+  array (
+    0 => 'Los Angeles',
+    1 => 'CA',
+    2 => '34.06',
+    3 => '-118.25',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+);

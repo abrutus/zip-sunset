@@ -1,0 +1,137 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Portland',
+    1 => 'ME',
+    2 => '43.66',
+    3 => '-70.25',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '02' => 
+  array (
+    0 => 'Portland',
+    1 => 'ME',
+    2 => '43.66',
+    3 => '-70.25',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '03' => 
+  array (
+    0 => 'Portland',
+    1 => 'ME',
+    2 => '43.66',
+    3 => '-70.25',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '04' => 
+  array (
+    0 => 'Portland',
+    1 => 'ME',
+    2 => '43.66',
+    3 => '-70.25',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '05' => 
+  array (
+    0 => 'Falmouth',
+    1 => 'ME',
+    2 => '43.72',
+    3 => '-70.24',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '06' => 
+  array (
+    0 => 'South Portland',
+    1 => 'ME',
+    2 => '43.63',
+    3 => '-70.28',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '07' => 
+  array (
+    0 => 'Cape Elizabeth',
+    1 => 'ME',
+    2 => '43.56',
+    3 => '-70.2',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '08' => 
+  array (
+    0 => 'Peaks Island',
+    1 => 'ME',
+    2 => '43.66',
+    3 => '-70.18',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '09' => 
+  array (
+    0 => 'Portland',
+    1 => 'ME',
+    2 => '43.66',
+    3 => '-70.25',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  10 => 
+  array (
+    0 => 'Cumberland Foreside',
+    1 => 'ME',
+    2 => '43.75',
+    3 => '-70.2',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  12 => 
+  array (
+    0 => 'Portland',
+    1 => 'ME',
+    2 => '43.66',
+    3 => '-70.25',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  16 => 
+  array (
+    0 => 'South Portland',
+    1 => 'ME',
+    2 => '43.63',
+    3 => '-70.28',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  22 => 
+  array (
+    0 => 'Portland',
+    1 => 'ME',
+    2 => '43.66',
+    3 => '-70.25',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  23 => 
+  array (
+    0 => 'Portland',
+    1 => 'ME',
+    2 => '43.66',
+    3 => '-70.25',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  24 => 
+  array (
+    0 => 'Portland',
+    1 => 'ME',
+    2 => '43.66',
+    3 => '-70.25',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

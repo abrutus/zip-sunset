@@ -1,0 +1,623 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Bangor',
+    1 => 'ME',
+    2 => '44.83',
+    3 => '-68.78',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '02' => 
+  array (
+    0 => 'Bangor',
+    1 => 'ME',
+    2 => '44.83',
+    3 => '-68.78',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '06' => 
+  array (
+    0 => 'Abbot',
+    1 => 'ME',
+    2 => '45.18',
+    3 => '-69.45',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '08' => 
+  array (
+    0 => 'Aurora',
+    1 => 'ME',
+    2 => '44.85',
+    3 => '-68.32',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  10 => 
+  array (
+    0 => 'Bradford',
+    1 => 'ME',
+    2 => '45.06',
+    3 => '-68.93',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  11 => 
+  array (
+    0 => 'Bradley',
+    1 => 'ME',
+    2 => '44.92',
+    3 => '-68.62',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  12 => 
+  array (
+    0 => 'Brewer',
+    1 => 'ME',
+    2 => '44.77',
+    3 => '-68.73',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  13 => 
+  array (
+    0 => 'Brookton',
+    1 => 'ME',
+    2 => '45.52',
+    3 => '-67.76',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  14 => 
+  array (
+    0 => 'Brownville',
+    1 => 'ME',
+    2 => '45.3',
+    3 => '-69.03',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  15 => 
+  array (
+    0 => 'Brownville Junction',
+    1 => 'ME',
+    2 => '45.35',
+    3 => '-69.05',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  16 => 
+  array (
+    0 => 'Bucksport',
+    1 => 'ME',
+    2 => '44.6',
+    3 => '-68.79',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  17 => 
+  array (
+    0 => 'Burlington',
+    1 => 'ME',
+    2 => '45.2',
+    3 => '-68.42',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  18 => 
+  array (
+    0 => 'Greenbush',
+    1 => 'ME',
+    2 => '45.08',
+    3 => '-68.59',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  19 => 
+  array (
+    0 => 'Carmel',
+    1 => 'ME',
+    2 => '44.79',
+    3 => '-69.05',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  20 => 
+  array (
+    0 => 'Castine',
+    1 => 'ME',
+    2 => '44.38',
+    3 => '-68.8',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  21 => 
+  array (
+    0 => 'Castine',
+    1 => 'ME',
+    2 => '44.38',
+    3 => '-68.8',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  22 => 
+  array (
+    0 => 'Charleston',
+    1 => 'ME',
+    2 => '45.08',
+    3 => '-69.04',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  24 => 
+  array (
+    0 => 'Danforth',
+    1 => 'ME',
+    2 => '45.66',
+    3 => '-67.86',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  26 => 
+  array (
+    0 => 'Dover Foxcroft',
+    1 => 'ME',
+    2 => '45.21',
+    3 => '-69.18',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  27 => 
+  array (
+    0 => 'Corinth',
+    1 => 'ME',
+    2 => '44.98',
+    3 => '-69.01',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  28 => 
+  array (
+    0 => 'Eddington',
+    1 => 'ME',
+    2 => '44.82',
+    3 => '-68.69',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  29 => 
+  array (
+    0 => 'Holden',
+    1 => 'ME',
+    2 => '44.75',
+    3 => '-68.67',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  30 => 
+  array (
+    0 => 'East Millinocket',
+    1 => 'ME',
+    2 => '45.62',
+    3 => '-68.57',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  31 => 
+  array (
+    0 => 'East Orland',
+    1 => 'ME',
+    2 => '44.58',
+    3 => '-68.66',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  34 => 
+  array (
+    0 => 'Etna',
+    1 => 'ME',
+    2 => '44.82',
+    3 => '-69.11',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  35 => 
+  array (
+    0 => 'Exeter',
+    1 => 'ME',
+    2 => '44.97',
+    3 => '-69.14',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  38 => 
+  array (
+    0 => 'Frankfort',
+    1 => 'ME',
+    2 => '44.6',
+    3 => '-68.87',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  41 => 
+  array (
+    0 => 'Greenville',
+    1 => 'ME',
+    2 => '45.46',
+    3 => '-69.59',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  42 => 
+  array (
+    0 => 'Greenville Junction',
+    1 => 'ME',
+    2 => '45.47',
+    3 => '-69.69',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  43 => 
+  array (
+    0 => 'Guilford',
+    1 => 'ME',
+    2 => '45.16',
+    3 => '-69.38',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  44 => 
+  array (
+    0 => 'Hampden',
+    1 => 'ME',
+    2 => '44.74',
+    3 => '-68.83',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  48 => 
+  array (
+    0 => 'Howland',
+    1 => 'ME',
+    2 => '45.25',
+    3 => '-68.66',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  49 => 
+  array (
+    0 => 'Hudson',
+    1 => 'ME',
+    2 => '45',
+    3 => '-68.88',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  50 => 
+  array (
+    0 => 'Kenduskeag',
+    1 => 'ME',
+    2 => '44.91',
+    3 => '-68.93',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  51 => 
+  array (
+    0 => 'Kingman',
+    1 => 'ME',
+    2 => '45.54',
+    3 => '-68.2',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  53 => 
+  array (
+    0 => 'Lagrange',
+    1 => 'ME',
+    2 => '45.16',
+    3 => '-68.84',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  54 => 
+  array (
+    0 => 'Lambert Lake',
+    1 => 'ME',
+    2 => '45.54',
+    3 => '-67.52',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  55 => 
+  array (
+    0 => 'Lee',
+    1 => 'ME',
+    2 => '45.36',
+    3 => '-68.28',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  56 => 
+  array (
+    0 => 'Levant',
+    1 => 'ME',
+    2 => '44.86',
+    3 => '-68.93',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  57 => 
+  array (
+    0 => 'Lincoln',
+    1 => 'ME',
+    2 => '45.36',
+    3 => '-68.5',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  59 => 
+  array (
+    0 => 'Mattawamkeag',
+    1 => 'ME',
+    2 => '45.51',
+    3 => '-68.35',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  60 => 
+  array (
+    0 => 'Medway',
+    1 => 'ME',
+    2 => '45.6',
+    3 => '-68.53',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  61 => 
+  array (
+    0 => 'Milford',
+    1 => 'ME',
+    2 => '44.94',
+    3 => '-68.64',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  62 => 
+  array (
+    0 => 'Millinocket',
+    1 => 'ME',
+    2 => '45.65',
+    3 => '-68.69',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  63 => 
+  array (
+    0 => 'Milo',
+    1 => 'ME',
+    2 => '45.25',
+    3 => '-68.98',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  64 => 
+  array (
+    0 => 'Monson',
+    1 => 'ME',
+    2 => '45.28',
+    3 => '-69.5',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  67 => 
+  array (
+    0 => 'Olamon',
+    1 => 'ME',
+    2 => '45.12',
+    3 => '-68.61',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  68 => 
+  array (
+    0 => 'Old Town',
+    1 => 'ME',
+    2 => '44.95',
+    3 => '-68.73',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  69 => 
+  array (
+    0 => 'Orono',
+    1 => 'ME',
+    2 => '44.88',
+    3 => '-68.68',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  71 => 
+  array (
+    0 => 'Orient',
+    1 => 'ME',
+    2 => '45.81',
+    3 => '-67.84',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  72 => 
+  array (
+    0 => 'Orland',
+    1 => 'ME',
+    2 => '44.57',
+    3 => '-68.73',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  73 => 
+  array (
+    0 => 'Orono',
+    1 => 'ME',
+    2 => '44.88',
+    3 => '-68.68',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  74 => 
+  array (
+    0 => 'Orrington',
+    1 => 'ME',
+    2 => '44.73',
+    3 => '-68.82',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  75 => 
+  array (
+    0 => 'Passadumkeag',
+    1 => 'ME',
+    2 => '45.18',
+    3 => '-68.61',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  76 => 
+  array (
+    0 => 'Penobscot',
+    1 => 'ME',
+    2 => '44.46',
+    3 => '-68.71',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  78 => 
+  array (
+    0 => 'Rockwood',
+    1 => 'ME',
+    2 => '45.67',
+    3 => '-69.74',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  79 => 
+  array (
+    0 => 'Sangerville',
+    1 => 'ME',
+    2 => '45.16',
+    3 => '-69.35',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  81 => 
+  array (
+    0 => 'Sebec',
+    1 => 'ME',
+    2 => '45.27',
+    3 => '-69.11',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  85 => 
+  array (
+    0 => 'Shirley Mills',
+    1 => 'ME',
+    2 => '45.35',
+    3 => '-69.63',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  87 => 
+  array (
+    0 => 'Springfield',
+    1 => 'ME',
+    2 => '45.39',
+    3 => '-68.13',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  88 => 
+  array (
+    0 => 'Stetson',
+    1 => 'ME',
+    2 => '44.89',
+    3 => '-69.14',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  89 => 
+  array (
+    0 => 'Stillwater',
+    1 => 'ME',
+    2 => '45.01',
+    3 => '-68.72',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  90 => 
+  array (
+    0 => 'Topsfield',
+    1 => 'ME',
+    2 => '45.41',
+    3 => '-67.73',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  91 => 
+  array (
+    0 => 'Vanceboro',
+    1 => 'ME',
+    2 => '45.56',
+    3 => '-67.43',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  92 => 
+  array (
+    0 => 'Waite',
+    1 => 'ME',
+    2 => '45.32',
+    3 => '-67.69',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  93 => 
+  array (
+    0 => 'West Enfield',
+    1 => 'ME',
+    2 => '45.26',
+    3 => '-68.58',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  95 => 
+  array (
+    0 => 'Winn',
+    1 => 'ME',
+    2 => '45.48',
+    3 => '-68.37',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  96 => 
+  array (
+    0 => 'Winterport',
+    1 => 'ME',
+    2 => '44.65',
+    3 => '-68.85',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  97 => 
+  array (
+    0 => 'Wytopitlock',
+    1 => 'ME',
+    2 => '45.64',
+    3 => '-68.07',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

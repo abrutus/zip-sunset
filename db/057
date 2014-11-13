@@ -1,0 +1,407 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Rutland',
+    1 => 'VT',
+    2 => '43.6',
+    3 => '-72.97',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '02' => 
+  array (
+    0 => 'Rutland',
+    1 => 'VT',
+    2 => '43.6',
+    3 => '-72.97',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  30 => 
+  array (
+    0 => 'Belmont',
+    1 => 'VT',
+    2 => '43.42',
+    3 => '-72.81',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  31 => 
+  array (
+    0 => 'Benson',
+    1 => 'VT',
+    2 => '43.72',
+    3 => '-73.32',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  32 => 
+  array (
+    0 => 'Bomoseen',
+    1 => 'VT',
+    2 => '43.63',
+    3 => '-73.2',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  33 => 
+  array (
+    0 => 'Brandon',
+    1 => 'VT',
+    2 => '43.8',
+    3 => '-73.08',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  34 => 
+  array (
+    0 => 'Bridport',
+    1 => 'VT',
+    2 => '43.98',
+    3 => '-73.32',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  35 => 
+  array (
+    0 => 'Castleton',
+    1 => 'VT',
+    2 => '43.62',
+    3 => '-73.18',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  36 => 
+  array (
+    0 => 'Center Rutland',
+    1 => 'VT',
+    2 => '43.61',
+    3 => '-73.01',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  37 => 
+  array (
+    0 => 'Chittenden',
+    1 => 'VT',
+    2 => '43.72',
+    3 => '-72.95',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  38 => 
+  array (
+    0 => 'Cuttingsville',
+    1 => 'VT',
+    2 => '43.48',
+    3 => '-72.88',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  39 => 
+  array (
+    0 => 'Danby',
+    1 => 'VT',
+    2 => '43.35',
+    3 => '-73',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  40 => 
+  array (
+    0 => 'East Middlebury',
+    1 => 'VT',
+    2 => '43.98',
+    3 => '-73.08',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  41 => 
+  array (
+    0 => 'East Poultney',
+    1 => 'VT',
+    2 => '43.54',
+    3 => '-73.13',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  42 => 
+  array (
+    0 => 'East Wallingford',
+    1 => 'VT',
+    2 => '43.43',
+    3 => '-72.87',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  43 => 
+  array (
+    0 => 'Fair Haven',
+    1 => 'VT',
+    2 => '43.59',
+    3 => '-73.27',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  44 => 
+  array (
+    0 => 'Florence',
+    1 => 'VT',
+    2 => '43.7',
+    3 => '-73.08',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  45 => 
+  array (
+    0 => 'Forest Dale',
+    1 => 'VT',
+    2 => '43.82',
+    3 => '-73.05',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  46 => 
+  array (
+    0 => 'Gaysville',
+    1 => 'VT',
+    2 => '43.73',
+    3 => '-72.74',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  47 => 
+  array (
+    0 => 'Granville',
+    1 => 'VT',
+    2 => '43.98',
+    3 => '-72.85',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  48 => 
+  array (
+    0 => 'Hancock',
+    1 => 'VT',
+    2 => '43.93',
+    3 => '-72.83',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  50 => 
+  array (
+    0 => 'Hydeville',
+    1 => 'VT',
+    2 => '43.6',
+    3 => '-73.21',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  51 => 
+  array (
+    0 => 'Killington',
+    1 => 'VT',
+    2 => '43.67',
+    3 => '-72.77',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  53 => 
+  array (
+    0 => 'Middlebury',
+    1 => 'VT',
+    2 => '44',
+    3 => '-73.15',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  57 => 
+  array (
+    0 => 'Middletown Springs',
+    1 => 'VT',
+    2 => '43.48',
+    3 => '-73.12',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  58 => 
+  array (
+    0 => 'Mount Holly',
+    1 => 'VT',
+    2 => '43.43',
+    3 => '-72.78',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  59 => 
+  array (
+    0 => 'North Clarendon',
+    1 => 'VT',
+    2 => '43.53',
+    3 => '-72.96',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  60 => 
+  array (
+    0 => 'Orwell',
+    1 => 'VT',
+    2 => '43.8',
+    3 => '-73.3',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  61 => 
+  array (
+    0 => 'Pawlet',
+    1 => 'VT',
+    2 => '43.35',
+    3 => '-73.18',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  62 => 
+  array (
+    0 => 'Pittsfield',
+    1 => 'VT',
+    2 => '43.78',
+    3 => '-72.82',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  63 => 
+  array (
+    0 => 'Pittsford',
+    1 => 'VT',
+    2 => '43.7',
+    3 => '-73.03',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  64 => 
+  array (
+    0 => 'Poultney',
+    1 => 'VT',
+    2 => '43.51',
+    3 => '-73.23',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  65 => 
+  array (
+    0 => 'Proctor',
+    1 => 'VT',
+    2 => '43.65',
+    3 => '-73.03',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  66 => 
+  array (
+    0 => 'Ripton',
+    1 => 'VT',
+    2 => '44',
+    3 => '-73.15',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  67 => 
+  array (
+    0 => 'Rochester',
+    1 => 'VT',
+    2 => '43.88',
+    3 => '-72.82',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  68 => 
+  array (
+    0 => 'Rupert',
+    1 => 'VT',
+    2 => '43.26',
+    3 => '-73.22',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  69 => 
+  array (
+    0 => 'Salisbury',
+    1 => 'VT',
+    2 => '43.9',
+    3 => '-73.1',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  70 => 
+  array (
+    0 => 'Shoreham',
+    1 => 'VT',
+    2 => '43.9',
+    3 => '-73.32',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  72 => 
+  array (
+    0 => 'Stockbridge',
+    1 => 'VT',
+    2 => '43.78',
+    3 => '-72.77',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  73 => 
+  array (
+    0 => 'Wallingford',
+    1 => 'VT',
+    2 => '43.48',
+    3 => '-72.97',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  74 => 
+  array (
+    0 => 'Wells',
+    1 => 'VT',
+    2 => '43.42',
+    3 => '-73.2',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  75 => 
+  array (
+    0 => 'West Pawlet',
+    1 => 'VT',
+    2 => '43.36',
+    3 => '-73.22',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  76 => 
+  array (
+    0 => 'West Rupert',
+    1 => 'VT',
+    2 => '43.26',
+    3 => '-73.19',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  77 => 
+  array (
+    0 => 'West Rutland',
+    1 => 'VT',
+    2 => '43.59',
+    3 => '-73.04',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  78 => 
+  array (
+    0 => 'Whiting',
+    1 => 'VT',
+    2 => '43.87',
+    3 => '-73.21',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

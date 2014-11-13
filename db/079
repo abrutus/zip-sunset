@@ -1,0 +1,326 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Summit',
+    1 => 'NJ',
+    2 => '40.71',
+    3 => '-74.36',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '02' => 
+  array (
+    0 => 'Summit',
+    1 => 'NJ',
+    2 => '40.71',
+    3 => '-74.36',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  20 => 
+  array (
+    0 => 'Basking Ridge',
+    1 => 'NJ',
+    2 => '40.67',
+    3 => '-74.56',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  21 => 
+  array (
+    0 => 'Bedminster',
+    1 => 'NJ',
+    2 => '40.65',
+    3 => '-74.67',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  22 => 
+  array (
+    0 => 'Berkeley Heights',
+    1 => 'NJ',
+    2 => '40.67',
+    3 => '-74.42',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  24 => 
+  array (
+    0 => 'Bernardsville',
+    1 => 'NJ',
+    2 => '40.73',
+    3 => '-74.59',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  26 => 
+  array (
+    0 => 'Brookside',
+    1 => 'NJ',
+    2 => '40.76',
+    3 => '-74.6',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  27 => 
+  array (
+    0 => 'Cedar Knolls',
+    1 => 'NJ',
+    2 => '40.82',
+    3 => '-74.45',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  28 => 
+  array (
+    0 => 'Chatham',
+    1 => 'NJ',
+    2 => '40.74',
+    3 => '-74.38',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  30 => 
+  array (
+    0 => 'Chester',
+    1 => 'NJ',
+    2 => '40.78',
+    3 => '-74.69',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  31 => 
+  array (
+    0 => 'Far Hills',
+    1 => 'NJ',
+    2 => '40.69',
+    3 => '-74.62',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  32 => 
+  array (
+    0 => 'Florham Park',
+    1 => 'NJ',
+    2 => '40.77',
+    3 => '-74.39',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  33 => 
+  array (
+    0 => 'Gillette',
+    1 => 'NJ',
+    2 => '40.7',
+    3 => '-74.47',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  34 => 
+  array (
+    0 => 'Gladstone',
+    1 => 'NJ',
+    2 => '40.72',
+    3 => '-74.67',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  35 => 
+  array (
+    0 => 'Green Village',
+    1 => 'NJ',
+    2 => '40.74',
+    3 => '-74.45',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  36 => 
+  array (
+    0 => 'East Hanover',
+    1 => 'NJ',
+    2 => '40.81',
+    3 => '-74.36',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  38 => 
+  array (
+    0 => 'Liberty Corner',
+    1 => 'NJ',
+    2 => '40.68',
+    3 => '-74.56',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  39 => 
+  array (
+    0 => 'Lyons',
+    1 => 'NJ',
+    2 => '40.66',
+    3 => '-74.55',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  40 => 
+  array (
+    0 => 'Madison',
+    1 => 'NJ',
+    2 => '40.75',
+    3 => '-74.41',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  45 => 
+  array (
+    0 => 'Mendham',
+    1 => 'NJ',
+    2 => '40.76',
+    3 => '-74.59',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  46 => 
+  array (
+    0 => 'Millington',
+    1 => 'NJ',
+    2 => '40.66',
+    3 => '-74.51',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  50 => 
+  array (
+    0 => 'Morris Plains',
+    1 => 'NJ',
+    2 => '40.83',
+    3 => '-74.48',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  60 => 
+  array (
+    0 => 'Morristown',
+    1 => 'NJ',
+    2 => '40.79',
+    3 => '-74.47',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  61 => 
+  array (
+    0 => 'Convent Station',
+    1 => 'NJ',
+    2 => '40.79',
+    3 => '-74.47',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  62 => 
+  array (
+    0 => 'Morristown',
+    1 => 'NJ',
+    2 => '40.79',
+    3 => '-74.47',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  63 => 
+  array (
+    0 => 'Morristown',
+    1 => 'NJ',
+    2 => '40.79',
+    3 => '-74.47',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  70 => 
+  array (
+    0 => 'Mount Freedom',
+    1 => 'NJ',
+    2 => '40.84',
+    3 => '-74.48',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  74 => 
+  array (
+    0 => 'New Providence',
+    1 => 'NJ',
+    2 => '40.7',
+    3 => '-74.4',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  76 => 
+  array (
+    0 => 'New Vernon',
+    1 => 'NJ',
+    2 => '40.73',
+    3 => '-74.48',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  77 => 
+  array (
+    0 => 'Peapack',
+    1 => 'NJ',
+    2 => '40.7',
+    3 => '-74.66',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  78 => 
+  array (
+    0 => 'Pluckemin',
+    1 => 'NJ',
+    2 => '40.66',
+    3 => '-74.68',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  79 => 
+  array (
+    0 => 'Pottersville',
+    1 => 'NJ',
+    2 => '40.66',
+    3 => '-74.82',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  80 => 
+  array (
+    0 => 'Stirling',
+    1 => 'NJ',
+    2 => '40.68',
+    3 => '-74.49',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  81 => 
+  array (
+    0 => 'Whippany',
+    1 => 'NJ',
+    2 => '40.82',
+    3 => '-74.41',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  83 => 
+  array (
+    0 => 'Whippany',
+    1 => 'NJ',
+    2 => '40.82',
+    3 => '-74.41',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  99 => 
+  array (
+    0 => 'Whippany',
+    1 => 'NJ',
+    2 => '40.82',
+    3 => '-74.41',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

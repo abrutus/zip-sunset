@@ -1,0 +1,245 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Winston Salem',
+    1 => 'NC',
+    2 => '36.1',
+    3 => '-80.24',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '02' => 
+  array (
+    0 => 'Winston Salem',
+    1 => 'NC',
+    2 => '36.1',
+    3 => '-80.24',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '03' => 
+  array (
+    0 => 'Winston Salem',
+    1 => 'NC',
+    2 => '36.1',
+    3 => '-80.24',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '04' => 
+  array (
+    0 => 'Winston Salem',
+    1 => 'NC',
+    2 => '36.1',
+    3 => '-80.24',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '05' => 
+  array (
+    0 => 'Winston Salem',
+    1 => 'NC',
+    2 => '36.1',
+    3 => '-80.24',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '06' => 
+  array (
+    0 => 'Winston Salem',
+    1 => 'NC',
+    2 => '36.1',
+    3 => '-80.24',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '07' => 
+  array (
+    0 => 'Winston Salem',
+    1 => 'NC',
+    2 => '36.1',
+    3 => '-80.24',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '08' => 
+  array (
+    0 => 'Winston Salem',
+    1 => 'NC',
+    2 => '36.1',
+    3 => '-80.24',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '09' => 
+  array (
+    0 => 'Winston Salem',
+    1 => 'NC',
+    2 => '36.1',
+    3 => '-80.24',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  10 => 
+  array (
+    0 => 'Winston Salem',
+    1 => 'NC',
+    2 => '36.1',
+    3 => '-80.24',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  11 => 
+  array (
+    0 => 'Winston Salem',
+    1 => 'NC',
+    2 => '36.1',
+    3 => '-80.24',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  13 => 
+  array (
+    0 => 'Winston Salem',
+    1 => 'NC',
+    2 => '36.1',
+    3 => '-80.24',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  14 => 
+  array (
+    0 => 'Winston Salem',
+    1 => 'NC',
+    2 => '36.1',
+    3 => '-80.24',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  15 => 
+  array (
+    0 => 'Winston Salem',
+    1 => 'NC',
+    2 => '36.1',
+    3 => '-80.24',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  16 => 
+  array (
+    0 => 'Winston Salem',
+    1 => 'NC',
+    2 => '36.1',
+    3 => '-80.24',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  17 => 
+  array (
+    0 => 'Winston Salem',
+    1 => 'NC',
+    2 => '36.1',
+    3 => '-80.24',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  20 => 
+  array (
+    0 => 'Winston Salem',
+    1 => 'NC',
+    2 => '36.1',
+    3 => '-80.24',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  27 => 
+  array (
+    0 => 'Winston Salem',
+    1 => 'NC',
+    2 => '36.1',
+    3 => '-80.24',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  30 => 
+  array (
+    0 => 'Winston Salem',
+    1 => 'NC',
+    2 => '36.1',
+    3 => '-80.24',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  50 => 
+  array (
+    0 => 'Winston Salem',
+    1 => 'NC',
+    2 => '36.1',
+    3 => '-80.24',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  51 => 
+  array (
+    0 => 'Winston-salem',
+    1 => 'NC',
+    2 => '36.11',
+    3 => '-80.24',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  52 => 
+  array (
+    0 => 'Winston Salem',
+    1 => 'NC',
+    2 => '36.1',
+    3 => '-80.24',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  55 => 
+  array (
+    0 => 'Winston Salem',
+    1 => 'NC',
+    2 => '36.1',
+    3 => '-80.24',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  56 => 
+  array (
+    0 => 'Winston-salem',
+    1 => 'NC',
+    2 => '36.14',
+    3 => '-80.22',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  57 => 
+  array (
+    0 => 'Winston Salem',
+    1 => 'NC',
+    2 => '36.1',
+    3 => '-80.24',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  98 => 
+  array (
+    0 => 'Winston Salem',
+    1 => 'NC',
+    2 => '36.1',
+    3 => '-80.24',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  99 => 
+  array (
+    0 => 'Winston Salem',
+    1 => 'NC',
+    2 => '36.1',
+    3 => '-80.24',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

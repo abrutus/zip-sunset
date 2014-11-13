@@ -1,0 +1,335 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Absecon',
+    1 => 'NJ',
+    2 => '39.42',
+    3 => '-74.49',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '02' => 
+  array (
+    0 => 'Avalon',
+    1 => 'NJ',
+    2 => '39.09',
+    3 => '-74.73',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '03' => 
+  array (
+    0 => 'Brigantine',
+    1 => 'NJ',
+    2 => '39.41',
+    3 => '-74.36',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '04' => 
+  array (
+    0 => 'Cape May',
+    1 => 'NJ',
+    2 => '38.94',
+    3 => '-74.9',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '05' => 
+  array (
+    0 => 'Absecon',
+    1 => 'NJ',
+    2 => '39.48',
+    3 => '-74.47',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  10 => 
+  array (
+    0 => 'Cape May Court House',
+    1 => 'NJ',
+    2 => '39.07',
+    3 => '-74.82',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  12 => 
+  array (
+    0 => 'Cape May Point',
+    1 => 'NJ',
+    2 => '38.93',
+    3 => '-74.96',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  13 => 
+  array (
+    0 => 'Cologne',
+    1 => 'NJ',
+    2 => '39.51',
+    3 => '-74.56',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  14 => 
+  array (
+    0 => 'Dennisville',
+    1 => 'NJ',
+    2 => '39.22',
+    3 => '-74.85',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  15 => 
+  array (
+    0 => 'Egg Harbor City',
+    1 => 'NJ',
+    2 => '39.56',
+    3 => '-74.59',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  17 => 
+  array (
+    0 => 'Elwood',
+    1 => 'NJ',
+    2 => '39.6',
+    3 => '-74.68',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  18 => 
+  array (
+    0 => 'Goshen',
+    1 => 'NJ',
+    2 => '39.11',
+    3 => '-74.86',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  19 => 
+  array (
+    0 => 'Green Creek',
+    1 => 'NJ',
+    2 => '39.04',
+    3 => '-74.91',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  20 => 
+  array (
+    0 => 'Leeds Point',
+    1 => 'NJ',
+    2 => '39.49',
+    3 => '-74.43',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  21 => 
+  array (
+    0 => 'Linwood',
+    1 => 'NJ',
+    2 => '39.34',
+    3 => '-74.57',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  23 => 
+  array (
+    0 => 'Marmora',
+    1 => 'NJ',
+    2 => '39.26',
+    3 => '-74.66',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  24 => 
+  array (
+    0 => 'New Gretna',
+    1 => 'NJ',
+    2 => '39.71',
+    3 => '-74.52',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  25 => 
+  array (
+    0 => 'Northfield',
+    1 => 'NJ',
+    2 => '39.37',
+    3 => '-74.55',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  26 => 
+  array (
+    0 => 'Ocean City',
+    1 => 'NJ',
+    2 => '39.26',
+    3 => '-74.6',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  30 => 
+  array (
+    0 => 'Ocean View',
+    1 => 'NJ',
+    2 => '39.2',
+    3 => '-74.71',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  31 => 
+  array (
+    0 => 'Oceanville',
+    1 => 'NJ',
+    2 => '39.48',
+    3 => '-74.47',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  32 => 
+  array (
+    0 => 'Pleasantville',
+    1 => 'NJ',
+    2 => '39.39',
+    3 => '-74.51',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  34 => 
+  array (
+    0 => 'Egg Harbor Township',
+    1 => 'NJ',
+    2 => '39.41',
+    3 => '-74.58',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  40 => 
+  array (
+    0 => 'Pomona',
+    1 => 'NJ',
+    2 => '39.46',
+    3 => '-74.55',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  41 => 
+  array (
+    0 => 'Port Republic',
+    1 => 'NJ',
+    2 => '39.53',
+    3 => '-74.48',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  42 => 
+  array (
+    0 => 'Rio Grande',
+    1 => 'NJ',
+    2 => '39.02',
+    3 => '-74.87',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  43 => 
+  array (
+    0 => 'Sea Isle City',
+    1 => 'NJ',
+    2 => '39.15',
+    3 => '-74.69',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  44 => 
+  array (
+    0 => 'Somers Point',
+    1 => 'NJ',
+    2 => '39.31',
+    3 => '-74.6',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  45 => 
+  array (
+    0 => 'South Dennis',
+    1 => 'NJ',
+    2 => '39.17',
+    3 => '-74.82',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  46 => 
+  array (
+    0 => 'South Seaville',
+    1 => 'NJ',
+    2 => '39.17',
+    3 => '-74.77',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  47 => 
+  array (
+    0 => 'Stone Harbor',
+    1 => 'NJ',
+    2 => '39.04',
+    3 => '-74.76',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  48 => 
+  array (
+    0 => 'Strathmere',
+    1 => 'NJ',
+    2 => '39.19',
+    3 => '-74.66',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  50 => 
+  array (
+    0 => 'Tuckahoe',
+    1 => 'NJ',
+    2 => '39.28',
+    3 => '-74.78',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  51 => 
+  array (
+    0 => 'Villas',
+    1 => 'NJ',
+    2 => '39.01',
+    3 => '-74.93',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  52 => 
+  array (
+    0 => 'Whitesboro',
+    1 => 'NJ',
+    2 => '39.04',
+    3 => '-74.86',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  60 => 
+  array (
+    0 => 'Wildwood',
+    1 => 'NJ',
+    2 => '38.98',
+    3 => '-74.82',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  70 => 
+  array (
+    0 => 'Woodbine',
+    1 => 'NJ',
+    2 => '39.22',
+    3 => '-74.8',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

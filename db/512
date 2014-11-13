@@ -1,0 +1,182 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Sheldon',
+    1 => 'IA',
+    2 => '43.17',
+    3 => '-95.84',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  30 => 
+  array (
+    0 => 'Alvord',
+    1 => 'IA',
+    2 => '43.34',
+    3 => '-96.3',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  31 => 
+  array (
+    0 => 'Archer',
+    1 => 'IA',
+    2 => '43.11',
+    3 => '-95.74',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  32 => 
+  array (
+    0 => 'Ashton',
+    1 => 'IA',
+    2 => '43.3',
+    3 => '-95.79',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  34 => 
+  array (
+    0 => 'Boyden',
+    1 => 'IA',
+    2 => '43.19',
+    3 => '-96',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  35 => 
+  array (
+    0 => 'Doon',
+    1 => 'IA',
+    2 => '43.27',
+    3 => '-96.23',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  37 => 
+  array (
+    0 => 'George',
+    1 => 'IA',
+    2 => '43.34',
+    3 => '-96',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  38 => 
+  array (
+    0 => 'Hospers',
+    1 => 'IA',
+    2 => '43.07',
+    3 => '-95.9',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  39 => 
+  array (
+    0 => 'Hull',
+    1 => 'IA',
+    2 => '43.19',
+    3 => '-96.13',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  40 => 
+  array (
+    0 => 'Inwood',
+    1 => 'IA',
+    2 => '43.28',
+    3 => '-96.44',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  41 => 
+  array (
+    0 => 'Larchwood',
+    1 => 'IA',
+    2 => '43.45',
+    3 => '-96.43',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  42 => 
+  array (
+    0 => 'Lester',
+    1 => 'IA',
+    2 => '43.43',
+    3 => '-96.33',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  43 => 
+  array (
+    0 => 'Little Rock',
+    1 => 'IA',
+    2 => '43.44',
+    3 => '-95.88',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  44 => 
+  array (
+    0 => 'Matlock',
+    1 => 'IA',
+    2 => '43.24',
+    3 => '-95.93',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  45 => 
+  array (
+    0 => 'Primghar',
+    1 => 'IA',
+    2 => '43.08',
+    3 => '-95.62',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  46 => 
+  array (
+    0 => 'Rock Rapids',
+    1 => 'IA',
+    2 => '43.42',
+    3 => '-96.16',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  47 => 
+  array (
+    0 => 'Rock Valley',
+    1 => 'IA',
+    2 => '43.2',
+    3 => '-96.29',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  48 => 
+  array (
+    0 => 'Sanborn',
+    1 => 'IA',
+    2 => '43.18',
+    3 => '-95.65',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  49 => 
+  array (
+    0 => 'Sibley',
+    1 => 'IA',
+    2 => '43.4',
+    3 => '-95.74',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  50 => 
+  array (
+    0 => 'Sioux Center',
+    1 => 'IA',
+    2 => '43.07',
+    3 => '-96.17',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+);

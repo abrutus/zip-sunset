@@ -1,0 +1,308 @@
+<?php $db= array (
+  29 => 
+  array (
+    0 => 'San Juan',
+    1 => 'PR',
+    2 => '18.4',
+    3 => '-66.06',
+    4 => -4,
+    5 => 'America/Puerto_Rico',
+  ),
+  31 => 
+  array (
+    0 => 'San Juan',
+    1 => 'PR',
+    2 => '18.4',
+    3 => '-66.06',
+    4 => -4,
+    5 => 'America/Puerto_Rico',
+  ),
+  33 => 
+  array (
+    0 => 'San Juan',
+    1 => 'PR',
+    2 => '18.4',
+    3 => '-66.06',
+    4 => -4,
+    5 => 'America/Puerto_Rico',
+  ),
+  35 => 
+  array (
+    0 => 'San Juan',
+    1 => 'PR',
+    2 => '18.4',
+    3 => '-66.06',
+    4 => -4,
+    5 => 'America/Puerto_Rico',
+  ),
+  37 => 
+  array (
+    0 => 'San Juan',
+    1 => 'PR',
+    2 => '18.4',
+    3 => '-66.06',
+    4 => -4,
+    5 => 'America/Puerto_Rico',
+  ),
+  39 => 
+  array (
+    0 => 'San Juan',
+    1 => 'PR',
+    2 => '18.4',
+    3 => '-66.06',
+    4 => -4,
+    5 => 'America/Puerto_Rico',
+  ),
+  52 => 
+  array (
+    0 => 'Sabana Seca',
+    1 => 'PR',
+    2 => '18.42',
+    3 => '-66.19',
+    4 => -4,
+    5 => 'America/Puerto_Rico',
+  ),
+  53 => 
+  array (
+    0 => 'Toa Alta',
+    1 => 'PR',
+    2 => '18.39',
+    3 => '-66.25',
+    4 => -4,
+    5 => 'America/Puerto_Rico',
+  ),
+  54 => 
+  array (
+    0 => 'Toa Alta',
+    1 => 'PR',
+    2 => '18.39',
+    3 => '-66.25',
+    4 => -4,
+    5 => 'America/Puerto_Rico',
+  ),
+  55 => 
+  array (
+    0 => 'San Juan',
+    1 => 'PR',
+    2 => '18.4',
+    3 => '-66.06',
+    4 => -4,
+    5 => 'America/Puerto_Rico',
+  ),
+  56 => 
+  array (
+    0 => 'Bayamon',
+    1 => 'PR',
+    2 => '18.28',
+    3 => '-66.13',
+    4 => -4,
+    5 => 'America/Puerto_Rico',
+  ),
+  57 => 
+  array (
+    0 => 'Bayamon',
+    1 => 'PR',
+    2 => '18.28',
+    3 => '-66.13',
+    4 => -4,
+    5 => 'America/Puerto_Rico',
+  ),
+  58 => 
+  array (
+    0 => 'Bayamon',
+    1 => 'PR',
+    2 => '18.28',
+    3 => '-66.13',
+    4 => -4,
+    5 => 'America/Puerto_Rico',
+  ),
+  59 => 
+  array (
+    0 => 'Bayamon',
+    1 => 'PR',
+    2 => '18.28',
+    3 => '-66.13',
+    4 => -4,
+    5 => 'America/Puerto_Rico',
+  ),
+  61 => 
+  array (
+    0 => 'Bayamon',
+    1 => 'PR',
+    2 => '18.41',
+    3 => '-66.15',
+    4 => -4,
+    5 => 'America/Puerto_Rico',
+  ),
+  62 => 
+  array (
+    0 => 'Catano',
+    1 => 'PR',
+    2 => '18.43',
+    3 => '-66.11',
+    4 => -4,
+    5 => 'America/Puerto_Rico',
+  ),
+  63 => 
+  array (
+    0 => 'Catano',
+    1 => 'PR',
+    2 => '18.43',
+    3 => '-66.11',
+    4 => -4,
+    5 => 'America/Puerto_Rico',
+  ),
+  65 => 
+  array (
+    0 => 'Guaynabo',
+    1 => 'PR',
+    2 => '18.38',
+    3 => '-66.11',
+    4 => -4,
+    5 => 'America/Puerto_Rico',
+  ),
+  66 => 
+  array (
+    0 => 'Guaynabo',
+    1 => 'PR',
+    2 => '18.38',
+    3 => '-66.11',
+    4 => -4,
+    5 => 'America/Puerto_Rico',
+  ),
+  68 => 
+  array (
+    0 => 'Guaynabo',
+    1 => 'PR',
+    2 => '18.38',
+    3 => '-66.11',
+    4 => -4,
+    5 => 'America/Puerto_Rico',
+  ),
+  69 => 
+  array (
+    0 => 'Guaynabo',
+    1 => 'PR',
+    2 => '18.38',
+    3 => '-66.11',
+    4 => -4,
+    5 => 'America/Puerto_Rico',
+  ),
+  71 => 
+  array (
+    0 => 'Guaynabo',
+    1 => 'PR',
+    2 => '18.38',
+    3 => '-66.11',
+    4 => -4,
+    5 => 'America/Puerto_Rico',
+  ),
+  75 => 
+  array (
+    0 => 'San Juan',
+    1 => 'PR',
+    2 => '18.4',
+    3 => '-66.06',
+    4 => -4,
+    5 => 'America/Puerto_Rico',
+  ),
+  76 => 
+  array (
+    0 => 'Trujillo Alto',
+    1 => 'PR',
+    2 => '18.36',
+    3 => '-66.01',
+    4 => -4,
+    5 => 'America/Puerto_Rico',
+  ),
+  78 => 
+  array (
+    0 => 'Saint Just',
+    1 => 'PR',
+    2 => '18.37',
+    3 => '-66.01',
+    4 => -4,
+    5 => 'America/Puerto_Rico',
+  ),
+  79 => 
+  array (
+    0 => 'Carolina',
+    1 => 'PR',
+    2 => '18.4',
+    3 => '-65.98',
+    4 => -4,
+    5 => 'America/Puerto_Rico',
+  ),
+  81 => 
+  array (
+    0 => 'Carolina',
+    1 => 'PR',
+    2 => '18.4',
+    3 => '-65.98',
+    4 => -4,
+    5 => 'America/Puerto_Rico',
+  ),
+  82 => 
+  array (
+    0 => 'Carolina',
+    1 => 'PR',
+    2 => '18.4',
+    3 => '-65.98',
+    4 => -4,
+    5 => 'America/Puerto_Rico',
+  ),
+  83 => 
+  array (
+    0 => 'Carolina',
+    1 => 'PR',
+    2 => '18.4',
+    3 => '-65.98',
+    4 => -4,
+    5 => 'America/Puerto_Rico',
+  ),
+  84 => 
+  array (
+    0 => 'Carolina',
+    1 => 'PR',
+    2 => '18.4',
+    3 => '-65.98',
+    4 => -4,
+    5 => 'America/Puerto_Rico',
+  ),
+  85 => 
+  array (
+    0 => 'Carolina',
+    1 => 'PR',
+    2 => '18.4',
+    3 => '-65.98',
+    4 => -4,
+    5 => 'America/Puerto_Rico',
+  ),
+  86 => 
+  array (
+    0 => 'Carolina',
+    1 => 'PR',
+    2 => '18.4',
+    3 => '-65.98',
+    4 => -4,
+    5 => 'America/Puerto_Rico',
+  ),
+  87 => 
+  array (
+    0 => 'Carolina',
+    1 => 'PR',
+    2 => '18.4',
+    3 => '-65.98',
+    4 => -4,
+    5 => 'America/Puerto_Rico',
+  ),
+  88 => 
+  array (
+    0 => 'Carolina',
+    1 => 'PR',
+    2 => '18.4',
+    3 => '-65.98',
+    4 => -4,
+    5 => 'America/Puerto_Rico',
+  ),
+);

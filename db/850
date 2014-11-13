@@ -1,0 +1,740 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Phoenix',
+    1 => 'AZ',
+    2 => '33.45',
+    3 => '-112.06',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  '02' => 
+  array (
+    0 => 'Phoenix',
+    1 => 'AZ',
+    2 => '33.45',
+    3 => '-112.06',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  '03' => 
+  array (
+    0 => 'Phoenix',
+    1 => 'AZ',
+    2 => '33.45',
+    3 => '-112.07',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  '04' => 
+  array (
+    0 => 'Phoenix',
+    1 => 'AZ',
+    2 => '33.44',
+    3 => '-112.07',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  '05' => 
+  array (
+    0 => 'Phoenix',
+    1 => 'AZ',
+    2 => '33.44',
+    3 => '-112.12',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  '06' => 
+  array (
+    0 => 'Phoenix',
+    1 => 'AZ',
+    2 => '33.46',
+    3 => '-112.05',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  '07' => 
+  array (
+    0 => 'Phoenix',
+    1 => 'AZ',
+    2 => '33.44',
+    3 => '-112.08',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  '08' => 
+  array (
+    0 => 'Phoenix',
+    1 => 'AZ',
+    2 => '33.46',
+    3 => '-111.98',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  '09' => 
+  array (
+    0 => 'Phoenix',
+    1 => 'AZ',
+    2 => '33.44',
+    3 => '-112.13',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  10 => 
+  array (
+    0 => 'Phoenix',
+    1 => 'AZ',
+    2 => '33.46',
+    3 => '-111.98',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  11 => 
+  array (
+    0 => 'Phoenix',
+    1 => 'AZ',
+    2 => '33.5',
+    3 => '-112.05',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  12 => 
+  array (
+    0 => 'Phoenix',
+    1 => 'AZ',
+    2 => '33.5',
+    3 => '-112.07',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  13 => 
+  array (
+    0 => 'Phoenix',
+    1 => 'AZ',
+    2 => '33.5',
+    3 => '-112.08',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  14 => 
+  array (
+    0 => 'Phoenix',
+    1 => 'AZ',
+    2 => '33.5',
+    3 => '-112.05',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  15 => 
+  array (
+    0 => 'Phoenix',
+    1 => 'AZ',
+    2 => '33.5',
+    3 => '-112.1',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  16 => 
+  array (
+    0 => 'Phoenix',
+    1 => 'AZ',
+    2 => '33.5',
+    3 => '-112.02',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  17 => 
+  array (
+    0 => 'Phoenix',
+    1 => 'AZ',
+    2 => '33.5',
+    3 => '-112.12',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  18 => 
+  array (
+    0 => 'Phoenix',
+    1 => 'AZ',
+    2 => '33.5',
+    3 => '-111.98',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  19 => 
+  array (
+    0 => 'Phoenix',
+    1 => 'AZ',
+    2 => '33.5',
+    3 => '-112.14',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  20 => 
+  array (
+    0 => 'Phoenix',
+    1 => 'AZ',
+    2 => '33.57',
+    3 => '-112.05',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  21 => 
+  array (
+    0 => 'Phoenix',
+    1 => 'AZ',
+    2 => '33.55',
+    3 => '-112.09',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  22 => 
+  array (
+    0 => 'Phoenix',
+    1 => 'AZ',
+    2 => '33.62',
+    3 => '-112.05',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  23 => 
+  array (
+    0 => 'Phoenix',
+    1 => 'AZ',
+    2 => '33.63',
+    3 => '-112.09',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  24 => 
+  array (
+    0 => 'Phoenix',
+    1 => 'AZ',
+    2 => '33.68',
+    3 => '-112.04',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  25 => 
+  array (
+    0 => 'Phoenix',
+    1 => 'AZ',
+    2 => '33.45',
+    3 => '-112.07',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  26 => 
+  array (
+    0 => 'Phoenix',
+    1 => 'AZ',
+    2 => '33.45',
+    3 => '-111.97',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  27 => 
+  array (
+    0 => 'Phoenix',
+    1 => 'AZ',
+    2 => '33.72',
+    3 => '-112.08',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  28 => 
+  array (
+    0 => 'Phoenix',
+    1 => 'AZ',
+    2 => '33.56',
+    3 => '-112',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  29 => 
+  array (
+    0 => 'Phoenix',
+    1 => 'AZ',
+    2 => '33.59',
+    3 => '-112.1',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  30 => 
+  array (
+    0 => 'Phoenix',
+    1 => 'AZ',
+    2 => '33.45',
+    3 => '-112.07',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  31 => 
+  array (
+    0 => 'Phoenix',
+    1 => 'AZ',
+    2 => '33.49',
+    3 => '-112.16',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  32 => 
+  array (
+    0 => 'Phoenix',
+    1 => 'AZ',
+    2 => '33.62',
+    3 => '-112',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  33 => 
+  array (
+    0 => 'Phoenix',
+    1 => 'AZ',
+    2 => '33.49',
+    3 => '-112.21',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  34 => 
+  array (
+    0 => 'Phoenix',
+    1 => 'AZ',
+    2 => '33.43',
+    3 => '-112.01',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  35 => 
+  array (
+    0 => 'Phoenix',
+    1 => 'AZ',
+    2 => '33.47',
+    3 => '-112.19',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  36 => 
+  array (
+    0 => 'Phoenix',
+    1 => 'AZ',
+    2 => '33.63',
+    3 => '-112.15',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  37 => 
+  array (
+    0 => 'Phoenix',
+    1 => 'AZ',
+    2 => '33.48',
+    3 => '-112.25',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  38 => 
+  array (
+    0 => 'Phoenix',
+    1 => 'AZ',
+    2 => '33.46',
+    3 => '-111.98',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  39 => 
+  array (
+    0 => 'Phoenix',
+    1 => 'AZ',
+    2 => '33.49',
+    3 => '-112.28',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  40 => 
+  array (
+    0 => 'Phoenix',
+    1 => 'AZ',
+    2 => '33.4',
+    3 => '-112.02',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  41 => 
+  array (
+    0 => 'Phoenix',
+    1 => 'AZ',
+    2 => '33.38',
+    3 => '-112.11',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  42 => 
+  array (
+    0 => 'Phoenix',
+    1 => 'AZ',
+    2 => '33.37',
+    3 => '-112.03',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  43 => 
+  array (
+    0 => 'Phoenix',
+    1 => 'AZ',
+    2 => '33.42',
+    3 => '-112.2',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  44 => 
+  array (
+    0 => 'Phoenix',
+    1 => 'AZ',
+    2 => '33.34',
+    3 => '-112.06',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  45 => 
+  array (
+    0 => 'Phoenix',
+    1 => 'AZ',
+    2 => '33.3',
+    3 => '-112.1',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  46 => 
+  array (
+    0 => 'Phoenix',
+    1 => 'AZ',
+    2 => '33.62',
+    3 => '-112',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  48 => 
+  array (
+    0 => 'Phoenix',
+    1 => 'AZ',
+    2 => '33.28',
+    3 => '-112.03',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  50 => 
+  array (
+    0 => 'Phoenix',
+    1 => 'AZ',
+    2 => '33.69',
+    3 => '-112',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  51 => 
+  array (
+    0 => 'Phoenix',
+    1 => 'AZ',
+    2 => '33.55',
+    3 => '-112.13',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  53 => 
+  array (
+    0 => 'Phoenix',
+    1 => 'AZ',
+    2 => '33.62',
+    3 => '-112.13',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  54 => 
+  array (
+    0 => 'Phoenix',
+    1 => 'AZ',
+    2 => '33.67',
+    3 => '-111.95',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  55 => 
+  array (
+    0 => 'Phoenix',
+    1 => 'AZ',
+    2 => '33.45',
+    3 => '-111.97',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  60 => 
+  array (
+    0 => 'Phoenix',
+    1 => 'AZ',
+    2 => '33.5',
+    3 => '-111.98',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  61 => 
+  array (
+    0 => 'Phoenix',
+    1 => 'AZ',
+    2 => '33.51',
+    3 => '-112.12',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  62 => 
+  array (
+    0 => 'Phoenix',
+    1 => 'AZ',
+    2 => '33.46',
+    3 => '-111.98',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  63 => 
+  array (
+    0 => 'Phoenix',
+    1 => 'AZ',
+    2 => '33.5',
+    3 => '-112.17',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  64 => 
+  array (
+    0 => 'Phoenix',
+    1 => 'AZ',
+    2 => '33.5',
+    3 => '-112.03',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  65 => 
+  array (
+    0 => 'Phoenix',
+    1 => 'AZ',
+    2 => '33.43',
+    3 => '-112.05',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  66 => 
+  array (
+    0 => 'Phoenix',
+    1 => 'AZ',
+    2 => '33.39',
+    3 => '-112.03',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  67 => 
+  array (
+    0 => 'Phoenix',
+    1 => 'AZ',
+    2 => '33.5',
+    3 => '-112.08',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  68 => 
+  array (
+    0 => 'Phoenix',
+    1 => 'AZ',
+    2 => '33.67',
+    3 => '-112.06',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  69 => 
+  array (
+    0 => 'Phoenix',
+    1 => 'AZ',
+    2 => '33.56',
+    3 => '-112.09',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  70 => 
+  array (
+    0 => 'Phoenix',
+    1 => 'AZ',
+    2 => '33.3',
+    3 => '-112.04',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  71 => 
+  array (
+    0 => 'Phoenix',
+    1 => 'AZ',
+    2 => '33.59',
+    3 => '-112.11',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  72 => 
+  array (
+    0 => 'Phoenix',
+    1 => 'AZ',
+    2 => '33.45',
+    3 => '-112.01',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  73 => 
+  array (
+    0 => 'Phoenix',
+    1 => 'AZ',
+    2 => '33.44',
+    3 => '-112.07',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  74 => 
+  array (
+    0 => 'Phoenix',
+    1 => 'AZ',
+    2 => '33.45',
+    3 => '-112.09',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  75 => 
+  array (
+    0 => 'Phoenix',
+    1 => 'AZ',
+    2 => '33.49',
+    3 => '-112.21',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  76 => 
+  array (
+    0 => 'Phoenix',
+    1 => 'AZ',
+    2 => '33.32',
+    3 => '-111.99',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  77 => 
+  array (
+    0 => 'Phoenix',
+    1 => 'AZ',
+    2 => '33.45',
+    3 => '-111.97',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  78 => 
+  array (
+    0 => 'Phoenix',
+    1 => 'AZ',
+    2 => '33.62',
+    3 => '-112',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  79 => 
+  array (
+    0 => 'Phoenix',
+    1 => 'AZ',
+    2 => '33.5',
+    3 => '-112.11',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  80 => 
+  array (
+    0 => 'Phoenix',
+    1 => 'AZ',
+    2 => '33.63',
+    3 => '-112.11',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  82 => 
+  array (
+    0 => 'Phoenix',
+    1 => 'AZ',
+    2 => '33.46',
+    3 => '-111.98',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  83 => 
+  array (
+    0 => 'Phoenix',
+    1 => 'AZ',
+    2 => '33.73',
+    3 => '-112.14',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  85 => 
+  array (
+    0 => 'Phoenix',
+    1 => 'AZ',
+    2 => '33.75',
+    3 => '-112.14',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  86 => 
+  array (
+    0 => 'Phoenix',
+    1 => 'AZ',
+    2 => '33.83',
+    3 => '-112.11',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  87 => 
+  array (
+    0 => 'New River',
+    1 => 'AZ',
+    2 => '33.95',
+    3 => '-112.07',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  96 => 
+  array (
+    0 => 'Phoenix',
+    1 => 'AZ',
+    2 => '33.44',
+    3 => '-112.09',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  97 => 
+  array (
+    0 => 'Phoenix',
+    1 => 'AZ',
+    2 => '33.43',
+    3 => '-112.15',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  98 => 
+  array (
+    0 => 'Phoenix',
+    1 => 'AZ',
+    2 => '33.44',
+    3 => '-112.12',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+  99 => 
+  array (
+    0 => 'Phoenix',
+    1 => 'AZ',
+    2 => '33.45',
+    3 => '-111.97',
+    4 => -7,
+    5 => 'America/Phoenix',
+  ),
+);

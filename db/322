@@ -1,0 +1,506 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Jacksonville',
+    1 => 'FL',
+    2 => '30.33',
+    3 => '-81.65',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '02' => 
+  array (
+    0 => 'Jacksonville',
+    1 => 'FL',
+    2 => '30.33',
+    3 => '-81.65',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '03' => 
+  array (
+    0 => 'Jacksonville',
+    1 => 'FL',
+    2 => '30.33',
+    3 => '-81.65',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '04' => 
+  array (
+    0 => 'Jacksonville',
+    1 => 'FL',
+    2 => '30.33',
+    3 => '-81.65',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '05' => 
+  array (
+    0 => 'Jacksonville',
+    1 => 'FL',
+    2 => '30.33',
+    3 => '-81.65',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '06' => 
+  array (
+    0 => 'Jacksonville',
+    1 => 'FL',
+    2 => '30.33',
+    3 => '-81.65',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '07' => 
+  array (
+    0 => 'Jacksonville',
+    1 => 'FL',
+    2 => '30.33',
+    3 => '-81.65',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '08' => 
+  array (
+    0 => 'Jacksonville',
+    1 => 'FL',
+    2 => '30.33',
+    3 => '-81.65',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '09' => 
+  array (
+    0 => 'Jacksonville',
+    1 => 'FL',
+    2 => '30.33',
+    3 => '-81.65',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  10 => 
+  array (
+    0 => 'Jacksonville',
+    1 => 'FL',
+    2 => '30.33',
+    3 => '-81.65',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  11 => 
+  array (
+    0 => 'Jacksonville',
+    1 => 'FL',
+    2 => '30.33',
+    3 => '-81.65',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  12 => 
+  array (
+    0 => 'Jacksonville',
+    1 => 'FL',
+    2 => '30.33',
+    3 => '-81.65',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  14 => 
+  array (
+    0 => 'Jacksonville',
+    1 => 'FL',
+    2 => '30.33',
+    3 => '-81.65',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  15 => 
+  array (
+    0 => 'Jacksonville',
+    1 => 'FL',
+    2 => '30.33',
+    3 => '-81.65',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  16 => 
+  array (
+    0 => 'Jacksonville',
+    1 => 'FL',
+    2 => '30.33',
+    3 => '-81.65',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  17 => 
+  array (
+    0 => 'Jacksonville',
+    1 => 'FL',
+    2 => '30.33',
+    3 => '-81.65',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  18 => 
+  array (
+    0 => 'Jacksonville',
+    1 => 'FL',
+    2 => '30.33',
+    3 => '-81.65',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  19 => 
+  array (
+    0 => 'Jacksonville',
+    1 => 'FL',
+    2 => '30.33',
+    3 => '-81.65',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  20 => 
+  array (
+    0 => 'Jacksonville',
+    1 => 'FL',
+    2 => '30.33',
+    3 => '-81.65',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  21 => 
+  array (
+    0 => 'Jacksonville',
+    1 => 'FL',
+    2 => '30.33',
+    3 => '-81.65',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  22 => 
+  array (
+    0 => 'Jacksonville',
+    1 => 'FL',
+    2 => '30.33',
+    3 => '-81.65',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  23 => 
+  array (
+    0 => 'Jacksonville',
+    1 => 'FL',
+    2 => '30.33',
+    3 => '-81.65',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  24 => 
+  array (
+    0 => 'Jacksonville',
+    1 => 'FL',
+    2 => '30.33',
+    3 => '-81.65',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  25 => 
+  array (
+    0 => 'Jacksonville',
+    1 => 'FL',
+    2 => '30.33',
+    3 => '-81.65',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  26 => 
+  array (
+    0 => 'Jacksonville',
+    1 => 'FL',
+    2 => '30.33',
+    3 => '-81.65',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  27 => 
+  array (
+    0 => 'Jacksonville',
+    1 => 'FL',
+    2 => '30.33',
+    3 => '-81.65',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  28 => 
+  array (
+    0 => 'Jacksonville',
+    1 => 'FL',
+    2 => '30.33',
+    3 => '-81.65',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  29 => 
+  array (
+    0 => 'Jacksonville',
+    1 => 'FL',
+    2 => '30.33',
+    3 => '-81.65',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  30 => 
+  array (
+    0 => 'Jacksonville',
+    1 => 'FL',
+    2 => '30.33',
+    3 => '-81.65',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  31 => 
+  array (
+    0 => 'Jacksonville',
+    1 => 'FL',
+    2 => '30.33',
+    3 => '-81.65',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  32 => 
+  array (
+    0 => 'Jacksonville',
+    1 => 'FL',
+    2 => '30.33',
+    3 => '-81.65',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  33 => 
+  array (
+    0 => 'Atlantic Beach',
+    1 => 'FL',
+    2 => '30.33',
+    3 => '-81.4',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  34 => 
+  array (
+    0 => 'Jacksonville',
+    1 => 'FL',
+    2 => '30.33',
+    3 => '-81.65',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  35 => 
+  array (
+    0 => 'Jacksonville',
+    1 => 'FL',
+    2 => '30.33',
+    3 => '-81.65',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  36 => 
+  array (
+    0 => 'Jacksonville',
+    1 => 'FL',
+    2 => '30.33',
+    3 => '-81.65',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  37 => 
+  array (
+    0 => 'Jacksonville',
+    1 => 'FL',
+    2 => '30.33',
+    3 => '-81.65',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  38 => 
+  array (
+    0 => 'Jacksonville',
+    1 => 'FL',
+    2 => '30.33',
+    3 => '-81.65',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  39 => 
+  array (
+    0 => 'Jacksonville',
+    1 => 'FL',
+    2 => '30.33',
+    3 => '-81.65',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  40 => 
+  array (
+    0 => 'Jacksonville Beach',
+    1 => 'FL',
+    2 => '30.29',
+    3 => '-81.39',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  41 => 
+  array (
+    0 => 'Jacksonville',
+    1 => 'FL',
+    2 => '30.33',
+    3 => '-81.65',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  44 => 
+  array (
+    0 => 'Jacksonville',
+    1 => 'FL',
+    2 => '30.33',
+    3 => '-81.65',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  45 => 
+  array (
+    0 => 'Jacksonville',
+    1 => 'FL',
+    2 => '30.33',
+    3 => '-81.65',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  46 => 
+  array (
+    0 => 'Jacksonville',
+    1 => 'FL',
+    2 => '30.33',
+    3 => '-81.65',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  47 => 
+  array (
+    0 => 'Jacksonville',
+    1 => 'FL',
+    2 => '30.33',
+    3 => '-81.65',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  50 => 
+  array (
+    0 => 'Jacksonville Beach',
+    1 => 'FL',
+    2 => '30.29',
+    3 => '-81.39',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  54 => 
+  array (
+    0 => 'Jacksonville',
+    1 => 'FL',
+    2 => '30.33',
+    3 => '-81.65',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  55 => 
+  array (
+    0 => 'Jacksonville',
+    1 => 'FL',
+    2 => '30.33',
+    3 => '-81.65',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  56 => 
+  array (
+    0 => 'Jacksonville',
+    1 => 'FL',
+    2 => '30.33',
+    3 => '-81.65',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  57 => 
+  array (
+    0 => 'Jacksonville',
+    1 => 'FL',
+    2 => '30.33',
+    3 => '-81.65',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  58 => 
+  array (
+    0 => 'Jacksonville',
+    1 => 'FL',
+    2 => '30.33',
+    3 => '-81.65',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  59 => 
+  array (
+    0 => 'Saint Johns',
+    1 => 'FL',
+    2 => '30.08',
+    3 => '-81.59',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  60 => 
+  array (
+    0 => 'Jacksonville',
+    1 => 'FL',
+    2 => '30.33',
+    3 => '-81.65',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  66 => 
+  array (
+    0 => 'Neptune Beach',
+    1 => 'FL',
+    2 => '30.31',
+    3 => '-81.39',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  67 => 
+  array (
+    0 => 'Jacksonville',
+    1 => 'FL',
+    2 => '30.38',
+    3 => '-81.41',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  77 => 
+  array (
+    0 => 'Jacksonville',
+    1 => 'FL',
+    2 => '30.33',
+    3 => '-81.65',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  90 => 
+  array (
+    0 => 'Jacksonville',
+    1 => 'FL',
+    2 => '30.33',
+    3 => '-81.65',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

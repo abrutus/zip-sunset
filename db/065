@@ -1,0 +1,299 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'New Haven',
+    1 => 'CT',
+    2 => '41.31',
+    3 => '-72.92',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '02' => 
+  array (
+    0 => 'New Haven',
+    1 => 'CT',
+    2 => '41.31',
+    3 => '-72.92',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '03' => 
+  array (
+    0 => 'New Haven',
+    1 => 'CT',
+    2 => '41.31',
+    3 => '-72.92',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '04' => 
+  array (
+    0 => 'New Haven',
+    1 => 'CT',
+    2 => '41.31',
+    3 => '-72.92',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '05' => 
+  array (
+    0 => 'New Haven',
+    1 => 'CT',
+    2 => '41.31',
+    3 => '-72.92',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '06' => 
+  array (
+    0 => 'New Haven',
+    1 => 'CT',
+    2 => '41.31',
+    3 => '-72.92',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '07' => 
+  array (
+    0 => 'New Haven',
+    1 => 'CT',
+    2 => '41.31',
+    3 => '-72.92',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '08' => 
+  array (
+    0 => 'New Haven',
+    1 => 'CT',
+    2 => '41.31',
+    3 => '-72.92',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '09' => 
+  array (
+    0 => 'New Haven',
+    1 => 'CT',
+    2 => '41.31',
+    3 => '-72.92',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  10 => 
+  array (
+    0 => 'New Haven',
+    1 => 'CT',
+    2 => '41.31',
+    3 => '-72.92',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  11 => 
+  array (
+    0 => 'New Haven',
+    1 => 'CT',
+    2 => '41.31',
+    3 => '-72.92',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  12 => 
+  array (
+    0 => 'East Haven',
+    1 => 'CT',
+    2 => '41.29',
+    3 => '-72.86',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  13 => 
+  array (
+    0 => 'New Haven',
+    1 => 'CT',
+    2 => '41.31',
+    3 => '-72.92',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  14 => 
+  array (
+    0 => 'Hamden',
+    1 => 'CT',
+    2 => '41.37',
+    3 => '-72.9',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  15 => 
+  array (
+    0 => 'New Haven',
+    1 => 'CT',
+    2 => '41.31',
+    3 => '-72.92',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  16 => 
+  array (
+    0 => 'West Haven',
+    1 => 'CT',
+    2 => '41.27',
+    3 => '-72.96',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  17 => 
+  array (
+    0 => 'Hamden',
+    1 => 'CT',
+    2 => '41.37',
+    3 => '-72.9',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  18 => 
+  array (
+    0 => 'Hamden',
+    1 => 'CT',
+    2 => '41.37',
+    3 => '-72.9',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  19 => 
+  array (
+    0 => 'New Haven',
+    1 => 'CT',
+    2 => '41.31',
+    3 => '-72.92',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  20 => 
+  array (
+    0 => 'New Haven',
+    1 => 'CT',
+    2 => '41.31',
+    3 => '-72.92',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  21 => 
+  array (
+    0 => 'New Haven',
+    1 => 'CT',
+    2 => '41.31',
+    3 => '-72.92',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  24 => 
+  array (
+    0 => 'Bethany',
+    1 => 'CT',
+    2 => '41.42',
+    3 => '-72.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  25 => 
+  array (
+    0 => 'Woodbridge',
+    1 => 'CT',
+    2 => '41.34',
+    3 => '-72.96',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  30 => 
+  array (
+    0 => 'New Haven',
+    1 => 'CT',
+    2 => '41.31',
+    3 => '-72.92',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  31 => 
+  array (
+    0 => 'New Haven',
+    1 => 'CT',
+    2 => '41.31',
+    3 => '-72.92',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  32 => 
+  array (
+    0 => 'New Haven',
+    1 => 'CT',
+    2 => '41.31',
+    3 => '-72.92',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  33 => 
+  array (
+    0 => 'New Haven',
+    1 => 'CT',
+    2 => '41.31',
+    3 => '-72.92',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  34 => 
+  array (
+    0 => 'New Haven',
+    1 => 'CT',
+    2 => '41.31',
+    3 => '-72.92',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  35 => 
+  array (
+    0 => 'New Haven',
+    1 => 'CT',
+    2 => '41.31',
+    3 => '-72.92',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  36 => 
+  array (
+    0 => 'New Haven',
+    1 => 'CT',
+    2 => '41.31',
+    3 => '-72.92',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  37 => 
+  array (
+    0 => 'New Haven',
+    1 => 'CT',
+    2 => '41.31',
+    3 => '-72.92',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  38 => 
+  array (
+    0 => 'New Haven',
+    1 => 'CT',
+    2 => '41.31',
+    3 => '-72.92',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  40 => 
+  array (
+    0 => 'New Haven',
+    1 => 'CT',
+    2 => '41.31',
+    3 => '-72.92',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

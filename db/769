@@ -1,0 +1,236 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'San Angelo',
+    1 => 'TX',
+    2 => '31.44',
+    3 => '-100.45',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '02' => 
+  array (
+    0 => 'San Angelo',
+    1 => 'TX',
+    2 => '31.44',
+    3 => '-100.45',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '03' => 
+  array (
+    0 => 'San Angelo',
+    1 => 'TX',
+    2 => '31.44',
+    3 => '-100.45',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '04' => 
+  array (
+    0 => 'San Angelo',
+    1 => 'TX',
+    2 => '31.44',
+    3 => '-100.45',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '05' => 
+  array (
+    0 => 'San Angelo',
+    1 => 'TX',
+    2 => '31.44',
+    3 => '-100.45',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '06' => 
+  array (
+    0 => 'San Angelo',
+    1 => 'TX',
+    2 => '31.44',
+    3 => '-100.45',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '08' => 
+  array (
+    0 => 'Goodfellow Afb',
+    1 => 'TX',
+    2 => '31.43',
+    3 => '-100.4',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '09' => 
+  array (
+    0 => 'San Angelo',
+    1 => 'TX',
+    2 => '31.44',
+    3 => '-100.45',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  30 => 
+  array (
+    0 => 'Barnhart',
+    1 => 'TX',
+    2 => '31.12',
+    3 => '-101.17',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  32 => 
+  array (
+    0 => 'Big Lake',
+    1 => 'TX',
+    2 => '31.19',
+    3 => '-101.45',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  33 => 
+  array (
+    0 => 'Bronte',
+    1 => 'TX',
+    2 => '31.88',
+    3 => '-100.29',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  34 => 
+  array (
+    0 => 'Carlsbad',
+    1 => 'TX',
+    2 => '31.59',
+    3 => '-100.63',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  35 => 
+  array (
+    0 => 'Christoval',
+    1 => 'TX',
+    2 => '31.19',
+    3 => '-100.49',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  36 => 
+  array (
+    0 => 'Eldorado',
+    1 => 'TX',
+    2 => '30.86',
+    3 => '-100.59',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  37 => 
+  array (
+    0 => 'Eola',
+    1 => 'TX',
+    2 => '31.39',
+    3 => '-100.08',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  39 => 
+  array (
+    0 => 'Knickerbocker',
+    1 => 'TX',
+    2 => '31.26',
+    3 => '-100.62',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  40 => 
+  array (
+    0 => 'Mereta',
+    1 => 'TX',
+    2 => '31.45',
+    3 => '-100.14',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  41 => 
+  array (
+    0 => 'Mertzon',
+    1 => 'TX',
+    2 => '31.26',
+    3 => '-100.82',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  45 => 
+  array (
+    0 => 'Robert Lee',
+    1 => 'TX',
+    2 => '31.89',
+    3 => '-100.48',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  49 => 
+  array (
+    0 => 'Silver',
+    1 => 'TX',
+    2 => '32.07',
+    3 => '-100.68',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  50 => 
+  array (
+    0 => 'Sonora',
+    1 => 'TX',
+    2 => '30.57',
+    3 => '-100.64',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  51 => 
+  array (
+    0 => 'Sterling City',
+    1 => 'TX',
+    2 => '31.83',
+    3 => '-100.98',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  53 => 
+  array (
+    0 => 'Tennyson',
+    1 => 'TX',
+    2 => '31.74',
+    3 => '-100.28',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  55 => 
+  array (
+    0 => 'Vancourt',
+    1 => 'TX',
+    2 => '31.34',
+    3 => '-100.17',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  57 => 
+  array (
+    0 => 'Wall',
+    1 => 'TX',
+    2 => '31.37',
+    3 => '-100.3',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  58 => 
+  array (
+    0 => 'Water Valley',
+    1 => 'TX',
+    2 => '31.66',
+    3 => '-100.71',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+);

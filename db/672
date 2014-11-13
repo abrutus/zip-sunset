@@ -1,0 +1,299 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Wichita',
+    1 => 'KS',
+    2 => '37.68',
+    3 => '-97.34',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '02' => 
+  array (
+    0 => 'Wichita',
+    1 => 'KS',
+    2 => '37.68',
+    3 => '-97.34',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '03' => 
+  array (
+    0 => 'Wichita',
+    1 => 'KS',
+    2 => '37.68',
+    3 => '-97.34',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '04' => 
+  array (
+    0 => 'Wichita',
+    1 => 'KS',
+    2 => '37.68',
+    3 => '-97.34',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '05' => 
+  array (
+    0 => 'Wichita',
+    1 => 'KS',
+    2 => '37.68',
+    3 => '-97.34',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '06' => 
+  array (
+    0 => 'Wichita',
+    1 => 'KS',
+    2 => '37.68',
+    3 => '-97.34',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '07' => 
+  array (
+    0 => 'Wichita',
+    1 => 'KS',
+    2 => '37.68',
+    3 => '-97.34',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '08' => 
+  array (
+    0 => 'Wichita',
+    1 => 'KS',
+    2 => '37.68',
+    3 => '-97.34',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '09' => 
+  array (
+    0 => 'Wichita',
+    1 => 'KS',
+    2 => '37.68',
+    3 => '-97.34',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  10 => 
+  array (
+    0 => 'Wichita',
+    1 => 'KS',
+    2 => '37.68',
+    3 => '-97.34',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  11 => 
+  array (
+    0 => 'Wichita',
+    1 => 'KS',
+    2 => '37.68',
+    3 => '-97.34',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  12 => 
+  array (
+    0 => 'Wichita',
+    1 => 'KS',
+    2 => '37.68',
+    3 => '-97.34',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  13 => 
+  array (
+    0 => 'Wichita',
+    1 => 'KS',
+    2 => '37.68',
+    3 => '-97.34',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  14 => 
+  array (
+    0 => 'Wichita',
+    1 => 'KS',
+    2 => '37.68',
+    3 => '-97.34',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  15 => 
+  array (
+    0 => 'Wichita',
+    1 => 'KS',
+    2 => '37.68',
+    3 => '-97.34',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  16 => 
+  array (
+    0 => 'Wichita',
+    1 => 'KS',
+    2 => '37.68',
+    3 => '-97.34',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  17 => 
+  array (
+    0 => 'Wichita',
+    1 => 'KS',
+    2 => '37.68',
+    3 => '-97.34',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  18 => 
+  array (
+    0 => 'Wichita',
+    1 => 'KS',
+    2 => '37.68',
+    3 => '-97.34',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  19 => 
+  array (
+    0 => 'Wichita',
+    1 => 'KS',
+    2 => '37.68',
+    3 => '-97.34',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  20 => 
+  array (
+    0 => 'Wichita',
+    1 => 'KS',
+    2 => '37.68',
+    3 => '-97.34',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  21 => 
+  array (
+    0 => 'Mcconnell Afb',
+    1 => 'KS',
+    2 => '37.62',
+    3 => '-97.27',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  23 => 
+  array (
+    0 => 'Wichita',
+    1 => 'KS',
+    2 => '37.68',
+    3 => '-97.34',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  26 => 
+  array (
+    0 => 'Wichita',
+    1 => 'KS',
+    2 => '37.68',
+    3 => '-97.34',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  27 => 
+  array (
+    0 => 'Wichita',
+    1 => 'KS',
+    2 => '37.68',
+    3 => '-97.34',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  28 => 
+  array (
+    0 => 'Wichita',
+    1 => 'KS',
+    2 => '37.68',
+    3 => '-97.34',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  30 => 
+  array (
+    0 => 'Wichita',
+    1 => 'KS',
+    2 => '37.68',
+    3 => '-97.34',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  32 => 
+  array (
+    0 => 'Wichita',
+    1 => 'KS',
+    2 => '37.68',
+    3 => '-97.34',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  35 => 
+  array (
+    0 => 'Wichita',
+    1 => 'KS',
+    2 => '37.68',
+    3 => '-97.34',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  60 => 
+  array (
+    0 => 'Wichita',
+    1 => 'KS',
+    2 => '37.68',
+    3 => '-97.34',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  75 => 
+  array (
+    0 => 'Wichita',
+    1 => 'KS',
+    2 => '37.68',
+    3 => '-97.34',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  76 => 
+  array (
+    0 => 'Wichita',
+    1 => 'KS',
+    2 => '37.68',
+    3 => '-97.34',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  77 => 
+  array (
+    0 => 'Wichita',
+    1 => 'KS',
+    2 => '37.68',
+    3 => '-97.34',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  78 => 
+  array (
+    0 => 'Wichita',
+    1 => 'KS',
+    2 => '37.68',
+    3 => '-97.34',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+);

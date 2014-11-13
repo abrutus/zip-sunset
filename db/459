@@ -1,0 +1,11 @@
+<?php $db= array (
+  99 => 
+  array (
+    0 => 'Cincinnati',
+    1 => 'OH',
+    2 => '39.09',
+    3 => '-84.51',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

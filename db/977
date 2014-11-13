@@ -1,0 +1,290 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Bend',
+    1 => 'OR',
+    2 => '44.07',
+    3 => '-121.25',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '02' => 
+  array (
+    0 => 'Bend',
+    1 => 'OR',
+    2 => '43.98',
+    3 => '-121.27',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '07' => 
+  array (
+    0 => 'Bend',
+    1 => 'OR',
+    2 => '43.83',
+    3 => '-121.49',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '08' => 
+  array (
+    0 => 'Bend',
+    1 => 'OR',
+    2 => '44.07',
+    3 => '-121.3',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '09' => 
+  array (
+    0 => 'Bend',
+    1 => 'OR',
+    2 => '44.06',
+    3 => '-121.31',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  10 => 
+  array (
+    0 => 'Fields',
+    1 => 'OR',
+    2 => '42.17',
+    3 => '-118.36',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  11 => 
+  array (
+    0 => 'Ashwood',
+    1 => 'OR',
+    2 => '44.7',
+    3 => '-120.72',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  12 => 
+  array (
+    0 => 'Brothers',
+    1 => 'OR',
+    2 => '43.74',
+    3 => '-120.38',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  20 => 
+  array (
+    0 => 'Burns',
+    1 => 'OR',
+    2 => '43.59',
+    3 => '-118.89',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  21 => 
+  array (
+    0 => 'Princeton',
+    1 => 'OR',
+    2 => '42.86',
+    3 => '-118.42',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  22 => 
+  array (
+    0 => 'Diamond',
+    1 => 'OR',
+    2 => '42.91',
+    3 => '-118.65',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  30 => 
+  array (
+    0 => 'Camp Sherman',
+    1 => 'OR',
+    2 => '44.47',
+    3 => '-121.64',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  31 => 
+  array (
+    0 => 'Chemult',
+    1 => 'OR',
+    2 => '43.23',
+    3 => '-121.91',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  32 => 
+  array (
+    0 => 'Crane',
+    1 => 'OR',
+    2 => '43.4',
+    3 => '-118.4',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  33 => 
+  array (
+    0 => 'Crescent',
+    1 => 'OR',
+    2 => '43.42',
+    3 => '-121.68',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  34 => 
+  array (
+    0 => 'Culver',
+    1 => 'OR',
+    2 => '44.47',
+    3 => '-121.18',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  35 => 
+  array (
+    0 => 'Fort Rock',
+    1 => 'OR',
+    2 => '43.32',
+    3 => '-121.03',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  36 => 
+  array (
+    0 => 'Frenchglen',
+    1 => 'OR',
+    2 => '42.72',
+    3 => '-119.12',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  37 => 
+  array (
+    0 => 'Gilchrist',
+    1 => 'OR',
+    2 => '43.51',
+    3 => '-121.64',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  38 => 
+  array (
+    0 => 'Hines',
+    1 => 'OR',
+    2 => '43.44',
+    3 => '-119.23',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  39 => 
+  array (
+    0 => 'La Pine',
+    1 => 'OR',
+    2 => '43.69',
+    3 => '-121.14',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  41 => 
+  array (
+    0 => 'Madras',
+    1 => 'OR',
+    2 => '44.6',
+    3 => '-121.05',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  50 => 
+  array (
+    0 => 'Mitchell',
+    1 => 'OR',
+    2 => '44.66',
+    3 => '-119.78',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  51 => 
+  array (
+    0 => 'Paulina',
+    1 => 'OR',
+    2 => '44.11',
+    3 => '-119.79',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  52 => 
+  array (
+    0 => 'Post',
+    1 => 'OR',
+    2 => '44.05',
+    3 => '-120.09',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  53 => 
+  array (
+    0 => 'Powell Butte',
+    1 => 'OR',
+    2 => '44.23',
+    3 => '-121.01',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  54 => 
+  array (
+    0 => 'Prineville',
+    1 => 'OR',
+    2 => '44.1',
+    3 => '-120.66',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  56 => 
+  array (
+    0 => 'Redmond',
+    1 => 'OR',
+    2 => '44.26',
+    3 => '-121.22',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  58 => 
+  array (
+    0 => 'Riley',
+    1 => 'OR',
+    2 => '43.58',
+    3 => '-119.57',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  59 => 
+  array (
+    0 => 'Sisters',
+    1 => 'OR',
+    2 => '44.41',
+    3 => '-121.92',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  60 => 
+  array (
+    0 => 'Terrebonne',
+    1 => 'OR',
+    2 => '44.41',
+    3 => '-121.29',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  61 => 
+  array (
+    0 => 'Warm Springs',
+    1 => 'OR',
+    2 => '44.82',
+    3 => '-121.31',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+);

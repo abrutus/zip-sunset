@@ -1,0 +1,164 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Bellows Falls',
+    1 => 'VT',
+    2 => '43.13',
+    3 => '-72.45',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  41 => 
+  array (
+    0 => 'Cambridgeport',
+    1 => 'VT',
+    2 => '43.15',
+    3 => '-72.56',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  42 => 
+  array (
+    0 => 'Cavendish',
+    1 => 'VT',
+    2 => '43.38',
+    3 => '-72.62',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  43 => 
+  array (
+    0 => 'Chester',
+    1 => 'VT',
+    2 => '43.26',
+    3 => '-72.59',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  44 => 
+  array (
+    0 => 'Chester Depot',
+    1 => 'VT',
+    2 => '43.28',
+    3 => '-72.63',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  46 => 
+  array (
+    0 => 'Grafton',
+    1 => 'VT',
+    2 => '43.16',
+    3 => '-72.61',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  48 => 
+  array (
+    0 => 'Londonderry',
+    1 => 'VT',
+    2 => '43.22',
+    3 => '-72.8',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  49 => 
+  array (
+    0 => 'Ludlow',
+    1 => 'VT',
+    2 => '43.39',
+    3 => '-72.69',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  50 => 
+  array (
+    0 => 'North Springfield',
+    1 => 'VT',
+    2 => '43.33',
+    3 => '-72.52',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  51 => 
+  array (
+    0 => 'Perkinsville',
+    1 => 'VT',
+    2 => '43.36',
+    3 => '-72.51',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  52 => 
+  array (
+    0 => 'Peru',
+    1 => 'VT',
+    2 => '43.23',
+    3 => '-72.89',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  53 => 
+  array (
+    0 => 'Proctorsville',
+    1 => 'VT',
+    2 => '43.41',
+    3 => '-72.6',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  54 => 
+  array (
+    0 => 'Saxtons River',
+    1 => 'VT',
+    2 => '43.13',
+    3 => '-72.51',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  55 => 
+  array (
+    0 => 'South Londonderry',
+    1 => 'VT',
+    2 => '43.18',
+    3 => '-72.79',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  56 => 
+  array (
+    0 => 'Springfield',
+    1 => 'VT',
+    2 => '43.28',
+    3 => '-72.47',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  58 => 
+  array (
+    0 => 'Westminster',
+    1 => 'VT',
+    2 => '43.07',
+    3 => '-72.45',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  59 => 
+  array (
+    0 => 'Westminster Station',
+    1 => 'VT',
+    2 => '43.04',
+    3 => '-72.48',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  61 => 
+  array (
+    0 => 'Weston',
+    1 => 'VT',
+    2 => '43.28',
+    3 => '-72.8',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

@@ -1,0 +1,92 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Riverton',
+    1 => 'WY',
+    2 => '43.03',
+    3 => '-108.41',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  10 => 
+  array (
+    0 => 'Arapahoe',
+    1 => 'WY',
+    2 => '42.97',
+    3 => '-108.47',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  12 => 
+  array (
+    0 => 'Crowheart',
+    1 => 'WY',
+    2 => '43.31',
+    3 => '-109.19',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  13 => 
+  array (
+    0 => 'Dubois',
+    1 => 'WY',
+    2 => '43.53',
+    3 => '-109.64',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  14 => 
+  array (
+    0 => 'Fort Washakie',
+    1 => 'WY',
+    2 => '43',
+    3 => '-108.92',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  15 => 
+  array (
+    0 => 'Hudson',
+    1 => 'WY',
+    2 => '42.9',
+    3 => '-108.58',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  16 => 
+  array (
+    0 => 'Kinnear',
+    1 => 'WY',
+    2 => '43.15',
+    3 => '-108.68',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  20 => 
+  array (
+    0 => 'Lander',
+    1 => 'WY',
+    2 => '42.83',
+    3 => '-108.72',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  23 => 
+  array (
+    0 => 'Pavillion',
+    1 => 'WY',
+    2 => '43.24',
+    3 => '-108.69',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  24 => 
+  array (
+    0 => 'Saint Stephens',
+    1 => 'WY',
+    2 => '42.95',
+    3 => '-108.19',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+);

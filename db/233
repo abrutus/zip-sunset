@@ -1,0 +1,344 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Accomac',
+    1 => 'VA',
+    2 => '37.71',
+    3 => '-75.66',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '02' => 
+  array (
+    0 => 'Assawoman',
+    1 => 'VA',
+    2 => '37.87',
+    3 => '-75.52',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '03' => 
+  array (
+    0 => 'Atlantic',
+    1 => 'VA',
+    2 => '37.9',
+    3 => '-75.5',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '04' => 
+  array (
+    0 => 'Battery Park',
+    1 => 'VA',
+    2 => '36.96',
+    3 => '-76.6',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '06' => 
+  array (
+    0 => 'Belle Haven',
+    1 => 'VA',
+    2 => '37.55',
+    3 => '-75.81',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '07' => 
+  array (
+    0 => 'Birdsnest',
+    1 => 'VA',
+    2 => '37.43',
+    3 => '-75.88',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '08' => 
+  array (
+    0 => 'Bloxom',
+    1 => 'VA',
+    2 => '37.83',
+    3 => '-75.62',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  10 => 
+  array (
+    0 => 'Cape Charles',
+    1 => 'VA',
+    2 => '37.27',
+    3 => '-76.01',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  13 => 
+  array (
+    0 => 'Capeville',
+    1 => 'VA',
+    2 => '37.2',
+    3 => '-75.95',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  14 => 
+  array (
+    0 => 'Carrollton',
+    1 => 'VA',
+    2 => '36.94',
+    3 => '-76.56',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  15 => 
+  array (
+    0 => 'Carrsville',
+    1 => 'VA',
+    2 => '36.71',
+    3 => '-76.82',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  16 => 
+  array (
+    0 => 'Cheriton',
+    1 => 'VA',
+    2 => '37.28',
+    3 => '-75.96',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  20 => 
+  array (
+    0 => 'Chesapeake',
+    1 => 'VA',
+    2 => '36.67',
+    3 => '-76.3',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  21 => 
+  array (
+    0 => 'Chesapeake',
+    1 => 'VA',
+    2 => '36.67',
+    3 => '-76.3',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  22 => 
+  array (
+    0 => 'Chesapeake',
+    1 => 'VA',
+    2 => '36.67',
+    3 => '-76.3',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  23 => 
+  array (
+    0 => 'Chesapeake',
+    1 => 'VA',
+    2 => '36.67',
+    3 => '-76.3',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  24 => 
+  array (
+    0 => 'Chesapeake',
+    1 => 'VA',
+    2 => '36.67',
+    3 => '-76.3',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  25 => 
+  array (
+    0 => 'Chesapeake',
+    1 => 'VA',
+    2 => '36.67',
+    3 => '-76.3',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  26 => 
+  array (
+    0 => 'Chesapeake',
+    1 => 'VA',
+    2 => '36.67',
+    3 => '-76.3',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  27 => 
+  array (
+    0 => 'Chesapeake',
+    1 => 'VA',
+    2 => '36.67',
+    3 => '-76.3',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  28 => 
+  array (
+    0 => 'Chesapeake',
+    1 => 'VA',
+    2 => '36.67',
+    3 => '-76.3',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  36 => 
+  array (
+    0 => 'Chincoteague Island',
+    1 => 'VA',
+    2 => '37.92',
+    3 => '-75.32',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  37 => 
+  array (
+    0 => 'Wallops Island',
+    1 => 'VA',
+    2 => '37.84',
+    3 => '-75.47',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  41 => 
+  array (
+    0 => 'Craddockville',
+    1 => 'VA',
+    2 => '37.6',
+    3 => '-75.86',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  45 => 
+  array (
+    0 => 'Davis Wharf',
+    1 => 'VA',
+    2 => '37.56',
+    3 => '-75.88',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  47 => 
+  array (
+    0 => 'Eastville',
+    1 => 'VA',
+    2 => '37.35',
+    3 => '-75.94',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  50 => 
+  array (
+    0 => 'Exmore',
+    1 => 'VA',
+    2 => '37.53',
+    3 => '-75.82',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  54 => 
+  array (
+    0 => 'Franktown',
+    1 => 'VA',
+    2 => '37.47',
+    3 => '-75.87',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  56 => 
+  array (
+    0 => 'Greenbackville',
+    1 => 'VA',
+    2 => '38',
+    3 => '-75.41',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  57 => 
+  array (
+    0 => 'Greenbush',
+    1 => 'VA',
+    2 => '37.76',
+    3 => '-75.67',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  58 => 
+  array (
+    0 => 'Hacksneck',
+    1 => 'VA',
+    2 => '37.63',
+    3 => '-75.84',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  59 => 
+  array (
+    0 => 'Hallwood',
+    1 => 'VA',
+    2 => '37.87',
+    3 => '-75.58',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  89 => 
+  array (
+    0 => 'Harborton',
+    1 => 'VA',
+    2 => '37.66',
+    3 => '-75.84',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  95 => 
+  array (
+    0 => 'Horntown',
+    1 => 'VA',
+    2 => '37.97',
+    3 => '-75.46',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  96 => 
+  array (
+    0 => 'Oak Hall',
+    1 => 'VA',
+    2 => '37.93',
+    3 => '-75.54',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  97 => 
+  array (
+    0 => 'Isle Of Wight',
+    1 => 'VA',
+    2 => '36.9',
+    3 => '-76.7',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  98 => 
+  array (
+    0 => 'Jamesville',
+    1 => 'VA',
+    2 => '37.51',
+    3 => '-75.93',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  99 => 
+  array (
+    0 => 'Jenkins Bridge',
+    1 => 'VA',
+    2 => '37.91',
+    3 => '-75.63',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

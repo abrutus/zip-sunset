@@ -1,0 +1,317 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Mission',
+    1 => 'KS',
+    2 => '38.9',
+    3 => '-94.68',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '02' => 
+  array (
+    0 => 'Mission',
+    1 => 'KS',
+    2 => '38.9',
+    3 => '-94.68',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '03' => 
+  array (
+    0 => 'Shawnee',
+    1 => 'KS',
+    2 => '38.9',
+    3 => '-94.68',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '04' => 
+  array (
+    0 => 'Overland Park',
+    1 => 'KS',
+    2 => '38.9',
+    3 => '-94.68',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '05' => 
+  array (
+    0 => 'Mission',
+    1 => 'KS',
+    2 => '38.9',
+    3 => '-94.68',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '06' => 
+  array (
+    0 => 'Leawood',
+    1 => 'KS',
+    2 => '38.9',
+    3 => '-94.68',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '07' => 
+  array (
+    0 => 'Overland Park',
+    1 => 'KS',
+    2 => '38.9',
+    3 => '-94.68',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '08' => 
+  array (
+    0 => 'Prairie Village',
+    1 => 'KS',
+    2 => '38.9',
+    3 => '-94.68',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  '09' => 
+  array (
+    0 => 'Leawood',
+    1 => 'KS',
+    2 => '38.9',
+    3 => '-94.68',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  10 => 
+  array (
+    0 => 'Overland Park',
+    1 => 'KS',
+    2 => '38.9',
+    3 => '-94.68',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  11 => 
+  array (
+    0 => 'Leawood',
+    1 => 'KS',
+    2 => '38.9',
+    3 => '-94.68',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  12 => 
+  array (
+    0 => 'Overland Park',
+    1 => 'KS',
+    2 => '38.9',
+    3 => '-94.68',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  13 => 
+  array (
+    0 => 'Overland Park',
+    1 => 'KS',
+    2 => '38.9',
+    3 => '-94.68',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  14 => 
+  array (
+    0 => 'Overland Park',
+    1 => 'KS',
+    2 => '38.9',
+    3 => '-94.68',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  15 => 
+  array (
+    0 => 'Lenexa',
+    1 => 'KS',
+    2 => '38.9',
+    3 => '-94.68',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  16 => 
+  array (
+    0 => 'Shawnee',
+    1 => 'KS',
+    2 => '38.9',
+    3 => '-94.68',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  17 => 
+  array (
+    0 => 'Shawnee',
+    1 => 'KS',
+    2 => '38.9',
+    3 => '-94.68',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  18 => 
+  array (
+    0 => 'Shawnee',
+    1 => 'KS',
+    2 => '38.9',
+    3 => '-94.68',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  19 => 
+  array (
+    0 => 'Lenexa',
+    1 => 'KS',
+    2 => '38.9',
+    3 => '-94.68',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  20 => 
+  array (
+    0 => 'Lenexa',
+    1 => 'KS',
+    2 => '38.9',
+    3 => '-94.68',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  21 => 
+  array (
+    0 => 'Overland Park',
+    1 => 'KS',
+    2 => '38.9',
+    3 => '-94.68',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  22 => 
+  array (
+    0 => 'Mission',
+    1 => 'KS',
+    2 => '38.9',
+    3 => '-94.68',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  23 => 
+  array (
+    0 => 'Overland Park',
+    1 => 'KS',
+    2 => '38.9',
+    3 => '-94.68',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  24 => 
+  array (
+    0 => 'Overland Park',
+    1 => 'KS',
+    2 => '38.9',
+    3 => '-94.68',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  25 => 
+  array (
+    0 => 'Overland Park',
+    1 => 'KS',
+    2 => '38.9',
+    3 => '-94.68',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  26 => 
+  array (
+    0 => 'Shawnee',
+    1 => 'KS',
+    2 => '38.9',
+    3 => '-94.68',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  27 => 
+  array (
+    0 => 'Lenexa',
+    1 => 'KS',
+    2 => '38.9',
+    3 => '-94.68',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  50 => 
+  array (
+    0 => 'Shawnee Mission',
+    1 => 'KS',
+    2 => '38.9',
+    3 => '-94.68',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  51 => 
+  array (
+    0 => 'Overland Park',
+    1 => 'KS',
+    2 => '38.9',
+    3 => '-94.68',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  76 => 
+  array (
+    0 => 'Shawnee Mission',
+    1 => 'KS',
+    2 => '38.9',
+    3 => '-94.68',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  79 => 
+  array (
+    0 => 'Shawnee Mission',
+    1 => 'KS',
+    2 => '39.01',
+    3 => '-94.66',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  82 => 
+  array (
+    0 => 'Overland Park',
+    1 => 'KS',
+    2 => '38.9',
+    3 => '-94.68',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  83 => 
+  array (
+    0 => 'Overland Park',
+    1 => 'KS',
+    2 => '38.9',
+    3 => '-94.68',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  85 => 
+  array (
+    0 => 'Lenexa',
+    1 => 'KS',
+    2 => '38.9',
+    3 => '-94.68',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+  86 => 
+  array (
+    0 => 'Shawnee',
+    1 => 'KS',
+    2 => '38.9',
+    3 => '-94.68',
+    4 => -6,
+    5 => 'America/Chicago',
+  ),
+);

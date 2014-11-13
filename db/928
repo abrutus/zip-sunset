@@ -1,0 +1,551 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Anaheim',
+    1 => 'CA',
+    2 => '33.84',
+    3 => '-117.95',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '02' => 
+  array (
+    0 => 'Anaheim',
+    1 => 'CA',
+    2 => '33.81',
+    3 => '-117.91',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '03' => 
+  array (
+    0 => 'Anaheim',
+    1 => 'CA',
+    2 => '33.84',
+    3 => '-117.93',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '04' => 
+  array (
+    0 => 'Anaheim',
+    1 => 'CA',
+    2 => '33.81',
+    3 => '-117.97',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '05' => 
+  array (
+    0 => 'Anaheim',
+    1 => 'CA',
+    2 => '33.82',
+    3 => '-117.91',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '06' => 
+  array (
+    0 => 'Anaheim',
+    1 => 'CA',
+    2 => '33.83',
+    3 => '-117.86',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '07' => 
+  array (
+    0 => 'Anaheim',
+    1 => 'CA',
+    2 => '33.85',
+    3 => '-117.79',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '08' => 
+  array (
+    0 => 'Anaheim',
+    1 => 'CA',
+    2 => '33.84',
+    3 => '-117.73',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '09' => 
+  array (
+    0 => 'Anaheim',
+    1 => 'CA',
+    2 => '33.86',
+    3 => '-117.74',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  11 => 
+  array (
+    0 => 'Atwood',
+    1 => 'CA',
+    2 => '33.86',
+    3 => '-117.83',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  12 => 
+  array (
+    0 => 'Anaheim',
+    1 => 'CA',
+    2 => '33.81',
+    3 => '-117.92',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  14 => 
+  array (
+    0 => 'Anaheim',
+    1 => 'CA',
+    2 => '33.81',
+    3 => '-117.96',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  15 => 
+  array (
+    0 => 'Anaheim',
+    1 => 'CA',
+    2 => '33.83',
+    3 => '-117.91',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  16 => 
+  array (
+    0 => 'Anaheim',
+    1 => 'CA',
+    2 => '33.83',
+    3 => '-117.88',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  17 => 
+  array (
+    0 => 'Anaheim',
+    1 => 'CA',
+    2 => '33.85',
+    3 => '-117.79',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  21 => 
+  array (
+    0 => 'Brea',
+    1 => 'CA',
+    2 => '33.92',
+    3 => '-117.86',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  22 => 
+  array (
+    0 => 'Brea',
+    1 => 'CA',
+    2 => '33.91',
+    3 => '-117.89',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  23 => 
+  array (
+    0 => 'Brea',
+    1 => 'CA',
+    2 => '33.92',
+    3 => '-117.8',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  25 => 
+  array (
+    0 => 'Anaheim',
+    1 => 'CA',
+    2 => '33.83',
+    3 => '-117.91',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  31 => 
+  array (
+    0 => 'Fullerton',
+    1 => 'CA',
+    2 => '33.87',
+    3 => '-117.89',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  32 => 
+  array (
+    0 => 'Fullerton',
+    1 => 'CA',
+    2 => '33.86',
+    3 => '-117.92',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  33 => 
+  array (
+    0 => 'Fullerton',
+    1 => 'CA',
+    2 => '33.88',
+    3 => '-117.96',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  34 => 
+  array (
+    0 => 'Fullerton',
+    1 => 'CA',
+    2 => '33.87',
+    3 => '-117.89',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  35 => 
+  array (
+    0 => 'Fullerton',
+    1 => 'CA',
+    2 => '33.9',
+    3 => '-117.91',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  36 => 
+  array (
+    0 => 'Fullerton',
+    1 => 'CA',
+    2 => '33.87',
+    3 => '-117.9',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  37 => 
+  array (
+    0 => 'Fullerton',
+    1 => 'CA',
+    2 => '33.87',
+    3 => '-117.96',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  38 => 
+  array (
+    0 => 'Fullerton',
+    1 => 'CA',
+    2 => '33.89',
+    3 => '-117.93',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  40 => 
+  array (
+    0 => 'Garden Grove',
+    1 => 'CA',
+    2 => '33.78',
+    3 => '-117.93',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  41 => 
+  array (
+    0 => 'Garden Grove',
+    1 => 'CA',
+    2 => '33.78',
+    3 => '-117.97',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  42 => 
+  array (
+    0 => 'Garden Grove',
+    1 => 'CA',
+    2 => '33.77',
+    3 => '-117.94',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  43 => 
+  array (
+    0 => 'Garden Grove',
+    1 => 'CA',
+    2 => '33.75',
+    3 => '-117.94',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  44 => 
+  array (
+    0 => 'Garden Grove',
+    1 => 'CA',
+    2 => '33.76',
+    3 => '-117.97',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  45 => 
+  array (
+    0 => 'Garden Grove',
+    1 => 'CA',
+    2 => '33.78',
+    3 => '-118.02',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  46 => 
+  array (
+    0 => 'Garden Grove',
+    1 => 'CA',
+    2 => '33.78',
+    3 => '-118.03',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  50 => 
+  array (
+    0 => 'Anaheim',
+    1 => 'CA',
+    2 => '33.84',
+    3 => '-117.95',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  56 => 
+  array (
+    0 => 'Orange',
+    1 => 'CA',
+    2 => '33.78',
+    3 => '-117.84',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  57 => 
+  array (
+    0 => 'Orange',
+    1 => 'CA',
+    2 => '33.83',
+    3 => '-117.84',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  59 => 
+  array (
+    0 => 'Orange',
+    1 => 'CA',
+    2 => '33.8',
+    3 => '-117.78',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  60 => 
+  array (
+    0 => 'Norco',
+    1 => 'CA',
+    2 => '33.93',
+    3 => '-117.56',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  61 => 
+  array (
+    0 => 'Villa Park',
+    1 => 'CA',
+    2 => '33.81',
+    3 => '-117.81',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  62 => 
+  array (
+    0 => 'Orange',
+    1 => 'CA',
+    2 => '33.79',
+    3 => '-117.71',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  63 => 
+  array (
+    0 => 'Orange',
+    1 => 'CA',
+    2 => '33.81',
+    3 => '-117.82',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  64 => 
+  array (
+    0 => 'Orange',
+    1 => 'CA',
+    2 => '33.81',
+    3 => '-117.82',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  65 => 
+  array (
+    0 => 'Orange',
+    1 => 'CA',
+    2 => '33.83',
+    3 => '-117.85',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  66 => 
+  array (
+    0 => 'Orange',
+    1 => 'CA',
+    2 => '33.78',
+    3 => '-117.84',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  67 => 
+  array (
+    0 => 'Orange',
+    1 => 'CA',
+    2 => '33.81',
+    3 => '-117.79',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  68 => 
+  array (
+    0 => 'Orange',
+    1 => 'CA',
+    2 => '33.78',
+    3 => '-117.86',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  69 => 
+  array (
+    0 => 'Orange',
+    1 => 'CA',
+    2 => '33.79',
+    3 => '-117.78',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  70 => 
+  array (
+    0 => 'Placentia',
+    1 => 'CA',
+    2 => '33.88',
+    3 => '-117.85',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  71 => 
+  array (
+    0 => 'Placentia',
+    1 => 'CA',
+    2 => '33.88',
+    3 => '-117.85',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  77 => 
+  array (
+    0 => 'Corona',
+    1 => 'CA',
+    2 => '33.87',
+    3 => '-117.56',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  78 => 
+  array (
+    0 => 'Corona',
+    1 => 'CA',
+    2 => '33.87',
+    3 => '-117.56',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  79 => 
+  array (
+    0 => 'Corona',
+    1 => 'CA',
+    2 => '33.87',
+    3 => '-117.53',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  80 => 
+  array (
+    0 => 'Corona',
+    1 => 'CA',
+    2 => '33.9',
+    3 => '-117.61',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  81 => 
+  array (
+    0 => 'Corona',
+    1 => 'CA',
+    2 => '33.83',
+    3 => '-117.5',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  82 => 
+  array (
+    0 => 'Corona',
+    1 => 'CA',
+    2 => '33.83',
+    3 => '-117.6',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  83 => 
+  array (
+    0 => 'Corona',
+    1 => 'CA',
+    2 => '33.75',
+    3 => '-117.48',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  85 => 
+  array (
+    0 => 'Yorba Linda',
+    1 => 'CA',
+    2 => '33.89',
+    3 => '-117.82',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  86 => 
+  array (
+    0 => 'Yorba Linda',
+    1 => 'CA',
+    2 => '33.89',
+    3 => '-117.78',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  87 => 
+  array (
+    0 => 'Yorba Linda',
+    1 => 'CA',
+    2 => '33.88',
+    3 => '-117.72',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  99 => 
+  array (
+    0 => 'Anaheim',
+    1 => 'CA',
+    2 => '33.83',
+    3 => '-117.87',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+);

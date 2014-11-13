@@ -1,0 +1,704 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Algonac',
+    1 => 'MI',
+    2 => '42.61',
+    3 => '-82.53',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  '02' => 
+  array (
+    0 => 'Allenton',
+    1 => 'MI',
+    2 => '42.92',
+    3 => '-82.88',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  '03' => 
+  array (
+    0 => 'Almont',
+    1 => 'MI',
+    2 => '42.92',
+    3 => '-83.04',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  '04' => 
+  array (
+    0 => 'Anchorville',
+    1 => 'MI',
+    2 => '42.69',
+    3 => '-82.69',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  '05' => 
+  array (
+    0 => 'Armada',
+    1 => 'MI',
+    2 => '42.84',
+    3 => '-82.88',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  '06' => 
+  array (
+    0 => 'Avoca',
+    1 => 'MI',
+    2 => '43.05',
+    3 => '-82.67',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  '07' => 
+  array (
+    0 => 'Troy',
+    1 => 'MI',
+    2 => '42.58',
+    3 => '-83.14',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  '09' => 
+  array (
+    0 => 'Birmingham',
+    1 => 'MI',
+    2 => '42.54',
+    3 => '-83.21',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  12 => 
+  array (
+    0 => 'Birmingham',
+    1 => 'MI',
+    2 => '42.54',
+    3 => '-83.21',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  14 => 
+  array (
+    0 => 'Capac',
+    1 => 'MI',
+    2 => '43.01',
+    3 => '-82.92',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  15 => 
+  array (
+    0 => 'Center Line',
+    1 => 'MI',
+    2 => '42.48',
+    3 => '-83.02',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  17 => 
+  array (
+    0 => 'Clawson',
+    1 => 'MI',
+    2 => '42.53',
+    3 => '-83.15',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  21 => 
+  array (
+    0 => 'Eastpointe',
+    1 => 'MI',
+    2 => '42.46',
+    3 => '-82.94',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  22 => 
+  array (
+    0 => 'Emmett',
+    1 => 'MI',
+    2 => '42.99',
+    3 => '-82.76',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  23 => 
+  array (
+    0 => 'Fair Haven',
+    1 => 'MI',
+    2 => '42.67',
+    3 => '-82.64',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  25 => 
+  array (
+    0 => 'Franklin',
+    1 => 'MI',
+    2 => '42.51',
+    3 => '-83.3',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  26 => 
+  array (
+    0 => 'Fraser',
+    1 => 'MI',
+    2 => '42.53',
+    3 => '-82.94',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  27 => 
+  array (
+    0 => 'Goodells',
+    1 => 'MI',
+    2 => '42.93',
+    3 => '-82.66',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  28 => 
+  array (
+    0 => 'Harsens Island',
+    1 => 'MI',
+    2 => '42.59',
+    3 => '-82.57',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  30 => 
+  array (
+    0 => 'Hazel Park',
+    1 => 'MI',
+    2 => '42.46',
+    3 => '-83.09',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  32 => 
+  array (
+    0 => 'Jeddo',
+    1 => 'MI',
+    2 => '43.15',
+    3 => '-82.58',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  33 => 
+  array (
+    0 => 'Southfield',
+    1 => 'MI',
+    2 => '42.46',
+    3 => '-83.28',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  34 => 
+  array (
+    0 => 'Southfield',
+    1 => 'MI',
+    2 => '42.47',
+    3 => '-83.25',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  35 => 
+  array (
+    0 => 'Clinton Township',
+    1 => 'MI',
+    2 => '42.58',
+    3 => '-82.91',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  36 => 
+  array (
+    0 => 'Clinton Township',
+    1 => 'MI',
+    2 => '42.58',
+    3 => '-82.91',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  37 => 
+  array (
+    0 => 'Southfield',
+    1 => 'MI',
+    2 => '42.47',
+    3 => '-83.25',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  38 => 
+  array (
+    0 => 'Clinton Township',
+    1 => 'MI',
+    2 => '42.58',
+    3 => '-82.91',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  39 => 
+  array (
+    0 => 'Marine City',
+    1 => 'MI',
+    2 => '42.71',
+    3 => '-82.49',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  40 => 
+  array (
+    0 => 'Marysville',
+    1 => 'MI',
+    2 => '42.91',
+    3 => '-82.47',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  42 => 
+  array (
+    0 => 'Macomb',
+    1 => 'MI',
+    2 => '42.66',
+    3 => '-82.91',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  43 => 
+  array (
+    0 => 'Mount Clemens',
+    1 => 'MI',
+    2 => '42.59',
+    3 => '-82.88',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  44 => 
+  array (
+    0 => 'Macomb',
+    1 => 'MI',
+    2 => '42.66',
+    3 => '-82.91',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  45 => 
+  array (
+    0 => 'Harrison Township',
+    1 => 'MI',
+    2 => '42.58',
+    3 => '-82.81',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  46 => 
+  array (
+    0 => 'Mount Clemens',
+    1 => 'MI',
+    2 => '42.59',
+    3 => '-82.88',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  47 => 
+  array (
+    0 => 'New Baltimore',
+    1 => 'MI',
+    2 => '42.68',
+    3 => '-82.73',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  48 => 
+  array (
+    0 => 'New Haven',
+    1 => 'MI',
+    2 => '42.73',
+    3 => '-82.79',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  49 => 
+  array (
+    0 => 'North Street',
+    1 => 'MI',
+    2 => '43.03',
+    3 => '-82.56',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  50 => 
+  array (
+    0 => 'New Haven',
+    1 => 'MI',
+    2 => '42.73',
+    3 => '-82.79',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  51 => 
+  array (
+    0 => 'New Baltimore',
+    1 => 'MI',
+    2 => '42.68',
+    3 => '-82.73',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  54 => 
+  array (
+    0 => 'East China',
+    1 => 'MI',
+    2 => '42.77',
+    3 => '-82.53',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  59 => 
+  array (
+    0 => 'Fort Gratiot',
+    1 => 'MI',
+    2 => '43.07',
+    3 => '-82.49',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  60 => 
+  array (
+    0 => 'Port Huron',
+    1 => 'MI',
+    2 => '42.97',
+    3 => '-82.42',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  61 => 
+  array (
+    0 => 'Port Huron',
+    1 => 'MI',
+    2 => '42.97',
+    3 => '-82.42',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  62 => 
+  array (
+    0 => 'Richmond',
+    1 => 'MI',
+    2 => '42.8',
+    3 => '-82.75',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  63 => 
+  array (
+    0 => 'Columbus',
+    1 => 'MI',
+    2 => '42.85',
+    3 => '-82.68',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  64 => 
+  array (
+    0 => 'Casco',
+    1 => 'MI',
+    2 => '42.76',
+    3 => '-82.67',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  65 => 
+  array (
+    0 => 'Romeo',
+    1 => 'MI',
+    2 => '42.8',
+    3 => '-83',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  66 => 
+  array (
+    0 => 'Roseville',
+    1 => 'MI',
+    2 => '42.5',
+    3 => '-82.93',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  67 => 
+  array (
+    0 => 'Royal Oak',
+    1 => 'MI',
+    2 => '42.5',
+    3 => '-83.15',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  68 => 
+  array (
+    0 => 'Royal Oak',
+    1 => 'MI',
+    2 => '42.5',
+    3 => '-83.15',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  69 => 
+  array (
+    0 => 'Pleasant Ridge',
+    1 => 'MI',
+    2 => '42.47',
+    3 => '-83.14',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  70 => 
+  array (
+    0 => 'Huntington Woods',
+    1 => 'MI',
+    2 => '42.48',
+    3 => '-83.16',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  71 => 
+  array (
+    0 => 'Madison Heights',
+    1 => 'MI',
+    2 => '42.5',
+    3 => '-83.1',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  72 => 
+  array (
+    0 => 'Berkley',
+    1 => 'MI',
+    2 => '42.49',
+    3 => '-83.18',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  73 => 
+  array (
+    0 => 'Royal Oak',
+    1 => 'MI',
+    2 => '42.5',
+    3 => '-83.15',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  74 => 
+  array (
+    0 => 'Smiths Creek',
+    1 => 'MI',
+    2 => '42.91',
+    3 => '-82.6',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  75 => 
+  array (
+    0 => 'Southfield',
+    1 => 'MI',
+    2 => '42.47',
+    3 => '-83.25',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  76 => 
+  array (
+    0 => 'Southfield',
+    1 => 'MI',
+    2 => '42.47',
+    3 => '-83.25',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  79 => 
+  array (
+    0 => 'Saint Clair',
+    1 => 'MI',
+    2 => '42.82',
+    3 => '-82.49',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  80 => 
+  array (
+    0 => 'Saint Clair Shores',
+    1 => 'MI',
+    2 => '42.49',
+    3 => '-82.89',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  81 => 
+  array (
+    0 => 'Saint Clair Shores',
+    1 => 'MI',
+    2 => '42.49',
+    3 => '-82.89',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  82 => 
+  array (
+    0 => 'Saint Clair Shores',
+    1 => 'MI',
+    2 => '42.49',
+    3 => '-82.89',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  83 => 
+  array (
+    0 => 'Troy',
+    1 => 'MI',
+    2 => '42.58',
+    3 => '-83.14',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  84 => 
+  array (
+    0 => 'Troy',
+    1 => 'MI',
+    2 => '42.58',
+    3 => '-83.14',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  85 => 
+  array (
+    0 => 'Troy',
+    1 => 'MI',
+    2 => '42.58',
+    3 => '-83.14',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  86 => 
+  array (
+    0 => 'Southfield',
+    1 => 'MI',
+    2 => '42.47',
+    3 => '-83.25',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  88 => 
+  array (
+    0 => 'Warren',
+    1 => 'MI',
+    2 => '42.49',
+    3 => '-83.02',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  89 => 
+  array (
+    0 => 'Warren',
+    1 => 'MI',
+    2 => '42.49',
+    3 => '-83.02',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  90 => 
+  array (
+    0 => 'Warren',
+    1 => 'MI',
+    2 => '42.49',
+    3 => '-83.02',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  91 => 
+  array (
+    0 => 'Warren',
+    1 => 'MI',
+    2 => '42.49',
+    3 => '-83.02',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  92 => 
+  array (
+    0 => 'Warren',
+    1 => 'MI',
+    2 => '42.49',
+    3 => '-83.02',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  93 => 
+  array (
+    0 => 'Warren',
+    1 => 'MI',
+    2 => '42.49',
+    3 => '-83.02',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  94 => 
+  array (
+    0 => 'Washington',
+    1 => 'MI',
+    2 => '42.72',
+    3 => '-83.03',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  95 => 
+  array (
+    0 => 'Washington',
+    1 => 'MI',
+    2 => '42.72',
+    3 => '-83.03',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  96 => 
+  array (
+    0 => 'Ray',
+    1 => 'MI',
+    2 => '42.78',
+    3 => '-82.93',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  97 => 
+  array (
+    0 => 'Yale',
+    1 => 'MI',
+    2 => '43.12',
+    3 => '-82.79',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  98 => 
+  array (
+    0 => 'Troy',
+    1 => 'MI',
+    2 => '42.58',
+    3 => '-83.14',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+  99 => 
+  array (
+    0 => 'Troy',
+    1 => 'MI',
+    2 => '42.58',
+    3 => '-83.14',
+    4 => -5,
+    5 => 'America/Detroit',
+  ),
+);

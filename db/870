@@ -1,0 +1,461 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Algodones',
+    1 => 'NM',
+    2 => '35.38',
+    3 => '-106.47',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  '02' => 
+  array (
+    0 => 'Belen',
+    1 => 'NM',
+    2 => '34.65',
+    3 => '-106.77',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  '04' => 
+  array (
+    0 => 'Bernalillo',
+    1 => 'NM',
+    2 => '35.31',
+    3 => '-106.55',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  '05' => 
+  array (
+    0 => 'Bluewater',
+    1 => 'NM',
+    2 => '35.14',
+    3 => '-108.23',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  '06' => 
+  array (
+    0 => 'Bosque',
+    1 => 'NM',
+    2 => '34.47',
+    3 => '-106.8',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  '07' => 
+  array (
+    0 => 'Casa Blanca',
+    1 => 'NM',
+    2 => '35',
+    3 => '-107.41',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  '08' => 
+  array (
+    0 => 'Cedar Crest',
+    1 => 'NM',
+    2 => '35.1',
+    3 => '-106.37',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  '09' => 
+  array (
+    0 => 'Cedarvale',
+    1 => 'NM',
+    2 => '34.37',
+    3 => '-105.7',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  10 => 
+  array (
+    0 => 'Cerrillos',
+    1 => 'NM',
+    2 => '35.37',
+    3 => '-106.14',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  11 => 
+  array (
+    0 => 'Claunch',
+    1 => 'NM',
+    2 => '34.14',
+    3 => '-105.99',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  12 => 
+  array (
+    0 => 'Coyote',
+    1 => 'NM',
+    2 => '36.16',
+    3 => '-106.61',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  13 => 
+  array (
+    0 => 'Cuba',
+    1 => 'NM',
+    2 => '36.02',
+    3 => '-106.95',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  14 => 
+  array (
+    0 => 'Cubero',
+    1 => 'NM',
+    2 => '35.08',
+    3 => '-107.51',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  16 => 
+  array (
+    0 => 'Estancia',
+    1 => 'NM',
+    2 => '34.76',
+    3 => '-106.06',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  17 => 
+  array (
+    0 => 'Gallina',
+    1 => 'NM',
+    2 => '36.23',
+    3 => '-106.85',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  18 => 
+  array (
+    0 => 'Counselor',
+    1 => 'NM',
+    2 => '36.13',
+    3 => '-106.93',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  21 => 
+  array (
+    0 => 'Milan',
+    1 => 'NM',
+    2 => '35.18',
+    3 => '-107.89',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  22 => 
+  array (
+    0 => 'Isleta',
+    1 => 'NM',
+    2 => '34.91',
+    3 => '-106.82',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  23 => 
+  array (
+    0 => 'Jarales',
+    1 => 'NM',
+    2 => '34.61',
+    3 => '-106.76',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  24 => 
+  array (
+    0 => 'Jemez Pueblo',
+    1 => 'NM',
+    2 => '35.61',
+    3 => '-106.72',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  25 => 
+  array (
+    0 => 'Jemez Springs',
+    1 => 'NM',
+    2 => '35.77',
+    3 => '-106.68',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  27 => 
+  array (
+    0 => 'La Jara',
+    1 => 'NM',
+    2 => '36.08',
+    3 => '-106.97',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  28 => 
+  array (
+    0 => 'La Joya',
+    1 => 'NM',
+    2 => '34.34',
+    3 => '-106.84',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  29 => 
+  array (
+    0 => 'Lindrith',
+    1 => 'NM',
+    2 => '36.3',
+    3 => '-107.04',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  31 => 
+  array (
+    0 => 'Los Lunas',
+    1 => 'NM',
+    2 => '34.81',
+    3 => '-106.73',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  32 => 
+  array (
+    0 => 'Mcintosh',
+    1 => 'NM',
+    2 => '34.85',
+    3 => '-106.04',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  34 => 
+  array (
+    0 => 'Pueblo Of Acoma',
+    1 => 'NM',
+    2 => '34.9',
+    3 => '-107.58',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  35 => 
+  array (
+    0 => 'Moriarty',
+    1 => 'NM',
+    2 => '35',
+    3 => '-106.04',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  36 => 
+  array (
+    0 => 'Mountainair',
+    1 => 'NM',
+    2 => '34.52',
+    3 => '-106.24',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  38 => 
+  array (
+    0 => 'New Laguna',
+    1 => 'NM',
+    2 => '35.04',
+    3 => '-107.42',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  40 => 
+  array (
+    0 => 'Paguate',
+    1 => 'NM',
+    2 => '35.13',
+    3 => '-107.37',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  41 => 
+  array (
+    0 => 'Pena Blanca',
+    1 => 'NM',
+    2 => '35.57',
+    3 => '-106.33',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  42 => 
+  array (
+    0 => 'Peralta',
+    1 => 'NM',
+    2 => '34.82',
+    3 => '-106.68',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  43 => 
+  array (
+    0 => 'Placitas',
+    1 => 'NM',
+    2 => '35.32',
+    3 => '-106.46',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  44 => 
+  array (
+    0 => 'Ponderosa',
+    1 => 'NM',
+    2 => '34.98',
+    3 => '-106.3',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  46 => 
+  array (
+    0 => 'Regina',
+    1 => 'NM',
+    2 => '36.18',
+    3 => '-106.95',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  48 => 
+  array (
+    0 => 'Corrales',
+    1 => 'NM',
+    2 => '35.23',
+    3 => '-106.62',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  49 => 
+  array (
+    0 => 'San Fidel',
+    1 => 'NM',
+    2 => '35.08',
+    3 => '-107.59',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  51 => 
+  array (
+    0 => 'San Rafael',
+    1 => 'NM',
+    2 => '35.11',
+    3 => '-107.88',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  52 => 
+  array (
+    0 => 'Santo Domingo Pueblo',
+    1 => 'NM',
+    2 => '35.51',
+    3 => '-106.36',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  53 => 
+  array (
+    0 => 'San Ysidro',
+    1 => 'NM',
+    2 => '35.55',
+    3 => '-106.77',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  56 => 
+  array (
+    0 => 'Stanley',
+    1 => 'NM',
+    2 => '35.14',
+    3 => '-105.97',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  59 => 
+  array (
+    0 => 'Tijeras',
+    1 => 'NM',
+    2 => '35.08',
+    3 => '-106.37',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  60 => 
+  array (
+    0 => 'Tome',
+    1 => 'NM',
+    2 => '34.74',
+    3 => '-106.71',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  61 => 
+  array (
+    0 => 'Torreon',
+    1 => 'NM',
+    2 => '34.72',
+    3 => '-106.29',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  62 => 
+  array (
+    0 => 'Veguita',
+    1 => 'NM',
+    2 => '34.51',
+    3 => '-106.76',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  63 => 
+  array (
+    0 => 'Willard',
+    1 => 'NM',
+    2 => '34.59',
+    3 => '-106.03',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  64 => 
+  array (
+    0 => 'Youngsville',
+    1 => 'NM',
+    2 => '36.18',
+    3 => '-106.55',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  70 => 
+  array (
+    0 => 'Clines Corners',
+    1 => 'NM',
+    2 => '35',
+    3 => '-105.66',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  72 => 
+  array (
+    0 => 'Cochiti Pueblo',
+    1 => 'NM',
+    2 => '35.6',
+    3 => '-106.34',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+  83 => 
+  array (
+    0 => 'Cochiti Lake',
+    1 => 'NM',
+    2 => '35.64',
+    3 => '-106.33',
+    4 => -7,
+    5 => 'America/Denver',
+  ),
+);

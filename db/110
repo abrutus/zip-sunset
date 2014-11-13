@@ -1,0 +1,254 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Floral Park',
+    1 => 'NY',
+    2 => '40.72',
+    3 => '-73.7',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '02' => 
+  array (
+    0 => 'Floral Park',
+    1 => 'NY',
+    2 => '40.72',
+    3 => '-73.7',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '03' => 
+  array (
+    0 => 'Elmont',
+    1 => 'NY',
+    2 => '40.7',
+    3 => '-73.7',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '04' => 
+  array (
+    0 => 'Glen Oaks',
+    1 => 'NY',
+    2 => '40.74',
+    3 => '-73.71',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '05' => 
+  array (
+    0 => 'Floral Park',
+    1 => 'NY',
+    2 => '40.72',
+    3 => '-73.7',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  10 => 
+  array (
+    0 => 'Franklin Square',
+    1 => 'NY',
+    2 => '40.7',
+    3 => '-73.67',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  20 => 
+  array (
+    0 => 'Great Neck',
+    1 => 'NY',
+    2 => '40.8',
+    3 => '-73.73',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  21 => 
+  array (
+    0 => 'Great Neck',
+    1 => 'NY',
+    2 => '40.8',
+    3 => '-73.73',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  22 => 
+  array (
+    0 => 'Great Neck',
+    1 => 'NY',
+    2 => '40.8',
+    3 => '-73.73',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  23 => 
+  array (
+    0 => 'Great Neck',
+    1 => 'NY',
+    2 => '40.8',
+    3 => '-73.73',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  24 => 
+  array (
+    0 => 'Great Neck',
+    1 => 'NY',
+    2 => '40.8',
+    3 => '-73.73',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  25 => 
+  array (
+    0 => 'Great Neck',
+    1 => 'NY',
+    2 => '40.8',
+    3 => '-73.72',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  26 => 
+  array (
+    0 => 'Great Neck',
+    1 => 'NY',
+    2 => '40.8',
+    3 => '-73.73',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  27 => 
+  array (
+    0 => 'Great Neck',
+    1 => 'NY',
+    2 => '40.8',
+    3 => '-73.73',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  30 => 
+  array (
+    0 => 'Manhasset',
+    1 => 'NY',
+    2 => '40.79',
+    3 => '-73.69',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  40 => 
+  array (
+    0 => 'New Hyde Park',
+    1 => 'NY',
+    2 => '40.73',
+    3 => '-73.68',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  41 => 
+  array (
+    0 => 'New Hyde Park',
+    1 => 'NY',
+    2 => '40.73',
+    3 => '-73.68',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  42 => 
+  array (
+    0 => 'New Hyde Park',
+    1 => 'NY',
+    2 => '40.73',
+    3 => '-73.68',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  43 => 
+  array (
+    0 => 'New Hyde Park',
+    1 => 'NY',
+    2 => '40.73',
+    3 => '-73.68',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  44 => 
+  array (
+    0 => 'New Hyde Park',
+    1 => 'NY',
+    2 => '40.73',
+    3 => '-73.68',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  50 => 
+  array (
+    0 => 'Port Washington',
+    1 => 'NY',
+    2 => '40.82',
+    3 => '-73.68',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  51 => 
+  array (
+    0 => 'Port Washington',
+    1 => 'NY',
+    2 => '40.82',
+    3 => '-73.68',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  52 => 
+  array (
+    0 => 'Port Washington',
+    1 => 'NY',
+    2 => '40.82',
+    3 => '-73.68',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  53 => 
+  array (
+    0 => 'Port Washington',
+    1 => 'NY',
+    2 => '40.82',
+    3 => '-73.68',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  54 => 
+  array (
+    0 => 'Port Washington',
+    1 => 'NY',
+    2 => '40.82',
+    3 => '-73.68',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  55 => 
+  array (
+    0 => 'Port Washington',
+    1 => 'NY',
+    2 => '40.82',
+    3 => '-73.68',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  96 => 
+  array (
+    0 => 'Inwood',
+    1 => 'NY',
+    2 => '40.62',
+    3 => '-73.75',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  99 => 
+  array (
+    0 => 'New Hyde Park',
+    1 => 'NY',
+    2 => '40.73',
+    3 => '-73.68',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

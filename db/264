@@ -1,0 +1,281 @@
+<?php $db= array (
+  '04' => 
+  array (
+    0 => 'Meadowbrook',
+    1 => 'WV',
+    2 => '39.33',
+    3 => '-80.32',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '05' => 
+  array (
+    0 => 'Moatsville',
+    1 => 'WV',
+    2 => '39.22',
+    3 => '-79.9',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '08' => 
+  array (
+    0 => 'Mount Clare',
+    1 => 'WV',
+    2 => '39.2',
+    3 => '-80.26',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  10 => 
+  array (
+    0 => 'Newburg',
+    1 => 'WV',
+    2 => '39.38',
+    3 => '-79.85',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  11 => 
+  array (
+    0 => 'New Milton',
+    1 => 'WV',
+    2 => '39.17',
+    3 => '-80.71',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  12 => 
+  array (
+    0 => 'Orlando',
+    1 => 'WV',
+    2 => '38.89',
+    3 => '-80.56',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  15 => 
+  array (
+    0 => 'Pennsboro',
+    1 => 'WV',
+    2 => '39.28',
+    3 => '-80.97',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  16 => 
+  array (
+    0 => 'Philippi',
+    1 => 'WV',
+    2 => '39.15',
+    3 => '-80.04',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  19 => 
+  array (
+    0 => 'Pine Grove',
+    1 => 'WV',
+    2 => '39.56',
+    3 => '-80.68',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  21 => 
+  array (
+    0 => 'Pullman',
+    1 => 'WV',
+    2 => '39.18',
+    3 => '-80.94',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  22 => 
+  array (
+    0 => 'Reynoldsville',
+    1 => 'WV',
+    2 => '39.27',
+    3 => '-80.41',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  24 => 
+  array (
+    0 => 'Rosemont',
+    1 => 'WV',
+    2 => '39.28',
+    3 => '-80.16',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  25 => 
+  array (
+    0 => 'Rowlesburg',
+    1 => 'WV',
+    2 => '39.34',
+    3 => '-79.67',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  26 => 
+  array (
+    0 => 'Salem',
+    1 => 'WV',
+    2 => '39.28',
+    3 => '-80.56',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  30 => 
+  array (
+    0 => 'Sand Fork',
+    1 => 'WV',
+    2 => '38.91',
+    3 => '-80.74',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  31 => 
+  array (
+    0 => 'Shinnston',
+    1 => 'WV',
+    2 => '39.39',
+    3 => '-80.29',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  34 => 
+  array (
+    0 => 'Shirley',
+    1 => 'WV',
+    2 => '39.4',
+    3 => '-80.78',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  35 => 
+  array (
+    0 => 'Simpson',
+    1 => 'WV',
+    2 => '39.28',
+    3 => '-80.06',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  36 => 
+  array (
+    0 => 'Smithburg',
+    1 => 'WV',
+    2 => '39.29',
+    3 => '-80.71',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  37 => 
+  array (
+    0 => 'Smithfield',
+    1 => 'WV',
+    2 => '39.49',
+    3 => '-80.56',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  38 => 
+  array (
+    0 => 'Spelter',
+    1 => 'WV',
+    2 => '39.33',
+    3 => '-80.3',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  40 => 
+  array (
+    0 => 'Thornton',
+    1 => 'WV',
+    2 => '39.34',
+    3 => '-79.93',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  43 => 
+  array (
+    0 => 'Troy',
+    1 => 'WV',
+    2 => '39.08',
+    3 => '-80.75',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  44 => 
+  array (
+    0 => 'Tunnelton',
+    1 => 'WV',
+    2 => '39.39',
+    3 => '-79.74',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  47 => 
+  array (
+    0 => 'Walkersville',
+    1 => 'WV',
+    2 => '38.84',
+    3 => '-80.5',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  48 => 
+  array (
+    0 => 'Wallace',
+    1 => 'WV',
+    2 => '39.4',
+    3 => '-80.48',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  51 => 
+  array (
+    0 => 'West Milford',
+    1 => 'WV',
+    2 => '39.2',
+    3 => '-80.4',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  52 => 
+  array (
+    0 => 'Weston',
+    1 => 'WV',
+    2 => '39.04',
+    3 => '-80.46',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  56 => 
+  array (
+    0 => 'West Union',
+    1 => 'WV',
+    2 => '39.29',
+    3 => '-80.77',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  61 => 
+  array (
+    0 => 'Wilsonburg',
+    1 => 'WV',
+    2 => '39.29',
+    3 => '-80.39',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  63 => 
+  array (
+    0 => 'Wyatt',
+    1 => 'WV',
+    2 => '39.43',
+    3 => '-80.39',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

@@ -1,0 +1,65 @@
+<?php $db= array (
+  90 => 
+  array (
+    0 => 'Far Rockaway',
+    1 => 'NY',
+    2 => '40.59',
+    3 => '-73.81',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  91 => 
+  array (
+    0 => 'Far Rockaway',
+    1 => 'NY',
+    2 => '40.59',
+    3 => '-73.81',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  92 => 
+  array (
+    0 => 'Arverne',
+    1 => 'NY',
+    2 => '40.59',
+    3 => '-73.79',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  93 => 
+  array (
+    0 => 'Far Rockaway',
+    1 => 'NY',
+    2 => '40.59',
+    3 => '-73.81',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  94 => 
+  array (
+    0 => 'Rockaway Park',
+    1 => 'NY',
+    2 => '40.57',
+    3 => '-73.85',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  95 => 
+  array (
+    0 => 'Far Rockaway',
+    1 => 'NY',
+    2 => '40.59',
+    3 => '-73.81',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  97 => 
+  array (
+    0 => 'Breezy Point',
+    1 => 'NY',
+    2 => '40.56',
+    3 => '-73.91',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

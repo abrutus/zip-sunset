@@ -1,0 +1,488 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Albion',
+    1 => 'IN',
+    2 => '41.39',
+    3 => '-85.41',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  '02' => 
+  array (
+    0 => 'Andrews',
+    1 => 'IN',
+    2 => '40.85',
+    3 => '-85.6',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  '03' => 
+  array (
+    0 => 'Angola',
+    1 => 'IN',
+    2 => '41.64',
+    3 => '-85',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  '04' => 
+  array (
+    0 => 'Arcola',
+    1 => 'IN',
+    2 => '41.1',
+    3 => '-85.3',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  '06' => 
+  array (
+    0 => 'Auburn',
+    1 => 'IN',
+    2 => '41.36',
+    3 => '-85.05',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  10 => 
+  array (
+    0 => 'Avilla',
+    1 => 'IN',
+    2 => '41.36',
+    3 => '-85.23',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  11 => 
+  array (
+    0 => 'Berne',
+    1 => 'IN',
+    2 => '40.65',
+    3 => '-84.95',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  13 => 
+  array (
+    0 => 'Bippus',
+    1 => 'IN',
+    2 => '40.94',
+    3 => '-85.61',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  14 => 
+  array (
+    0 => 'Bluffton',
+    1 => 'IN',
+    2 => '40.74',
+    3 => '-85.17',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  21 => 
+  array (
+    0 => 'Butler',
+    1 => 'IN',
+    2 => '41.42',
+    3 => '-84.87',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  30 => 
+  array (
+    0 => 'Corunna',
+    1 => 'IN',
+    2 => '41.43',
+    3 => '-85.14',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  31 => 
+  array (
+    0 => 'Craigville',
+    1 => 'IN',
+    2 => '40.8',
+    3 => '-85.09',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  33 => 
+  array (
+    0 => 'Decatur',
+    1 => 'IN',
+    2 => '40.83',
+    3 => '-84.92',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  37 => 
+  array (
+    0 => 'Fremont',
+    1 => 'IN',
+    2 => '41.73',
+    3 => '-84.93',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  38 => 
+  array (
+    0 => 'Garrett',
+    1 => 'IN',
+    2 => '41.34',
+    3 => '-85.12',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  40 => 
+  array (
+    0 => 'Geneva',
+    1 => 'IN',
+    2 => '40.59',
+    3 => '-84.95',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  41 => 
+  array (
+    0 => 'Grabill',
+    1 => 'IN',
+    2 => '41.21',
+    3 => '-84.96',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  42 => 
+  array (
+    0 => 'Hamilton',
+    1 => 'IN',
+    2 => '41.53',
+    3 => '-84.91',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  43 => 
+  array (
+    0 => 'Harlan',
+    1 => 'IN',
+    2 => '41.22',
+    3 => '-84.83',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  45 => 
+  array (
+    0 => 'Hoagland',
+    1 => 'IN',
+    2 => '40.94',
+    3 => '-85',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  46 => 
+  array (
+    0 => 'Howe',
+    1 => 'IN',
+    2 => '41.72',
+    3 => '-85.42',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  48 => 
+  array (
+    0 => 'Huntertown',
+    1 => 'IN',
+    2 => '41.23',
+    3 => '-85.16',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  50 => 
+  array (
+    0 => 'Huntington',
+    1 => 'IN',
+    2 => '40.88',
+    3 => '-85.5',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  55 => 
+  array (
+    0 => 'Kendallville',
+    1 => 'IN',
+    2 => '41.44',
+    3 => '-85.25',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  59 => 
+  array (
+    0 => 'Keystone',
+    1 => 'IN',
+    2 => '40.58',
+    3 => '-85.27',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  60 => 
+  array (
+    0 => 'Kimmell',
+    1 => 'IN',
+    2 => '41.37',
+    3 => '-85.51',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  63 => 
+  array (
+    0 => 'Laotto',
+    1 => 'IN',
+    2 => '41.3',
+    3 => '-85.2',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  64 => 
+  array (
+    0 => 'Larwill',
+    1 => 'IN',
+    2 => '41.17',
+    3 => '-85.62',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  65 => 
+  array (
+    0 => 'Leo',
+    1 => 'IN',
+    2 => '41.23',
+    3 => '-85.04',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  66 => 
+  array (
+    0 => 'Liberty Center',
+    1 => 'IN',
+    2 => '40.69',
+    3 => '-85.27',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  69 => 
+  array (
+    0 => 'Linn Grove',
+    1 => 'IN',
+    2 => '40.61',
+    3 => '-84.97',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  71 => 
+  array (
+    0 => 'Mongo',
+    1 => 'IN',
+    2 => '41.68',
+    3 => '-85.27',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  72 => 
+  array (
+    0 => 'Monroe',
+    1 => 'IN',
+    2 => '40.74',
+    3 => '-84.94',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  73 => 
+  array (
+    0 => 'Monroeville',
+    1 => 'IN',
+    2 => '40.97',
+    3 => '-84.86',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  74 => 
+  array (
+    0 => 'New Haven',
+    1 => 'IN',
+    2 => '41.06',
+    3 => '-85.02',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  77 => 
+  array (
+    0 => 'Ossian',
+    1 => 'IN',
+    2 => '40.87',
+    3 => '-85.16',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  78 => 
+  array (
+    0 => 'Petroleum',
+    1 => 'IN',
+    2 => '40.61',
+    3 => '-85.15',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  79 => 
+  array (
+    0 => 'Pleasant Lake',
+    1 => 'IN',
+    2 => '41.58',
+    3 => '-85.01',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  80 => 
+  array (
+    0 => 'Pleasant Mills',
+    1 => 'IN',
+    2 => '40.85',
+    3 => '-84.86',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  81 => 
+  array (
+    0 => 'Poneto',
+    1 => 'IN',
+    2 => '40.65',
+    3 => '-85.22',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  82 => 
+  array (
+    0 => 'Preble',
+    1 => 'IN',
+    2 => '40.83',
+    3 => '-85.01',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  84 => 
+  array (
+    0 => 'Rome City',
+    1 => 'IN',
+    2 => '41.48',
+    3 => '-85.35',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  85 => 
+  array (
+    0 => 'Saint Joe',
+    1 => 'IN',
+    2 => '41.31',
+    3 => '-84.9',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  86 => 
+  array (
+    0 => 'South Milford',
+    1 => 'IN',
+    2 => '41.53',
+    3 => '-85.27',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  87 => 
+  array (
+    0 => 'South Whitley',
+    1 => 'IN',
+    2 => '41.08',
+    3 => '-85.62',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  89 => 
+  array (
+    0 => 'Stroh',
+    1 => 'IN',
+    2 => '41.58',
+    3 => '-85.19',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  91 => 
+  array (
+    0 => 'Uniondale',
+    1 => 'IN',
+    2 => '40.82',
+    3 => '-85.24',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  93 => 
+  array (
+    0 => 'Waterloo',
+    1 => 'IN',
+    2 => '41.43',
+    3 => '-85.02',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  94 => 
+  array (
+    0 => 'Wawaka',
+    1 => 'IN',
+    2 => '41.48',
+    3 => '-85.48',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  95 => 
+  array (
+    0 => 'Wolcottville',
+    1 => 'IN',
+    2 => '41.52',
+    3 => '-85.36',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  96 => 
+  array (
+    0 => 'Wolflake',
+    1 => 'IN',
+    2 => '41.32',
+    3 => '-85.48',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  97 => 
+  array (
+    0 => 'Woodburn',
+    1 => 'IN',
+    2 => '41.12',
+    3 => '-84.85',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  98 => 
+  array (
+    0 => 'Yoder',
+    1 => 'IN',
+    2 => '40.93',
+    3 => '-85.2',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+  99 => 
+  array (
+    0 => 'Zanesville',
+    1 => 'IN',
+    2 => '40.91',
+    3 => '-85.28',
+    4 => -5,
+    5 => 'America/Indiana/Indianapolis',
+  ),
+);

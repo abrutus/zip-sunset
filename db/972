@@ -1,0 +1,569 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Portland',
+    1 => 'OR',
+    2 => '45.5',
+    3 => '-122.69',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '02' => 
+  array (
+    0 => 'Portland',
+    1 => 'OR',
+    2 => '45.47',
+    3 => '-122.64',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '03' => 
+  array (
+    0 => 'Portland',
+    1 => 'OR',
+    2 => '45.61',
+    3 => '-122.74',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '04' => 
+  array (
+    0 => 'Portland',
+    1 => 'OR',
+    2 => '45.51',
+    3 => '-122.67',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '05' => 
+  array (
+    0 => 'Portland',
+    1 => 'OR',
+    2 => '45.51',
+    3 => '-122.68',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '06' => 
+  array (
+    0 => 'Portland',
+    1 => 'OR',
+    2 => '45.48',
+    3 => '-122.6',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '07' => 
+  array (
+    0 => 'Portland',
+    1 => 'OR',
+    2 => '45.52',
+    3 => '-122.68',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '08' => 
+  array (
+    0 => 'Portland',
+    1 => 'OR',
+    2 => '45.53',
+    3 => '-122.56',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '09' => 
+  array (
+    0 => 'Portland',
+    1 => 'OR',
+    2 => '45.53',
+    3 => '-122.68',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  10 => 
+  array (
+    0 => 'Portland',
+    1 => 'OR',
+    2 => '45.55',
+    3 => '-122.73',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  11 => 
+  array (
+    0 => 'Portland',
+    1 => 'OR',
+    2 => '45.57',
+    3 => '-122.62',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  12 => 
+  array (
+    0 => 'Portland',
+    1 => 'OR',
+    2 => '45.54',
+    3 => '-122.64',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  13 => 
+  array (
+    0 => 'Portland',
+    1 => 'OR',
+    2 => '45.53',
+    3 => '-122.6',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  14 => 
+  array (
+    0 => 'Portland',
+    1 => 'OR',
+    2 => '45.51',
+    3 => '-122.64',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  15 => 
+  array (
+    0 => 'Portland',
+    1 => 'OR',
+    2 => '45.51',
+    3 => '-122.59',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  16 => 
+  array (
+    0 => 'Portland',
+    1 => 'OR',
+    2 => '45.51',
+    3 => '-122.55',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  17 => 
+  array (
+    0 => 'Portland',
+    1 => 'OR',
+    2 => '45.58',
+    3 => '-122.7',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  18 => 
+  array (
+    0 => 'Portland',
+    1 => 'OR',
+    2 => '45.57',
+    3 => '-122.59',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  19 => 
+  array (
+    0 => 'Portland',
+    1 => 'OR',
+    2 => '45.45',
+    3 => '-122.69',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  20 => 
+  array (
+    0 => 'Portland',
+    1 => 'OR',
+    2 => '45.55',
+    3 => '-122.56',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  21 => 
+  array (
+    0 => 'Portland',
+    1 => 'OR',
+    2 => '45.49',
+    3 => '-122.72',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  22 => 
+  array (
+    0 => 'Portland',
+    1 => 'OR',
+    2 => '45.44',
+    3 => '-122.61',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  23 => 
+  array (
+    0 => 'Portland',
+    1 => 'OR',
+    2 => '45.44',
+    3 => '-122.76',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  24 => 
+  array (
+    0 => 'Portland',
+    1 => 'OR',
+    2 => '45.4',
+    3 => '-122.79',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  25 => 
+  array (
+    0 => 'Portland',
+    1 => 'OR',
+    2 => '45.49',
+    3 => '-122.77',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  27 => 
+  array (
+    0 => 'Portland',
+    1 => 'OR',
+    2 => '45.54',
+    3 => '-122.67',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  28 => 
+  array (
+    0 => 'Portland',
+    1 => 'OR',
+    2 => '45.53',
+    3 => '-122.68',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  29 => 
+  array (
+    0 => 'Portland',
+    1 => 'OR',
+    2 => '45.55',
+    3 => '-122.81',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  30 => 
+  array (
+    0 => 'Portland',
+    1 => 'OR',
+    2 => '45.54',
+    3 => '-122.5',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  31 => 
+  array (
+    0 => 'Portland',
+    1 => 'OR',
+    2 => '45.73',
+    3 => '-122.76',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  32 => 
+  array (
+    0 => 'Portland',
+    1 => 'OR',
+    2 => '45.52',
+    3 => '-122.64',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  33 => 
+  array (
+    0 => 'Portland',
+    1 => 'OR',
+    2 => '45.51',
+    3 => '-122.49',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  36 => 
+  array (
+    0 => 'Portland',
+    1 => 'OR',
+    2 => '45.46',
+    3 => '-122.49',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  38 => 
+  array (
+    0 => 'Portland',
+    1 => 'OR',
+    2 => '45.57',
+    3 => '-122.6',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  39 => 
+  array (
+    0 => 'Portland',
+    1 => 'OR',
+    2 => '45.48',
+    3 => '-122.69',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  40 => 
+  array (
+    0 => 'Portland',
+    1 => 'OR',
+    2 => '45.5',
+    3 => '-122.65',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  42 => 
+  array (
+    0 => 'Portland',
+    1 => 'OR',
+    2 => '45.48',
+    3 => '-122.64',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  51 => 
+  array (
+    0 => 'Portland',
+    1 => 'OR',
+    2 => '45.52',
+    3 => '-122.67',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  53 => 
+  array (
+    0 => 'Portland',
+    1 => 'OR',
+    2 => '45.52',
+    3 => '-122.67',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  54 => 
+  array (
+    0 => 'Portland',
+    1 => 'OR',
+    2 => '45.52',
+    3 => '-122.67',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  55 => 
+  array (
+    0 => 'Portland',
+    1 => 'OR',
+    2 => '45.52',
+    3 => '-122.67',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  56 => 
+  array (
+    0 => 'Portland',
+    1 => 'OR',
+    2 => '45.51',
+    3 => '-122.67',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  58 => 
+  array (
+    0 => 'Portland',
+    1 => 'OR',
+    2 => '45.51',
+    3 => '-122.67',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  59 => 
+  array (
+    0 => 'Portland',
+    1 => 'OR',
+    2 => '45.52',
+    3 => '-122.67',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  66 => 
+  array (
+    0 => 'Portland',
+    1 => 'OR',
+    2 => '45.46',
+    3 => '-122.55',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  67 => 
+  array (
+    0 => 'Portland',
+    1 => 'OR',
+    2 => '45.4',
+    3 => '-122.61',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  68 => 
+  array (
+    0 => 'Portland',
+    1 => 'OR',
+    2 => '45.41',
+    3 => '-122.63',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  69 => 
+  array (
+    0 => 'Portland',
+    1 => 'OR',
+    2 => '45.44',
+    3 => '-122.61',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  71 => 
+  array (
+    0 => 'Portland',
+    1 => 'OR',
+    2 => '45.52',
+    3 => '-122.67',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  72 => 
+  array (
+    0 => 'Portland',
+    1 => 'OR',
+    2 => '45.52',
+    3 => '-122.67',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  80 => 
+  array (
+    0 => 'Portland',
+    1 => 'OR',
+    2 => '45.45',
+    3 => '-122.7',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  81 => 
+  array (
+    0 => 'Portland',
+    1 => 'OR',
+    2 => '45.44',
+    3 => '-122.77',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  82 => 
+  array (
+    0 => 'Portland',
+    1 => 'OR',
+    2 => '45.48',
+    3 => '-122.64',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  83 => 
+  array (
+    0 => 'Portland',
+    1 => 'OR',
+    2 => '45.53',
+    3 => '-122.65',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  86 => 
+  array (
+    0 => 'Portland',
+    1 => 'OR',
+    2 => '45.48',
+    3 => '-122.59',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  90 => 
+  array (
+    0 => 'Portland',
+    1 => 'OR',
+    2 => '45.57',
+    3 => '-122.64',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  91 => 
+  array (
+    0 => 'Portland',
+    1 => 'OR',
+    2 => '45.54',
+    3 => '-122.72',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  92 => 
+  array (
+    0 => 'Portland',
+    1 => 'OR',
+    2 => '45.51',
+    3 => '-122.55',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  93 => 
+  array (
+    0 => 'Portland',
+    1 => 'OR',
+    2 => '45.51',
+    3 => '-122.64',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  94 => 
+  array (
+    0 => 'Portland',
+    1 => 'OR',
+    2 => '45.54',
+    3 => '-122.49',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  96 => 
+  array (
+    0 => 'Portland',
+    1 => 'OR',
+    2 => '45.53',
+    3 => '-122.77',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  98 => 
+  array (
+    0 => 'Portland',
+    1 => 'OR',
+    2 => '45.5',
+    3 => '-122.77',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  99 => 
+  array (
+    0 => 'Portland',
+    1 => 'OR',
+    2 => '45.54',
+    3 => '-122.61',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+);

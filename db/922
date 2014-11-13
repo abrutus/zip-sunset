@@ -1,0 +1,542 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Indio',
+    1 => 'CA',
+    2 => '33.71',
+    3 => '-116.23',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '02' => 
+  array (
+    0 => 'Indio',
+    1 => 'CA',
+    2 => '33.66',
+    3 => '-116.29',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  '03' => 
+  array (
+    0 => 'Indio',
+    1 => 'CA',
+    2 => '33.75',
+    3 => '-116.23',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  10 => 
+  array (
+    0 => 'Indian Wells',
+    1 => 'CA',
+    2 => '33.7',
+    3 => '-116.33',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  11 => 
+  array (
+    0 => 'Palm Desert',
+    1 => 'CA',
+    2 => '33.77',
+    3 => '-116.34',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  20 => 
+  array (
+    0 => 'Banning',
+    1 => 'CA',
+    2 => '33.92',
+    3 => '-116.83',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  22 => 
+  array (
+    0 => 'Bard',
+    1 => 'CA',
+    2 => '32.79',
+    3 => '-114.53',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  23 => 
+  array (
+    0 => 'Beaumont',
+    1 => 'CA',
+    2 => '33.94',
+    3 => '-116.97',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  25 => 
+  array (
+    0 => 'Blythe',
+    1 => 'CA',
+    2 => '33.75',
+    3 => '-114.51',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  26 => 
+  array (
+    0 => 'Blythe',
+    1 => 'CA',
+    2 => '33.6',
+    3 => '-114.58',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  27 => 
+  array (
+    0 => 'Brawley',
+    1 => 'CA',
+    2 => '33.02',
+    3 => '-115.45',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  30 => 
+  array (
+    0 => 'Cabazon',
+    1 => 'CA',
+    2 => '33.93',
+    3 => '-116.77',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  31 => 
+  array (
+    0 => 'Calexico',
+    1 => 'CA',
+    2 => '32.69',
+    3 => '-115.51',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  32 => 
+  array (
+    0 => 'Calexico',
+    1 => 'CA',
+    2 => '32.67',
+    3 => '-115.5',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  33 => 
+  array (
+    0 => 'Calipatria',
+    1 => 'CA',
+    2 => '33.13',
+    3 => '-115.52',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  34 => 
+  array (
+    0 => 'Cathedral City',
+    1 => 'CA',
+    2 => '33.82',
+    3 => '-116.45',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  35 => 
+  array (
+    0 => 'Cathedral City',
+    1 => 'CA',
+    2 => '33.77',
+    3 => '-116.46',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  36 => 
+  array (
+    0 => 'Coachella',
+    1 => 'CA',
+    2 => '33.7',
+    3 => '-116.17',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  39 => 
+  array (
+    0 => 'Desert Center',
+    1 => 'CA',
+    2 => '33.85',
+    3 => '-115.29',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  40 => 
+  array (
+    0 => 'Desert Hot Springs',
+    1 => 'CA',
+    2 => '33.92',
+    3 => '-116.48',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  41 => 
+  array (
+    0 => 'Desert Hot Springs',
+    1 => 'CA',
+    2 => '33.83',
+    3 => '-116.29',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  42 => 
+  array (
+    0 => 'Earp',
+    1 => 'CA',
+    2 => '34.15',
+    3 => '-114.33',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  43 => 
+  array (
+    0 => 'El Centro',
+    1 => 'CA',
+    2 => '32.77',
+    3 => '-115.6',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  44 => 
+  array (
+    0 => 'El Centro',
+    1 => 'CA',
+    2 => '32.79',
+    3 => '-115.57',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  47 => 
+  array (
+    0 => 'La Quinta',
+    1 => 'CA',
+    2 => '33.66',
+    3 => '-116.31',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  48 => 
+  array (
+    0 => 'La Quinta',
+    1 => 'CA',
+    2 => '33.66',
+    3 => '-116.31',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  49 => 
+  array (
+    0 => 'Heber',
+    1 => 'CA',
+    2 => '32.73',
+    3 => '-115.47',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  50 => 
+  array (
+    0 => 'Holtville',
+    1 => 'CA',
+    2 => '32.83',
+    3 => '-115.19',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  51 => 
+  array (
+    0 => 'Imperial',
+    1 => 'CA',
+    2 => '32.86',
+    3 => '-115.65',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  52 => 
+  array (
+    0 => 'Joshua Tree',
+    1 => 'CA',
+    2 => '34.15',
+    3 => '-116.27',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  53 => 
+  array (
+    0 => 'La Quinta',
+    1 => 'CA',
+    2 => '33.65',
+    3 => '-116.27',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  54 => 
+  array (
+    0 => 'Mecca',
+    1 => 'CA',
+    2 => '33.55',
+    3 => '-115.97',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  55 => 
+  array (
+    0 => 'Palm Desert',
+    1 => 'CA',
+    2 => '33.74',
+    3 => '-116.36',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  56 => 
+  array (
+    0 => 'Morongo Valley',
+    1 => 'CA',
+    2 => '34.1',
+    3 => '-116.58',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  57 => 
+  array (
+    0 => 'Niland',
+    1 => 'CA',
+    2 => '33.3',
+    3 => '-115.55',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  58 => 
+  array (
+    0 => 'North Palm Springs',
+    1 => 'CA',
+    2 => '33.9',
+    3 => '-116.56',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  59 => 
+  array (
+    0 => 'Ocotillo',
+    1 => 'CA',
+    2 => '32.72',
+    3 => '-115.88',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  60 => 
+  array (
+    0 => 'Palm Desert',
+    1 => 'CA',
+    2 => '33.7',
+    3 => '-116.4',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  61 => 
+  array (
+    0 => 'Palm Desert',
+    1 => 'CA',
+    2 => '33.61',
+    3 => '-116.42',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  62 => 
+  array (
+    0 => 'Palm Springs',
+    1 => 'CA',
+    2 => '33.85',
+    3 => '-116.56',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  63 => 
+  array (
+    0 => 'Palm Springs',
+    1 => 'CA',
+    2 => '33.87',
+    3 => '-116.56',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  64 => 
+  array (
+    0 => 'Palm Springs',
+    1 => 'CA',
+    2 => '33.72',
+    3 => '-116.51',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  66 => 
+  array (
+    0 => 'Palo Verde',
+    1 => 'CA',
+    2 => '33.32',
+    3 => '-114.71',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  67 => 
+  array (
+    0 => 'Parker Dam',
+    1 => 'CA',
+    2 => '34.28',
+    3 => '-114.18',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  68 => 
+  array (
+    0 => 'Pioneertown',
+    1 => 'CA',
+    2 => '34.21',
+    3 => '-116.52',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  70 => 
+  array (
+    0 => 'Rancho Mirage',
+    1 => 'CA',
+    2 => '33.78',
+    3 => '-116.41',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  73 => 
+  array (
+    0 => 'Seeley',
+    1 => 'CA',
+    2 => '32.79',
+    3 => '-115.69',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  74 => 
+  array (
+    0 => 'Thermal',
+    1 => 'CA',
+    2 => '33.48',
+    3 => '-116.1',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  75 => 
+  array (
+    0 => 'Salton City',
+    1 => 'CA',
+    2 => '33.28',
+    3 => '-115.92',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  76 => 
+  array (
+    0 => 'Thousand Palms',
+    1 => 'CA',
+    2 => '33.8',
+    3 => '-116.36',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  77 => 
+  array (
+    0 => 'Twentynine Palms',
+    1 => 'CA',
+    2 => '34.24',
+    3 => '-115.86',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  78 => 
+  array (
+    0 => 'Twentynine Palms',
+    1 => 'CA',
+    2 => '34.27',
+    3 => '-116.1',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  80 => 
+  array (
+    0 => 'Vidal',
+    1 => 'CA',
+    2 => '34.14',
+    3 => '-114.52',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  81 => 
+  array (
+    0 => 'Westmorland',
+    1 => 'CA',
+    2 => '33.03',
+    3 => '-115.55',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  82 => 
+  array (
+    0 => 'Whitewater',
+    1 => 'CA',
+    2 => '33.94',
+    3 => '-116.65',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  83 => 
+  array (
+    0 => 'Winterhaven',
+    1 => 'CA',
+    2 => '32.87',
+    3 => '-114.72',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  84 => 
+  array (
+    0 => 'Yucca Valley',
+    1 => 'CA',
+    2 => '34.15',
+    3 => '-116.41',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  85 => 
+  array (
+    0 => 'Landers',
+    1 => 'CA',
+    2 => '34.33',
+    3 => '-116.51',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  86 => 
+  array (
+    0 => 'Yucca Valley',
+    1 => 'CA',
+    2 => '34.18',
+    3 => '-116.4',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+  92 => 
+  array (
+    0 => 'Palm Springs',
+    1 => 'CA',
+    2 => '33.83',
+    3 => '-116.54',
+    4 => -8,
+    5 => 'America/Los_Angeles',
+  ),
+);

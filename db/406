@@ -1,0 +1,83 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Frankfort',
+    1 => 'KY',
+    2 => '38.19',
+    3 => '-84.86',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  '02' => 
+  array (
+    0 => 'Frankfort',
+    1 => 'KY',
+    2 => '38.19',
+    3 => '-84.86',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  '03' => 
+  array (
+    0 => 'Frankfort',
+    1 => 'KY',
+    2 => '38.19',
+    3 => '-84.86',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  '04' => 
+  array (
+    0 => 'Frankfort',
+    1 => 'KY',
+    2 => '38.19',
+    3 => '-84.86',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  18 => 
+  array (
+    0 => 'Frankfort',
+    1 => 'KY',
+    2 => '38.19',
+    3 => '-84.86',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  19 => 
+  array (
+    0 => 'Frankfort',
+    1 => 'KY',
+    2 => '38.19',
+    3 => '-84.86',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  20 => 
+  array (
+    0 => 'Frankfort',
+    1 => 'KY',
+    2 => '38.19',
+    3 => '-84.86',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  21 => 
+  array (
+    0 => 'Frankfort',
+    1 => 'KY',
+    2 => '38.19',
+    3 => '-84.86',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  22 => 
+  array (
+    0 => 'Frankfort',
+    1 => 'KY',
+    2 => '38.19',
+    3 => '-84.86',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+);

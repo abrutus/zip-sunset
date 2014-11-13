@@ -1,0 +1,371 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Hyannis',
+    1 => 'MA',
+    2 => '41.65',
+    3 => '-70.29',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  30 => 
+  array (
+    0 => 'Barnstable',
+    1 => 'MA',
+    2 => '41.7',
+    3 => '-70.3',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  31 => 
+  array (
+    0 => 'Brewster',
+    1 => 'MA',
+    2 => '41.76',
+    3 => '-70.08',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  32 => 
+  array (
+    0 => 'Centerville',
+    1 => 'MA',
+    2 => '41.66',
+    3 => '-70.34',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  33 => 
+  array (
+    0 => 'Chatham',
+    1 => 'MA',
+    2 => '41.67',
+    3 => '-69.96',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  34 => 
+  array (
+    0 => 'Centerville',
+    1 => 'MA',
+    2 => '41.66',
+    3 => '-70.34',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  35 => 
+  array (
+    0 => 'Cotuit',
+    1 => 'MA',
+    2 => '41.62',
+    3 => '-70.44',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  36 => 
+  array (
+    0 => 'Centerville',
+    1 => 'MA',
+    2 => '41.64',
+    3 => '-70.34',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  37 => 
+  array (
+    0 => 'Cummaquid',
+    1 => 'MA',
+    2 => '41.7',
+    3 => '-70.24',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  38 => 
+  array (
+    0 => 'Dennis',
+    1 => 'MA',
+    2 => '41.73',
+    3 => '-70.2',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  39 => 
+  array (
+    0 => 'Dennis Port',
+    1 => 'MA',
+    2 => '41.66',
+    3 => '-70.13',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  41 => 
+  array (
+    0 => 'East Dennis',
+    1 => 'MA',
+    2 => '41.74',
+    3 => '-70.15',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  42 => 
+  array (
+    0 => 'Eastham',
+    1 => 'MA',
+    2 => '41.83',
+    3 => '-69.96',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  43 => 
+  array (
+    0 => 'East Orleans',
+    1 => 'MA',
+    2 => '41.74',
+    3 => '-69.98',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  44 => 
+  array (
+    0 => 'Forestdale',
+    1 => 'MA',
+    2 => '41.68',
+    3 => '-70.5',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  45 => 
+  array (
+    0 => 'Harwich',
+    1 => 'MA',
+    2 => '41.69',
+    3 => '-70.07',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  46 => 
+  array (
+    0 => 'Harwich Port',
+    1 => 'MA',
+    2 => '41.66',
+    3 => '-70.06',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  47 => 
+  array (
+    0 => 'Hyannis Port',
+    1 => 'MA',
+    2 => '41.64',
+    3 => '-70.3',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  48 => 
+  array (
+    0 => 'Marstons Mills',
+    1 => 'MA',
+    2 => '41.67',
+    3 => '-70.4',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  49 => 
+  array (
+    0 => 'Mashpee',
+    1 => 'MA',
+    2 => '41.65',
+    3 => '-70.48',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  50 => 
+  array (
+    0 => 'North Chatham',
+    1 => 'MA',
+    2 => '41.7',
+    3 => '-69.95',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  51 => 
+  array (
+    0 => 'North Eastham',
+    1 => 'MA',
+    2 => '41.84',
+    3 => '-69.97',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  52 => 
+  array (
+    0 => 'North Truro',
+    1 => 'MA',
+    2 => '42.04',
+    3 => '-70.09',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  53 => 
+  array (
+    0 => 'Orleans',
+    1 => 'MA',
+    2 => '41.79',
+    3 => '-70',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  55 => 
+  array (
+    0 => 'Osterville',
+    1 => 'MA',
+    2 => '41.62',
+    3 => '-70.38',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  57 => 
+  array (
+    0 => 'Provincetown',
+    1 => 'MA',
+    2 => '42.06',
+    3 => '-70.2',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  59 => 
+  array (
+    0 => 'South Chatham',
+    1 => 'MA',
+    2 => '41.68',
+    3 => '-70.02',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  60 => 
+  array (
+    0 => 'South Dennis',
+    1 => 'MA',
+    2 => '41.7',
+    3 => '-70.15',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  61 => 
+  array (
+    0 => 'South Harwich',
+    1 => 'MA',
+    2 => '41.67',
+    3 => '-70.04',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  62 => 
+  array (
+    0 => 'South Orleans',
+    1 => 'MA',
+    2 => '41.75',
+    3 => '-69.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  63 => 
+  array (
+    0 => 'South Wellfleet',
+    1 => 'MA',
+    2 => '41.89',
+    3 => '-69.98',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  64 => 
+  array (
+    0 => 'South Yarmouth',
+    1 => 'MA',
+    2 => '41.67',
+    3 => '-70.2',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  66 => 
+  array (
+    0 => 'Truro',
+    1 => 'MA',
+    2 => '42',
+    3 => '-70.06',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  67 => 
+  array (
+    0 => 'Wellfleet',
+    1 => 'MA',
+    2 => '41.93',
+    3 => '-70.03',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  68 => 
+  array (
+    0 => 'West Barnstable',
+    1 => 'MA',
+    2 => '41.7',
+    3 => '-70.37',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  69 => 
+  array (
+    0 => 'West Chatham',
+    1 => 'MA',
+    2 => '41.68',
+    3 => '-69.99',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  70 => 
+  array (
+    0 => 'West Dennis',
+    1 => 'MA',
+    2 => '41.66',
+    3 => '-70.16',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  71 => 
+  array (
+    0 => 'West Harwich',
+    1 => 'MA',
+    2 => '41.67',
+    3 => '-70.11',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  72 => 
+  array (
+    0 => 'West Hyannisport',
+    1 => 'MA',
+    2 => '41.66',
+    3 => '-70.33',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  73 => 
+  array (
+    0 => 'West Yarmouth',
+    1 => 'MA',
+    2 => '41.65',
+    3 => '-70.24',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  75 => 
+  array (
+    0 => 'Yarmouth Port',
+    1 => 'MA',
+    2 => '41.7',
+    3 => '-70.22',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);

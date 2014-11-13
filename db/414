@@ -1,0 +1,83 @@
+<?php $db= array (
+  '08' => 
+  array (
+    0 => 'Cannel City',
+    1 => 'KY',
+    2 => '37.78',
+    3 => '-83.27',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  13 => 
+  array (
+    0 => 'Crockett',
+    1 => 'KY',
+    2 => '37.98',
+    3 => '-83.09',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  21 => 
+  array (
+    0 => 'Elkfork',
+    1 => 'KY',
+    2 => '37.96',
+    3 => '-83.13',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  26 => 
+  array (
+    0 => 'Falcon',
+    1 => 'KY',
+    2 => '37.78',
+    3 => '-83',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  33 => 
+  array (
+    0 => 'Gapville',
+    1 => 'KY',
+    2 => '37.63',
+    3 => '-82.95',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  51 => 
+  array (
+    0 => 'Malone',
+    1 => 'KY',
+    2 => '37.87',
+    3 => '-83.25',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  59 => 
+  array (
+    0 => 'Ophir',
+    1 => 'KY',
+    2 => '37.9',
+    3 => '-83.01',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  64 => 
+  array (
+    0 => 'Royalton',
+    1 => 'KY',
+    2 => '37.67',
+    3 => '-83.02',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+  77 => 
+  array (
+    0 => 'Wrigley',
+    1 => 'KY',
+    2 => '38.01',
+    3 => '-83.27',
+    4 => -5,
+    5 => 'America/Kentucky/Louisville',
+  ),
+);

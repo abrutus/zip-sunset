@@ -1,0 +1,191 @@
+<?php $db= array (
+  '01' => 
+  array (
+    0 => 'Providence',
+    1 => 'RI',
+    2 => '41.82',
+    3 => '-71.41',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '02' => 
+  array (
+    0 => 'Providence',
+    1 => 'RI',
+    2 => '41.82',
+    3 => '-71.41',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '03' => 
+  array (
+    0 => 'Providence',
+    1 => 'RI',
+    2 => '41.82',
+    3 => '-71.41',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '04' => 
+  array (
+    0 => 'Providence',
+    1 => 'RI',
+    2 => '41.82',
+    3 => '-71.41',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '05' => 
+  array (
+    0 => 'Providence',
+    1 => 'RI',
+    2 => '41.82',
+    3 => '-71.41',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '06' => 
+  array (
+    0 => 'Providence',
+    1 => 'RI',
+    2 => '41.82',
+    3 => '-71.41',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '07' => 
+  array (
+    0 => 'Providence',
+    1 => 'RI',
+    2 => '41.82',
+    3 => '-71.41',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '08' => 
+  array (
+    0 => 'Providence',
+    1 => 'RI',
+    2 => '41.82',
+    3 => '-71.41',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  '09' => 
+  array (
+    0 => 'Providence',
+    1 => 'RI',
+    2 => '41.82',
+    3 => '-71.41',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  10 => 
+  array (
+    0 => 'Cranston',
+    1 => 'RI',
+    2 => '41.76',
+    3 => '-71.48',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  11 => 
+  array (
+    0 => 'North Providence',
+    1 => 'RI',
+    2 => '41.86',
+    3 => '-71.45',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  12 => 
+  array (
+    0 => 'Providence',
+    1 => 'RI',
+    2 => '41.82',
+    3 => '-71.41',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  14 => 
+  array (
+    0 => 'East Providence',
+    1 => 'RI',
+    2 => '41.8',
+    3 => '-71.35',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  15 => 
+  array (
+    0 => 'Riverside',
+    1 => 'RI',
+    2 => '41.77',
+    3 => '-71.35',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  16 => 
+  array (
+    0 => 'Rumford',
+    1 => 'RI',
+    2 => '41.84',
+    3 => '-71.35',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  17 => 
+  array (
+    0 => 'Smithfield',
+    1 => 'RI',
+    2 => '41.9',
+    3 => '-71.53',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  18 => 
+  array (
+    0 => 'Providence',
+    1 => 'RI',
+    2 => '41.82',
+    3 => '-71.41',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  19 => 
+  array (
+    0 => 'Johnston',
+    1 => 'RI',
+    2 => '41.81',
+    3 => '-71.46',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  20 => 
+  array (
+    0 => 'Cranston',
+    1 => 'RI',
+    2 => '41.76',
+    3 => '-71.48',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  21 => 
+  array (
+    0 => 'Cranston',
+    1 => 'RI',
+    2 => '41.76',
+    3 => '-71.48',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+  40 => 
+  array (
+    0 => 'Providence',
+    1 => 'RI',
+    2 => '41.82',
+    3 => '-71.41',
+    4 => -5,
+    5 => 'America/New_York',
+  ),
+);
