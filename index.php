@@ -70,15 +70,16 @@ $app->get('/json/sunset(/:zip)', function ($zip = 94306, $date=NULL)  use ($app)
         $sun_info = date_sun_info($ts, $lat, $long);
         $xml = new SimpleXMLElement('<xml/>');
         $data =  array_combine(['city','state', 'lat', 'long', 'offset' , 'timezone'], $location);
+        list($data['lat'], $data['long']) = [floatval($data['lat']), floatval($data['long'])];
         foreach ($data as $key => $val) { $node = $xml->addChild($key, $val); }
         // Convert Unix timestamps returned from date_sum_info to dates
         foreach ($sun_info as $key => $val) {
             $dt = new DateTime("@$val", new DateTimeZone('UTC'));
             $dt->setTimeZone(new DateTimeZone($tz));
             $node = $xml->addChild($key, $dt->format('c'));
-            $sun_info[$key] = $dt->format('h:i:s A');
+            $data[$key] = $dt->format('h:i:s A');
         }
-        echo json_encode(array_merge($sun_info, $data));
+        echo json_encode($data);
     }
     catch(Exception $e) {
         $app->response()->status(500);
