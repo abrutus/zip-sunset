@@ -78,7 +78,7 @@ $app->get('/json/sunset(/:zip)', function ($zip = 94306, $date=NULL)  use ($app)
             $node = $xml->addChild($key, $dt->format('c'));
             $sun_info[$key] = $dt->format('h:i:s A');
         }
-        echo json_encode($sun_info);
+        echo json_encode(array_merge($sun_info, $data));
     }
     catch(Exception $e) {
         $app->response()->status(500);
