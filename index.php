@@ -61,6 +61,9 @@ $app->get('/json/friday(/:zip)', function ($zip = 94306, $date=NULL)  use ($app)
         $location = findZip($zip);
         if(!$location) throw new Exception("Couldn't find!");
         $sunset = findNextFridaySunset($zip, $location);
+        if(isset($_GET['override']) && $override=intval($_GET['override'])) {
+            $sunset['sunset'] = new DateTime("+$override seconds");
+        }
         $location[] = $sunset['sunset']->format('c');
     } catch(Exception $e) {
         $app->response()->status(404);
