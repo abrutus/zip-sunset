@@ -55,11 +55,13 @@ $app->get('/sunset/:zip(/:date)', $sunset = function ($zip, $date = null) use ($
     }
 });
 
-$app->get('/json/sunset(/:zip)', function ($zip = 94306, $date=NULL)  use ($app) {
+$app->get('/json/friday(/:zip)', function ($zip = 94306, $date=NULL)  use ($app) {
     $app->response->headers->set('Content-Type', 'application/json');
     try {
         $location = findZip($zip);
         if(!$location) throw new Exception("Couldn't find!");
+        $sunset = findNextFridaySunset($zip, $location);
+        $location[] = $sunset['sunset']->format('c');
     } catch(Exception $e) {
         $app->response()->status(404);
         return;
@@ -69,16 +71,8 @@ $app->get('/json/sunset(/:zip)', function ($zip = 94306, $date=NULL)  use ($app)
         $ts = ($date) ? strtotime(join("/", str_split($date, 2))) : $_SERVER['REQUEST_TIME'];
         $sun_info = date_sun_info($ts, $lat, $long);
         $xml = new SimpleXMLElement('<xml/>');
-        $data =  array_combine(['city','state', 'lat', 'long', 'offset' , 'timezone'], $location);
+        $data =  array_combine(['city','state', 'lat', 'long', 'offset' , 'timezone', 'sunset'], $location);
         list($data['lat'], $data['long']) = [floatval($data['lat']), floatval($data['long'])];
-        foreach ($data as $key => $val) { $node = $xml->addChild($key, $val); }
-        // Convert Unix timestamps returned from date_sum_info to dates
-        foreach ($sun_info as $key => $val) {
-            $dt = new DateTime("@$val", new DateTimeZone('UTC'));
-            $dt->setTimeZone(new DateTimeZone($tz));
-            $node = $xml->addChild($key, $dt->format('c'));
-            $data[$key] = $dt->format('h:i:s A');
-        }
         echo json_encode($data);
     }
     catch(Exception $e) {
